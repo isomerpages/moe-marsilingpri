@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Marsiling in the News.md
       - History.md
       - Our Crest.md
       - Vision & Mission.md
