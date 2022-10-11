@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - School Hours.md
       - Contact Us.md
