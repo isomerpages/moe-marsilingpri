@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Student's Pledge.md
       - History.md
       - Our Crest.md
       - Vision & Mission.md
       - School Values.md
       - School Song.md
+      - Student's Pledge.md
