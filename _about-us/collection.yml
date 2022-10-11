@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements.md
       - History.md
       - Our Crest.md
       - Vision & Mission.md
@@ -10,3 +9,4 @@ collections:
       - School Song.md
       - Student's Pledge.md
       - Marsiling in the News.md
+      - Achievements.md
