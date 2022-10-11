@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Marsiling in the News.md
       - History.md
       - Our Crest.md
       - Vision & Mission.md
       - School Values.md
       - School Song.md
       - Student's Pledge.md
+      - Marsiling in the News.md
