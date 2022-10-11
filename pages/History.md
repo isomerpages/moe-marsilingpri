@@ -3,6 +3,7 @@ title: History
 permalink: /permalink/
 description: ""
 ---
+
 **A Brief History of Marsiling Primary School**
 
 It was no different then and now as many schools in Singapore are usually named after the place in which they are located. Marsiling Primary School is one such example. Established in 1958 as Marsiling School, it was one of the oldest schools in Marsiling estate. The school provided instructions in English, Chinese and Malay to the school going children within the Marsiling area.
