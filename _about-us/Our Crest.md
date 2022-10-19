@@ -3,7 +3,6 @@ title: Our Crest
 permalink: /permalink/
 description: ""
 ---
-
 ![](/images/MPS%20Logo-01.png)
 
 The school motto ‘ILmu Suluh Hidup’ (Knowledge Lights Up Our Lives) is reflected in the school crest. It continues to be of relevance to us. White represents virtue and good character, while blue is symbolic of a peaceful and harmonious environment. The four interlocking rings represent our closely-knit multi-racial school population working in harmony. The stalk of padi is symbolic of hard work and effort required for success. The star reflects the belief we have that every student can achieve and education (symbolize by the pen) will blaze the way ahead (as shown by the torch) for our students.  
