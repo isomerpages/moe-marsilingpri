@@ -4,11 +4,12 @@ permalink: /permalink/
 description: ""
 ---
 **A Brief History of Marsiling Primary School**
-
+![](/images/History%201.jpg)
 It was no different then and now as many schools in Singapore are usually named after the place in which they are located. Marsiling Primary School is one such example. Established in 1958 as Marsiling School, it was one of the oldest schools in Marsiling estate. The school provided instructions in English, Chinese and Malay to the school going children within the Marsiling area.
 
 The school was previously located along Marsiling Avenue, off Lorong Chikar which is the current vicinity of Marsiling Secondary School at Woodlands Street 13.
 
+![](/images/History%202.jpg)
 Marsiling School was relocated to its present premise along Woodlands Centre Road in June 1986 and renamed as Marsiling Primary School. Marsiling Primary will be undergoing PERI upgrading for its new Indoor Sports Hall (ISH) and learning facilities starting end 2013 and schedule for completion in 2018.
 
 **History of Marsiling**
