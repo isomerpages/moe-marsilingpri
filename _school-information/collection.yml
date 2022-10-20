@@ -2,8 +2,8 @@ collections:
   school-information:
     output: true
     order:
-      - School Uniform.md
       - Contact Us.md
       - School Hours.md
       - School Based Student Care Centre.md
       - School Bus Service.md
+      - School Uniform.md
