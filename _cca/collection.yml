@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Track & Field.md
       - Tchoukball.md
       - Taekwondo.md
       - Rugby.md
