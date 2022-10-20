@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Dental Service.md
       - Contact Us.md
       - School Hours.md
       - School Based Student Care Centre.md
