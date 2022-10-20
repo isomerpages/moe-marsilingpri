@@ -2,6 +2,7 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
+      - Mother Tongue.md
       - PE ART MUSIC (PAM).md
       - Programme for Active Learning (PAL).md
       - Lower Primary Showcase.md
