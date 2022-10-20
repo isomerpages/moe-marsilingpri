@@ -2,7 +2,7 @@ collections:
   the-mps-family:
     output: true
     order:
-      - PSGs.md
+      - Parent Support Group.md
       - School Leaders.md
       - Key Personnel.md
       - Form Teacher List.md
