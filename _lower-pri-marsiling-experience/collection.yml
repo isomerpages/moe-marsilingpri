@@ -2,7 +2,7 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
-      - PE ART MUSIC.md
+      - PE ART MUSIC (PAM).md
       - Programme for Active Learning (PAL).md
       - Lower Primary Showcase.md
       - Tier 1 Leadership Training.md
