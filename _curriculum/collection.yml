@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Music.md
       - Arts.md
       - Physical Education.md
       - Information Communication Technology.md
