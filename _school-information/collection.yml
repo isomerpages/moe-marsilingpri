@@ -2,8 +2,8 @@ collections:
   school-information:
     output: true
     order:
-      - School Fees Collection.md
       - Contact Us.md
+      - School Fees Collection.md
       - School Hours.md
       - School Based Student Care Centre.md
       - School Bus Service.md
