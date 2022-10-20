@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Speech and Drama.md
       - Percussion Ensemble.md
       - Malay Dance.md
       - Choir.md
