@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Primary 5 & 6 Curriculum Briefing Slides.md
       - Resources.md
