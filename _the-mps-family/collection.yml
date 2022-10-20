@@ -2,6 +2,7 @@ collections:
   the-mps-family:
     output: true
     order:
+      - Executive Admistration Staff.md
       - AEDs.md
       - PE, Art, Music.md
       - Mother Tongue.md
