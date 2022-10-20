@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Music.md
       - Arts.md
       - Physical Education.md
