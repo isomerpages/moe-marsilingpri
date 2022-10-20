@@ -2,4 +2,5 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
+      - School Activities.md
       - Parents Resources.md
