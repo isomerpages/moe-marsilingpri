@@ -2,6 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Based Student Care Centre.md
       - Contact Us.md
       - School Hours.md
+      - School Based Student Care Centre.md
