@@ -2,5 +2,6 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
+      - Parent Child Teacher Conference (PCTC).md
       - School Activities.md
       - Parents Resources.md
