@@ -2,6 +2,7 @@ collections:
   the-mps-family:
     output: true
     order:
+      - PSGs.md
       - School Leaders.md
       - Key Personnel.md
       - Form Teacher List.md
