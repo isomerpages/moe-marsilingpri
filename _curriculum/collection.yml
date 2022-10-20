@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Applied Learning Programme.md
       - Subject Based Banding.md
       - Home Based Learning.md
