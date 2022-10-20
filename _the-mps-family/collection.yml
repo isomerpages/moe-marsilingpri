@@ -2,10 +2,10 @@ collections:
   the-mps-family:
     output: true
     order:
-      - Executive Administration Staff.md
-      - AEDs.md
-      - PE, Art, Music.md
-      - Mother Tongue.md
-      - Form Teacher List.md
-      - Key Personnel.md
       - School Leaders.md
+      - Key Personnel.md
+      - Form Teacher List.md
+      - Mother Tongue.md
+      - PE, Art, Music.md
+      - AEDs.md
+      - Executive Administration Staff.md
