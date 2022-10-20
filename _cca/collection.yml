@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Tchoukball.md
       - Taekwondo.md
       - Rugby.md
       - Modular CCA (Sports).md
