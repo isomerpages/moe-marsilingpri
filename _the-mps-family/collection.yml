@@ -1,4 +1,5 @@
 collections:
   the-mps-family:
     output: true
-    order: []
+    order:
+      - School Leaders.md
