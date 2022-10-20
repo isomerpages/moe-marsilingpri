@@ -2,7 +2,6 @@ collections:
   the-mps-family:
     output: true
     order:
-      - Parent Support Group.md
       - School Leaders.md
       - Key Personnel.md
       - Form Teacher List.md
@@ -10,3 +9,4 @@ collections:
       - PE, Art, Music.md
       - Allied Educators.md
       - Executive Administration Staff.md
+      - Parent Support Group.md
