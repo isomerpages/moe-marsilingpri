@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Modular CCA (Sports).md
       - Brownies.md
       - Scouts.md
