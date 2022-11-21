@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese.md
       - Music.md
       - Arts.md
       - Physical Education.md
