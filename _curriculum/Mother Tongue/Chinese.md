@@ -99,6 +99,3 @@ To gain access, please enter pupil's BC number as username, and his/her individu
 ( [http://www.moe.gov.sg/resources/files/chinese-supplementary-readers-primary.pdf](http://www.moe.gov.sg/resources/files/chinese-supplementary-readers-primary.pdf) )
 
 11\. MCOnline ( [http://www.mconline.sg](http://www.mconline.sg/) )
-
-
-
