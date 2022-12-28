@@ -15,3 +15,27 @@ The school aims to help students realise that it is important to live up to the 
 **Offences and Interventions**
 
 While the school uses restorative practice to change student thinking through cognitive processing, the action-consequence nexus exists to complement this and provides balance in our applied character education and discipline efforts.
+
+![](/images/CCE_Minor%20Offences.jpg)
+
+![](/images/CCE_Serious%20Offences%20Level%202-3.png)
+
+**Prohibited items**
+
+Items that can be confiscated from students are those that are banned by the State, are prohibited for use in school, cause harm to self, other students or staff, and/ or cause nuisance or disruption. These items include:
+
+• **Weapons.** Students are not allowed to have any weapons in their possession. They are also not allowed to bring any weapon-like items which can be used or intended to be used to cause harm to others. Any items that can be used as weapons or to vandalise property are strictly prohibited. e.g. knives (including penknives), comb with pointed ends etc.
+
+• **Electronic devices:** Mobile phones, tablets, computers and music playing devices.
+
+• **All toy**: Playing cards/ magic cards, electronic toys and soft toys.
+
+• **Hazardous and unhealthy substances**: cigarettes/ e-cigarettes & vapourisers/ vape juice & e-cigarette cartridges / tobacco products and lighters.
+
+• **Immoral material**: pornographic material, publications that depict violence or contain abusive language.
+
+• **Items that can be abused**: chewing gum, spray paints, laser pointers and thinner.
+
+
+
+
