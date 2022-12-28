@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principalmessage/
 description: ""
 ---
-![](/images/Mrs%20Thio%204.jpg)
+![](/images/Mrs%20Thio%205.jpg)
 
 Warmest greetings and a happy 2022 to all!
 
