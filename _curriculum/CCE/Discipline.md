@@ -15,5 +15,3 @@ The school aims to help students realise that it is important to live up to the 
 **Offences and Interventions**
 
 While the school uses restorative practice to change student thinking through cognitive processing, the action-consequence nexus exists to complement this and provides balance in our applied character education and discipline efforts.
-
-
