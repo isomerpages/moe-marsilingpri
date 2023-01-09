@@ -2,7 +2,6 @@ collections:
   the-mps-family:
     output: true
     order:
-      - Form Teacher List.md
       - School Leaders.md
       - Key Personnel.md
       - Mother Tongue.md
