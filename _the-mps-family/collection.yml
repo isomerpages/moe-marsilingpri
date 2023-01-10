@@ -2,6 +2,7 @@ collections:
   the-mps-family:
     output: true
     order:
+      - Form Teacher List/Primary 6.md
       - Form Teacher List/Primary 5.md
       - Form Teacher List/Primary 4.md
       - Form Teacher List/Primary 3.md
