@@ -2,6 +2,8 @@ collections:
   the-mps-family:
     output: true
     order:
+      - School Leaders.md
+      - Key Personnel.md
       - Form Teacher List/.keep
       - Form Teacher List/Primary 1.md
       - Form Teacher List/Primary 2.md
@@ -9,8 +11,6 @@ collections:
       - Form Teacher List/Primary 4.md
       - Form Teacher List/Primary 5.md
       - Form Teacher List/Primary 6.md
-      - School Leaders.md
-      - Key Personnel.md
       - Mother Tongue.md
       - PE, Art, Music.md
       - Allied Educators.md
