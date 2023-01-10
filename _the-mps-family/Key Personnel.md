@@ -3,8 +3,6 @@ title: Key Personnel
 permalink: /the-mps-family/permalink/
 description: ""
 ---
-
-
 | Name of Staff | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Heather Thio     | Principal     | marsiling_ps@moe.edu.sg     |
@@ -13,9 +11,9 @@ description: ""
 | Mr Wilson Sim     | School Staff Developer     | sim_chin_beng_wilson@schools.gov.sg     |
 | Ms Yong Sze Leng     | HOD/English Language     | yong_sze_leng@schools.gov.sg     |
 | Miss Natasha Maidin     | HOD/Science     | natasha_maidin@schools.gov.sg     |
-| Ms Yeo Xinru     | HOD/Physical Education & Aesthetics     | Text     |
-| Mr Jasper Chua     | HOD/Information & Communications Technology     | Text     |
-| Mdm Herianti Abu Shah    | HOD/Character & Citizenship Education     | Text     |
+| Ms Yeo Xinru     | HOD/Physical Education & Aesthetics     | yeo_xinru@schools.gov.sg     |
+| Mr Jasper Chua     | HOD/Information & Communications Technology     | chua_ban_hwee_jasper@schools.gov.sg     |
+| Mdm Herianti Abu Shah    | HOD/Character & Citizenship Education     | herianti_abu_shah@schools.gov.sg     |
 | Ms Angela Goh     | HOD/Educational Support     | Text     |
 | Mr Nick Chan     | YH/Lower Primary     | Text     |
 | Ms Shazana Mohamed Shahari     | YH/Middle Primary     | Text     |
