@@ -2,13 +2,13 @@ collections:
   the-mps-family:
     output: true
     order:
-      - Form Teacher List/Primary 6.md
-      - Form Teacher List/Primary 5.md
-      - Form Teacher List/Primary 4.md
-      - Form Teacher List/Primary 3.md
-      - Form Teacher List/Primary 2.md
-      - Form Teacher List/Primary 1.md
       - Form Teacher List/.keep
+      - Form Teacher List/Primary 1.md
+      - Form Teacher List/Primary 2.md
+      - Form Teacher List/Primary 3.md
+      - Form Teacher List/Primary 4.md
+      - Form Teacher List/Primary 5.md
+      - Form Teacher List/Primary 6.md
       - School Leaders.md
       - Key Personnel.md
       - Mother Tongue.md
