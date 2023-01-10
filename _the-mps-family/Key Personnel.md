@@ -14,10 +14,10 @@ description: ""
 | Ms Yeo Xinru     | HOD/Physical Education & Aesthetics     | yeo_xinru@schools.gov.sg     |
 | Mr Jasper Chua     | HOD/Information & Communications Technology     | chua_ban_hwee_jasper@schools.gov.sg     |
 | Mdm Herianti Abu Shah    | HOD/Character & Citizenship Education     | herianti_abu_shah@schools.gov.sg     |
-| Ms Angela Goh     | HOD/Educational Support     | Text     |
-| Mr Nick Chan     | YH/Lower Primary     | Text     |
-| Ms Shazana Mohamed Shahari     | YH/Middle Primary     | Text     |
-| Mr Danny Sim     | YH/Upper Primary    | Text     |
+| Ms Angela Goh     | HOD/Educational Support     | goh_lay_ching_angela@schools.gov.sg     |
+| Mr Nick Chan     | YH/Lower Primary     | chan_hong_wei@schools.gov.sg     |
+| Ms Shazana Mohamed Shahari     | YH/Middle Primary     | shazana_mohamed_shahari@schools.gov.sg     |
+| Mr Danny Sim     | YH/Upper Primary    | sim_swee_sheng_danny@schools.gov.sg     |
 | Mr Jason Tan     | LH/Mathematics Covering HOD     | Text     |
 | Mdm Norsriwani Bte Bakar     | SH/Malay Covering HOD     | Text     |
 | Miss Elishe Lim Shi Chi     | SH/Chinese Language     | Text     |
