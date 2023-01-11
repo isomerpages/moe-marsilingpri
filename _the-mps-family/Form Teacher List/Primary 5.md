@@ -4,8 +4,6 @@ permalink: /the-mps-family/Form-Teacher-List/permalink/
 description: ""
 third_nav_title: Form Teacher List
 ---
-
-
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 5Respect     | Mdm Lim Shy Ni     | lim_shy_ni@schools.gov.sg     |
@@ -22,4 +20,3 @@ third_nav_title: Form Teacher List
 |      | Ms Chua Li Chian     | chua_li_chian@schools.gov.sg     |
 | 5Excellence     | Mr Richard Ong Kay Pang     | richard_ong_kay_pang@schools.gov.sg     |
 |     | Miss Maneatonufus Yusoff     | maneatonufus_yusoff@schools.gov.sg     |
-
