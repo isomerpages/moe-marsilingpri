@@ -8,10 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Marsiling Primary School
-      subtitle: Hero subtitle
       background: /images/8D2A5980.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
