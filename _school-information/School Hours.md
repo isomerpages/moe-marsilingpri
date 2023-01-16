@@ -28,7 +28,7 @@ Monday to Fridays
 
 Monday to Fridays  
 
-6.00 am to  7.30 am
+6.00 am to  8.00 am
 
 1.30 pm to 2.00 pm
 
