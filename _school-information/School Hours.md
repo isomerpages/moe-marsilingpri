@@ -32,9 +32,6 @@ Monday to Fridays
 
 1.30 pm to 2.00 pm
 
-3.50 pm to 4.20 pm
-
-5.20 pm to 5.50 pm
 
 <u>Side gate (4) facing Blk 156, Woodlands Street 13:</u>
 
