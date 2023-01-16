@@ -22,7 +22,7 @@ E-mail:  [marsiling\_ps@moe.edu.sg](mailto:marsiling_ps@moe.edu.sg)
 
 Mondays to Fridays
 
-7.00 a.m. to 5.30 p.m.
+7.00 a.m. to 5.00 p.m.
 
 <u>**During School Holidays**</u>
 
