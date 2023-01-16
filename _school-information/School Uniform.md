@@ -6,12 +6,13 @@ description: ""
 ## Sowell Garment Pte ltd
 **Address:**
 
-1004 Toa Payoh North, #07-08/09,  
-Off Toa Payoh Lor 1, Singapore 318995
+80 Playfair Road #01-14,
+Kapo Factory Building,  
+Singapore 367998
 
 **Telephone:**  
 
-6253 1063
+86183083
 
 **Operating Hours:**  
 
