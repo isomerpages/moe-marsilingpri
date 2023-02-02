@@ -8,8 +8,8 @@ MPS Chinese Dance is an appreciation of the aesthetic. Students will learn the b
 
 | Teachers-in-Charge| Venue | Time |
 | -------- | -------- | -------- |
-| Mdm Li Huaitao (I/C)     | ISH Music Room 1&2 (Level 3)     | Tuesday,3.15pm-4.45pm     |
+| Mdm Li Huaitao (I/C)     | ISH Dance Studio (Level 3)     | Tuesday,3.15pm-4.45pm     |
 | Mdm Goh Soy Moi (2nd I/C)    |     |      |
-| Mdm Chen Jiaxin     |     |     |
+| Mdm Ong Bee Leng     |     |     |
 
 ![](/images/Chinese%20Dance.jpeg)
