@@ -47,17 +47,18 @@ b.        Character and Citizenship Education (CCE)
 
 **At Marsiling Primary School, the following Sexuality Education lessons will be taught in** **2023****:**
 
-**PRIMARY 6**
+ #### <center> **2023 Sexuality Education Lessons in CCE 2021**</center>
+
+##### **PRIMARY 5**
 
 <U>CCE(FTGP) THEME: GROWING YEARS</U>
 
 
-
-| Lesson Title/Duration | Column 2 | Column 3 |
+| Lesson Title/Duration | Lesson Overview | Time Period |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| The Changes in Me (60min)     | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identify need not be negatively affected, even when one's body is experiencing changes due to puberty. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     | Text     |
+| Did You Know? (60min)     | Text     | Text     |
+| Keeping Myself Safe (60min)    | Text     | Text     |
 
 
 
