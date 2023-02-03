@@ -60,6 +60,16 @@ b.        Character and Citizenship Education (CCE)
 | Did You Know? (60min)     | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **'Stop-Think-Do'.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    | Term 3 Week 7     |
 | Keeping Myself Safe (60min)    | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.| Term 3 Week 8     |
 
+##### **PRIMARY 6**
+
+<U>CCE(FTGP) THEME: GROWING YEARS</U>
+
+
+| Lesson Title/Duration | Lesson Overview | Time Period |
+| -------- | -------- | -------- |
+| Are We More than Friends? (Lesson 1,60min)     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
 
 
 **Please Note:  
