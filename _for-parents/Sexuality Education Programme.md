@@ -53,6 +53,14 @@ b.        Character and Citizenship Education (CCE)
 
 
 
+| Lesson Title/Duration | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
+
 **Please Note:  
 \*For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
 
