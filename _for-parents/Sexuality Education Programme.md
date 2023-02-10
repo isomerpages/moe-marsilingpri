@@ -81,4 +81,4 @@ b.        Character and Citizenship Education (CCE)
 
 9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://marsilingpri.moe.edu.sg/qql/slot/u181/MPS-2023-SEd%20letter%20to%20parents%20Opt%20out%20form.pdf) .The completed opt-out form is to be submitted by **03/02/2023.**
 
-10.  Parents can contact the school at marsiling\_ps@moe.edu.sg or 62696193 for discussion or to seek clarification about the school’s sexuality education programme.
+10.  Parents can contact the school at marsiling_ps@moe.edu.sg or 62696193 for discussion or to seek clarification about the school’s sexuality education programme.
