@@ -4,7 +4,7 @@ permalink: /curriculum/Mother-Tongue/Malay/
 description: ""
 third_nav_title: Mother Tongue
 ---
-**Programmes:**
+###  **Programmes:**
 
 **Bijak Cakap (Show & Tell):** Students will be developed to speak on a given topic in front of an audience. ICT will be infused for Primary 2. Students become effective and confident speakers.
 
@@ -28,7 +28,7 @@ third_nav_title: Mother Tongue
 
 Students will be further exposed to the Malay Language and culture through other activities such as the Hari Raya Celebrations and Mother Tongue Fortnight. Students will also be encouraged to participate in internal and external language competitions, both local and international, to further support their mastery of the language, and to grant them opportunities to learn from their peers from other schools and countries.
 
-**Highlights:**
+### **Highlights:**
 
 · Mother Tongue Fortnight
 
