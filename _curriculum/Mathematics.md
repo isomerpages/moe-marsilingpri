@@ -3,12 +3,12 @@ title: Mathematics
 permalink: /curriculum/permalink/
 description: ""
 ---
-**Vision:**  
+#### **Vision:**  
 
 
 Every Marsilian an independent and confident problem solver.
 
-**Mission:**
+#### **Mission:**
 
 The Mathematics Department aims:
 
@@ -18,7 +18,7 @@ The Mathematics Department aims:
 
 ·    To enable students to appreciate the relevance of Mathematics in real life.
 
-**Our Mathematics Programme at a Glance**
+#### **Our Mathematics Programme at a Glance**
 
 ![](/images/MA%20.jpg)
 
