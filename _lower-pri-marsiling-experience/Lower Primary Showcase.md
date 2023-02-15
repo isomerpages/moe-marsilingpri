@@ -16,3 +16,5 @@ Students will present their reflections on the learning experiences they had in 
 
 <u>Lower Primary Spotlight:</u>  
 Students will showcase what they have learned in Programme for Active Learning (PAL) and work in groups to perform a simple dance choreography. The P1 Ethnic Dance module exposes students to specific dance moves of at least three different ethnic groups, while the P2 Hip Hop Dance module exposes students to different hip hop dance moves.
+
+![](/images/LP%20MPS%20Experience/LP%20Showcase.jpeg)
