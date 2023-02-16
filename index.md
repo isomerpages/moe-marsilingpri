@@ -17,9 +17,8 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Parent Support Group
+      description: Take the first step! Come join us to register.
+      button: Register here
+      url: https://form.gov.sg/63620bee2fec1f00120d65c2
 ---
