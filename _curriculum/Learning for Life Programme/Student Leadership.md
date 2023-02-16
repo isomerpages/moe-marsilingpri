@@ -16,7 +16,7 @@ In our school, Marsilians will go through leadership training that focus on Pers
 
 **Our Student Leadership Development Framework**
 
-
+![](/images/Student%20leadership.jpg)
 
 
 **Personal Leadership**As a Marsilian in P1 to P6, you will learn and understand your role as leaders, discover your leadership strengths and values and learn to manage yourselves as leaders. In school, you can apply your leadership skills as situational leaders in your respective class committees where some of you will get to play the role of Class Monitors, Recycling Monitors, Safety Environment Officers and others.
