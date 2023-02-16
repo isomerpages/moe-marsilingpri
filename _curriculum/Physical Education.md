@@ -3,18 +3,18 @@ title: Physical Education
 permalink: /curriculum/permalink/
 description: ""
 ---
-**Vision**
+### **Vision**
 
 M.O.R.E
 
 Maximum Opportunity via a Robust Experience
 
-**Mission**
+### **Mission**
 
 *   Develop the social, emotional, psychomotor and cognitive aspects of all Marsilians through the various platforms and engagement in physical and outdoor activities.
 *   Inculcate in all Marsilians life-long passion, interest and enjoyment to lead a physically active and healthy lifestyle.
 
-**Goals**
+### **Goals**
 
 *   For Marsilians to:
 
