@@ -3,13 +3,13 @@ title: Information Communication Technology
 permalink: /curriculum/permalink/
 description: ""
 ---
-**Vision**
+### **Vision**
 
 Every Marsilian, A Future-ready and Responsible Digital Learner
 
   
 
-**Mission**
+### **Mission**
 
 Equipping every student with the literacies to curate, create and connect with others, to enable them to thrive in the new contexts of learning.
 
