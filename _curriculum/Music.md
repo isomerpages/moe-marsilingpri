@@ -3,15 +3,15 @@ title: Music
 permalink: /curriculum/permalink/
 description: ""
 ---
-**Vision** 
+### **Vision** 
 
 Marsilians will be able to perform, improvise and create.
 
-**Mission**
+### **Mission**
 
 Developing the music and performing arts potential in students to provide them with the appropriate skills to appreciate and participate in the Arts.
 
-**Goal**
+### **Goal**
 
 *   Marsilians to have basic literacy in music.
 
