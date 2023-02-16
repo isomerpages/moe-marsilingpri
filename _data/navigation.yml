@@ -12,13 +12,8 @@ links:
     collection: for-parents
   - title: Lower Pri Marsiling Experience
     collection: lower-pri-marsiling-experience
-  - title: Useful Links
+  - title: Links
     url: /permalink
-    sublinks: []
-  - title: Other Links
-    url: /otherlink
     sublinks:
-      - title: SLS
+      - title: Student Learning Space
         url: https://vle.learning.moe.edu.sg/login
-      - title: Tamil
-        url: /curriculum/Mother-Tongue/tamil/
