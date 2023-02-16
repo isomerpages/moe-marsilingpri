@@ -35,7 +35,7 @@ o CapitaLand Green For Hope (Max sum awarded) (2009-2011)
 
 **Key Programmes:**
 
-
+![](/images/Green%20Citizenship.png)
 
 **Project Coffee Compost:**  
 Primary 4 students are engaged to collect and recycle coffee grounds from cafes and turn the coffee grounds into fertiliser. The fertiliser is used in the school’s gardens and also distributed back to the community as a way of “giving back”. To increase greater ownership and nurture greater sense of responsibility in our students, in 2015, the project extends with our Primary 4 ambassadors reaching out to neighbourhood coffee shops.
@@ -48,4 +48,3 @@ Every Marsilian is set to become a responsible learner and compassionate leader,
 
 **Green Citizenship Day @ MPS:**  
 A fun-filled day of hands-on activities for all Marsilians to come together to do their part for the environment. Activities include Recycling Art, Book Swap, and making of T-shirt bags. This is also the day when Marsilians demonstrate values in action through litter-picking activities at Woodlands Town Garden – a park adopted by the school, and Project Mail from Gaia – an initiative by our Primary 6 Marsilians to reach out to the community to raise public awareness on environmental conservation.
-
