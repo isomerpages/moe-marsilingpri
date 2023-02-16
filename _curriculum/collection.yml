@@ -2,10 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Learning for Life Programme/.keep
-      - Learning for Life Programme/Student Leadership.md
-      - Learning for Life Programme/Values in Action (VIA).md
-      - Learning for Life Programme/Green Citizenship.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -24,6 +20,10 @@ collections:
       - CCE/Start Right Do Right (SRDR).md
       - CCE/Tributes to Unsung Heroes.md
       - Programme for Active Learning (PAL).md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Student Leadership.md
+      - Learning for Life Programme/Values in Action (VIA).md
+      - Learning for Life Programme/Green Citizenship.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Subject Based Banding.md
