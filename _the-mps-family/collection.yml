@@ -2,10 +2,6 @@ collections:
   the-mps-family:
     output: true
     order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
       - School Leaders.md
       - Key Personnel.md
       - Form Teacher List/.keep
@@ -15,6 +11,10 @@ collections:
       - Form Teacher List/Primary 4.md
       - Form Teacher List/Primary 5.md
       - Form Teacher List/Primary 6.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
       - PE, Art, Music.md
       - Allied Educators.md
       - Executive Administration Staff.md
