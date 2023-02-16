@@ -4,8 +4,6 @@ permalink: /the-mps-family/Mother-Tongue/Chinese-language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
 | Column 1 |  | Column 3 |
 | -------- | -------- | -------- |
 |  Mdm Goh Soy Moi (ST/CL)     |      | goh_soy_moi@schools.gov.sg     |
@@ -19,5 +17,5 @@ third_nav_title: Mother Tongue
 | Mdm Shi Yibin     |      | shi_yibin@schools.gov.sg     |
 | Mr Tsen Hon Leong     |      | tsen_hon_leong@schools.gov.sg     |
 | Mdm Ong Kai Ling     |      | ong_kai_ling@schools.gov.sg     |
-| Mr Wang Yuhang     |      | Text     |
+| Mr Wang Yuhang     |      | wang_yuhang@schools.gov.sg     |
 | Ms Li JuanJuan     |      | li_juanjuan@schools.gov.sg     |
