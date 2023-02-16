@@ -13,12 +13,8 @@ sections:
         - title: Lower Primary Marsiling Experience
           description: ""
           url: /lower-pri-Marsiling-experience/p1-orientation-2023/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-  - infobar:
-      title: Parent Support Group
-      description: Take the first step! Come join us to register.
-      button: Register here
-      url: https://form.gov.sg/63620bee2fec1f00120d65c2
+        - title: Parent Support Group
+          description: Come join us!
+          url: https://form.gov.sg/63620bee2fec1f00120d65c2
+  - infobar: {}
 ---
