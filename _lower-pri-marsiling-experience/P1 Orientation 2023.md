@@ -34,3 +34,15 @@ Malay Language:
 Tamil Language:
 
 [2023 P1 Orientation - Tamil Language](https://youtu.be/T2EABDo2IWg)
+
+Music:
+
+[2023 P1 Orientation - Music](https://youtu.be/n8jdTzevpC0)
+
+PE:
+
+[2023 P1 Orientation - PE](https://youtu.be/k20Y-uMDocU)
+
+Art:
+
+[2023 P1 Orientation - Art](https://youtu.be/lKXPdVo1de8)
