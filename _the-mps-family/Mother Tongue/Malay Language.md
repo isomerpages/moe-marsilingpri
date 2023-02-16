@@ -4,9 +4,7 @@ permalink: /the-mps-family/Mother-Tongue/Malay-Language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
-| Column 1 |  | Column 3 |
+Teacher |  | Email Address |
 | -------- | -------- | -------- |
 | Mdm Jamaliah (ST/ML)     |      | jamaliah_yusope_lamat@schools.gov.sg     |
 | Mdm Norsriwani (SH/Malay covering HOD)     |      | norsriwani_bakar@schools.gov.sg     |
