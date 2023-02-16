@@ -26,3 +26,21 @@ Monday - Friday (School Holiday)
 **Location:**
 
 Level 1, along the corridor towards  the school canteen
+
+**Booklist**
+
+[P1 Booklist 2023](/files/p1_001.pdf)
+
+[P2 Booklist 2023](/files/p2_001.pdf)
+
+[P3 Booklist 2023](/files/p3_001.pdf)
+
+[P4 Booklist 2023](/files/p4_001.pdf)
+
+[P5 Booklist 2023](/files/p5_001.pdf)
+
+[P5 Foundation Booklist 2023](/files/p5f_001.pdf)
+
+[P6 Booklist 2023](/files/p6_001.pdf)
+
+[P6 Foundation Booklist 2023](/files/p6f_001.pdf)
