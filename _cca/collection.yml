@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Percussion Ensemble.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Show Choir.md
+      - Performing Arts/Speech and Drama.md
+      - Performing Arts/.keep
+      - Clubs/Infocomm Technology (Media Production).md
+      - Clubs/Environmental Science.md
+      - Clubs/Art & Craft.md
+      - Clubs/.keep
+      - Sports/Track & Field.md
+      - Sports/Taekwondo.md
+      - Sports/Rugby.md
+      - Sports/Tchoukball.md
+      - Sports/Modular CCA (Sports).md
+      - Sports/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep

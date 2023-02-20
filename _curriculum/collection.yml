@@ -1,0 +1,28 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Tamil.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Chinese.md
+      - Music.md
+      - Arts.md
+      - Physical Education.md
+      - Information Communication Technology.md
+      - CCE/.keep
+      - CCE/Discipline.md
+      - CCE/Form Teacher Guidance Period (FTGP).md
+      - CCE/National Education (NE) and Social Studies.md
+      - CCE/Tributes to Unsung Heroes.md
+      - Programme for Active Learning (PAL).md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Student Leadership.md
+      - Learning for Life Programme/Values in Action (VIA).md
+      - Learning for Life Programme/Green Citizenship.md
+      - Applied Learning Programme.md
+      - Subject Based Banding.md
+      - Home Based Learning.md

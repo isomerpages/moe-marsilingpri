@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: The MPS Family
+    collection: the-mps-family
+  - title: Curriculum
+    collection: curriculum
+  - title: CCA
+    collection: cca
+  - title: For Parents
+    collection: for-parents
+  - title: Lower Pri Marsiling Experience
+    collection: lower-pri-marsiling-experience
+  - title: Useful Links
+    url: /permalink

@@ -4,29 +4,17 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to Marsiling Primary School
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Marsiling Primary School
+      background: /images/8D2A5980.jpg
+      key_highlights:
+        - title: Lower Primary Marsiling Experience
+          description: ""
+          url: /lower-pri-Marsiling-experience/p1-orientation-2023/
+        - title: Parent Support Group
+          description: Come join us!
+          url: https://form.gov.sg/63620bee2fec1f00120d65c2
+  - infobar: {}
 ---
-

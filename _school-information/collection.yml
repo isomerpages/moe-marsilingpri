@@ -1,0 +1,12 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Contact Us.md
+      - School Fees Collection.md
+      - School Hours.md
+      - School Based Student Care Centre.md
+      - School Bus Service.md
+      - School Uniform.md
+      - School Bookshop.md
+      - School Dental Service.md
