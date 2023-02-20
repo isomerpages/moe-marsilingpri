@@ -17,10 +17,9 @@ Fax: 6547 4305
 **Operating Hours:**
 
 Monday - Friday (School Term)  
-8.30 am  to 3.30 pm
+8.30 am  to 3.30 pm 
 
-Monday - Friday (School Holiday)  
-9.00 am to 3.00 pm
+*Parents are allow to purchase at school bookshop at 2pm-3.30pm
 
 
 **Location:**
