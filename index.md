@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Marsiling Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -18,3 +18,4 @@ sections:
           url: https://form.gov.sg/63620bee2fec1f00120d65c2
   - infobar: {}
 ---
+
