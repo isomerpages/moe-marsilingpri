@@ -14,4 +14,3 @@ Congratulations to the following students and their CL teachers.  Well done ! M
 ![](/images/Curriculum/CL%20Comp%201.jpg)
 
 ![](/images/Curriculum/CL%20Comp.jpg)
-  
