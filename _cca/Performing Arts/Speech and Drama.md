@@ -12,5 +12,5 @@ In this CCA, they will learn how to respond confidently and think quickly when t
 | Teachers-in-Charge | Venue | Time |
 | -------- | -------- | -------- |
 | Mr Richard Ong (I/C)     | ISH Dance Studio (Level 3)     | Thursday,3.15pm-4.45pm     |
-| Ms Tang Bi Ying (2nd I/C)     |      |     |
+| Ms Alivia Tang (2nd I/C)     |      |     |
 | Ms How Li Miin    |     |      |
