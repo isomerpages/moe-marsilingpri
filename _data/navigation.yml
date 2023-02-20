@@ -1,4 +1,4 @@
-logo: /images/isomer-logo.svg
+logo: /images/School Logo Without Background.png
 links:
   - title: About Us
     collection: about-us
@@ -12,5 +12,5 @@ links:
     collection: for-parents
   - title: Lower Pri Marsiling Experience
     collection: lower-pri-marsiling-experience
-  - title: Useful Links
-    url: /permalink
+  - title: Links
+    collection: useful-links

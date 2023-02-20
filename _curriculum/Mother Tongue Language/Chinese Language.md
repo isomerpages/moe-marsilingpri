@@ -1,9 +1,14 @@
 ---
-title: Chinese
+title: Chinese Language
 permalink: /curriculum/Mother-Tongue/chinese/
 description: ""
-third_nav_title: Mother Tongue
+third_nav_title: Mother Tongue Language
 ---
+
+
+
+
+
 ### Programmes:
 
 <u> Harnessing ICT</u>

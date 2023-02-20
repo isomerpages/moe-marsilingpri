@@ -1,8 +1,9 @@
 ---
 title: For Student
-permalink: /useful-links/permalink/
+permalink: /useful-links/for-student/
 description: ""
 ---
+
 [Koobits](https://member.koobits.com/)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)

@@ -1,6 +1,7 @@
 ---
 title: School Leaders
-permalink: /permalink/
+permalink: /schoolleaders/
 description: ""
 ---
+
 ![](/images/SL.jpg)
