@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Taekwondo.md
       - Sports/Rugby.md
       - Sports/Tchoukball.md
       - Sports/Modular CCA (Sports).md
