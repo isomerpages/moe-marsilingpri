@@ -4,8 +4,7 @@ permalink: /cca/permalink/
 description: ""
 third_nav_title: Sports
 ---
-
-Rugby is a niche CCA in Marsiling Primary School. The team participates in the North Zone Competition yearly and has managed to secure a place to compete in the National Competition. MPS Rugby comprises of 37 strong members. Members can look forward to grow in terms of skills and techniques from the experiences they gain from internal and external competitive opportunities they are provided with.
+MPS Rugby aims to equip students with the technical skills of how to play rugby confidently and safely. Besides the physical, students learn values such as teamwork, resilience and overcoming their fears and inhibitions. Students have the opportunity to showcase their skills annually at the National School Games. Additionally, the CCA aims to provide a pathway for students to pursue the sport in secondary school.
 
 
 
