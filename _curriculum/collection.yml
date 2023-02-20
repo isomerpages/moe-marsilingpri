@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Malay Language/.keep
       - Malay.md
       - Tamil.md
       - English Language.md
