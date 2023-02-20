@@ -9,7 +9,9 @@ description: ""
 
 **Operating Hours:**
 
-Monday - Friday : 8.30 a.m. - 5.30 p.m
+Monday - Friday : 8.30 a.m. - 5.30 p.m (**2nd Semester only**)
+
+For 1st Semester of the school year, please contact school dental to make appointment.
 
 **Location:**
 
