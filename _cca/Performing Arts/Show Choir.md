@@ -4,9 +4,7 @@ permalink: /cca/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
-MPS Choir aims to equip choir members with good singing skills and techniques. Members are exposed to a range of repertoire and have various opportunities for performances in and out of school. In the Singapore Youth Festival Arts Presentation 2018, MPS Choir achieved the Certificate of Accomplishment.
+MPS Show Choir aims to equip members with good singing skills and dance techniques. Members are exposed to a range of repertoire and have various opportunities for performances in and out of school. Members will also have the opportunity to go on a Learning Journey to performing arts centres such as the Esplanade to enjoy performances together.
 
 
 | Teachers-in-Charge | Venue | Time |
