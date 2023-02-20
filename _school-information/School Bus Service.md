@@ -15,4 +15,3 @@ Hp: 96327095 (Mr Yeo)
 
 **Email:**
 
-aikshen1@singnet.com.sg
