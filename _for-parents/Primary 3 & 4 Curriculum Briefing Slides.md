@@ -13,3 +13,14 @@ description: ""
 
 [2023 P3&P4 Science Curricumlum Briefing](https://youtu.be/H7gpohlhWco)
 
+[2023 P3&P4 Chinese Language Curriculum Briefing](https://youtu.be/9uUy-ngJUGw)
+
+[2023 P3&P4 Malay Language Curriculum Briefing](https://youtu.be/dYgZMM3lTt8)
+
+[2023 P3&P4 Tamil Language Curriculum Briefing](https://youtu.be/NoajLGkSgvU)
+
+[2023 P3&P4 Music Curriculum Briefing](https://youtu.be/pijE-K9wJsY)
+
+[2023 P3&P4 Art Curriculum Briefing](https://youtu.be/0RLdiEi6Skk)
+
+[2023 P3&P4 PE Curriculum Briefing](https://youtu.be/AmM4HEn8RaE)
