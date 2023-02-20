@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Malay Language/Mother Tongue Language Fortnight (ML).md
       - Malay Language/Malay.md
       - Malay Language/.keep
       - Tamil.md
