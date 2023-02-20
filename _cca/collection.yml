@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Rugby.md
       - Sports/Tchoukball.md
       - Sports/Modular CCA (Sports).md
       - Sports/.keep
