@@ -4,13 +4,11 @@ permalink: /cca/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-Students will be nurtured to become confident, creative and discipline individuals with greater understanding of the Malay Culture. MPS Malay Dance has won 4 silver/certificate of accomplishment awards for the past few SYF Dance competition and is aiming for the Certificate of Distinction.
+**MPS Malay Dance aims to promote creativity and instill discipline and teamwork in the student dancers. It also aims to expose students to the Malay culture and thus, gaining deeper understanding of the culture. Through this CCA, students will develop leadership skills and thus, be able to guide the juniors and be confident to perform in school and external events. MPS Malay Dance has attained accomplishment awards for the past few SYF Dance competition and has performed for numerous events.**
 
 
 | Teachers-in-Charge| Venue | Time |
 | -------- | -------- | -------- |
 | Mdm Khadijah (I/C)    | PAL Room 1&2 (Level 3)     | Tuesday,3.15pm-4.45pm     |
-| Mdm Norsriwani (2nd I/C)    |      |     |
-| Mdm Rosminah     |     |      |
+| Mdm Rosminah (2nd I/C)    |      |     |
 | Mrs Janaki Prankumar     |      |      |
