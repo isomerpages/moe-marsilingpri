@@ -11,4 +11,4 @@ MPS Percussion Ensemble, previously known as Drumz was introduced in Marsiling P
 | -------- | -------- | -------- |
 | Mdm Lua Yan Jun (I/C)     | ISH Band Room (Level 2)     | Thursday,3.15pm-4.45pm    |
 | Mdm Ang Shiao Woon (2nd I/C)     |      |    |
-|      |      |     |
+| Mdm Fan Fang    |      |     |
