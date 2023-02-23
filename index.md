@@ -14,5 +14,5 @@ sections:
       subtitle: "Announcement "
       description: Come Join Us!
       button: Here
-      url: https://marsilingpri.moe.edu.sg/the-mps-family/psg/
+      url: https://form.gov.sg/63620bee2fec1f00120d65c2
 ---
