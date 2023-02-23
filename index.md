@@ -20,6 +20,6 @@ sections:
       subtitle: Facebook
       button: Here
       url: https://www.facebook.com/MarsilingPri/posts/pfbid035XePM3bVKQmq11AxazVwdnhpLHRXx2kfxrzCvVbe3itfHuiHULs2K3n9ZZrk32DZl
-      image: /images/P5 Camp.jpg
+      image: /images/P5 Camp 2023.jpg
       alt: Image alt text
 ---
