@@ -10,12 +10,8 @@ sections:
       title: Marsiling Primary School
       background: /images/8D2A5980.jpg
       key_highlights:
-        - title: Lower Primary Marsiling Experience
-          description: ""
-          url: /lower-pri-Marsiling-experience/p1-orientation-2023/
         - title: Parent Support Group
           description: Come join us!
           url: https://form.gov.sg/63620bee2fec1f00120d65c2
   - infobar: {}
 ---
-
