@@ -2,7 +2,7 @@
 layout: homepage
 title: Marsiling Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/School Logo Without Background.png
 permalink: /
 notification: Welcome to Marsiling Primary School
 sections:
@@ -14,3 +14,4 @@ sections:
           description: Come join us!
           url: https://form.gov.sg/63620bee2fec1f00120d65c2
 ---
+
