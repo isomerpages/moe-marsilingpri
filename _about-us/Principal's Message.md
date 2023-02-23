@@ -5,30 +5,30 @@ description: ""
 ---
 ![](/images/Slide%202.jpg)
 
-Warmest greetings and a happy 2022 to all!
-
-I am honoured to be part of Marsiling Primary School (MPS) which had over 60 years of history and given the opportunity to be the 11th Principal of the school. I am also thankful for the effort of all my predecessors and staff throughout the years which helped shaped the journey and successes of MPS to what it is today.
-
-2021 has been another year where our students, staff and parents banded together to overcome the challenges of Covid-19. I am proud of our Marsilians who have stayed resilient in their learning, agile in adapting to changes, continually showed care to their peers and adhered to the safe management measures in school. This could not be possible without the hard work and caring hearts of our dedicated staff. I would also like to thank all parents for your support and understanding during this period. I am optimistic that as a school and as a community, we will all come out of Covid-19 stronger and more united.
-
-Through our school programmes and activities, we will continue to provide our students with meaningful experiences, a positive learning environment to learn, grow and thrive; and  opportunities to explore their interests and pursue their talents.
-
-In MPS, every child matters as we believe that **Every Marsilian Can Learn, Lead and Serve**. Our school is committed in **Nurturing Responsible Learners and Compassionate Leaders** and to develop their learning dispositions and attitudes to Learn for Life. We do this through our curriculum across all subjects, learning experiences and school-based programmes. In addition, our **Applied Learning Programme (ALP)** – **SPARKS@MPS** \[Spark Ideas, Spark Interest, Spark Action: Igniting A Passion for Purposeful Storytelling\] aims to nurture confident communicators who listen actively and demonstrate the ability to articulate their ideas and interests, and active contributors who rally others to action through the use of engaging narratives. Our **Learning for Life Programme (LLP)** – **Every Marsilian a Service Leader and Green Citizen** aims to nurture responsible active citizenship through service leadership using a 3-tiered approach in student leadership development.
-
-We also place high emphasis in building student’s foundation in values, character and social-emotional competencies. The school values of **R3.I.C.E (Respect, Responsibility, Resilience, Integrity, Care and Excellence)** coupled with our strengthened efforts to promote a **Growth Mindset** in our students, will guide and nurture our students to have a sound moral compass, better equipped to make good decisions and actions, to believe in themselves, to be resilient, to care for others and to give their best in all that they do.
-
-It takes the whole community to raise our Marsilians. We value the partnership with our parents, PSG, SAC and community partners. We look forward to greater parental engagement and we encourage all parents and partners to journey with my team of dedicated and caring staff as we give our students an enriching learning experience. In our MPS experience, we would like our Marsilians to:
-
-·       **A**spire & dare to dream
-
-·       **B**elieve in themselves
-
-·       **C**ourage to give their best every time
-
- To all our students and parents, I wish you a most fulfilling year ahead!
+Warmest greetings and a happy 2023!
 
   
 
+In 2023, Marsiling Primary School (MPS) will be 65 years old with its history starting from 1958. The school embarked on a re-envisioning journey last year, to chart the directions and plans for the next 5 to 8 years. It was a whole year of discussions with staff, students and stakeholders. At the staff level, we envisioned on what the next lap would be and what we would hope to see in our Marsilians come the year 2030. From the re-envisioning exercise, we have reviewed our school’s vision, mission, values and strategic directions.
+
+  
+
+Hence, the school’s vision is for every Marsilian to be **Learners and Leaders of Tomorrow**. Learners of tomorrow are learners who have the knowledge and skills to navigate their future; adaptable and possess the lifelong learning dispositions. Leaders of tomorrow are leaders who are forward looking; confident; values driven and able to lead self and others.
+
+  
+
+As our school’s mission, we are committed in **Nurturing Resilient Learners who are Future Ready** and **Growing Confident Leaders who are Values Driven**. Our purpose is to nurture learners who would pursue their aspirations with tenacity and have the G_rowth Mindset_ to embrace change and overcome challenges. We are also equipping our Marsilians with the knowledge and 21CC skills such as critical thinking and communication skills. Most importantly, to prepare our students with the mindset to learn for life. Character and values education has always been an integral part of our students’ learning in MPS. Confident leaders mean being able to lead self & others; and being leaders who are anchored in values, driven by values. We would like our Marsilians to be confident in themselves, confident in articulating their views, confident to act with moral courage and help others. Together with this mission and vision, we hope that every Marsilian will be well-anchored in our school values of **R3.I.C.E (Respect, Responsibility, Resilience, Integrity, Care and Excellence)**.
+
+  
+
+Through our school programmes and activities, we will continue to provide our students with meaningful experiences, a positive learning environment to learn, grow and thrive; and  opportunities to explore their interests and pursue their talents. We do this through our curriculum across all subjects, a spectrum of learning experiences and school-based programmes. In addition, our _Applied Learning Programme (ALP) – SPARKS@MPS \[Spark Ideas, Spark Interest, Spark Action: Igniting A Passion for Purposeful Storytelling\]_ aims to nurture critical thinkers and confident communicators who listen actively and demonstrate the ability to articulate their ideas. SPARKS@MPS also aims to develop active contributors who rally others to action through the use of engaging narratives. Our _Learning for Life Programme (LLP) in Student Leadership_ focuses on leading self and others and service leadership using a 3-tiered approach in leadership development.
+
+  
+We thank our staff for their dedication and hard work. Our staff upholds the ethos of the teaching profession in leading, caring for and inspiring our students. It also takes the whole community to raise our Marsilians. We appreciate the support and cooperation from our parents, especially during the pandemic years.  We value the partnership with our parents, PSG, SAC and community partners. We encourage all parents and partners to continue their journey with the school so as to bring out the best in every child.
+
+With this I would like to wish our Marsilians and parents, a most fulfilling year ahead!
+
+ 
 Mrs Heather Thio
 
 Principal
