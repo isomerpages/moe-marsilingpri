@@ -1,9 +1,10 @@
 ---
 title: Infocomm Technology (Media Production)
-permalink: /cca/permalink/
+permalink: /cca/infocomm-technology/
 description: ""
 third_nav_title: Clubs
 ---
+
 In Infocomm Technology (Media Production), the students are given the opportunities to explore the current Infocomm Technologies.
 
 They’ll gain the knowledge of different programming functions and create simple coding sequences that allows them in games development using SCRATCH or mbot.

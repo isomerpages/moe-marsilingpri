@@ -4,6 +4,8 @@ permalink: /curriculum/Learning-for-Life-Programme/student-leadership/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+
+
 **Student Leadership Development Programme (SLDP)**
 
 **Vision:** Leaders who serve with the Heart, Head and Hands.  

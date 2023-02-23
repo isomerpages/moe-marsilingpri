@@ -1,8 +1,11 @@
 ---
 title: Resources
-permalink: /for-parents/permalink/
+permalink: /for-parents/resources/
 description: ""
 ---
+
+
+
 ### **Parents Gateway Booklet Guide for PTC/PCTC**
 
 

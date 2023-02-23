@@ -1,9 +1,10 @@
 ---
 title: Scouts
-permalink: /cca/permalink/
+permalink: /cca/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 The objectives of the CCA are for the Cub Scouts to develop good citizenship, train them in habits of observation, obedience and self-reliance, inculcate loyalty and thoughtfulness for others, teach them services useful to the school and public and skills useful to themselves and promote their physical, mental and socio emotional development. MPS Scouts achieved Gold in the National Cub Scout Challenge 2019.
 
 

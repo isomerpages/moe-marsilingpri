@@ -1,8 +1,9 @@
 ---
 title: School Uniform
-permalink: /school-information/permalink/
+permalink: /school-information/school-uniform/
 description: ""
 ---
+
 ## Sowell Garment Pte ltd
 **Address:**
 

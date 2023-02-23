@@ -1,8 +1,9 @@
 ---
 title: English Language
-permalink: /curriculum/permalink/
+permalink: /curriculum/english/
 description: ""
 ---
+
 #### **Vision****:**
 
 Every Marsilian A Discerning Reader and Confident Communicator

@@ -1,8 +1,9 @@
 ---
 title: Parent Engagement 2023
-permalink: /lower-pri-marsiling-experience/permalink/
+permalink: /lower-pri-Marsiling-experience/Parent-Engagement-2023/
 description: ""
 ---
+
 #### **In Conversations with...**
 
 See and experience Marsiling Primary School from the lens of i) our lower primary student, ii)our Head Prefect, iii) an ex-Marsilian and iv) our lower primary teacher, to find out how we nurture every Marsilians to be Learners and Leaders of Tomorrow.

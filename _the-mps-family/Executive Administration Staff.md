@@ -1,8 +1,9 @@
 ---
 title: Executive Administration Staff
-permalink: /the-mps-family/permalink/
+permalink: /the-mps-family/eas/
 description: ""
 ---
+
 If you wish to contact our Executive and Administration Staff, please email to marsiling_ps@moe.edu.sg
 
 

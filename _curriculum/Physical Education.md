@@ -1,8 +1,9 @@
 ---
 title: Physical Education
-permalink: /curriculum/permalink/
+permalink: /curriculum/physical-education/
 description: ""
 ---
+
 ### **Vision**
 
 M.O.R.E

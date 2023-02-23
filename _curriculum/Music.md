@@ -1,8 +1,9 @@
 ---
 title: Music
-permalink: /curriculum/permalink/
+permalink: /curriculum/music/
 description: ""
 ---
+
 ### **Vision** 
 
 Marsilians will be able to perform, improvise and create.

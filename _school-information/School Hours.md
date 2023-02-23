@@ -1,8 +1,9 @@
 ---
 title: School Hours
-permalink: /school-information/permalink/
+permalink: /school-information/school-hours/
 description: ""
 ---
+
 Single Session for Primary 1 to Primary :
 Reporting Time: 7.30am (Students are to be in school by 7.25am)
 ![](/images/Picture1.jpg)

@@ -4,6 +4,7 @@ permalink: /curriculum/Learning-for-Life-Programme/Green-Citizenship/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+
 · The programme hopes to develop in our pupils an appreciation of our rich environmental heritage as well as inculcate in them the responsibility to preserve and protect it.
 
 · Green Citizenship@MPS through the 4Rs approach has been specially designed to achieve the following objectives:

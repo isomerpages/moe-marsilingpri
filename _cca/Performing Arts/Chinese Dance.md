@@ -1,9 +1,10 @@
 ---
 title: Chinese Dance
-permalink: /cca/permalink/
+permalink: /cca/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
 
 MPS Chinese Dance is an appreciation of the aesthetic. Students will learn the basic coordination, rhythmic senses and flexibility. Dancers will develop leadership skills and confidence to guide the juniors and also perform in public. Most importantly, they learn to work together as a team. In the Singapore Youth Festival Arts Presentation 2018, MPS Chinese Dance achieved the Certificate of Accomplishment.
 

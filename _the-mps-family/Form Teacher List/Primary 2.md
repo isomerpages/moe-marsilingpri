@@ -1,9 +1,10 @@
 ---
 title: Primary 2
-permalink: /the-mps-family/Form-Teacher-List/permalink/
+permalink: /the-mps-family/Form-Teacher-List/primary-2/
 description: ""
 third_nav_title: Form Teacher List
 ---
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 2Respect     | Mdm Shammane Arumugam     | shammane_arumugam@schools.gov.sg    |

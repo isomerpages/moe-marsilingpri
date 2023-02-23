@@ -1,8 +1,9 @@
 ---
 title: Mathematics
-permalink: /curriculum/permalink/
+permalink: /curriculum/mathematics/
 description: ""
 ---
+
 #### **Vision:**  
 
 

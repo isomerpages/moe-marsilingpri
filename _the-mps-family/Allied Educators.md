@@ -1,8 +1,9 @@
 ---
 title: Allied Educators
-permalink: /the-mps-family/permalink/
+permalink: /the-mps-family/aed/
 description: ""
 ---
+
 
 
 | Teacher | | Email Address |

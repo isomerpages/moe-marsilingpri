@@ -1,8 +1,9 @@
 ---
 title: School Dental Service
-permalink: /school-information/permalink/
+permalink: /school-information/school-dental-service/
 description: ""
 ---
+
 **Telephone:**  
 
 87985726

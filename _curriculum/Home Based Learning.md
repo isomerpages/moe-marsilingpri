@@ -1,8 +1,9 @@
 ---
 title: Home Based Learning
-permalink: /curriculum/permalink/
+permalink: /curriculum/HBL/
 description: ""
 ---
+
 ![](/images/HBL1.jpg)
 
 ![](/images/HBL4%20(1).jpg)![](/images/HBL6.png)

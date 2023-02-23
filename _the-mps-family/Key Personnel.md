@@ -1,8 +1,10 @@
 ---
 title: Key Personnel
-permalink: /the-mps-family/permalink/
+permalink: /the-mps-family/Key-personnel/
 description: ""
 ---
+
+
 | Name of Staff | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Heather Thio     | Principal     | marsiling_ps@moe.edu.sg     |

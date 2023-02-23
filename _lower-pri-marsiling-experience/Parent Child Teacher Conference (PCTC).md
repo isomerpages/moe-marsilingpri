@@ -1,8 +1,9 @@
 ---
 title: Parent Child Teacher Conference (PCTC)
-permalink: /lower-pri-marsiling-experience/permalink/
+permalink: /lower-pri-Marsiling-experience/PCTC/
 description: ""
 ---
+
 In Marsiling Primary School, each child leads his/ her teachers and parents in a three-way conferencing model during the PCTC, demonstrating a learned skill or reflecting his/ her learning using the presentation skills taught in class. Parents can see for themselves what their child has learnt in school. The teachers facilitate the conference by guiding the child with questions and share the child’s holistic development with the parents. Parents support the conference by affirming the child’s effort and progress, asking questions and seeking advice from the teachers to better support their child.  
   
 This three-way conferencing model strongly reinforces our intention to develop Marsilians to be confident and self-directed learners and build strong partnership among our parents, teachers and students.

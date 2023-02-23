@@ -1,9 +1,10 @@
 ---
 title: Primary 6
-permalink: /the-mps-family/Form-Teacher-List/permalink/
+permalink: /the-mps-family/Form-Teacher-List/primary-6/
 description: ""
 third_nav_title: Form Teacher List
 ---
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 6Respect    | Ms Lee Chun Hua     | lee_chun_hua@schools.gov.sg     |

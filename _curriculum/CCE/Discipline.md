@@ -1,9 +1,10 @@
 ---
 title: Discipline
-permalink: /curriculum/CCE/permalink/
+permalink: /curriculum/CCE/discipline/
 description: ""
 third_nav_title: CCE
 ---
+
 **MPS Discipline Approach and Philosophy**
 
 The school’s blended approach to discipline ensures that when students make mistakes, they have the opportunity, support and guidance from the school to change, while learning to take responsibility and be accountable for their actions.

@@ -3,6 +3,7 @@ title: P1 Orientation 2023
 permalink: /lower-pri-Marsiling-experience/p1-orientation-2023/
 description: ""
 ---
+
 [2023 P1 Orientation - Principal's Address](/files/2023%203%20Jan%20P1%20Orientation%20P%20Slides%20.pdf)
 
 [2023 P1 Orientation - Transition to P1 Talk by VP](/files/2023%203%20Jan%20P1%20Orientation%20VP%20Slides%20.pdf)

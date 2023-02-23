@@ -1,9 +1,10 @@
 ---
 title: Malay Dance
-permalink: /cca/permalink/
+permalink: /cca/malay-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
 MPS Malay Dance aims to promote creativity and instill discipline and teamwork in the student dancers. It also aims to expose students to the Malay culture and thus, gaining deeper understanding of the culture. Through this CCA, students will develop leadership skills and thus, be able to guide the juniors and be confident to perform in school and external events. MPS Malay Dance has attained accomplishment awards for the past few SYF Dance competition and has performed for numerous events.
 
 

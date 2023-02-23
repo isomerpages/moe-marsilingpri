@@ -1,8 +1,9 @@
 ---
 title: Arts
-permalink: /curriculum/permalink/
+permalink: /curriculum/arts/
 description: ""
 ---
+
 ### **Vision**
 
 Every Marsilian can create and appreciate Art.

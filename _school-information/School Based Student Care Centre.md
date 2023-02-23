@@ -1,8 +1,9 @@
 ---
 title: School Based Student Care Centre
-permalink: /school-information/permalink/
+permalink: /school-information/school-based-student-care-centre/
 description: ""
 ---
+
 ### BIG HEART STUDENT CARE 
 
 **Address:**

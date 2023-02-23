@@ -1,9 +1,10 @@
 ---
 title: Primary 3
-permalink: /the-mps-family/Form-Teacher-List/permalink/
+permalink: /the-mps-family/Form-Teacher-List/primary-3/
 description: ""
 third_nav_title: Form Teacher List
 ---
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 3Respect     | Mdm Siti Nur Aisyah Md Johari G     | siti_nur_aisyah_johari@schools.gov.sg     |

@@ -1,9 +1,10 @@
 ---
 title: Primary 5
-permalink: /the-mps-family/Form-Teacher-List/permalink/
+permalink: /the-mps-family/Form-Teacher-List/primary-5/
 description: ""
 third_nav_title: Form Teacher List
 ---
+
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 5Respect     | Mdm Lim Shy Ni     | lim_shy_ni@schools.gov.sg     |

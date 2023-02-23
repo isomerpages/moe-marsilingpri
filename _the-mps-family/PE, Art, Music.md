@@ -1,8 +1,9 @@
 ---
 title: PE, Art, Music
-permalink: /the-mps-family/permalink/
+permalink: /the-mps-family/pam/
 description: ""
 ---
+
 
 
 | Teacher | Subject | Email Address |

@@ -1,8 +1,9 @@
 ---
 title: Applied Learning Programme
-permalink: /curriculum/permalink/
+permalink: /curriculum/ALP/
 description: ""
 ---
+
 **SPARKS@MPS**
 
 **Spark Ideas, Spark Interest, Spark Action: Igniting A Passion for Purposeful Storytelling**

@@ -1,8 +1,9 @@
 ---
 title: School Bus Service
-permalink: /school-information/permalink/
+permalink: /school-information/school-bus-service/
 description: ""
 ---
+
 ## Aik Shen Bus Service
 
 **Telephone:**  

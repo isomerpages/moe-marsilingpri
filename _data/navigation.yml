@@ -8,9 +8,11 @@ links:
     collection: curriculum
   - title: CCA
     collection: cca
-  - title: For Parents
-    collection: for-parents
   - title: Lower Pri Marsiling Experience
     collection: lower-pri-marsiling-experience
-  - title: Links
+  - title: School Information
+    collection: school-information
+  - title: For Parents
+    collection: for-parents
+  - title: Quick Links
     collection: useful-links

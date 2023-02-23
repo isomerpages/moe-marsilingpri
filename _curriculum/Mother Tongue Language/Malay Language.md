@@ -9,6 +9,7 @@ third_nav_title: Mother Tongue Language
 
 
 
+
 ###  **Programmes:**
 
 **Bijak Cakap (Show & Tell):** Students will be developed to speak on a given topic in front of an audience. ICT will be infused for Primary 2. Students become effective and confident speakers.

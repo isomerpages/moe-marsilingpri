@@ -1,9 +1,10 @@
 ---
 title: Rugby
-permalink: /cca/permalink/
+permalink: /cca/rugby/
 description: ""
 third_nav_title: Sports
 ---
+
 MPS Rugby aims to equip students with the technical skills of how to play rugby confidently and safely. Besides the physical, students learn values such as teamwork, resilience and overcoming their fears and inhibitions. Students have the opportunity to showcase their skills annually at the National School Games. Additionally, the CCA aims to provide a pathway for students to pursue the sport in secondary school.
 
 

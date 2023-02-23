@@ -1,8 +1,9 @@
 ---
 title: Science
-permalink: /curriculum/permalink/
+permalink: /curriculum/science/
 description: ""
 ---
+
 **Vision:**  INquiring and INspired Marsilians; INnovators of Tomorrow
 
 **Mission:**  

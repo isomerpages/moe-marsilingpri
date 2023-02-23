@@ -1,9 +1,10 @@
 ---
 title: Brownies
-permalink: /cca/permalink/
+permalink: /cca/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 MPS Brownies is associated to Girl Guides Singapore. The CCA aims to provide girls with the opportunity for self-training in the development of character, in the realization of responsible citizenship and promotion of service to the community. 
 
 In 2022, MPS Brownies have achieved many awards in HQ and North Division organized competitions. The achievements are as follows:

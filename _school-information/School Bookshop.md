@@ -1,8 +1,9 @@
 ---
 title: School Bookshop
-permalink: /school-information/permalink/
+permalink: /school-information/school-bookshop/
 description: ""
 ---
+
 ### CASCO EDUCATIONAL SUPPLY PTE LTD
 **Address:**  
 53 Ubi Avenue 1  

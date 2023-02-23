@@ -1,8 +1,9 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /curriculum/permalink/
+permalink: /curriculum/PAL/
 description: ""
 ---
+
 **Programme for Active Learning (PAL)**
 
 The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 pupils. It offers learning experiences that are active, hands-on and meaningful.

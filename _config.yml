@@ -2,8 +2,8 @@ title: Marsiling Primary School
 url: https://marsilingpri.moe.edu.sg
 favicon: /images/School Logo Without Background.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#1454df"
+  secondary-color: "#082187"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dvwwjpo6iqcyy.amplifyapp.com
 prod: https://master.dvwwjpo6iqcyy.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/School Logo Without Background.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

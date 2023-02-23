@@ -1,8 +1,9 @@
 ---
 title: Primary 3 & 4 Curriculum Briefing Slides
-permalink: /for-parents/permalink/
+permalink: /for-parents/MP-curriculum-briefing-slides/
 description: ""
 ---
+
 [2023 P3&P4 Curriculum Briefing - Principal's Address](/files/2023%20P3-P6%20Briefing%20for%20Parents_P%20Address.pdf)
 
 [2023 P3&P4 Curriculum Briefing - Year Head](/files/2023%20Curriculum%20Briefing%20for%20Parents%20YH%20MP%20Slides.pdf)

@@ -1,9 +1,10 @@
 ---
 title: Taekwondo
-permalink: /cca/permalink/
+permalink: /cca/Taekwondo/
 description: ""
 third_nav_title: Sports
 ---
+
 
 Taekwondo is a modern martial art, characterized by its fast, high and spinning kicks. There are multiple interpretations of the name taekwondo. Taekwondo is often translated as 'the way of hand and foot'.
 

@@ -1,9 +1,10 @@
 ---
 title: Primary 4
-permalink: /the-mps-family/Form-Teacher-List/permalink/
+permalink: /the-mps-family/Form-Teacher-List/primary-4/
 description: ""
 third_nav_title: Form Teacher List
 ---
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | 4Respect     | Mdm Tang Bi Ying    | tang_bi_ying@schools.gov.sg     |

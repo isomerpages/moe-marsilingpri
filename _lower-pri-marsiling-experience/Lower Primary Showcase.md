@@ -1,8 +1,9 @@
 ---
 title: Lower Primary Showcase
-permalink: /lower-pri-marsiling-experience/permalink/
+permalink: /lower-pri-Marsiling-experience/Lower-Primary-Showcase/
 description: ""
 ---
+
 To provide an opportunity for our Primary 1 and 2 students to develop confidence and apply their learning, the school organises the 3-part Lower Primary Showcase.  
   
 <u>Lower Primary Games:</u>  

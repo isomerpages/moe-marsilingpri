@@ -1,8 +1,9 @@
 ---
 title: Information Communication Technology
-permalink: /curriculum/permalink/
+permalink: /curriculum/ict/
 description: ""
 ---
+
 ### **Vision**
 
 Every Marsilian, A Future-ready and Responsible Digital Learner

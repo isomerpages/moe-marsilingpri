@@ -1,8 +1,9 @@
 ---
 title: Contact Us
-permalink: /school-information/permalink/
+permalink: /school-information/contact-us/
 description: ""
 ---
+
 ####  **Address:**
 
 31 Woodlands Centre Rd,
