@@ -9,4 +9,10 @@ sections:
   - hero:
       title: Marsiling Primary School
       background: /images/8D2A5980.jpg
+  - infobar:
+      title: Parent Support Group
+      subtitle: "Announcement "
+      description: Come Join Us!
+      button: Here
+      url: https://marsilingpri.moe.edu.sg/the-mps-family/psg/
 ---
