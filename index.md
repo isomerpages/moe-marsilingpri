@@ -9,6 +9,16 @@ sections:
   - hero:
       title: Marsiling Primary School
       background: /images/8D2A5980.jpg
+      key_highlights:
+        - title: Inspiring Teacher of English Award 2023
+          description: Submit your nominations today!
+          url: /inspiring-teacher-of-english-award-2023/
+        - title: The Most Inspiring Tamil Teacher Award 2023
+          description: Submit your nominations today!
+          url: /the-most-inspiring-tamil-teacher-award-2023/
+        - title: The Arif Budiman Malay Language Teacher Award 2023
+          description: Submit your nominations today!
+          url: /the-arif-budiman-malay-language-teacher-award-2023/
   - infobar:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcement
