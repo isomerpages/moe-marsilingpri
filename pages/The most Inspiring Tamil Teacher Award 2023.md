@@ -17,4 +17,4 @@ If this sounds like a teacher you know, nominate him/her for the Most Inspiring 
 
 Click [here](https://www.tllpc.sg/events/2023) for the nomination forms. Alternatively, nominations may be made online at [Tamil version](https://go.gov.sg/mitt-2023-form-tl) and [English version](https://go.gov.sg/mitt-2023-form-el)
 
-The nomination period for the MITT Award 2023 is from now to 10 April 2023. Submit your nominations today!         
+The nomination period for the MITT Award 2023 is from now to 10 April 2023. Submit your nominations today!
