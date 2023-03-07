@@ -8,6 +8,6 @@ description: ""
 * Koobits: [https://member.koobits.com/](https://member.koobits.com/)
 
 
-* Oxford Reading Buddy: [https://www.oxfordreadingbuddy.com/uk](https://www.oxfordreadingbuddy.com/uk)
+* Oxford Reading Buddy: [https://www.oxfordreadingbuddy.com](https://www.oxfordreadingbuddy.com)
 
 * DiscoveryReads: [https://childrenandteens.nlb.gov.sg/](https://childrenandteens.nlb.gov.sg/)
