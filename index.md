@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled design.gif
+      background: /images/Main Page Image.gif
       key_highlights:
         - title: Inspiring Teacher of English Award 2023
           description: Submit from now to 27 March 2023!
