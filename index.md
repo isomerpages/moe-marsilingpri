@@ -4,11 +4,10 @@ title: Marsiling Primary School
 description: Brief site description here
 image: /images/School Logo Without Background.png
 permalink: /
-notification: Welcome to Marsiling Primary School
+notification: ""
 sections:
   - hero:
-      title: Marsiling Primary School
-      background: /images/8D2A5980.jpg
+      background: /images/Main Page Image.gif
       key_highlights:
         - title: Inspiring Teacher of English Award 2023
           description: Submit from now to 27 March 2023!
