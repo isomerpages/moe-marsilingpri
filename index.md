@@ -15,6 +15,9 @@ sections:
         - title: School Information
           description: "Click here "
           url: https://marsilingpri.moe.edu.sg/school-information/
+        - title: Links
+          description: Click here
+          url: https://marsilingpri.moe.edu.sg/useful-links/
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
