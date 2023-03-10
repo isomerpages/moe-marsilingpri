@@ -14,7 +14,7 @@ sections:
           url: /announcement
         - title: School Information
           description: "Click here "
-          url: /school-information
+          url: /school-information/
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
