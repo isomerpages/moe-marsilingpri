@@ -14,7 +14,7 @@ sections:
           url: /inspiring-teacher-of-english-award-2023/
         - title: School Information
           description: "Click here "
-          url: /school-information/
+          url: /contact-us/
         - title: Links
           description: Click here
           url: /useful-links/
