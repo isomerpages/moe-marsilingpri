@@ -15,9 +15,6 @@ sections:
         - title: School Information
           description: "Click here "
           url: /contact-us/
-        - title: Links
-          description: Click here
-          url: /useful-links/
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
