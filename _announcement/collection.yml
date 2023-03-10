@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - The Arif Budiman Malay Language Teacher Award 2023.md
       - Inspiring Teacher of English Award 2023.md
