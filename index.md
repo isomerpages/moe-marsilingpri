@@ -14,7 +14,7 @@ sections:
           url: /inspiring-teacher-of-english-award-2023/
         - title: School Information
           description: "Click here "
-          url: /the-most-inspiring-tamil-teacher-award-2023/
+          url: /school-information
   - infobar:
       title: Parent Support Group
       subtitle: "Announcement "
