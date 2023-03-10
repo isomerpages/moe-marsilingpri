@@ -9,24 +9,15 @@ sections:
   - hero:
       background: /images/Main Page Image.gif
       key_highlights:
-        - title: Inspiring Teacher of English Award 2023
-          description: Submit from now to 27 March 2023!
+        - title: Announcements
+          description: "Click here "
           url: /inspiring-teacher-of-english-award-2023/
-        - title: The Most Inspiring Tamil Teacher Award 2023
-          description: Submit from now to 10 April 2023!
-          url: /the-most-inspiring-tamil-teacher-award-2023/
-        - title: The Arif Budiman Malay Language Teacher Award 2023
-          description: Submit from now to 31 March 2023!
-          url: /the-arif-budiman-malay-language-teacher-award-2023/
-  - infobar:
-      title: Parent Support Group
-      subtitle: "Announcement "
-      description: Come Join Us!
-      button: Here
-      url: https://form.gov.sg/63620bee2fec1f00120d65c2
+        - title: School Information
+          description: "Click here "
+          url: /school-information/contact-us-1/
   - infopic:
       title: 2023 P5 Camp
-      subtitle: Facebook
+      subtitle: Events
       button: Here
       url: https://www.facebook.com/MarsilingPri/posts/pfbid035XePM3bVKQmq11AxazVwdnhpLHRXx2kfxrzCvVbe3itfHuiHULs2K3n9ZZrk32DZl
       image: /images/P5 Camp 2023.jpg

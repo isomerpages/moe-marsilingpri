@@ -1,8 +1,10 @@
 ---
 title: Contact Us
-permalink: /school-information/contact-us/
+permalink: /school-information/contact-us-1/
 description: ""
 ---
+
+
 
 ####  **Address:**
 
