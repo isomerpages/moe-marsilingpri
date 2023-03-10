@@ -14,7 +14,7 @@ sections:
           url: /inspiring-teacher-of-english-award-2023/
         - title: School Information
           description: "Click here "
-          url: /contact-us/
+          url: /contact-us-1/
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
