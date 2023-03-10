@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: "Click here "
-          url: /inspiring-teacher-of-english-award-2023/
+          url: /announcement
         - title: School Information
           description: "Click here "
           url: /school-information
