@@ -4,7 +4,6 @@ permalink: /the-mps-family/Form-Teacher-List/primary-3/
 description: ""
 third_nav_title: Form Teacher List
 ---
-
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | 3Respect     | Mdm Siti Nur Aisyah Md Johari G     | siti_nur_aisyah_johari@schools.gov.sg     |
@@ -21,3 +20,4 @@ third_nav_title: Form Teacher List
 | 3Excellence     | Mdm Nur Farhanis Binte Othman     | nur_farhanis_othman@schools.gov.sg     |
 |      | Ms Shazana Binte Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
 |      | Miss Toh Jessie     | jessie_toh@schools.gov.sg     |
+|      | Mdm Prema Latha Thangavelu      | prema_latha_thangavelu@schools.gov.sg     |
