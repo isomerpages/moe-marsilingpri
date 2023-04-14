@@ -1,5 +1,4 @@
 collections:
   announcement:
     output: true
-    order:
-      - The most Inspiring Tamil Teacher Award 2023.md
+    order: []
