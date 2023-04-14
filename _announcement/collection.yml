@@ -2,6 +2,5 @@ collections:
   announcement:
     output: true
     order:
-      - Inspiring Teacher of English Award 2023.md
       - The Arif Budiman Malay Language Teacher Award 2023.md
       - The most Inspiring Tamil Teacher Award 2023.md
