@@ -22,5 +22,4 @@ third_nav_title: Form Teacher List
 |     | Mdm Norsriwani Bte Bakar     | norsriwani_bakar@schools.gov.sg     |
 | 2Harmony     | Mr Leonard Ang     | ang_wai_hao@schools.gov.sg     |
 |     | Ms Nurul Akhmar Elias     | nurul_akhmar_elias@schools.gov.sg     |
-|     | Ms Koh Pei Li Jocelyn     | koh_pei_li@schools.gov.sg     |
 |     | Mdm Lee Mei Zu Peggy     | lee_mei_zu_peggy@schools.gov.sg     |

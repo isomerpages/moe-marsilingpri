@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
-      button: Here
+      button: Read more
       url: https://www.facebook.com/MarsilingPri/posts/pfbid035XePM3bVKQmq11AxazVwdnhpLHRXx2kfxrzCvVbe3itfHuiHULs2K3n9ZZrk32DZl
       image: /images/P5 Camp 2023.jpg
       alt: Image alt text
