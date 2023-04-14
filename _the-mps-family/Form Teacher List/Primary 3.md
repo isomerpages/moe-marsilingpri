@@ -17,7 +17,6 @@ third_nav_title: Form Teacher List
 |      | Ms Susan Ang Kar Hwi     | ang_kar_hwi@schools.gov.sg     |
 | 3Care    | Mdm Fazida Mohd Alim Khan     | fazida_mohd_alim_khan@schools.gov.sg     |
 |     | Miss Wen Caizhuang     | wen_caizhuang@schools.gov.sg    |
-| 3Excellence     | Mdm Nur Farhanis Binte Othman     | nur_farhanis_othman@schools.gov.sg     |
-|      | Ms Shazana Binte Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
+| 3Excellence      | Ms Shazana Binte Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
 |      | Miss Toh Jessie     | jessie_toh@schools.gov.sg     |
 |      | Mdm Prema Latha Thangavelu      | prema_latha_thangavelu@schools.gov.sg     |
