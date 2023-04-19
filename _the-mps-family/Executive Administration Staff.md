@@ -3,7 +3,6 @@ title: Executive Administration Staff
 permalink: /the-mps-family/eas/
 description: ""
 ---
-
 If you wish to contact our Executive and Administration Staff, please email to marsiling_ps@moe.edu.sg
 
 
@@ -12,6 +11,7 @@ If you wish to contact our Executive and Administration Staff, please email to m
 | -------- | -------- | -------- |
 | Ms Winnie Ng Chui Lin     | | Administration Manager    |
 | Mdm Wong Hiu Fung     | | Administration Manager    |
+| Mr Vijayandren Suppiah   | | Operation Manager    |
 | Mdm Yap Hui Ern Grace     | | Administrative Executive    |
 | Mdm Farhanah Noordin     | | ICT Manager     |
 | Mdm Rafidah Ameer Hamza     | | Corporate Support Officer     |
