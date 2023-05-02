@@ -3,7 +3,7 @@ title: Terms of use
 permalink: /term-of-use/
 description: ""
 ---
-Thank you for marsilingpri.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
+Thank you for visiting marsilingpri.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
 **General**
 
