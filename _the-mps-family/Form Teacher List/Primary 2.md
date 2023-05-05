@@ -18,8 +18,8 @@ third_nav_title: Form Teacher List
 |     | Miss Suhailah Ibrahim     | suhailah_ibrahim@schools.gov.sg     |
 | 2Care     | Ms Chang Lee Hui     | chang_lee_hui@schools.gov.sg    |
 |     | Miss Teresha Fernandaz Selvamany     | teresha_fernandaz_selvamany@schools.gov.sg     |
-| 2Excellence     | Mdm Ong Bee Leng     | ong_bee_leong@schools.gov.sg     |
+| 2Excellence     | Mdm Ong Bee Leng     | ong_bee_leng@schools.gov.sg     |
 |     | Mdm Norsriwani Bte Bakar     | norsriwani_bakar@schools.gov.sg     |
-| 2Harmony     | Mr Leonard Ang     | ang_wai_hao@schools.gov.sg     |
+| 2Harmony     | Mr Leonard Ang     | ang_wai_hao_leonard@schools.gov.sg     |
 |     | Ms Nurul Akhmar Elias     | nurul_akhmar_elias@schools.gov.sg     |
 |     | Mdm Lee Mei Zu Peggy     | lee_mei_zu_peggy@schools.gov.sg     |
