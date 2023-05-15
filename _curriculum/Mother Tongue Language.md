@@ -3,8 +3,6 @@ title: Mother Tongue Language
 permalink: /mother-tongue-language/
 description: ""
 ---
-            
-
 **Vision****:**
 
 Every Marsilian, an effective and confident Mother Tongue Language communicator with deep appreciation for the Language and Culture.**
@@ -145,3 +143,10 @@ The Mother Tongue Language Department aims to:
   height:32.9pt"><p class="MsoNormal" align="center" style="margin-top:6.0pt;margin-right:0in;
   margin-bottom:6.0pt;margin-left:0in;text-align:center;line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Higher Mother Tongue for CL, ML &amp; TL</span></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr></tbody></table>
+	
+	        
+
+![](/images/Curriculum/mother%20tongue%20mt1.png)
+![](/images/Curriculum/mother%20tongue%20mt2.png)
+![](/images/Curriculum/mother%20tongue%20mt3.png)
+![](/images/Curriculum/mother%20tongue%20mt4.png)
