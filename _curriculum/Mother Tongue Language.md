@@ -150,3 +150,65 @@ The Mother Tongue Language Department aims to:
 ![](/images/Curriculum/mother%20tongue%20mt2.png)
 ![](/images/Curriculum/mother%20tongue%20mt3.png)
 ![](/images/Curriculum/mother%20tongue%20mt4.png)
+**MT Programme and Activities**
+In line with the department’s vision, the department has planned an array of programme to develop student competencies in communicating in their mother tongue language and a deep appreciation for their language and culture.
+
+**Every Marsilian, an effective and confident MTL Communicators with deep appreciation for the language and culture**
+
+**Oracy programme harnessing ICT**
+
+• Structured approach to improve students’ oral communication skills using PEEL strategy for CL, TPAC for ML and 5W1H for TL.
+
+• ICT Integrated lesson that leverages on SLS and E-zhishi such as recording of readings, conversation and e-Show and Tell for lower primary.
+
+• I am A Young Reporter is the MTL department signature programme that allows students to be a news anchor reporting in their MTL. The SPARKS Studio stimulates the students’ experience as a new anchor and enhances their learning of their MTL.
+
+### **Mother Tongue Language Fortnight as a platform for authentic learning experiences**
+MTL Fortnight provided platform for students to apply their learning of MTL in an authentic learning experience. The Mother Tongue Language Fortnight aimed to integrate cultural
+rediscovery into a fun, challenging and comprehensive education programme. Ultimately, these experiences will develop them to be passionate and confident communicators who have a deep appreciation of their cultural heritages. "
+These are some of the activities organized during MTL fortnight:
+#### Chinese Language Department
+• Writing competition
+• Penmanship Competition
+• Recitation Competition
+• Learning journey to Tea Chapter
+• Cultural Performance (CPES)
+• Puppet making for Lower Primary students
+
+![](/images/Curriculum/mother%20tongue%20mt5.jpg)
+
+    
+#### **Malay Language Department**
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mask making for Choral reading competition for primary one students
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moo-O reading Competition for primary two students
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tanjak and keris making competition
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vlog competition on reporting of MTL Fortnight activities
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Poetry recital competition
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Traditional games
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malay Folklores
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to Bukit Chandu
+![](/images/Curriculum/mother%20tongue%20mt6.jpg)
+
+### Tamil Language Department
+• Singing and story telling competition for lower primary
+• Seiyul recitation competition for middle primary
+• Thairukkural competition for upper primary
+• Cultural experience- Know your traditional herbs and spices
+• Traditional games
+• Yoga Postures
+• Kolam art
+• Learning journey to Indian Heritage Centre
+![](/images/Curriculum/mother%20tongue%20mt7.jpg)
+
+### Mother Tongue Reading Programme
+The objective of the MT Reading programme is to instil the love for reading in Marsilians. This programme comprises of
+• E-Zhishi, a Chinese bi-weekly magazine as a supplementary reading materials. E- Zhishi provides a vivid and engaging experience of learning Chinese language.
+• Moo-O helps P2 students to master the fluency of reading and speaking skills by turning them into the story character.
+• The Mother Tongue department also provides for students of all level reading materials as class library. Students build their reading portfolio by recording the titles, their reviews and reflection of the stories, character and etc.
+• Pre-assembly Silent Reading Time is a protected time for students to read MT storybook on every Friday.
+
+### Festival celebrations and External Language Competitions
+Students will be further exposed to Chinese, Malay and Tamil Language and culture through festival celebrations.
+Students are also encouraged to participate in external language competitions to further support their mastery of the language and to grant them the opportunities to learn from their peers from other schools
+![](/images/Curriculum/mother%20tongue%20mt8.jpg)
