@@ -3,12 +3,10 @@ title: Key Personnel
 permalink: /the-mps-family/Key-personnel/
 description: ""
 ---
-
-
 | Name of Staff | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Heather Thio     | Principal     | marsiling_ps@moe.edu.sg     |
-| Mr Jackson Kek     | Vice Principal (EO)     | marsiling_ps@moe.edu.sg     |
+| Mr Jackson Kek     | Vice Principal (ACAD)     | marsiling_ps@moe.edu.sg     |
 | Mdm Felicia Foo     | Vice Principal (Admin)     | marsiling_ps@moe.edu.sg     |
 | Mr Wilson Sim     | School Staff Developer     | sim_chin_beng_wilson@schools.gov.sg     |
 | Ms Yong Sze Leng     | HOD/English Language     | yong_sze_leng@schools.gov.sg     |
