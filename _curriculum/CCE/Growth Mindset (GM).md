@@ -36,7 +36,7 @@ They are...
  
  ![](/images/CCE/cce%20gm%203.png)
  
-#### Creatin a Caring and Enabling School Environment
+#### Creating a Caring and Enabling School Environment
 
 We saw the potential of using GM as a key enabler to uplift our students and help every child believe that he can achieve his fullest potential. Our belief was simple yet powerful – the explicit teaching of GM and building of affirmative relationships would impact student motivation and achievement. GeM@MPS promotes a common language and visible GM culture that focuses on building resilience and encourages positive interactions between students-teachers, students-students and students-parents. When all members of the school community articulate the same belief that every student can succeed, we make GM visible and provide a healthy ecosystem that allows the student to thrive and succeed.
 
@@ -47,6 +47,3 @@ We made our mascots into standees and banners and display them around the school
 ![](/images/CCE/cce%20gm%204.png)
 
 ![](/images/CCE/cce%20gm%205.png)
-
-
-
