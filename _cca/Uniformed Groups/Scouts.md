@@ -16,3 +16,4 @@ The objectives of the CCA are for the Cub Scouts to develop good citizenship, tr
 | Miss Nur 'Aliah Binte Gasali|     |     |
 
 ![11 Cub Scouts joint 2023 CLTC camp on 27 May 2023](/images/CCA/Scout/CLTC%20camp/scout1.jpg)
+*11 Cub Scouts joint 2023 CLTC camp on 27 May 2023*
