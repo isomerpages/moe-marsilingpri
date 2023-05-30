@@ -8,4 +8,7 @@ In Marsiling Primary School, each child leads his/ her teachers and parents in a
 This three-way conferencing model strongly reinforces our intention to develop Marsilians to be confident and self-directed learners and build strong partnership among our parents, teachers and students.
 
 
-The PCTC session is an opportunity for parents, students and teachers to interact and dialogue about the child’s progress in Semester 1. It aims to: (i) strengthen parent-child bonding, (ii) give you a fuller understanding of what and how your child has learnt, and (iii) provide a platform for students to share highlights of their learning experience in school. Students are active participants of the PCTC as they share with their parents their learning experiences in Semester 1.![](/images/LP%20MPS%20Experience/PCTC%202.jpeg)
+The PCTC session is an opportunity for parents, students and teachers to interact and dialogue about the child’s progress in Semester 1. It aims to: (i) strengthen parent-child bonding, (ii) give you a fuller understanding of what and how your child has learnt, and (iii) provide a platform for students to share highlights of their learning experience in school. Students are active participants of the PCTC as they share with their parents their learning experiences in Semester 1.
+
+![](/images/pctc%202023_1.JPG)
+![](/images/pctc%202023_2.JPG)
