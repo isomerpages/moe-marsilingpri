@@ -8,7 +8,7 @@ third_nav_title: Growth Mindset (GM)
 
 Back in 2017, Sparkle and Ray joined Marsiling Primary School, as our Growth Mindset mascots. Sparkle is one who always have bright sparks in her eyes, especially when she feels joyful in learning new things. Sparkle is always curious and often reads more to gain more knowledge about the things she learns in school.
 
-
+![](/images/CCE/sparkle%20ray%202.jpg)
 
 She has resilience and grit. She believes that her intelligence can be developed by learning a new skill. She realizes that, when learning something new, it may seem difficult at first but she never gives up. She believes that effort is important and she will keep practising the new skill until she becomes good at it.
 
