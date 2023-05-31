@@ -47,3 +47,25 @@ We made our mascots into standees and banners and display them around the school
 ![](/images/CCE/cce%20gm%204.png)
 
 ![](/images/CCE/cce%20gm%205.png)
+
+#### The GM Experience @ MPS
+
+The school creates several platforms for our students to apply the GM messages what they do. The GM messages, together with our school values of RRRICE (Respect, Responsibility, Resilience, Integrity, Care and Excellence) are what guide our students in developing the good habits, values and dispositions to be Resilient Learners and Confident Leaders of tomorrow. These are some key programmes designed for all our Marsilians. They find joy in the learning and are able to participate actively in these programmes.
+
+* The Sparkle and Ray Story
+* Our Stories of Resilience
+* Play @ Kaleidoscope
+* GM Curriculum
+
+#### Resources for Parents
+
+
+These are some useful links for parents who would like to learn more about how they can build a resilient mindset in their children.
+
+[https://www.mindsetworks.com/science/](https://www.mindsetworks.com/science/)
+
+[https://www.mindsetworks.com/parents/growth-mindset-parenting](https://www.mindsetworks.com/parents/growth-mindset-parenting)
+
+[https://fs.blog/carol-dweck-mindset/](https://fs.blog/carol-dweck-mindset/)
+
+[https://biglifejournal.com/pages/growth-mindset](https://biglifejournal.com/pages/growth-mindset)
