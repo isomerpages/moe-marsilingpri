@@ -12,3 +12,5 @@ MPS Malay Dance aims to promote creativity and instill discipline and teamwork i
 | Mdm Khadijah (I/C)    | PAL Room 1 & 2 (Level 3)     | Tuesday, 3.15pm-4.45pm     |
 | Mdm Rosminah (2nd I/C)    |      |     |
 | Mdm Julianna    |      |      |
+
+![](/images/CCA/Malay%20Dance/ml%20dance.jpg)
