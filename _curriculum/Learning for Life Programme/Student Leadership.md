@@ -4,25 +4,53 @@ permalink: /curriculum/Learning-for-Life-Programme/student-leadership/
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+**LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS**
+
+_Every Marsilian a Service Leader and Green Citizen_
+
+At Marsiling Primary School, we believe that every student can be a leader. The Learning for Life Programme (LLP) in student leadership is one of the school’s key platforms to provide our students with the opportunity to lead and influence others positively. It leverages on service leadership platforms within the Green Citizenship @ MPS and Values-in-Action (VIA) to provide varied and meaningful learning experiences for our students.
+
+**MPS Student Leadership Framework**
+
+The school adopts a 3-tiered approach to develop the leadership competencies of our student leaders through three levels of leadership dimensions of Lead Self, Lead Peers and Lead School and the Community. Student Leadership at Marsiling Primary School is anchored on its school values of Respect, Responsibility, Resilience, Integrity, Care and Excellence, SEL competencies and Growth Mindset Principles.
+
+![](/images/LLP/student%20leadership%20framework.jpg)
 
 
-**Student Leadership Development Programme (SLDP)**
+**Tier 1: Self Leadership**
 
-**Vision:** Leaders who serve with the Heart, Head and Hands.  
-**Mission:** To develop self-directed, confident, resilient and compassionate leaders of the future.
+All P1 to P6 students will go through a 6-year leadership developmental programme.
 
-At Marsiling Primary School, we believe that every pupil can be a leader. We hope that by providing leadership training to all pupils, Marsilians can take the lead to do the right thing, to make the right choices and decisions based on sound moral values to help them live their lives more effectively. To develop their leadership skills, Marsilians will go through the 5 Modules on the 5 Practices of Exemplary Leadership (a leadership development theory founded by Jim Kouzes and Barry Posner, 2006) throughout their 6 years in Marsiling. In the modules, Marsilians will learn, how as leaders, they can Model the Way, Inspire a Shared Vision, Challenge a Process, Enable Others to Act and Encourage the Heart.
+* At P1 and P2, the students will learn about Self-Leadership - how they will take the lead to manage themselves as leaders.
 
-Through the VIA leadership and community projects, we hope that every Marsilian can learn to be an active contributor and a concerned citizen and eventually develop as leaders who can serve with their hearts, heads and hands. Through the learning and application of leadership skills, values and knowledge, we also hope that Marsilians will become more self-directed, confident, resilient and compassionate leaders of the future.  
-In our school, Marsilians will go through leadership training that focus on Personal Leadership, Peer Leadership and Service Leadership.
+* At P3 and P4, the students will learn about Peer Leadership – how to manage their relationships with peers, teachers or families.
 
-**Our Student Leadership Development Framework**
+* At P5 and P6, the focus will be on Community Leadership – what community leadership is about and how they can contribute as Service Leaders and Green Citizens.
 
-![](/images/Student%20leadership.jpg)
+* Different levels will be involved in different Green Citizenship activities and VIA activities to hone their skills as a leader.
+
+![](/images/LLP/tier%201%20student%20leadership%20training.jpg)
+
+**Tier 2: Class Level Leadership (Class Committee, Peer Support Leaders)**
+
+* Class Committee members are nominated by their form teachers and are rotated every semester to provide more opportunities for Marsilians to serve.
+
+* Class Committee members are engaged in role-specific trainings to equip them with the skills and knowledge to manage their duties in class.
+
+* The classroom setting serves as a platform for P1 to P6 students to practise their leadership skills and for the identification of students with strong leadership potential to take on the roles in the next tier.
+
+![](/images/LLP/tier%202%20student%20leadership%20training%202023.jpg)
 
 
-**Personal Leadership**As a Marsilian in P1 to P6, you will learn and understand your role as leaders, discover your leadership strengths and values and learn to manage yourselves as leaders. In school, you can apply your leadership skills as situational leaders in your respective class committees where some of you will get to play the role of Class Monitors, Recycling Monitors, Safety Environment Officers and others.
+**Tier 3: School Level Leadership (EXCO, Prefects, CCA Leaders, Environment Champions)**
 
-**Peer Leadership**In P3 and P4, you will learn about how you can become good role models to your peers by taking an active role in practising our school vision and values. You will also learn to become leaders who promote positive behaviour change in school. You will get to attend the leadership training workshops on Effective Communications and Problem-Based Learning. You will then apply your leadership skills in school-based projects such as the Pupil Suggestion Box, Do It Right! Programme, Think and Share and others.
+* Students who demonstrate strong leadership qualities are nominated for the role of Prefects, CCA Leaders and Environment Champions by the teachers in this tier.
 
-For those of you who display exemplary leadership skills, you will be nominated by your teachers for the Key Leadership roles that include the Prefects, the NE Ambassadors, the Environment Champions and the CCA Leaders. After which, you will undergo Specific Skills Training pertaining to your area of duty.
+* Student Leaders at this tier will undergo additional soft skills training to further support them in their leadership duties and build on their leadership potential.
+
+* Student Leaders are given opportunities to lead and serve by being involved in planning and organising school events such as Teachers’ Day Celebration and other school or community outreach activities.
+
+![](/images/LLP/student%20investiture%202023.jpg)
+
+![](/images/LLP/teachers%20day%202022.jpg)
+

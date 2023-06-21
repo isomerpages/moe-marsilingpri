@@ -3,9 +3,6 @@ title: PE, Art, Music
 permalink: /the-mps-family/pam/
 description: ""
 ---
-
-
-
 | Teacher | Subject | Email Address |
 | -------- | -------- | -------- |
 | Ms Yeo Xinru (HOD/PE&A)     | Music     | yeo_xinru@schools.gov.sg     |
@@ -16,6 +13,4 @@ description: ""
 | Mr Su Haojing (SH/PE&CCA)     | PE     | su_haojing@schools.gov.sg     |
 | Mr Airwan Nain Sardi (SH/AE)     | Art     | airwan_b_nain_sardi@schools.gov.sg     |
 | Mdm Sharifah Zalina S Ibrahim     | Art    | sharifah_zalina_s_ibrahim@schools.gov.sg     |
-| Miss See Poh Bee     | Art     | see_poh_bee@schools.gov.sg     |
-
-
+| Mdm See Poh Bee     | Art     | see_poh_bee@schools.gov.sg     |
