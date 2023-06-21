@@ -68,7 +68,7 @@ To ensure recess activities run smoothly, groups of students were selected and u
 
 ![](/images/Curriculum/eureka%20maths.png)
 
-#### Math Hero
+##### **Math Hero**
 
 Math Hero is an in-house program of the Math Department. In this program, Primary 1 to 5 students are given a variety of interesting activities to choose to complete. Some of the activities require the involvement of parents. Upon the completion of each activity, star(s) will be awarded to the students. When a student has earned a stipulated number of stars, a Math Hero button badge and certificate will be awarded to him/her. This program encourages our students to explore Mathematics beyond the textbook and workbook in greater extent of the subject elements through creative problem-solving.
 
