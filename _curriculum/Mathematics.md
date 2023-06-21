@@ -3,30 +3,29 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
+##### <u>**Vision:**</u>  
 
-#### **Vision:**  
+Every Marsilian a resilient and joyful problem solver.
 
-
-Every Marsilian an independent and confident problem solver.
-
-#### **Mission:**
+##### <u>**Mission:**</u>
 
 The Mathematics Department aims:
 
-·    To engage students to think critically and reason clearly in Mathematics.
+·&nbsp;&nbsp;&nbsp;&nbsp;To engage students to think critically and reason clearly in Mathematics.
 
-·    To foster students’ positive attitudes towards the learning of Mathematics.
+·&nbsp;&nbsp;&nbsp;&nbsp;To foster students’ positive attitudes towards the learning of Mathematics.
 
-·    To enable students to appreciate the relevance of Mathematics in real life.
+·&nbsp;&nbsp;&nbsp;&nbsp;To enable students to appreciate the relevance of Mathematics in real life.
 
-#### **Our Mathematics Programme at a Glance**
+<u>**Our Mathematics Programme at a Glance**</u>
 
-![](/images/MA%20.jpg)
+![](/images/Curriculum/maths%20prog.png)
 
+##### <u>**MOE Mathematics Framework**</u>
 ![](/images/Curriculum/MTM1.png)
 The central focus of the Mathematics curriculum is the development of Mathematical problem solving. Supporting this focus are five inter-related components – concepts, skills, processes, metacognition and attitudes.
 
-### **Concrete Pictorial Abstract (C-P-A) Approach**
+##### <u> **Concrete Pictorial Abstract (C-P-A) Approach**</u>
 
 Learning experiences in the classroom are designed based on the C-P-A approach.
 
@@ -40,9 +39,9 @@ This approach helps students learn new ideas and build on their existing knowled
 
 ![](/images/Curriculum/MTM2.png)
 
-### **Key Programmes / Activities / Events**
+#### <u> **Key Programmes / Activities / Events**</u>
 
-#### STEAM Week
+###### <u>**STEAM Week**</u> 
 
 STEAM stands for Science-Technology-Engineering-Arts and Mathematics. The various engaging activities held during STEAM week provided students the opportunity to learn through exploration, sparking invention, innovation and joy of learning and to enthuse students to explore the areas of STEAM.
 
@@ -50,30 +49,26 @@ In alignment with the school’s move towards sustainable living, students colla
 
 ![](/images/Curriculum/MTM3.png)
 
-#### **Excellence 2000 (E2K) Mathematics Programme**
+###### <u>**Excellence 2000 (E2K) Mathematics Programme**</u>
 
 The E2K Mathematics Programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies, such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
 The programme comprises mathematics curriculum units designed to challenge selected Primary 4 and 5 students and to introduce them to advanced mathematical concepts and thinking.
 
-####  **Learning Support for Mathematics (LSM) Programme**
+###### <u>**Learning Support for Mathematics (LSM) Programme**</u>
 
 The LSM Programme is designed to provide early intervention support for Primary 1 and 2 students who need additional support in acquiring basic numeracy skills. The programme focuses on basic mathematical skills and concepts to consolidate good foundation. It aims to build students’ confidence and positive beliefs about their ability to do Math. The programme is also extended to P3 and P4 students who need to build their foundation skills in Mathematics.
 
-#### **Recess Activities @ Eureka!**
+###### <u>**Recess Activities @ Eureka!**</u>
 
-During recess, game stations are set up by our Math subject monitors and teachers at the Eureka, the MTV (Making Thinking Visible) learning space for Math. These Math subject monitors are students who have a passion for the subject, and as an act of service, devote part of their recesses to facilitate the activities ranging from board games to quizzes. As a result, our students experience the joy of learning Math outside the classroom.
+Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally alive during recess. Filled with game booths that put students’ Mathematical skills to the test, Eureka aims to promote the joy of learning in Mathematics. The activities range from forming figures using Tangrams, Geoboards and LEGO pieces to shopping within budget at our life-sized “Mini Mart”.
 
-![](/images/Curriculum/MTM4.png)
+To ensure recess activities run smoothly, groups of students were selected and underwent training on the various Mathematics activities. They are then deployed as Eureka Facilitators to provide immediate assistance to the participants.
 
-#### Math Hero
+![](/images/Curriculum/eureka%20maths.png)
+
+###### <u>**Math Hero**</u>
 
 Math Hero is an in-house program of the Math Department. In this program, Primary 1 to 5 students are given a variety of interesting activities to choose to complete. Some of the activities require the involvement of parents. Upon the completion of each activity, star(s) will be awarded to the students. When a student has earned a stipulated number of stars, a Math Hero button badge and certificate will be awarded to him/her. This program encourages our students to explore Mathematics beyond the textbook and workbook in greater extent of the subject elements through creative problem-solving.
 
-![](/images/Curriculum/MTM5.png)
-
-
-
-
-
-
+![](/images/Curriculum/math%20hero.png)
