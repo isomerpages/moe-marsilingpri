@@ -42,7 +42,7 @@ This approach helps students learn new ideas and build on their existing knowled
 
 #### <u> **Key Programmes / Activities / Events**</u>
 
-##### STEAM Week
+##### **STEAM Week**
 
 STEAM stands for Science-Technology-Engineering-Arts and Mathematics. The various engaging activities held during STEAM week provided students the opportunity to learn through exploration, sparking invention, innovation and joy of learning and to enthuse students to explore the areas of STEAM.
 
