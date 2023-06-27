@@ -14,8 +14,8 @@ third_nav_title: Form Teacher List
 |      | Ms See Poh Bee    | see_poh_bee@schools.gov.sg     |
 | 1Integrity      | Mr Mohd Ali Mirza     | mohd_ali_mirza@schools.gov.sg     |
 |     | Mdm Li Huaitao     | li_huaitao@schools.gov.sg     |
-|  1Care    | Mdm Nur Zahidah Binte Anuar     | nur_zahidah_anuar@schools.gov.sg     |
-|      | Mdm Lee Guan Pheng     | lee_guan_pheng@schools.gov.sg     |
+|  1Care    | Mdm Lee Guan Pheng     | lee_guan_pheng@schools.gov.sg     |
+|      | Mr Jasper Chua    | chua_ban_hwee_jasper@schools.gov.sg     |
 |      | Mdm Sharifah Ainalbadri Bte Syed Abdul Rahman     | sharifah_ainalbadri@schools.gov.sg     |
 |  1Excellence    | Miss Tan Cassander    | tan_cassander@schools.gov.sg     |
 |     | Mdm Julianna Bte Adam    | julianna_adam@schools.gov.sg     |
