@@ -8,6 +8,7 @@ third_nav_title: Form Teacher List
 | -------- | -------- | -------- |
 | 3Respect     | Mdm Siti Nur Aisyah Md Johari G     | siti_nur_aisyah_johari@schools.gov.sg     |
 |      | Ms Li JuanJuan     | li_juanjuan@schools.gov.sg     |
+|      | Mr Rolan Tambunan     | rolan_tambunan_amir_assan@schools.gov.sg     |
 | 3Responsibility     | Mr Chung Jun Rui     | chung_jun_rui@schools.gov.sg     |
 |      | Mdm Rohana Ahmad     | rohana_ahmad@schools.gov.sg     |
 | 3Resilience    | Mrs Ow Weng Keong     | ow_weng_keong_a@schools.gov.sg    |
