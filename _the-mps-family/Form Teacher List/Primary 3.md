@@ -12,7 +12,7 @@ third_nav_title: Form Teacher List
 | 3Responsibility     | Mr Chung Jun Rui     | chung_jun_rui@schools.gov.sg     |
 |      | Mdm Rohana Ahmad     | rohana_ahmad@schools.gov.sg     |
 | 3Resilience    | Mrs Ow Weng Keong     | ow_weng_keong_a@schools.gov.sg    |
-|      | Mrs Janaki Prankumar     | janaki_amma_prankumar@schools.gov.sg     |
+|      | Ms Gan Adriana Muhammad Azmi Gan     | gan_adriana_muhammad_azmi@schools.gov.sg     |
 | 3Integrity     | Ms Ang Shiao Woon     | ang_shiao_woon@schools.gov.sg     |
 |      | Mdm Herianti Abu Shah     | herianti_abu_shah@schools.gov.sg     |
 |      | Ms Susan Ang Kar Hwi     | ang_kar_hwi@schools.gov.sg     |
