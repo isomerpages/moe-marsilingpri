@@ -4,11 +4,10 @@ permalink: /the-mps-family/Form-Teacher-List/primary-4/
 description: ""
 third_nav_title: Form Teacher List
 ---
-
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | 4Respect     | Mdm Tang Bi Ying    | tang_bi_ying@schools.gov.sg     |
-|      | Ms Yeo Xinru     | yeo_xinru@schools.gov.sg     |
+|      | Mr Tan Jian Chye Sam    | tan_jian_chye_sam@schools.gov.sg     |
 | 4Responsibility     | Miss How Li Miin     | how_li_miin@schools.gov.sg     |
 |      | Mdm Fan Fang     | fan_fang@schools.gov.sg     |
 | 4Resilience     | Ms Nur Firzanah Binte Kamsani     | nur_firzanah_kamsani@schools.gov.sg     |
