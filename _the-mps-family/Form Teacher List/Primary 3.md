@@ -18,6 +18,5 @@ third_nav_title: Form Teacher List
 |      | Miss Nurnadiah Samsudin     | nurnadiah_samsudin@schools.gov.sg     |
 | 3Care    | Mdm Fazida Mohd Alim Khan     | fazida_mohd_alim_khan@schools.gov.sg     |
 |     | Miss Wen Caizhuang     | wen_caizhuang@schools.gov.sg    |
-| 3Excellence      | Ms Shazana Binte Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
-|      | Miss Toh Jessie     | jessie_toh@schools.gov.sg     |
+| 3Excellence      | Miss Toh Jessie     | jessie_toh@schools.gov.sg     |
 |      | Mdm Prema Latha Thangavelu      | prema_latha_thangavelu@schools.gov.sg     |
