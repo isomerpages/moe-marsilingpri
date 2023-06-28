@@ -78,12 +78,12 @@ The PE / CCA Department organises annual events to provide the students of Marsi
 Students from all levels are given the opportunity to play at the school field and playground during their recess from Mondays to Fridays. This helps to keep them physically active in school beyond the PE lessons.
 ![](/images/Curriculum/pe6000.png)
 
-* ######  **Levels P1-P2: Lower Primary Games**
+* ###### **Levels P1-P2: Lower Primary Games**
 
 Students from Primary 1 and 2 are taught a variety of fundamental movements and manipulative skills during PE lessons. For the Lower Primary Games, all Primary 1 and Primary 2 students will perform what they have learned in front of their parents. Parents will also be invited to participate in the Parent-Child Race during the event.
 ![](/images/Curriculum/pe7000.png)
 
-* ######  **Levels P3-P6: Inter-Class Games**
+* ###### **Levels P3-P6: Inter-Class Games**
 
 Students from Primary 3 to Primary 6 will have the opportunity to represent their class to participate in the annual Inter-Class Games. The Inter-Class Games aim to develop and build strong teamwork and sportsmanship amongst the students to also promote the importance of regularly being physically engaged in sports and games. The Inter-Class Games will be conducted during PE lessons after the students have learned and master the skills for a particular sport / game module. There is a wide range of sports played during the Intra-Class Games such as Captain's Ball, Floorball, modified Volleyball and Tchoukball.
 ![](/images/Curriculum/pe8000.png)
