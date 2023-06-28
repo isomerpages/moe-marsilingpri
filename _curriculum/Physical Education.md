@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-### **Vision**
+#### **Vision**
 
       
 
@@ -11,12 +11,12 @@ description: ""
 
 
 
-### **Mission**
+#### **Mission**
 
 *   Develop the social, emotional, psychomotor and cognitive aspects of all Marsilians through the various platforms and engagement in physical and outdoor activities.
 *   Inculcate in all Marsilians life-long passion, interest and enjoyment to lead a physically active and healthy lifestyle.
 
-### **Goals**
+#### **Goals**
 
 *   For Marsilians to:
 
@@ -28,63 +28,58 @@ description: ""
 *   Develop discipline and&nbsp;sportsmanship
 *   Be prepared for CCAs in secondary schools
 
-**Programmes**
+#### **Programmes**
 
 
+###### **P1 & P2 Mini Trampoline**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="880" style="width:660.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="414" style="width:310.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#3333FF">P1 &amp; P2 Mini Trampoline</span><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="466" style="width:349.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#3333FF">Rebounding is a type of aerobic exercise performed while jumping on a mini trampoline. Rebounding is key to develop the ABCs (agility, balance, co-ordination) skills which are necessary for children to enjoy a variety of other sports and games.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#3333FF">Students will get to experience rebounding to the tempo of music.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#3333FF">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="color:black;mso-color-alt:
-  windowtext;mso-no-proof:yes"><img width="221" height="166"><img width="222" height="166"></span><span style="font-size:11.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#3333FF"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="414" style="width:310.5pt;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">P3 SwimSafer</span></p></td><td width="466" style="width:349.5pt;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">In SwimSafer, students will learn the basic water skills required to be able to swim. With the guidance of qualified instructors, they will gain confidence and develop independence in the water, as well as learn general and deep-end water safety.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">In addition, students will learn techniques like forward and backward movement, safe water entry and exit, and introduction to personal water survival skills.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="mso-no-proof:yes"><img width="220" height="124"><img width="220" height="124"></span><span style="font-size:11.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="414" style="width:310.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#3333FF">P4 Kin-Ball</span><span style="font-size:
-  11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p></td><td width="466" style="width:349.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#3333FF">Kin-Ball is a fun, easy-to-play and exciting team bonding game. The game is like a game of a volleyball but played with a huge ball. The game highly promotes communication and teamwork amongst students.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#3333FF">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="color:black;mso-color-alt:
-  windowtext;mso-no-proof:yes"><img width="216" height="102"><img width="216" height="103"></span><span style="font-size:11.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#3333FF;background:yellow;mso-highlight:yellow"></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="414" style="width:310.5pt;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">P5 Leadership and Adventure Camp</span></p></td><td width="466" style="width:349.5pt;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">The Leadership and Adventure Camp is an exciting and adventurous programme that is filled with team-bonding games and activities. The camp challenge students to strive and unleash their potential to excel in their studies and life.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Activities like High and Low Rope Elements, trail walk; problem-solving and rock climbing, bring out the best in students and forge strong bonds among the students and teachers.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="mso-no-proof:yes"><img width="147" height="195"><img width="147" height="196"><img width="147" height="197"></span><span style="font-size:11.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="414" style="width:310.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:11.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">P6 Archery</span></p></td><td width="466" style="width:349.5pt;background:#E5E5E5;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Archery is a great sport for boosting students' mental and physical health and fitness. Archers require not only physical strength, but they will also need mental fitness and archers develop their focus, flexibility and attention skills.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">The sport can be extremely dangerous if students are reckless. Archery teaches everyone to be responsible for one another and be responsible for the equipment they are use.</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-size:11.5pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="color:black;mso-color-alt:
-  windowtext;mso-no-proof:yes"><img width="220" height="165"><img width="221" height="166"></span><span style="font-size:11.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black"></span></p></td></tr></tbody></table>
+Rebounding is a type of aerobic exercise performed while jumping on a mini trampoline. Rebounding is key to develop the ABCs (agility, balance, co-ordination) skills which are necessary for children to enjoy a variety of other sports and games.
+Students will get to experience rebounding to the tempo of music.
+
+![](/images/Curriculum/pe100000.png)
+
+
+###### **P3 SwimSafer**
+
+In SwimSafer, students will learn the basic water skills required to be able to swim. With the guidance of qualified instructors, they will gain confidence and develop independence in the water, as well as learn general and deep-end water safety.
+
+In addition, students will learn techniques like forward and backward movement, safe water entry and exit, and introduction to personal water survival skills.
+![](/images/Curriculum/pe20000.png)
+
+###### **P4 Kin-Ball**
+
+Kin-Ball is a fun, easy-to-play and exciting team bonding game. The game is like a game of a volleyball but played with a huge ball. The game highly promotes communication and teamwork amongst students.
+![](/images/Curriculum/pe3000.png)
+
+###### **P5 Leadership and Adventure Camp**
+
+The Leadership and Adventure Camp is an exciting and adventurous programme that is filled with team-bonding games and activities. The camp challenge students to strive and unleash their potential to excel in their studies and life.
+
+Activities like High and Low Rope Elements, trail walk; problem-solving and rock climbing, bring out the best in students and forge strong bonds among the students and teachers.
+![](/images/Curriculum/pe4000.png)
+
+
+###### **P6 Archery**
+
+Archery is a great sport for boosting students' mental and physical health and fitness. Archers require not only physical strength, but they will also need mental fitness and archers develop their focus, flexibility and attention skills.
+
+The sport can be extremely dangerous if students are reckless. Archery teaches everyone to be responsible for one another and be responsible for the equipment they are use.
+![](/images/Curriculum/pe5000.png)
+
+#### **Highlights**
+###### **School Events:**
+
+
+The PE / CCA Department organises annual events to provide the students of Marsiling Primary School with a wholesome and enjoyable learning experience in the school. Such events include Lower Primary Games and Inter-Class Games.
+![](/images/Curriculum/pe6000.png)
+
+* ######  **Levels P1-P6: Unstructured Play**
+
+Students from all levels are given the opportunity to play at the school field and playground during their recess from Mondays to Fridays. This helps to keep them physically active in school beyond the PE lessons.
+![](/images/Curriculum/pe7000.png)
+
+
+* ######  **Levels P3-P6: Inter-Class Games**
+
+Students from Primary 3 to Primary 6 will have the opportunity to represent their class to participate in the annual Inter-Class Games. The Inter-Class Games aim to develop and build strong teamwork and sportsmanship amongst the students to also promote the importance of regularly being physically engaged in sports and games. The Inter-Class Games will be conducted during PE lessons after the students have learned and master the skills for a particular sport / game module. There is a wide range of sports played during the Intra-Class Games such as Captain's Ball, Floorball, modified Volleyball and Tchoukball.
+![](/images/Curriculum/pe8000.png)
