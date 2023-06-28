@@ -9,7 +9,8 @@ third_nav_title: Form Teacher List
 | 6Respect    | Ms Lee Chun Hua     | lee_chun_hua@schools.gov.sg     |
 |      | Mdm Ong Kai Ling     | ong_kai_ling@schools.gov.sg     |
 | 6Responsibility     | Mr Chin Thian Soong     | chin_thian_soong@schools.gov.sg     |
-|      | Ms Angela Goh Lay Ching     | goh_lay_ching_angela@schools.gov.sg     |
+|      | Ms Yeo Xinru     | yeo_xinru@schools.gov.sg     |
+|      | Mdm Koh Pei Li Jocelyn     | koh_pei_li@schools.gov.sg     |
 | 6Resilience    | Mdm Siti Fatimah Muhammad    | siti_fatimah_bt_muhammad@schools.gov.sg     |
 |      | Mr Sim Chin Beng Wilson     | sim_chin_beng_wilson@schools.gov.sg     |
 | 6Integrity     | Mr Tan Yong Sng Jason     | tan_yong_sng@schools.gov.sg     |
