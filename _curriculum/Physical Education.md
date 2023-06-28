@@ -71,13 +71,17 @@ The sport can be extremely dangerous if students are reckless. Archery teaches e
 
 
 The PE / CCA Department organises annual events to provide the students of Marsiling Primary School with a wholesome and enjoyable learning experience in the school. Such events include Lower Primary Games and Inter-Class Games.
-![](/images/Curriculum/pe6000.png)
+
 
 * ######  **Levels P1-P6: Unstructured Play**
 
 Students from all levels are given the opportunity to play at the school field and playground during their recess from Mondays to Fridays. This helps to keep them physically active in school beyond the PE lessons.
-![](/images/Curriculum/pe7000.png)
+![](/images/Curriculum/pe6000.png)
 
+* ######  **Levels P1-P2: Lower Primary Games**
+
+Students from Primary 1 and 2 are taught a variety of fundamental movements and manipulative skills during PE lessons. For the Lower Primary Games, all Primary 1 and Primary 2 students will perform what they have learned in front of their parents. Parents will also be invited to participate in the Parent-Child Race during the event.
+![](/images/Curriculum/pe7000.png)
 
 * ######  **Levels P3-P6: Inter-Class Games**
 
