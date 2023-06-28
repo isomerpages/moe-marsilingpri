@@ -3,11 +3,11 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-##### <u>**Vision:**</u>  
+##### <u> **Vision:** </u>  
 
 Every Marsilian a resilient and joyful problem solver.
 
-##### <u>**Mission:**</u>
+##### <u> **Mission:** </u>
 
 The Mathematics Department aims:
 
@@ -21,7 +21,7 @@ The Mathematics Department aims:
 
 ![](/images/Curriculum/maths%20prog.png)
 
-##### <u>**MOE Mathematics Framework**</u>
+##### <u> **MOE Mathematics Framework** </u>
 ![](/images/Curriculum/MTM1.png)
 The central focus of the Mathematics curriculum is the development of Mathematical problem solving. Supporting this focus are five inter-related components – concepts, skills, processes, metacognition and attitudes.
 
