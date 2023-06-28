@@ -17,7 +17,7 @@ The Mathematics Department aims:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;To enable students to appreciate the relevance of Mathematics in real life.
 
-<u>**Our Mathematics Programme at a Glance**</u>
+**Our Mathematics Programme at a Glance**
 
 ![](/images/Curriculum/maths%20prog.png)
 
