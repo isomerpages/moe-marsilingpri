@@ -15,7 +15,6 @@ third_nav_title: Form Teacher List
 |      | Mr Sim Chin Beng Wilson     | sim_chin_beng_wilson@schools.gov.sg     |
 | 6Integrity     | Mr Tan Yong Sng Jason     | tan_yong_sng@schools.gov.sg     |
 |      | Mdm Nadirah Binte Pasuni    | nadirah_pasuni@schools.gov.sg     |
-|      | Mr K K Mohanan   | k_k_mohanan@schools.gov.sg     |
 | 6Care     | Mdm Rashidah Yaacob     | rashidah_yaacob@schools.gov.sg     |
 |      | Mr Tsen Hon Leong     | tsen_hon_leong@schools.gov.sg     |
 |     | Mr Yeo Ghim Joo     | yeo_ghim_joo@schools.gov.sg     |
