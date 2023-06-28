@@ -20,4 +20,4 @@ third_nav_title: Form Teacher List
 |      | Mr Mohammad Ibrahim Zainee    | mohammad_ibrahim_zainee@schools.gov.sg     |
 | 5Excellence     | Miss Maneatonufus Yusoff     | maneatonufus_yusoff@schools.gov.sg     |
 |     | Mdm Shazana Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
-|     | Mdm Shazana Mohamed Shahari     | shazana_mohamed_shahari@schools.gov.sg     |
+|     | Mr K K Mohanan     | k_k_mohanan@schools.gov.sg     |
