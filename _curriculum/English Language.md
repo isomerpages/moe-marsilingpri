@@ -42,8 +42,3 @@ To instill a love of reading and develop avid readers, we have organised a serie
 #### **EL Fiesta**  
 
 EL Fiesta is a celebration of English Language Learning. Students will learn about the various genres through various fun activities such as role-playing, word games, recreating characters and writing stories based on the genre. Teachers join in the fun as characters from story books and bring students into the world of books. At the same time, students at the various levels will have the opportunity to showcase their talent through Choral Reading, Readers’ Theatre and Speech and Drama.
-
-
-
-
-
