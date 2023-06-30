@@ -3,9 +3,10 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-**Vision:**  INquiring and INspired Marsilians; INnovators of Tomorrow
+#### **Vision**  
+INquiring and INspired Marsilians; INnovators of Tomorrow
 
-**Mission:**  
+#### **Mission**  
 
 ·      To inculcate the spirit of inquiry through Scientific skills and processes
 
@@ -13,12 +14,11 @@ description: ""
 
 ·      To develop creativity in students through a student-centered pedagogy 
 
-**Our Science Programmes at a glance:**
+##### **Our Science Programmes at a glance**
 
 ![](/images/Curriculum/science1.png)
 
-**Snapshots of our programme:**
+##### **Snapshots of our programme**
 ![](/images/Curriculum/science20.png)
 ![](/images/Curriculum/science3.png)
 ![](/images/Curriculum/science4.png)
-
