@@ -4,7 +4,6 @@ permalink: /cca/modular-cca/
 description: ""
 third_nav_title: Sports
 ---
-
 In Modular Sports, students learn skills, techniques and rules of 2 sports (Badminton & Basketball). Friendly matches will be conducted internally to provide the students with the opportunity to practice what they have learnt during CCA. This is a new CCA that is launched in 2017.
 
 
