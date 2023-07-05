@@ -27,3 +27,4 @@ Team Poomsae
 | Mr Wong Ah Seng (I/C)    | Hall (Level 2)    | Tuesday,3.15pm-4.45pm     |
 | Mdm Fazida (2nd I/C)     |      |      |
 | Mdm Jamaliah     |      |      |
+| Mdm Ng Sock Hoon     |      |      |
