@@ -12,3 +12,7 @@ MPS Environmental Science was introduced in 2014 with the combining of Science
 | Mdm Shammane (I/C)     | Science Lab 1 (Level 3)    | Thursday, 3.15pm-4.45pm     |
 | Mdm Chen Xiaoyin (2nd I/C)     |      |      |
 | Mdm Siti Nur Aisyah    |    |    |
+![](/images/CCA/ens100.jpg)
+![](/images/CCA/ens200.jpg)
+![](/images/CCA/ens300.jpg)
+![](/images/CCA/ens400.jpg)
