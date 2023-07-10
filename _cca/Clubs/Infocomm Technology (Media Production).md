@@ -17,3 +17,9 @@ They’ll gain the knowledge of different programming functions and create simpl
 | Mdm Siti Fatimah (2nd I/C)     |      |      |
 | Ms Maneatonufus    |     |    |
 | Mrs Ow Weng Keong    |      |      |
+
+![](/images/CCA/it1000.jpg)
+![](/images/CCA/it2000.jpg)
+![](/images/CCA/it3000.jpg)
+![](/images/CCA/it4000.jpg)
+![](/images/CCA/it5000.jpg)
