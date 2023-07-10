@@ -14,3 +14,9 @@ In this CCA, they will learn how to respond confidently and think quickly when t
 | Ms Alivia Tang (I/C)     | ISH Dance Studio (Level 3)     | Thursday, 3.15pm-4.45pm     |
 | Ms How Li Miin (2nd I/C)     |      |     |
 | Mdm Prema Latha    |     |      |
+
+![](/images/CCA/spd100.jpg)
+![](/images/CCA/spd200.jpg)
+![](/images/CCA/spd300.jpg)
+![](/images/CCA/spd400.jpg)
+![](/images/CCA/spd500.jpg)
