@@ -13,4 +13,7 @@ MPS Malay Dance aims to promote creativity and instill discipline and teamwork i
 | Mdm Rosminah (2nd I/C)    |      |     |
 | Mdm Julianna    |      |      |
 
-![](/images/CCA/Malay%20Dance/ml%20dance.jpg)
+![](/images/CCA/Malay%20Dance/mld100.jpg)
+![](/images/CCA/Malay%20Dance/mld200.jpg)
+![](/images/CCA/Malay%20Dance/mld300.jpg)
+![](/images/CCA/Malay%20Dance/mld400.jpg)
