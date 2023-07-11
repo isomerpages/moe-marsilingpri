@@ -14,4 +14,4 @@ MPS Chinese Dance is an appreciation of the aesthetic. Students will learn the b
 | Mdm Ong Bee Leng     |     |     |
 | Mdm Li Juan Juan     |     |     |
 
-![](/images/CCA/Chinese%20Dance/chinese%20dance.jpg)
+![](/images/CCA/Chinese%20Dance/cnd100.jpg)

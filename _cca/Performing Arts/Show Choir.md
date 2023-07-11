@@ -14,4 +14,8 @@ MPS Show Choir aims to equip members with good singing skills and dance techniqu
 | Ms Lee Guan Pheng     |      |     |
 | Mdm Rohana     |      |      |
 
-![](/images/CCA/Show%20Choir/show%20choir.jpg)
+![](/images/CCA/Show%20Choir/sch100.jpg)
+![](/images/CCA/Show%20Choir/sch200.png)
+![](/images/CCA/Show%20Choir/sch300.jpg)
+![](/images/CCA/Show%20Choir/sch400.jpg)
+![](/images/CCA/Show%20Choir/sch500.jpg)
