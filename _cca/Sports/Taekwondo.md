@@ -28,3 +28,7 @@ Team Poomsae
 | Mdm Fazida (2nd I/C)     |      |      |
 | Mdm Jamaliah     |      |      |
 | Mdm Ng Sock Hoon     |      |      |
+![](/images/CCA/taekwondo1.png)
+![](/images/CCA/taekwondo2.png)
+![](/images/CCA/taekwondo3.png)
+![](/images/CCA/taekwondo4.png)

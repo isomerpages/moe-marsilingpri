@@ -30,3 +30,5 @@ In the 2015 Assessment, Marsiling Primary School attained the Bronze 1st Pack Pu
 |Mrs Latchmana Murlly (2nd I/C)   |      |     |
 | Ms Teresha Fernandaz Selvamany     |   |     |
 | Ms Wen Caizhuang    |      |      |
+![](/images/CCA/brownie100.png)
+![](/images/CCA/brownie200.png)

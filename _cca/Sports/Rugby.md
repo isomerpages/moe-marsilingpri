@@ -14,4 +14,7 @@ MPS Rugby aims to equip students with the technical skills of how to play rugby 
 | Mr Francis Tay (2nd I/C)    | Hall (Level 2) (Wet Weather Condition)   |     |
 | Mr Amir    |      |     |
 | Mr Chung Jun Rui   |     |      |
-| Mr Nursaffwan     |     |      
+| Mr Nursaffwan     |     |
+![](/images/CCA/ruby100.jpg)
+![](/images/CCA/ruby200.jpg)
+![](/images/CCA/ruby300.jpg)
