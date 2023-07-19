@@ -15,6 +15,7 @@ MPS Rugby aims to equip students with the technical skills of how to play rugby 
 | Mr Amir    |      |     |
 | Mr Chung Jun Rui   |     |      |
 | Mr Nursaffwan     |     |
+
 ![](/images/CCA/ruby100.jpg)
 ![](/images/CCA/ruby200.jpg)
 ![](/images/CCA/ruby300.jpg)
