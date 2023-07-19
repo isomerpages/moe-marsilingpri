@@ -27,6 +27,7 @@ Junior Girls (Cup Category)   ~  5th
 | Miss Ferlicia     |     |      |
 | Miss Elishe     |     |      |
 | Mr Sam Tan     |     |      |
+
 ![](/images/CCA/tchouk1.png)
 ![](/images/CCA/tchouk2.jpg)
 ![](/images/CCA/tchouk3.jpg)
