@@ -16,6 +16,7 @@ Those with potential will be selected to represent the school in the National Sc
 | Mdm Rashidah   |      |    |
 | Mr Su Haojing    |      |
 | Mr Ibrahim    |      |
+
 ![](/images/CCA/tf1000.jpg)!   ![](/images/CCA/tf2000.jpg)
 ![](/images/CCA/tf3000.jpg)
 ![](/images/CCA/tf4000.jpg)
