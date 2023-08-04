@@ -24,7 +24,7 @@ description: ""
 | Mr Airwan Nain Sardi     | SH/Arts Education     | airwan_b_nain_sardi@schools.gov.sg     |
 | Mdm Shirley Sng     | SH/Student Well-Being     | sng_su_hoon@schools.gov.sg     |
 | Mdm Ong Siew Eng     | SH/Character & Citizenship Education     | ong_siew_eng@schools.gov.sg     |
-| Mr Su Haojing     | SH/PE&CCA    | su_haojing@schools.gov.sg     |
+| Mr Su Haojing     | SH/PE & CCA    | su_haojing@schools.gov.sg     |
 | Ms Michelle Tan Siyun     | SH/Student Management     | michelle_tan@schools.gov.sg     |
 | Mdm Lee Chun Hua     | LH/English Language     | lee_chun_hua@schools.gov.sg     |
 | Ms Siti Nur Aisyah Johari     | LH/Science    | siti_nur_aisyah_johari@schools.gov.sg     |
