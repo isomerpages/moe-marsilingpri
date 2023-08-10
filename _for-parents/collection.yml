@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Resources/2023 P6 Parent Engagement Session with School Leaders.md
       - Resources/Parent Gateway Guide.md
       - Resources/.keep
       - Parent Support Group.md
