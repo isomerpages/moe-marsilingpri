@@ -1,11 +1,9 @@
 ---
-title: Resources
-permalink: /for-parents/resources/
+title: Parent Gateway Guide
+permalink: /for-parents/parent-gateway-guide/
 description: ""
+third_nav_title: Resources
 ---
-
-
-
 ### **Parents Gateway Booklet Guide for PTC/PCTC**
 
 
@@ -17,6 +15,3 @@ Refer to the sample MOE PG Booking Guide below for booking instructions.
 ![](/images/PCTC%202.png)
 
 ![](/images/PCTC%203.png)
-
-
-
