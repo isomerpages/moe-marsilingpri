@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - 2023 P6 Parent Engagement Session with School Leaders.md
       - Parent Support Group.md
       - Letters and Forms.md
       - Oxford Reading Buddy.md
@@ -10,4 +9,5 @@ collections:
       - Primary 3 & 4 Curriculum Briefing Slides.md
       - Primary 5 & 6 Curriculum Briefing Slides.md
       - Parent Child Teacher Conference (PCTC).md
+      - 2023 P6 Parent Engagement Session with School Leaders.md
       - Resources.md
