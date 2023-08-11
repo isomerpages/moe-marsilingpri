@@ -10,10 +10,10 @@ sections:
       background: /images/Main Page Image.gif
       key_highlights:
         - title: Announcements
-          description: "Click here "
-          url: /inspiring-teacher-of-english-award-2023/
+          description: Click here
+          url: /announcement/announcement/
         - title: School Information
-          description: "Click here "
+          description: Click here
           url: /school-information/contact-us-1/
   - infopic:
       title: 2023 P5 Camp
