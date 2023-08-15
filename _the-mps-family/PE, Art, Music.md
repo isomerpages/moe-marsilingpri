@@ -11,6 +11,8 @@ description: ""
 | Mr Wong Ah Seng     | PE     | wong_ah_seng@schools.gov.sg    |
 | Mr Ang Wai Hao Leonard     | PE     | ang_wai_hao_leonard@schools.gov.sg     |
 | Mr Su Haojing (SH/PE&CCA)     | PE     | su_haojing@schools.gov.sg     |
+| Mr Tan Jian Chye Sam     | PE     | tan_jian_chye_sam@schools.gov.sg     |
+| Mr Mohammad Nursaffwan Othman  | PE     | mohammad_nursaffwan_othman@schools.gov.sg     |
 | Mr Airwan Nain Sardi (SH/AE)     | Art     | airwan_b_nain_sardi@schools.gov.sg     |
 | Mdm Sharifah Zalina S Ibrahim     | Art    | sharifah_zalina_s_ibrahim@schools.gov.sg     |
 | Mdm See Poh Bee     | Art     | see_poh_bee@schools.gov.sg     |
