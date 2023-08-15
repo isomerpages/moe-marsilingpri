@@ -3,9 +3,6 @@ title: Parent Support Group
 permalink: /the-mps-family/psg/
 description: ""
 ---
-
-
-
 **PSG COMMITTEE MEMBERS**
 
 **Chairperson**  
@@ -48,3 +45,12 @@ An Engaged and Committed Parents.
  **Our Mission:**
 
 To create a happy learning experience and environment for the parents and our children during their time in Marsiling Primary School.
+
+![](/images/PSG/psg_01.JPG)
+![](/images/PSG/psg_02.JPG)
+![](/images/PSG/psg_03.JPG)
+![](/images/PSG/psg_04.JPG)
+![](/images/PSG/psg_05.JPG)
+![](/images/PSG/psg_06.JPG)
+![](/images/PSG/psg_07.JPG)
+![](/images/PSG/psg_08.JPG)
