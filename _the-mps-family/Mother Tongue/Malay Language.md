@@ -7,7 +7,7 @@ third_nav_title: Mother Tongue
 Teacher |  | Email Address |
 | -------- | -------- | -------- |
 | Mdm Jamaliah (ST/ML)     |      | jamaliah_yusope_lamat@schools.gov.sg     |
-| Mdm Norsriwani (SH/Malay covering HOD)     |      | norsriwani_bakar@schools.gov.sg     |
+| Mdm Norsriwani (Covering HOD/MTL)     |      | norsriwani_bakar@schools.gov.sg     |
 | Mdm Hazlina Yaacob     |      | hazlina_yaacob@schools.gov.sg     |
 | Mdm Julianna Adam     |      | julianna_adam@schools.gov.sg     |
 | Mdm Nur Khadijah     |      | nur_khadijah_abdul_aziz@schools.gov.sg     |
