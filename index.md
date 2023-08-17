@@ -8,13 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page Image.gif
-      key_highlights:
-        - title: Announcements
-          description: Click here
-          url: /announcement/announcement/
-        - title: School Information
-          description: Click here
-          url: /school-information/contact-us-1/
+  - infopic:
+      title: Teachers Day 2023
+      subtitle: Events
+      description: For MPS Alumni
+      image: /images/teachers' day 2023 (for alumni).png
+      alt: Image alt text
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
