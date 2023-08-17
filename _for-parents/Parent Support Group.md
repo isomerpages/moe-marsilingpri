@@ -3,9 +3,9 @@ title: Parent Support Group
 permalink: /the-mps-family/psg/
 description: ""
 ---
-**PSG COMMITTEE MEMBERS**
+### **PSG COMMITTEE MEMBERS**
 
-**Chairperson**  
+ **Chairperson**  
 Grace Cacacho Concepcion
 
 **Vice-Chairperson**  
@@ -20,7 +20,48 @@ Nur Adillah Binte Mohamad
 **EXCO-Members**
 
 Muhammad Nur Bin Abdol Ajis
+
 Hendera Zulkarnaen Bin Mohd Hakim
+
+Khairul Anuar Bin Md Ibrahim
+
+Zhang Yang
+
+Yoh Sara
+
+Charlene Ng Chuu Er
+
+Nadia Binte Hassan
+
+Valance Goh Soo Li
+
+Siti Aminah Binti Noh
+
+**PSG-Members**
+
+Irene Nesaselvan
+
+Fion Ng
+
+Loh Wan Yee
+
+Kristine Lorriane Samson Lee
+
+Foo Hou Yee
+
+Rossana Quizon Dulos
+
+Alice Lee
+
+Niu Jing
+
+Lee Soo How
+
+Marianne Gamil
+
+May Zin New
+
+Juriah Binte Ahmad
 
 
 **About the PSG:**
