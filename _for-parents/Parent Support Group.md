@@ -8,17 +8,20 @@ description: ""
 **Chairperson**  
 Grace Cacacho Concepcion
 
-**Members**
+**Vice-Chairperson**  
+Pauline Chua Poh Li
 
-Sim Siew Ping  
-Anisah Bte Atan  
-Moumita Sen  
-Pauline Chua Poh Li  
-Norita Bte Md Abuan  
-Ivy Chong Mee Ling  
-Stella Diong Hon Lin  
-Goh Soo Li  
-Zhang Xiaomei
+**Secretary**  
+Jayavalli D/O Shanmugan
+
+**Treasurer**  
+Nur Adillah Binte Mohamad
+
+**EXCO-Members**
+
+Muhammad Nur Bin Abdol Ajis
+Hendera Zulkarnaen Bin Mohd Hakim
+
 
 **About the PSG:**
 
