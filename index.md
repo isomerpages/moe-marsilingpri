@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page Image.gif
-      key_highlights:
-        - title: School Information
-          description: Click here
-          url: /school-information/contact-us-1/
   - infopic:
       title: Teachers Day 2023
       subtitle: Events
