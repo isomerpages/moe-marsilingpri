@@ -17,9 +17,9 @@ Jayavalli D/O Shanmugan
 **Treasurer**  
 Nur Adillah Binte Mohamad
 
-**EXCO-Members**
-
 Muhammad Nur Bin Abdol Ajis
+
+**EXCO-Members**
 
 Hendera Zulkarnaen Bin Mohd Hakim
 
@@ -38,6 +38,8 @@ Valance Goh Soo Li
 Siti Aminah Binti Noh
 
 **PSG-Members**
+
+Charlene Ng Chuu Er
 
 Irene Nesaselvan
 
@@ -62,6 +64,16 @@ Marianne Gamil
 May Zin New
 
 Juriah Binte Ahmad
+
+Hedelisa Aribato
+
+Adonis Pabon
+
+Razif Sahri
+
+Siti Suriana
+
+Aye The Zar
 
 
 **About the PSG:**
