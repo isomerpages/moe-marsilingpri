@@ -15,6 +15,12 @@ description: ""
 
 [2023 Primary 6 Calendar of Events for Term 4](/files/mps-2023-t4-397f%20-%20p6%20yh%20letter%20and%20coe.pdf)
 
-[2023 Primary 1 Holistic Development Plan (Term 4)](/files/mps%202023%20t4%20385-p1%20assessment%202023%20(term%204).pdf)
+[Primary 1 Assessment 2023](/files/mps%202023%20t4%20385-p1%20assessment%202023%20(term%204).pdf)
 
-[2023 Primary 2 Holistic Development Plan (Term 4)](/files/mps%202023%20t4%20386-%20p2%20assessment%202023%20(term%204).pdf)
+[Primary 2 Assessment 2023](/files/mps%202023%20t4%20386-%20p2%20assessment%202023%20(term%204).pdf)
+
+[Primary 3 Assessment 2023](/files/mps%202023%20t4%20387-%20p3%20assessment%202023%20(term%204).pdf)
+
+[Primary 4 Assessment 2023](/files/mps-2023-t4%20388-%20p4%20assessment%202023%20(term%204).pdf)
+
+[Primary 5 Assessment 2023](/files/mps-2023-t4%20389-%20p5%20assessment%202023%20(term%204).pdf)
