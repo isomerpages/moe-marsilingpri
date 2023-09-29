@@ -2,8 +2,8 @@
 title: School Based Student Care Centre
 permalink: /school-information/school-based-student-care-centre/
 description: ""
+third_nav_title: School Information
 ---
-
 ### BIG HEART STUDENT CARE 
 
 **Address:**

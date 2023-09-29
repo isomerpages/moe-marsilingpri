@@ -2,8 +2,8 @@
 title: School Fees Collection
 permalink: /school-information/school-fees-collection/
 description: ""
+third_nav_title: School Information
 ---
-
 **Venue:** General Office  
 **Days:** Mondays, Wednesdays and Fridays  
 **Time:** 10.00 am to 2.00 pm (School Term)  

@@ -2,10 +2,8 @@
 title: Contact Us
 permalink: /school-information/contact-us-1/
 description: ""
+third_nav_title: School Information
 ---
-
-
-
 ####  **Address:**
 
 31 Woodlands Centre Rd,
@@ -17,11 +15,11 @@ Tel No: 6269 6193
 
 Fax No: 6269 9050
 
-E-mail:  [marsiling\_ps@moe.edu.sg](mailto:marsiling_ps@moe.edu.sg)
+E-mail: &nbsp;[marsiling\_ps@moe.edu.sg](mailto:marsiling_ps@moe.edu.sg)
 
 #### **General Office Operating Hours:**
 
-<u>**During School Term**</u>
+<u>**During School&nbsp;Term**</u>
 
 Mondays to Fridays
 

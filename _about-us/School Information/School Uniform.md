@@ -2,8 +2,8 @@
 title: School Uniform
 permalink: /school-information/school-uniform/
 description: ""
+third_nav_title: School Information
 ---
-
 ## Sowell Garment Pte ltd
 **Address:**
 

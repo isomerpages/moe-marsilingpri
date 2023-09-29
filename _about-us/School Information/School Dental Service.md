@@ -2,8 +2,8 @@
 title: School Dental Service
 permalink: /school-information/school-dental-service/
 description: ""
+third_nav_title: School Information
 ---
-
 **Telephone:**  
 
 87985726
