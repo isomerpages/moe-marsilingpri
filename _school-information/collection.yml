@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Uniform.md
       - School Bookshop.md
       - School Dental Service.md
       - School Bus Service.md
