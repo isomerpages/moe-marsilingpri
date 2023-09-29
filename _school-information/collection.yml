@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Hours.md
       - School Fees Collection.md
       - School Uniform.md
       - School Bookshop.md
