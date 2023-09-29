@@ -24,3 +24,5 @@ description: ""
 [Primary 4 Assessment 2023](/files/mps-2023-t4%20388-%20p4%20assessment%202023%20(term%204).pdf)
 
 [Primary 5 Assessment 2023](/files/mps-2023-t4%20389-%20p5%20assessment%202023%20(term%204).pdf)
+
+[EL Fiesta and Children's Day Celebration](/files/mps-2023-t4-409-update%20on%20el%20fiesta%20cum%20children's%20day%20celebration.pdf)
