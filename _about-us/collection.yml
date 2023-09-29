@@ -2,15 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/School Based Student Care Centre.md
-      - School Information/School Bus Service.md
-      - School Information/School Dental Service.md
-      - School Information/School Bookshop.md
-      - School Information/School Uniform.md
-      - School Information/School Fees Collection.md
-      - School Information/School Hours.md
-      - School Information/Contact Us.md
-      - School Information/.keep
       - Principal's Message.md
       - History.md
       - Our Crest.md
@@ -20,3 +11,12 @@ collections:
       - Student's Pledge.md
       - Marsiling in the News.md
       - Achievements.md
+      - School Information/.keep
+      - School Information/School Based Student Care Centre.md
+      - School Information/School Bus Service.md
+      - School Information/School Dental Service.md
+      - School Information/School Bookshop.md
+      - School Information/School Uniform.md
+      - School Information/School Fees Collection.md
+      - School Information/School Hours.md
+      - School Information/Contact Us.md
