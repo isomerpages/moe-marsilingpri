@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School Based Student Care Centre.md
       - School Information/School Bus Service.md
       - School Information/School Dental Service.md
       - School Information/School Bookshop.md
