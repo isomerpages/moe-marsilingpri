@@ -5,19 +5,7 @@ description: ""
 ---
 ### **PSG COMMITTEE MEMBERS**
 
- **Chairperson**  
-Grace Cacacho Concepcion
-
-**Vice-Chairperson**  
-Pauline Chua Poh Li
-
-**Secretary**  
-Jayavalli D/O Shanmugan
-
-**Treasurer**  
-Nur Adillah Binte Mohamad
-
-Muhammad Nur Bin Abdol Ajis
+![](/images/PSG/psg%20committee.jpg)
 
 **EXCO-Members**
 
