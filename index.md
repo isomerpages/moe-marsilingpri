@@ -13,7 +13,7 @@ sections:
       id: infopic
       description: The President’s Award for Teachers (PAT) 2024 is open for nomination!
       button: Click here
-      url: /president-award-for-teachers-2024
+      url: /president-award-for-teachers-2024/
       image: /images/Picture1.gif
       alt: Image alt text
   - infopic:
