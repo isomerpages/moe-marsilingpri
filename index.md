@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main Page Image.gif
   - infopic:
+      title: President's Award for Teachers 2024
+      id: infopic
+      description: The President’s Award for Teachers (PAT) 2024 is open for nomination!
+      button: Click here
+      url: /president-award-for-teachers-2024
+      image: /images/Picture1.gif
+      alt: Image alt text
+  - infopic:
       title: 2023 P5 Camp
       subtitle: Events
       button: Read more
