@@ -9,10 +9,21 @@ sections:
   - hero:
       background: /images/Main Page Image.gif
   - infopic:
-      title: Teachers Day 2023
-      subtitle: Events
-      description: For MPS Alumni
-      image: /images/teachers' day 2023 (for alumni).png
+      title: President's Award for Teachers 2024
+      id: infopic
+      description: The President’s Award for Teachers (PAT) 2024 is open for nomination!
+      button: Click here
+      url: /president-award-for-teachers-2024/
+      image: /images/Picture1.gif
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award 2024
+      id: infopic
+      description: The Outstanding Youth in Education Award (OYEA) 2024 is open for
+        nomination!
+      button: Click here
+      url: /outstanding-youth-in-education-award-2024/
+      image: /images/Picture2.jpg
       alt: Image alt text
   - infopic:
       title: 2023 P5 Camp
