@@ -3,6 +3,7 @@ title: School Bookshop
 permalink: /school-information/school-bookshop/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### CASCO EDUCATIONAL SUPPLY PTE LTD
 **Address:**  
@@ -29,18 +30,18 @@ Level 1, along the corridor towards  the school canteen
 
 **Booklist**
 
-[P1 Booklist 2023](/files/p1_001.pdf)
+[Primary 1 Booklist 2024](/files/Booklist_For_Year_2024___Primary_1.pdf)
 
-[P2 Booklist 2023](/files/p2_001.pdf)
+[Primary 2 Booklist 2024](/files/Booklist_For_Year_2024___Primary_2.pdf)
 
-[P3 Booklist 2023](/files/p3_001.pdf)
+[Primary 3 Booklist 2024](/files/Booklist_For_Year_2024___Primary_3.pdf)
 
-[P4 Booklist 2023](/files/p4_001.pdf)
+[Primary 4 Booklist 2024](/files/Booklist_For_Year_2024___Primary_4.pdf)
 
-[P5 Booklist 2023](/files/p5_001.pdf)
+[Primary 5  Booklist 2024](/files/Booklist_For_Year_2024___Primary_5.pdf)
 
-[P5 Foundation Booklist 2023](/files/p5f_001.pdf)
+[Primary 5 Foundation Booklist 2024](/files/Booklist_For_Year_2024___Primary_5_Foundation.pdf)
 
-[P6 Booklist 2023](/files/p6_001.pdf)
+[Primary 6 Booklist 2024](/files/Booklist_For_Year_2024___Primary_6.pdf)
 
-[P6 Foundation Booklist 2023](/files/p6f_001.pdf)
+[Primary 6 Foundation Booklist 2024](/files/Booklist_For_Year_2024___Primary_6_Foundation.pdf)
