@@ -16,8 +16,8 @@ sections:
           date: 22 November 2023
           announcement: Useful information for Parents on Secondary 1 Posting Exercise and
             Resources &Tips for Parents.
-          link_text: ""
-          link_url: ""
+          link_text: Click Here
+          link_url: https://for.edu.sg/2023-briefing-slides-for-parents
   - infopic:
       title: President's Award for Teachers 2024
       id: infopic
