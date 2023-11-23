@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page Image.gif
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 2023 PSLE Results Release Day
+          date: 22 November 2023
+          announcement: Useful information for Parents on Secondary 1 Posting Exercise and
+            Resources &Tips for Parents.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: President's Award for Teachers 2024
       id: infopic
