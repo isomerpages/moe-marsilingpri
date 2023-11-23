@@ -2,7 +2,7 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
-      - Parent Engagement 2024.md
+      - 2024 Parent Engagement.md
       - 2024 P1 Orientation.md
       - Lower Primary Showcase.md
       - Parents Resources.md
