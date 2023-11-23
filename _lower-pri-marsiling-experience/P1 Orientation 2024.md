@@ -4,6 +4,9 @@ permalink: /lower-pri-marsiling-experience/p1-orientation-2024/
 description: ""
 variant: markdown
 ---
+[2024 P1 Orientation Day_Principal's Address_VPA's & YH's Sharing](https://for.edu.sg/2024-p1-orientationday-sharing)
+
+
 English : 
 
 [2023 P1 Orientation - English Language](https://youtu.be/fWmkt2OUBK0)
