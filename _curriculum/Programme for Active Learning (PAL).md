@@ -2,8 +2,8 @@
 title: Programme for Active Learning (PAL)
 permalink: /curriculum/PAL/
 description: ""
+variant: markdown
 ---
-
 **Programme for Active Learning (PAL)**
 
 The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 pupils. It offers learning experiences that are active, hands-on and meaningful.
@@ -35,3 +35,7 @@ PAL @ MPS modules engage Marsilians through their heads, hearts and hands. They 
 | Primary 1     | Sports & Games     | Outdoor Education     |Dance (Ethnic)     |
 | Primary 2     | Art     | Outdoor Education     |Dance (Hip Hop)     |
 
+![](/images/PAL/Slide1.JPG)
+![](/images/PAL/Slide2.JPG)
+![](/images/PAL/Slide3.JPG)
+![](/images/PAL/Slide4.JPG)
