@@ -23,4 +23,4 @@ Monday - Friday 
 
 _**Closed:** Public Holidays, Christmas Eve, New Year's Eve and Chinese New Year's Eve_
 
-[Information on sale of uniform ](/files/Information_on_sale_of_uniform.pdf)
+Information on sale of uniform [click here](/files/Information_on_sale_of_uniform.pdf)
