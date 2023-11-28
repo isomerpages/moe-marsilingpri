@@ -3,11 +3,13 @@ title: School Hours
 permalink: /school-information/school-hours/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 Single Session for Primary 1 to Primary :
 Reporting Time: 7.30am (Students are to be in school by 7.25am)
 ![](/images/Picture1.jpg)
-**General Office Opening Hours:
+
+**General Office Opening Hours:**
 
 <u>School Term</u>
 

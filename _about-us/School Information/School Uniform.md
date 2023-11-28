@@ -3,8 +3,9 @@ title: School Uniform
 permalink: /school-information/school-uniform/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
-## Sowell Garment Pte ltd
+### Sowell Garment Pte ltd
 **Address:**
 
 80 Playfair Road #01-14,
@@ -22,4 +23,4 @@ Monday - Friday 
 
 _**Closed:** Public Holidays, Christmas Eve, New Year's Eve and Chinese New Year's Eve_
 
-[Information for Sale of Uniform]()
+Information on sale of uniform [click here](/files/Information_on_sale_of_uniform.pdf)
