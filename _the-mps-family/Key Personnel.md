@@ -12,7 +12,6 @@ variant: markdown
 | Mdm Yeo Xinru    | School Staff Developer     | yeo_xinru@schools.gov.sg     |
 | Ms Yong Sze Leng     | HOD/English Language     | yong_sze_leng@schools.gov.sg     |
 | Miss Natasha Maidin     | HOD/Science     | natasha_maidin@schools.gov.sg     |
-| Ms Yeo Xinru     | HOD/Physical Education & Aesthetics     | yeo_xinru@schools.gov.sg     |
 | Mr Jasper Chua     | HOD/Information & Communications Technology     | chua_ban_hwee_jasper@schools.gov.sg     |
 | Mdm Herianti Abu Shah    | HOD/Character & Citizenship Education     | herianti_abu_shah@schools.gov.sg     |
 | Ms Angela Goh     | HOD/Educational Support     | goh_lay_ching_angela@schools.gov.sg     |
