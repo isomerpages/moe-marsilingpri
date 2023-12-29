@@ -3,21 +3,6 @@ title: Primary 6
 permalink: /the-mps-family/Form-Teacher-List/primary-6/
 description: ""
 third_nav_title: Form Teacher List
+variant: tiptap
 ---
-| Class | Form Teacher | Email Address |
-| -------- | -------- | -------- |
-| 6Respect    | Ms Lee Chun Hua     | lee_chun_hua@schools.gov.sg     |
-|      | Mdm Ong Kai Ling     | ong_kai_ling@schools.gov.sg     |
-| 6Responsibility     | Mr Chin Thian Soong     | chin_thian_soong@schools.gov.sg     |
-|      | Ms Yeo Xinru     | yeo_xinru@schools.gov.sg     |
-|      | Mdm Koh Pei Li Jocelyn     | koh_pei_li@schools.gov.sg     |
-| 6Resilience    | Mdm Siti Fatimah Muhammad    | siti_fatimah_bt_muhammad@schools.gov.sg     |
-|      | Mr Sim Chin Beng Wilson     | sim_chin_beng_wilson@schools.gov.sg     |
-| 6Integrity     | Mr Tan Yong Sng Jason     | tan_yong_sng@schools.gov.sg     |
-|      | Mdm Nadirah Binte Pasuni    | nadirah_pasuni@schools.gov.sg     |
-| 6Care     | Mdm Rashidah Yaacob     | rashidah_yaacob@schools.gov.sg     |
-|      | Mr Tsen Hon Leong     | tsen_hon_leong@schools.gov.sg     |
-|     | Mr Yeo Ghim Joo     | yeo_ghim_joo@schools.gov.sg     |
-| 6Excellence    | Mr Ang Yew Leong     | ang_yew_leong@schools.gov.sg     |
-|      | Mdm Nur Khadijah     | nur_khadijah_abdul_aziz@schools.gov.sg     |
-|     | Mdm Sun Shwu Ping     | sun_shwu_ping@schools.gov.sg     |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Form Teacher</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>6Respect</p></td><td rowspan="1" colspan="1"><p>Mdm Lim Shy Ni</p></td><td rowspan="1" colspan="1"><p>lee_chun_hua@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Miss Elishe Lim Shi Chi </p></td><td rowspan="1" colspan="1"><p>ong_kai_ling@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>6Responsibility</p></td><td rowspan="1" colspan="1"><p>Mdm Chen Xiaoyin</p></td><td rowspan="1" colspan="1"><p>chin_thian_soong@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Nadirah Binte Pasuni</p></td><td rowspan="1" colspan="1"><p>nadirah_pasuni@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>6Resilience</p></td><td rowspan="1" colspan="1"><p>Miss Michelle Tan Siyun</p></td><td rowspan="1" colspan="1"><p>siti_fatimah_bt_muhammad@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Goh Soy Moi</p></td><td rowspan="1" colspan="1"><p>sim_chin_beng_wilson@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>6Integrity</p></td><td rowspan="1" colspan="1"><p>Mr Tan Yong Sng Jason</p></td><td rowspan="1" colspan="1"><p>tan_yong_sng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Nadirah Binte Pasuni</p></td><td rowspan="1" colspan="1"><p>nadirah_pasuni@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>6Care</p></td><td rowspan="1" colspan="1"><p>Mdm Rashidah Yaacob</p></td><td rowspan="1" colspan="1"><p>rashidah_yaacob@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Tsen Hon Leong</p></td><td rowspan="1" colspan="1"><p>tsen_hon_leong@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Yeo Ghim Joo</p></td><td rowspan="1" colspan="1"><p>yeo_ghim_joo@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>6Excellence</p></td><td rowspan="1" colspan="1"><p>Mr Ang Yew Leong</p></td><td rowspan="1" colspan="1"><p>ang_yew_leong@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Nur Khadijah</p></td><td rowspan="1" colspan="1"><p>nur_khadijah_abdul_aziz@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Sun Shwu Ping</p></td><td rowspan="1" colspan="1"><p>sun_shwu_ping@schools.gov.sg</p></td></tr></tbody></table><p></p>
