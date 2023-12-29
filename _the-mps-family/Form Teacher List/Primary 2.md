@@ -3,23 +3,6 @@ title: Primary 2
 permalink: /the-mps-family/Form-Teacher-List/primary-2/
 description: ""
 third_nav_title: Form Teacher List
+variant: tiptap
 ---
-| Class | Form Teacher | Email Address |
-| -------- | -------- | -------- |
-| 2Respect     | Mdm Shammane Arumugam     | shammane_arumugam@schools.gov.sg    |
-|      | Mdm Hazlina Yaacob    | hazlina_yaacob@schools.gov.sg    |
-|      | Mr Chan Hong Wei    | chan_hong_wei@schools.gov.sg     |
-| 2Responsibility     | Ms Mohana     | mohana_parthiben@schools.gov.sg     |
-|     | Mdm Shi Yibin     | shi_yibin@schools.gov.sg     |
-| 2Resilience     | Miss Nursyarmin Binte Suwandi     | nursyarmin_suwandi@schools.gov.sg     |
-|     | Mr Su Haojing     | su_haojing@schools.gov.sg     |
-|     | Mdm Ang Kim Chai    | ang_kim_chai@schools.gov.sg     |
-| 2Integrity     | Mdm Lee Hsueh Chien Dawn     | lee_hsueh_chien_dawn@schools.gov.sg     |
-|     | Miss Suhailah Ibrahim     | suhailah_ibrahim@schools.gov.sg     |
-| 2Care     | Ms Chang Lee Hui     | chang_lee_hui@schools.gov.sg    |
-|     | Miss Teresha Fernandaz Selvamany     | teresha_fernandaz_selvamany@schools.gov.sg     |
-| 2Excellence     | Mdm Ong Bee Leng     | ong_bee_leng@schools.gov.sg     |
-|     | Mdm Norsriwani Bte Bakar     | norsriwani_bakar@schools.gov.sg     |
-| 2Harmony     | Mr Leonard Ang     | ang_wai_hao_leonard@schools.gov.sg     |
-|     | Ms Nurul Akhmar Elias     | nurul_akhmar_elias@schools.gov.sg     |
-|     | Mdm Lee Mei Zu Peggy     | lee_mei_zu_peggy@schools.gov.sg     |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Form Teacher</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>2Respect</p></td><td rowspan="1" colspan="1"><p>Mr Tay Kim Hock</p></td><td rowspan="1" colspan="1"><p>tay_kim_hock@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Miss Teresha Fernandaz Selvamany</p></td><td rowspan="1" colspan="1"><p>teresha_fernandaz_selvamany@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>2Responsibility</p></td><td rowspan="1" colspan="1"><p>Mdm Sng Su Hoon </p></td><td rowspan="1" colspan="1"><p>sng_su_hoon@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Wong Ah Seng</p></td><td rowspan="1" colspan="1"><p>wong_ah_seng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>2Resilience</p></td><td rowspan="1" colspan="1"><p>Mdm Shanti d/o Govindasamy</p></td><td rowspan="1" colspan="1"><p>shanti_govindasamy@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm See Poh Bee</p></td><td rowspan="1" colspan="1"><p>see_poh_bee@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>2Integrity</p></td><td rowspan="1" colspan="1"><p>Mr Mohd Ali Mirza</p></td><td rowspan="1" colspan="1"><p>mohd_ali_mirza@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Li Huaitao</p></td><td rowspan="1" colspan="1"><p>li_huaitao@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Ms K Santhi Saravanan</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>2Care</p></td><td rowspan="1" colspan="1"><p>Mdm Lee Guan Pheng</p></td><td rowspan="1" colspan="1"><p>lee_guan_pheng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Chua Ban Hwee Jasper</p></td><td rowspan="1" colspan="1"><p>chua_ban_hwee_jasper@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Wan Hanim Bte Atan</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>2Excellence</p></td><td rowspan="1" colspan="1"><p>Miss Tan Cassander</p></td><td rowspan="1" colspan="1"><p>tan_cassander@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Julianna Bte Adam</p></td><td rowspan="1" colspan="1"><p>julianna_adam@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>2Harmony</p></td><td rowspan="1" colspan="1"><p>Miss Lim Duyue Ferlicia</p></td><td rowspan="1" colspan="1"><p>ang_wai_hao_leonard@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Jamaliah Yusope Lamat</p></td><td rowspan="1" colspan="1"><p>nurul_akhmar_elias@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 Joy</p></td><td rowspan="1" colspan="1"><p>Mdm Ng Sock Hoon</p></td><td rowspan="1" colspan="1"><p>ng_sock_hoon_a@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Rosamma Thomas</p></td><td rowspan="1" colspan="1"><p>rosamma_thomas@schools.gov.sg</p></td></tr></tbody></table><p></p>
