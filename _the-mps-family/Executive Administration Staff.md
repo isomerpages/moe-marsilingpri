@@ -2,6 +2,7 @@
 title: Executive Administration Staff
 permalink: /the-mps-family/eas/
 description: ""
+variant: markdown
 ---
 If you wish to contact our Executive and Administration Staff, please email to marsiling_ps@moe.edu.sg
 
@@ -16,6 +17,7 @@ If you wish to contact our Executive and Administration Staff, please email to m
 | Mdm Farhanah Noordin     | | ICT Manager     |
 | Mdm Rafidah Ameer Hamza     | | Corporate Support Officer     |
 | Mdm Yap Kum Yeen     | | Corporate Support Officer     |
+| Mdm Rohani Binte Aziz    | | Corporate Support Officer     |
 |Mr Abdul Razak Bin Hamzah    | | Operations Support Officer    |
 | Miss Jeslin Manuval    | | Operations Support Officer   |
 | Mdm Ng Choon Tee     | | Operations Support Officer    |
