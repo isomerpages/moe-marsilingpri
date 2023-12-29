@@ -3,20 +3,6 @@ title: Primary 3
 permalink: /the-mps-family/Form-Teacher-List/primary-3/
 description: ""
 third_nav_title: Form Teacher List
+variant: tiptap
 ---
-| Class | Form Teacher | Email Address |
-| -------- | -------- | -------- |
-| 3Respect     | Mdm Siti Nur Aisyah Md Johari G     | siti_nur_aisyah_johari@schools.gov.sg     |
-|      | Ms Li JuanJuan     | li_juanjuan@schools.gov.sg     |
-|      | Mr Rolan Tambunan     | rolan_tambunan_amir_assan@schools.gov.sg     |
-| 3Responsibility     | Mr Chung Jun Rui     | chung_jun_rui@schools.gov.sg     |
-|      | Mdm Rohana Ahmad     | rohana_ahmad@schools.gov.sg     |
-| 3Resilience    | Mrs Ow Weng Keong     | ow_weng_keong_a@schools.gov.sg    |
-|      | Ms Gan Adriana Muhammad Azmi Gan     | gan_adriana_muhammad_azmi@schools.gov.sg     |
-| 3Integrity     | Ms Ang Shiao Woon     | ang_shiao_woon@schools.gov.sg     |
-|      | Mdm Herianti Abu Shah     | herianti_abu_shah@schools.gov.sg     |
-|      | Miss Nurnadiah Samsudin     | nurnadiah_samsudin@schools.gov.sg     |
-| 3Care    | Mdm Fazida Mohd Alim Khan     | fazida_mohd_alim_khan@schools.gov.sg     |
-|     | Miss Wen Caizhuang     | wen_caizhuang@schools.gov.sg    |
-| 3Excellence      | Miss Toh Jessie     | jessie_toh@schools.gov.sg     |
-|      | Mdm Prema Latha Thangavelu      | prema_latha_thangavelu@schools.gov.sg     |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Form Teacher</p></th><th rowspan="1" colspan="1"><p>Email Address</p></th></tr><tr><td rowspan="1" colspan="1"><p>3Respect</p></td><td rowspan="1" colspan="1"><p>Mdm Tang Bi Ying </p></td><td rowspan="1" colspan="1"><p>tang_bi_ying@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Fan Fang</p></td><td rowspan="1" colspan="1"><p>fan_fang@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>3Responsibility</p></td><td rowspan="1" colspan="1"><p>Miss Chang Lee Hui</p></td><td rowspan="1" colspan="1"><p>chang_lee_hui@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Siti Fatimah Bt Muhammad</p></td><td rowspan="1" colspan="1"><p>siti_fatimah_bt_muhammad@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>3Resilience</p></td><td rowspan="1" colspan="1"><p>Mr Tan Jian Chye, Sam</p></td><td rowspan="1" colspan="1"><p>tan_jian_chye_sam@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Sharifah Ainalbadri Bt Syed Abdul Rahman </p></td><td rowspan="1" colspan="1"><p>sharifah_ainalbadri@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Lee Mei Zu, Peggy</p></td><td rowspan="1" colspan="1"><p>lee_mei_zu_peggy@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>3Integrity</p></td><td rowspan="1" colspan="1"><p>Miss Nursyarmin Binte Suwandi</p></td><td rowspan="1" colspan="1"><p>nursyarmin_suwandi@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Nathanael Teo Yi Jie </p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>3Care</p></td><td rowspan="1" colspan="1"><p>Mdm Ong Kai Ling</p></td><td rowspan="1" colspan="1"><p>ong_kai_ling@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Shazana Binte Mohamed Shahari </p></td><td rowspan="1" colspan="1"><p>shazana_mohamed_shahari@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Rolan Tambunan B Amir Assan</p></td><td rowspan="1" colspan="1"><p>rolan_tambunan_amir_assan@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>3Excellence</p></td><td rowspan="1" colspan="1"><p>Mdm Lee Chun Hua</p></td><td rowspan="1" colspan="1"><p>lee_chun_hua@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Ms Maneatonufus Binte Yusoff</p></td><td rowspan="1" colspan="1"><p>maneatonufus_yusoff@schools.gov.sg</p></td></tr></tbody></table><p></p>
