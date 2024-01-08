@@ -3,20 +3,6 @@ title: Speech and Drama
 permalink: /cca/speech-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-MPS Speech and Drama is an avenue for students to develop their language and performing arts skill.
-
-In this CCA, they will learn how to respond confidently and think quickly when they are challenged with exercises such as improvisation. Students learn to work in groups and with other members in the team and share ideas when creating and drafting scenes for practices.
-
-
-| Teachers-in-Charge | Venue | Time |
-| -------- | -------- | -------- |
-| Ms Alivia Tang (I/C)     | ISH Dance Studio (Level 3)     | Thursday, 3.15pm-4.45pm     |
-| Ms How Li Miin (2nd I/C)     |      |     |
-| Mdm Prema Latha    |     |      |
-
-![](/images/CCA/spd100.jpg)
-![](/images/CCA/spd200.jpg)
-![](/images/CCA/spd300.jpg)
-![](/images/CCA/spd400.jpg)
-![](/images/CCA/spd500.jpg)
+<p>MPS Speech and Drama is an avenue for students to develop their language and performing arts skill.</p><p>In this CCA, they will learn how to respond confidently and think quickly when they are challenged with exercises such as improvisation. Students learn to work in groups and with other members in the team and share ideas when creating and drafting scenes for practices.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Alivia Tang (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Dance Studio (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Ow Weng Keong (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Nicholas Neo Wenjie</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd400.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd500.jpg"></div><p></p>
