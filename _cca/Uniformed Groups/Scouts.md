@@ -1,8 +1,0 @@
----
-title: Scouts
-permalink: /cca/scouts/
-description: ""
-third_nav_title: Uniformed Groups
-variant: tiptap
----
-<p>The objectives of the CCA are for the Cub Scouts to develop good citizenship, train them in habits of observation, obedience and self-reliance, inculcate loyalty and thoughtfulness for others, teach them services useful to the school and public and skills useful to themselves and promote their physical, mental and socio emotional development. MPS Scouts achieved Gold in the National Cub Scout Challenge 2019.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Session 2</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Tsen Hon Leong (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH CCA Room 1 &amp; 2</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Nur 'Aliah Binte Gasali (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Wang Yuhang</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Michelle Tan Siyun</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="11 Cub Scouts joint 2023 CLTC camp on 27 May 2023" src="/images/CCA/Scout/CLTC%20camp/scout1.jpg"></div><p><em>11 Cub Scouts joint 2023 CLTC camp on 27 May 2023</em></p>
