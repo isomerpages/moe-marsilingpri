@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Art & Craft.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Percussion Ensemble.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Show Choir.md
-      - Performing Arts/Speech and Drama.md
-      - Performing Arts/.keep
+      - Visual and Performing Arts/Art & Craft.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Percussion Ensemble.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Show Choir.md
+      - Visual and Performing Arts/Speech and Drama.md
+      - Visual and Performing Arts/.keep
       - Clubs/Infocomm Technology (Media Production).md
       - Clubs/Environmental Science.md
       - Clubs/.keep
