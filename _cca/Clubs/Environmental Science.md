@@ -3,17 +3,6 @@ title: Environmental Science
 permalink: /cca/environmental-science/
 description: ""
 third_nav_title: Clubs
+variant: tiptap
 ---
-MPS Environmental Science was introduced in 2014 with the combining of Science and Green Club. Environmental Science aims to instill positive values and attitudes towards Science learning where students will be able to identify and solve science investigate questions as well as towards the community by involving them in conservation and other environmental activities through art. Students also participated in Elementz Science Project Competition and attained Bronze Award & Certificate of Commendation.
-
-
-| Teachers-in-Charge | Venue | Time |
-| -------- | -------- | -------- |
-| Mdm Shammane (I/C)     | Science Lab 1 (Level 3)    | Thursday, 3.15pm-4.45pm     |
-| Mdm Chen Xiaoyin (2nd I/C)     |      |      |
-| Mdm Siti Nur Aisyah    |    |    |
-
-![](/images/CCA/ens100.jpg)
-![](/images/CCA/ens200.jpg)
-![](/images/CCA/ens300.jpg)
-![](/images/CCA/ens400.jpg)
+<p>MPS&nbsp;Environmental Science&nbsp;was introduced in 2014 with the combining of Science and Green Club.&nbsp;Environmental Science&nbsp;aims to instill positive values and attitudes towards Science learning where students&nbsp;will be able to identify and solve science investigate questions as well as towards the community by involving them in conservation and other environmental activities through art. Students also participated in Elementz Science Project Competition and attained Bronze Award &amp; Certificate of Commendation.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Shammane (I/C)</p></td><td rowspan="1" colspan="1"><p>Science Lab 1 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chung Jun Rui(2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Nur Aisyah</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens400.jpg"></div><p></p>
