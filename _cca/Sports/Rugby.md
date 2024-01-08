@@ -3,19 +3,6 @@ title: Rugby
 permalink: /cca/rugby/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-MPS Rugby aims to equip students with the technical skills of how to play rugby confidently and safely. Besides the physical, students learn values such as teamwork, resilience and overcoming their fears and inhibitions. Students have the opportunity to showcase their skills annually at the National School Games. Additionally, the CCA aims to provide a pathway for students to pursue the sport in secondary school.
-
-
-
-| Teachers-in-Charge| Venue | Time |
-| -------- | -------- | -------- |
-| Mr Ang Wai Hao Leonard (I/C)     | Field (Fair Weather Condition)| Thursday, 3.15pm-4.45pm    |
-| Mr Francis Tay (2nd I/C)    | Hall (Level 2) (Wet Weather Condition)   |     |
-| Mr Amir    |      |     |
-| Mr Chung Jun Rui   |     |      |
-| Mr Nursaffwan     |     |
-
-![](/images/CCA/ruby100.jpg)
-![](/images/CCA/ruby200.jpg)
-![](/images/CCA/ruby300.jpg)
+<p>MPS Rugby aims to equip students with the technical skills of how to play rugby confidently and safely. Besides the physical, students learn values such as teamwork, resilience and overcoming their fears and inhibitions. Students have the opportunity to showcase their skills annually at the National School Games. Additionally, the CCA aims to provide a pathway for students to pursue the sport in secondary school.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Wai Hao Leonard (I/C)</p></td><td rowspan="1" colspan="1"><p>Field (Fair Weather Condition)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Nursaffwan Bin Othman (2nd I/C)</p></td><td rowspan="1" colspan="1"><p>Hall (Level 2) (Wet Weather Condition)</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Ibrahim Bin Zainee</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Amir Abidin Zulkifli</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ruby100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ruby200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ruby300.jpg"></div><p></p>
