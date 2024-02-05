@@ -16,8 +16,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2024 Assessment/MPS_2024_T1_034_Primary_6_Assessment_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Assessment 2024</a>
 </p>
-<p><a href="/files/2024 P1 First day of school/MPS_2024_T1_001_Welcome_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Letter to Parents by Principal</a>
-</p>
 <p><a href="/files/YH Letters/MPS_2024_T1___02a__P1_YH_Letter_and_COE.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 YH Letter 2024</a>
 </p>
 <p><a href="/files/YH Letters/MPS_2024_T1___02b__P2_YH_Letter_and_COE.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 YH Letter 2024</a>
