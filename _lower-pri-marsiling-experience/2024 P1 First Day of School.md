@@ -4,7 +4,8 @@ permalink: /lower-pri-marsiling-experience/2024-p1-first-day-of-school/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><a href="https://for.edu.sg/2024firstdayofschoolp1" rel="noopener noreferrer nofollow" target="_blank">2024 First Day of School Slides</a>
+</p>
 <p><a href="/files/2024 P1 First day of school/2024_Cyber_Wellness_Talk_for_P1_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Cyber Wellness Slides</a>
 </p>
 <p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_EdTech__MPS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 EdTech Slides</a>
