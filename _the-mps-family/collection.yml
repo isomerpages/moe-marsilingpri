@@ -2,7 +2,6 @@ collections:
   the-mps-family:
     output: true
     order:
-      - School Advisory Committee (SAC).md
       - School Leaders.md
       - Key Personnel.md
       - Form Teacher List/.keep
@@ -19,3 +18,4 @@ collections:
       - PE, Art, Music.md
       - Allied Educators.md
       - Executive Administration Staff.md
+      - School Advisory Committee (SAC).md
