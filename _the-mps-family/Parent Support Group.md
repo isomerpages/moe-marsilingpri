@@ -1,8 +1,8 @@
 ---
 title: Parent Support Group
-permalink: /the-mps-family/psg/
+permalink: /the-mps-family/parent-support-group/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 ### **PSG COMMITTEE MEMBERS**
 
