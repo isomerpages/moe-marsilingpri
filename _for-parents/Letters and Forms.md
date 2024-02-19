@@ -4,6 +4,10 @@ permalink: /for-parents/letters-forms/
 description: ""
 variant: tiptap
 ---
+<p><a href="/files/MPS_2024_T1_078__P1_PTC.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent-Teacher Conference (PTC) 2024 for Primary 1</a>
+</p>
+<p><a href="/files/MPS_2024_T1_079___P6_PTC.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent-Teacher Conference (PTC) 2024 for Primary 6</a>
+</p>
 <p><a href="/files/2024 Assessment/MPS_2024_T1_029_Primary_1_School_based_Assessment_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 School Based Assessment 2024</a>
 </p>
 <p><a href="/files/2024 Assessment/MPS_2024_T1_030_Primary_2_School_based_Assessment_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 School Based Assessment 2024</a>
