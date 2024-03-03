@@ -105,7 +105,7 @@ and our children during their time in Marsiling Primary School.</p>
 <div class="iframe-wrapper">
 <iframe height="178" width="300" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3-_Ga2TgDBw05p5EUZAhiJtCLt94pNtKioTbSHU_LvWEY940iC_eJlIIn_fi5OfBLQKU79Ma2biBO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+<p>Click on the video to watch how a student demonstrate the value of integrity.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
