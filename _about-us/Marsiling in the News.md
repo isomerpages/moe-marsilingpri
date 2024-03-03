@@ -13,10 +13,10 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your cardSPARKS@MPS: A Unique Applied Learning Project</div>
+<div class="isomer-card-title">SPARKS@MPS: A Unique Applied Learning Project</div>
 <div class="isomer-card-description">How a broadcast room helps strengthen students’ language skills</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/parenting-education/at-risk-primary-5-pupil-improves-school-attendance-and-gets-award-for" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nur Syazliana Muhammad Zamri" src="/images/Article_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">At-risk Primary 5 pupil improves school attendance and gets award for good progress</div><div class="isomer-card-description">With the help of her school, Marsiling Primary, and a student welfare officer, a Primary 5 pupil began to turn up more often in school.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
