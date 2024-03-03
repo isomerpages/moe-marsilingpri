@@ -106,3 +106,8 @@ and our children during their time in Marsiling Primary School.</p>
 <iframe height="428" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ep5kNwmDRlg"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5691011539!2d103.77108437496594!3d1.4338103985526862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da12536fac1fb3%3A0x4510936a88bd185d!2sMarsiling%20Primary%20School!5e0!3m2!1sen!2ssg!4v1709438673458!5m2!1sen!2ssg"></iframe>
+</div>
+<p></p>
+<p></p>
