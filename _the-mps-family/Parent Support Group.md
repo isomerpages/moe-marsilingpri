@@ -100,7 +100,7 @@ and our children during their time in Marsiling Primary School.</p>
 <th rowspan="1" colspan="1">
 <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/65e3d1f54ff916a02a6f3ee2" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe style="width: 100%; height: 3000px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/65e3d1f54ff916a02a6f3ee2"></iframe>
+<iframe style="width: 100%; height: 1000px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/65e3d1f54ff916a02a6f3ee2"></iframe>
 </div>
 <p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a>
 </p>
