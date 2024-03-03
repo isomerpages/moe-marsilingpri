@@ -92,6 +92,10 @@ and our children during their time in Marsiling Primary School.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_08.JPG">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka.png">
+</div>
 <p>Programme Highlight</p>
 <p>What the programme is about. For instance, Chinese New Year event.</p>
 <div class="iframe-wrapper">
