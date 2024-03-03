@@ -92,3 +92,9 @@ and our children during their time in Marsiling Primary School.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_08.JPG">
 </div>
 <p></p>
+<p>Programme Highlight</p>
+<p>What the programme is about. For instance, Chinese New Year event.</p>
+<div class="iframe-wrapper">
+<iframe height="356" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3-_Ga2TgDBw05p5EUZAhiJtCLt94pNtKioTbSHU_LvWEY940iC_eJlIIn_fi5OfBLQKU79Ma2biBO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
