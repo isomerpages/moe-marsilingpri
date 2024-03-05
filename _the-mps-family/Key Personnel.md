@@ -4,7 +4,8 @@ permalink: /the-mps-family/Key-personnel/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Leaders</strong></h4>
+<p><strong>School Leaders</strong>
+</p>
 <table>
 <tbody>
 <tr>
@@ -54,7 +55,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>Heads of Departments</strong></h4>
+<p><strong>Heads of Departments</strong>
+</p>
 <table>
 <tbody>
 <tr>
@@ -182,7 +184,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>Administration Managers</p>
+<p><strong>Administration Managers</strong>
+</p>
 <table>
 <tbody>
 <tr>
