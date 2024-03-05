@@ -182,3 +182,42 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>Administration Managers</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>winnie_ng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Candy Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_hiu_fung@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
