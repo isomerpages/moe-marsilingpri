@@ -174,8 +174,7 @@ variant: tiptap
 <p>Mdm Shirley Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being</p>
-<p>(Cov. AYH/Middle Primary)</p>
+<p>SH/Student Well-Being (Cov. AYH/Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
