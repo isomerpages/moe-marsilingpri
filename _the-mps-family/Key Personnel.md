@@ -60,6 +60,126 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Xinru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_xinru@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Sze Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yong_sze_leng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Natasha Maidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>natasha_maidin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Herianti Abu Shah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>herianti_abu_shah@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jasper Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Information &amp; Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_ban_hwee_jasper@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_lay_ching_angela@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nick Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH/Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_hong_wei@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shazana Mohamed Shahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH/Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shazana_mohamed_shahari@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Danny Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH/Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_swee_sheng_danny@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Subject Heads</strong>
+</p>
+<table>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name of Staff</p>
 </th>
