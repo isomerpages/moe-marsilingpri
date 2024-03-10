@@ -15,9 +15,9 @@ sections:
         - title: The Inspiring Teacher of English Award (ITEA) 2024 is open for
             nomination!
           date: 10 March 2024
-          announcement: Nominate teachers who ignite passion for English, excel in
-            language teaching, and adapt to student needs for the ITEA 2024 by
-            25 March.
+          announcement: Nominate teachers who ignite passion for English, promote
+            interactive learning, and adapt to student needs for the ITEA 2024
+            by 25 March.
           link_text: Read more
           link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
         - title: 2023 PSLE Results Release Day
