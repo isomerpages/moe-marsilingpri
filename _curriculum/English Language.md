@@ -60,7 +60,9 @@ Teachers join in the fun as characters from story books and bring students
 into the world of books. At the same time, students at the various levels
 will have the opportunity to showcase their talent through Choral Reading,
 Readers’ Theatre and Speech and Drama.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrnhsWz6nYtnn0ZUXFKvS3wYpngP-KWXRecL_uqXbhJY7yMYKNMT8GxfBJ5vZWPDys2Io8uuYGO2lh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos_2.jpg">
