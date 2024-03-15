@@ -60,7 +60,8 @@ Teachers join in the fun as characters from story books and bring students
 into the world of books. At the same time, students at the various levels
 will have the opportunity to showcase their talent through Choral Reading,
 Readers’ Theatre and Speech and Drama.</p>
-<p>Below is a video showing how a student demonstrates the value of integrity.</p>
+<p><strong>Below is a video showing how a student demonstrates the value of integrity.</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="475.31" width="844.48" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1Ny-1zHw5AI?si=BwJq6CEmRdN-p5er"></iframe>
 </div>
