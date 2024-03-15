@@ -63,6 +63,9 @@ Readers’ Theatre and Speech and Drama.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos.png">
 </div>
 <div class="isomer-image-wrapper">
