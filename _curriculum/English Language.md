@@ -62,6 +62,9 @@ will have the opportunity to showcase their talent through Choral Reading,
 Readers’ Theatre and Speech and Drama.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Fiesta_.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/el%20fiesta%201.jpeg">
 </div>
 <div class="isomer-image-wrapper">
