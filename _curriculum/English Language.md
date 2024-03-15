@@ -78,3 +78,7 @@ Readers’ Theatre and Speech and Drama.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/el%20fiesta%203.jpeg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos_2.jpg">
+</div>
+<p></p>
