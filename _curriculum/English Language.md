@@ -52,11 +52,7 @@ and reading extension activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/picture%202.jpeg">
 </div>
 <h4><strong>Key Programmes</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EL Fiesta Sample" src="/images/EL_Fiesta.jpg">
-</div>
-<h4><strong>EL Fiesta</strong></h4>
+<h4>EL Fiesta</h4>
 <p>EL Fiesta is a celebration of English Language Learning. Students will
 learn about the various genres through various fun activities such as role-playing,
 word games, recreating characters and writing stories based on the genre.
@@ -65,13 +61,6 @@ into the world of books. At the same time, students at the various levels
 will have the opportunity to showcase their talent through Choral Reading,
 Readers’ Theatre and Speech and Drama.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Fiesta.svg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Fiesta_2.svg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/el%20fiesta%201.jpeg">
 </div>
