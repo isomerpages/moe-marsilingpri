@@ -69,7 +69,7 @@ Readers’ Theatre and Speech and Drama.</p>
 <div class="iframe-wrapper">
 <iframe height="475.31" width="844.48" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1Ny-1zHw5AI?si=BwJq6CEmRdN-p5er"></iframe>
 </div>
-<p>Click to play the video on how a student demonstrates integrity.</p>
+<p>Watch a video on how a student demonstrates integrity.</p>
 <div class="iframe-wrapper">
 <iframe height="500.72" width="844.8" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrnhsWz6nYtnn0ZUXFKvS3wYpngP-KWXRecL_uqXbhJY7yMYKNMT8GxfBJ5vZWPDys2Io8uuYGO2lh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
