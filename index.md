@@ -31,7 +31,7 @@ sections:
           date: 20 March 2024
           announcement: Nominate teachers who is a learned person that contributes to
             society, through their dedication, commitment and exemplary service
-            as a Singapore educator for the AGAB 2024 by 1 April 2024.
+            as a Singapore educator for the AGAB 2024 by 1 April 2024
           link_text: Read more
           link_url: https://go.gov.sg/agab2024
   - infopic:
