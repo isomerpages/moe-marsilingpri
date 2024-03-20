@@ -20,12 +20,20 @@ sections:
             by 25 March.
           link_text: Read more
           link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-        - title: 2023 PSLE Results Release Day
-          date: 22 November 2023
-          announcement: Useful information for Parents on Secondary 1 Posting Exercise and
-            Resources &Tips for Parents.
-          link_text: Click Here
-          link_url: https://for.edu.sg/2023-briefing-slides-for-parents
+        - title: The Most Inspiring Tamil Teacher Award 2024 is open for nomination!
+          date: 20 March 2024
+          announcement: Nominate teachers who are dedicated and passionate in nurturing
+            the students to be self-directed and engaged learners for The Most
+            Inspiring Tamil Teacher Award 2024 by 1 April 2024
+          link_text: Read more
+          link_url: https://go.gov.sg/mitt2024nominationformel.
+        - title: The Arif Budiman Malay Language Teacher Award (AGAB) 2024
+          date: 20 March 2024
+          announcement: Nominate teachers who is a learned person that contributes to
+            society, through their dedication, commitment and exemplary service
+            as a Singapore educator for the AGAB 2024 by 1 April 2024
+          link_text: Read more
+          link_url: https://go.gov.sg/agab2024
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
