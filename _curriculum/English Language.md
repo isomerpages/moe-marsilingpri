@@ -66,18 +66,6 @@ will have the opportunity to showcase their talent through Choral Reading,
 Readers’ Theatre and Speech and Drama.</p>
 <p><strong>Below is a video showing how a student demonstrates the value of integrity.</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="475.31" width="844.48" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1Ny-1zHw5AI?si=BwJq6CEmRdN-p5er"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="500.72" width="844.8" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrnhsWz6nYtnn0ZUXFKvS3wYpngP-KWXRecL_uqXbhJY7yMYKNMT8GxfBJ5vZWPDys2Io8uuYGO2lh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos_2.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eureka_photos.png">
 </div>
