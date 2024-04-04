@@ -101,7 +101,8 @@ third_nav_title: Briefing Slides
 <p>17 November 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://for.edu.sg/2024-p1-orientationday-sharing" rel="noopener noreferrer nofollow" target="_blank">2024 Primary 1 Orientation Day</a>
+</p>
 </td>
 </tr>
 </tbody>
