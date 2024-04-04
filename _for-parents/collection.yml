@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Letters/Primary 6.md
       - School Letters/Primary 5.md
       - School Letters/Primary 4.md
       - School Letters/Primary 3.md
