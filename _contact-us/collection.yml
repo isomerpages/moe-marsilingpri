@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - School Hours.md
       - Contact Us.md
       - Getting Here.md
       - Contact Information.md
