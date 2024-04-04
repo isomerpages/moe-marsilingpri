@@ -2,14 +2,14 @@ collections:
   for-parents:
     output: true
     order:
-      - School Letters/Primary 6.md
-      - School Letters/Primary 5.md
-      - School Letters/Primary 4.md
-      - School Letters/Primary 3.md
-      - School Letters/Primary 2.md
       - School Letters/.keep
       - School Letters/Schoolwide.md
       - School Letters/Primary 1.md
+      - School Letters/Primary 2.md
+      - School Letters/Primary 3.md
+      - School Letters/Primary 4.md
+      - School Letters/Primary 5.md
+      - School Letters/Primary 6.md
       - Letters and Forms.md
       - Resources/.keep
       - Resources/Parent Gateway Guide.md
