@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Letters/Schoolwide.md
       - School Letters/.keep
       - Letters and Forms.md
       - Resources/.keep
