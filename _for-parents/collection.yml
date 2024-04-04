@@ -2,13 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Service Providers/School Dental Service.md
-      - School Service Providers/School Bus Service.md
-      - School Service Providers/School Uniform.md
-      - School Service Providers/School Canteen.md
-      - School Service Providers/School Bookshop.md
-      - School Service Providers/School Based Student Care Centre.md
-      - School Service Providers/.keep
       - School Letters/.keep
       - School Letters/Schoolwide.md
       - School Letters/Primary 1.md
@@ -25,6 +18,13 @@ collections:
       - Briefing Slides/Primary 4.md
       - Briefing Slides/Primary 5.md
       - Briefing Slides/Primary 6.md
+      - School Service Providers/.keep
+      - School Service Providers/School Dental Service.md
+      - School Service Providers/School Bus Service.md
+      - School Service Providers/School Uniform.md
+      - School Service Providers/School Canteen.md
+      - School Service Providers/School Bookshop.md
+      - School Service Providers/School Based Student Care Centre.md
       - Letters and Forms.md
       - Resources/.keep
       - Resources/Parent Gateway Guide.md
