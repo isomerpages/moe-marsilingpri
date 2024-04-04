@@ -51,6 +51,32 @@ third_nav_title: Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_Math_Briefing_Slides__Hall_Segment_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Maths Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_MT_Briefing_Slides__Hall_Segment____For_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Mother Tongue Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
