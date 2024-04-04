@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Information/Lower Primary.md
       - School Information/Schoolwide.md
       - School Information/.keep
       - School Letters/.keep
