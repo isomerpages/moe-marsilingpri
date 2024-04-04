@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Briefing Slides/.keep
       - School Letters/.keep
       - School Letters/Schoolwide.md
       - School Letters/Primary 1.md
