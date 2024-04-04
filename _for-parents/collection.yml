@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - School Information/Upper Primary.md
-      - School Information/Middle Primary.md
-      - School Information/Lower Primary.md
-      - School Information/Schoolwide.md
       - School Information/.keep
+      - School Information/Schoolwide.md
+      - School Information/Lower Primary.md
+      - School Information/Middle Primary.md
+      - School Information/Upper Primary.md
       - School Letters/.keep
       - School Letters/Schoolwide.md
       - School Letters/Primary 1.md
