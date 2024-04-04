@@ -74,7 +74,26 @@ third_nav_title: Briefing Slides
 <p>2 January 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024 P1 First day of school/2024_P1_PE_Curriculum_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 PE Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 P1 First day of school/2024_P1_Slides_for_Art.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Art Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 January 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 P1 First day of school/2024_P1_Music_Curriculum_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Music Slides</a>
+</p>
 </td>
 </tr>
 </tbody>
