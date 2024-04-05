@@ -17,5 +17,5 @@ variant: markdown
 <p><strong>Contact</strong>
 <br>Tel: 86183083</p>
 <p><strong>Resources</strong>
-<br>Click <a href="/files/Information_on_sale_of_uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>to access information on sale of school uniform.
+<br>Click <a href="/files/Information_on_sale_of_uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access information on sale of school uniform.
 </p>
