@@ -3,19 +3,15 @@ title: School Bus Service
 permalink: /school-information/school-bus-service/
 description: ""
 third_nav_title: School Service Providers
-variant: markdown
+variant: tiptap
 ---
-##### **Bus Vendor**
-##### Aik Shen Bus Service
-
-Contact
-
-Tel: 62694708
-
-Hp: 96327095 (Mr. Yeo)
-
-Email: marsiling@aikshenbus.com.sg
-
-Resources
-
-Click [here](https://form.gov.sg/615bbeb3d106760012df2606) to download the registration form.
+<p><strong>Bus Vendor </strong>
+<br><strong>Aik Shen Bus Service</strong>
+</p>
+<p><strong>Contact</strong>
+<br>Tel: 62694708
+<br>Hp: 96327095 (Mr. Yeo)
+<br>Email: marsiling@aikshenbus.com.sg</p>
+<p><strong>Resources</strong>
+<br>Click <a href="https://form.gov.sg/615bbeb3d106760012df2606" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the registration form.</p>
