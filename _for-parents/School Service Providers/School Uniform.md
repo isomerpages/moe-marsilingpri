@@ -1,0 +1,25 @@
+---
+title: School Uniform
+permalink: /school-information/school-uniform/
+description: ""
+third_nav_title: School Service Providers
+variant: markdown
+---
+<p><strong>Address</strong>
+</p>
+<p>Sowell Garment Pte ltd</p>
+<p>80 Playfair Road #01-14, Kapo Factory Building,
+<br>Singapore 367998</p>
+<p><strong>Operating Hours</strong>
+</p>
+<p>Monday - Friday&nbsp;
+<br>10:00 am to 4:00 pm</p>
+<p><strong><em>Closed:</em></strong><em>&nbsp;Public Holidays, Christmas Eve, New Year's Eve and Chinese New Year's Eve</em>
+</p>
+<p></p>
+<p><strong>Contact</strong>
+</p>
+<p>86183083</p>
+<p>Resources</p>
+<p>Click <a href="/files/Information_on_sale_of_uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
