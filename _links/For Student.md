@@ -2,12 +2,93 @@
 title: For Student
 permalink: /useful-links/for-student/
 description: ""
+variant: tiptap
 ---
-* Student Learning Space: [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
-
-* Koobits: [https://member.koobits.com/](https://member.koobits.com/)
-
-
-* Oxford Reading Buddy: [https://www.oxfordreadingbuddy.com](https://www.oxfordreadingbuddy.com)
-
-* DiscoveryReads: [https://childrenandteens.nlb.gov.sg/](https://childrenandteens.nlb.gov.sg/)
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Learning Space (SLS)   </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SLS_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>The SLS is MOE's core platform
+<br>for teaching and learning and is one of
+<br>MOE's key initiatives to transform
+<br>the learning experiences of Singaporean students.
+<br>Website: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KooBits</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Koobits.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Aligned with the MOE syllabus, KooBits is a
+<br>platform that offers interactive activities aimed
+<br>at reinforcing math concepts and
+<br>fostering problem-solving skills for children.
+<br>Website: <a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://member.koobits.com/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DiscoveReads</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discover_Reads.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>DiscoveReads is a digital platform curated by
+<br>the National Library Board (NLB) specifically
+<br>for children and teenager. It aims to offer a
+<br>wide range of resources, including books,
+<br>educational materials, online programs, and
+<br>information about events and activities
+<br>tailored to young audiences.
+<br>Website: <a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://childrenandteens.nlb.gov.sg/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>myON</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Myon.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>myON reader personalises reading for students
+<br>by recommending books based on their interest,
+<br>reading level, and ratings of books they have read.
+<br>Website: <a href="https://www.myon.com.sg/login/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.myon.com.sg/login/</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
