@@ -18,9 +18,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Student Learning Space (SLS)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SLS_new_blue.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -33,9 +30,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SLS_new_blue.png">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>The SLS is MOE's core platform
 <br>for teaching and learning and is one of
 <br>MOE's key initiatives to transform
@@ -48,6 +50,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>KooBits</strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Koobits.jpg">
