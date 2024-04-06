@@ -30,7 +30,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SLS_new_blue.png">
 </div>
@@ -53,6 +52,7 @@ the learning experiences of Singaporean students.
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p>Aligned with the MOE syllabus, KooBits is a platform that offers interactive
 activities aimed at reinforcing math concepts and
@@ -85,7 +85,6 @@ and
 <td rowspan="1" colspan="1">
 <p><strong>myON</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/myON.jpg">
 </div>
