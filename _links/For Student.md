@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Discover_Reads.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/DiscoveReads.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
