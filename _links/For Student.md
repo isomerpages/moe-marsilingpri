@@ -49,7 +49,7 @@ the learning experiences of Singaporean students.
 <p><strong>KooBits</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/KooBits_icon.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/KooBits_icon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
