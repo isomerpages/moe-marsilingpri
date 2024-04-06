@@ -30,9 +30,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The SLS is MOE's core platform
-<br>for teaching and learning and is one of MOE's key initiatives to transform
-the learning experiences of Singaporean students.</p>
+<p>The SLS is MOE's core platform for teaching and learning and is one of
+MOE's key initiatives to transform the learning experiences of Singaporean
+students.</p>
 <p>
 <br>Website: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/login</u></a>
 </p>
