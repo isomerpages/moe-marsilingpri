@@ -4,16 +4,10 @@ permalink: /useful-links/for-student/
 description: ""
 variant: tiptap
 ---
+<p><strong>Links for Student</strong>
+</p>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Student Learning Space (SLS)</strong>
