@@ -16,11 +16,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Learning Space (SLS)   </strong>
+<p><strong>Student Learning Space (SLS)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SLS_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SLS_new_blue.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
