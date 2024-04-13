@@ -98,7 +98,6 @@ on their interest, reading level, and ratings of books they have read.</p>
 <td rowspan="1" colspan="1">
 <p><strong>eZhishi</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/eZhishi.jpg">
 </div>
@@ -109,6 +108,9 @@ on their interest, reading level, and ratings of books they have read.</p>
 of the Chinese Language. Through interactive online tools and resources,
 students are encouraged to take charge of their learning journey, fostering
 a habit of self-directed study.</p>
+<p></p>
+<p>Website: <a href="https://www.ezhishi.com/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/Contents/</a>
+</p>
 </td>
 </tr>
 </tbody>
