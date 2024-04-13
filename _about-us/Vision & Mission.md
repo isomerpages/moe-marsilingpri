@@ -4,7 +4,6 @@ permalink: /visionmission/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 77%;" height="auto" width="100%" alt="School Vision" src="/images/School_vision__2_.png">
 </div>
