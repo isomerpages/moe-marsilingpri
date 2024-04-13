@@ -94,6 +94,23 @@ on their interest, reading level, and ratings of books they have read.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>eZhishi</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/eZhishi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>eZhishi is a platform that supports students in enhancing their learning
+of the Chinese Language. Through interactive online tools and resources,
+students are encouraged to take charge of their learning journey, fostering
+a habit of self-directed study.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
