@@ -2,8 +2,8 @@ collections:
   contact-us:
     output: true
     order:
-      - School Gate Opening Hours.md
       - Contact Information.md
       - Getting Here.md
       - School Hours.md
+      - School Gate Opening Hours.md
       - School Fees Collection.md
