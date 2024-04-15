@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Contact Information.md
+      - Getting Here.md
       - School Hours.md
       - Contact Us.md
-      - Getting Here.md
       - School Fees Collection.md
