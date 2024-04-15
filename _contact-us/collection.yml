@@ -2,8 +2,8 @@ collections:
   contact-us:
     output: true
     order:
-      - School Fees Collection.md
+      - Contact Information.md
       - School Hours.md
       - Contact Us.md
       - Getting Here.md
-      - Contact Information.md
+      - School Fees Collection.md
