@@ -2,5 +2,4 @@ collections:
   lower-pri-marsiling-experience:
     output: true
     order:
-      - Lower Primary Showcase.md
       - Parent's Resources.md
