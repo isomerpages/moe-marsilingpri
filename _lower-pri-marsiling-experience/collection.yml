@@ -1,5 +1,4 @@
 collections:
   lower-pri-marsiling-experience:
     output: true
-    order:
-      - Parent's Resources.md
+    order: []
