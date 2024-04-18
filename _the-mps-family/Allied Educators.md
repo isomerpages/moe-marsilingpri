@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Thulasi Rani d/o Tanarajoo</p>
+<p>Ms Thulasi Rani d/o Tanarajoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
