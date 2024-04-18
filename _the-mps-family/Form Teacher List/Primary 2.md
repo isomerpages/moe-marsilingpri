@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Respect</p>
+<p>2Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Kim Hock</p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Responsibility</p>
+<p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sng Su Hoon</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Resilience</p>
+<p>2Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shanti d/o Govindasamy</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p>2Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Ali Mirza</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Care</p>
+<p>2Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Guan Pheng</p>
@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Excellence</p>
+<p>2Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Cassander</p>
@@ -174,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Harmony</p>
+<p>2Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Duyue Ferlicia</p>
@@ -196,7 +196,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Joy</p>
+<p>2Joy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Sock Hoon</p>
