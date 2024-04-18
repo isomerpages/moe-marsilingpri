@@ -130,6 +130,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p><strong>Level Heads (LH), Subject Heads (SH) and Assistant Year Heads (AYH)</strong>
 </p>
 <table>
@@ -249,8 +250,7 @@ variant: tiptap
 <p>Mdm Shirley Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being</p>
-<p>(Cov. AYH/Middle Primary)</p>
+<p>SH/Student Well-Being (Cov. AYH/Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
@@ -258,6 +258,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>Senior Teachers (ST)</strong>
 </p>
@@ -345,6 +346,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>Administration Managers</strong>
 </p>
