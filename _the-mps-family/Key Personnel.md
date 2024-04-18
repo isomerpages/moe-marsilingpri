@@ -130,7 +130,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Subject Heads</strong>
+<p><strong>Level Heads (LH), Subject Heads (SH) and Assistant Year Heads (AYH)</strong>
 </p>
 <table>
 <tbody>
@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Elishe Lim Shi Chi</p>
+<p>Ms Elishe Lim Shi Chi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Chinese Language (Cov. HOD/MT)</p>
@@ -249,7 +249,8 @@ variant: tiptap
 <p>Mdm Shirley Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being (Cov. AYH/Middle Primary)</p>
+<p>SH/Student Well-Being</p>
+<p>(Cov. AYH/Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
@@ -258,6 +259,92 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><strong>Senior Teachers (ST)</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Ali Mirza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/ English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohd_ali_mirza@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Soy Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/ Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_soy_moi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jamaliah Yusope Lamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jamaliah_yusope_lamat@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Sock Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_sock_hoon_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Shy Ni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_shy_ni@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Airwan Nain Sardi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>airwan_b_nain_sardi@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Administration Managers</strong>
 </p>
 <table>
