@@ -4,61 +4,16 @@ permalink: /the-mps-family/Key-personnel/
 description: ""
 variant: tiptap
 ---
-<p><strong>School Leaders</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name of Staff</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Heather Thio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marsiling_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jackson Kek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marsiling_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Felicia Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marsiling_ps@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>Heads of Departments</strong>
 </p>
 <table>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Heads of Departments (HOD) and Year Heads (YH)</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Name of Staff</strong>
@@ -75,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Xinru</p>
+<p>Ms Yeo Xinru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -97,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Natasha Maidin</p>
+<p>Ms Natasha Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science</p>
