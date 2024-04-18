@@ -34,7 +34,7 @@ Station) during the gate opening hours.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents can only drive into the school after 2.00 pm Students are to wait
+<p>Parents can only drive into the school after 2.00pm Students are to wait
 for their parents at the roundabout (school foyer).</p>
 </li>
 <li>
@@ -66,7 +66,21 @@ Security Officers on duty while in the school premises.</p>
 <p>For safety reasons and preparation for arrival and dismissal time, except
 for emergency or medical cases, no parents and visitors are allowed to
 enter the school premises 15 minutes before the start and end of school
-(i.e., 7.15 am and 1.15 pm).</p>
+(i.e., 7.15am and 1.15pm).</p>
+</li>
+<li>
+<p>Parents and visitors are to report to the General Office before meeting
+any school personnel or being directed to anywhere else in the school.
+The classroom blocks are strictly out of bound to all visitors. Please
+arrange with school personnel to arrange for an appointment before the
+visit and avoid the peak hours (i.e., from 7.15am to 7.45am, and from 1.15pm
+to 1.45pm.</p>
+</li>
+<li>
+<p>Parents and visitors are required to report to the Security Guard Post
+located at the main gate for registration. A Visitor’s sticker will be
+issued, and this must always be prominently displayed while he or she is
+in the school premises.</p>
 </li>
 </ul>
 <p></p>
