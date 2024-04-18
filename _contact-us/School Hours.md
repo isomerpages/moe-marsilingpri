@@ -46,7 +46,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>10.15am to 10.45am</p>
-<p></p>
 </td>
 </tr>
 </tbody>
