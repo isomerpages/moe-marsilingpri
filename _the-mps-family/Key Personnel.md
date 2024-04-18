@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Winnie Ng</p>
+<p>Ms Winnie Ng Chui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -374,7 +374,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Candy Wong</p>
+<p>Mdm Candy Wong Hiu Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
