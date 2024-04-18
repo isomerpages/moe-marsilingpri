@@ -345,6 +345,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Administration Managers</strong>
 </p>
 <table>
