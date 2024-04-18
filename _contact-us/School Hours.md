@@ -74,19 +74,3 @@ break period to enjoy their meals prior to the commencement of their activities.
 Within this timeframe, students can choose to eat food either purchased
 from the school canteen or brought from home</p>
 <p>Time: 1.30pm to 2pm</p>
-<p></p>
-<p><strong>General Office Opening Hours:</strong>
-</p>
-<p><u>School Term</u>
-</p>
-<p>Monday to Friday: 7.00 am to 5.00 pm</p>
-<p><u>School Holiday</u>
-</p>
-<p>Monday to Friday: 8.00am to 5.00 pm</p>
-<p><strong>School Gate Opening Hours:</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS/2024_MPS_Gate_Opening_Hours.jpg">
-</div>
-<p></p>
