@@ -61,9 +61,19 @@ Take 5! Our Marsilians will be taught how to choose healthy snacks during
 their Physical Health Education (PHE) lessons.</p>
 <p>Time: Between 12 noon and 12.15pm</p>
 <p></p>
-<p>Dismissal Time</p>
+<p><strong>Dismissal Time</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Hours School Dismissal Time" src="/images/Dismissal_time.png">
+</div>
 <p></p>
-<p></p>
+<p><strong>Lunch Time</strong>
+</p>
+<p>Students participating in afterschool programs are provided with a designated
+break period to enjoy their meals prior to the commencement of their activities.
+Within this timeframe, students can choose to eat food either purchased
+from the school canteen or brought from home</p>
+<p>Time: 1.30pm to 2pm</p>
 <p></p>
 <p><strong>General Office Opening Hours:</strong>
 </p>
