@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Respect</p>
+<p>5Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Lay Ching, Angela</p>
@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Responsibility</p>
+<p>5Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thiliban S/O Subramaniam</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Resilience</p>
+<p>5Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rashidah Bte Yaacob</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Integrity</p>
+<p>5Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Ibrahim Bin Zainee</p>
@@ -141,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Care</p>
+<p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms How Li Miin</p>
@@ -163,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Excellence</p>
+<p>5Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Yew Leong</p>
