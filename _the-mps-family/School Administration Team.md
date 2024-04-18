@@ -33,7 +33,7 @@ email to <a href="mailto:marsiling_ps@moe.edu.sg" rel="noopener noreferrer nofol
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiu Fung</p>
+<p>Mdm Wong Hiu Fung (Candy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
