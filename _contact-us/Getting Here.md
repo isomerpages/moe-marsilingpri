@@ -84,3 +84,7 @@ in the school premises.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Map Getting Here Gates" src="/images/getting_here_map.png">
+</div>
+<p></p>
