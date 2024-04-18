@@ -2,24 +2,167 @@
 title: School Administration Team
 permalink: /the-mps-family/school-administration-team/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-If you wish to contact our Executive and Administration Staff, please email to marsiling_ps@moe.edu.sg
-
-
-
-| Name |  | Designation|
-| -------- | -------- | -------- |
-| Ms Winnie Ng Chui Lin     | | Administration Manager    |
-| Mdm Wong Hiu Fung     | | Administration Manager    |
-| Mr Vijayandren Suppiah   | | Operation Manager    |
-| Mdm Yap Hui Ern Grace     | | Administrative Executive    |
-| Mdm Farhanah Noordin     | | ICT Manager     |
-| Mdm Rafidah Ameer Hamza     | | Corporate Support Officer     |
-| Mdm Yap Kum Yeen     | | Corporate Support Officer     |
-| Mdm Rohani Binte Aziz    | | Corporate Support Officer     |
-|Mr Abdul Razak Bin Hamzah    | | Operations Support Officer    |
-| Miss Jeslin Manuval    | | Operations Support Officer   |
-| Mdm Ng Choon Tee     | | Operations Support Officer    |
-| Mr Yahaya Bin Amat     | | Operations Support Officer    |
-| Mr Chua Kay Choon    | | Operations Support Officer    |
+<p>If you wish to contact our Executive and Administration Staff, please
+email to <a href="mailto:marsiling_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Ng Chui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Hiu Fung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vijayandren Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yap Hui Ern Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Farhanah Noordin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rafidah Ameer Hamza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yap Kum Yeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohani Binte Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Razak Bin Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Jeslin Manuval</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Choon Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yahaya Bin Amat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Kay Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
