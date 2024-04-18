@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p>1Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Thian Soong</p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Responsibility</p>
+<p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur 'Aliah Gasali</p>
@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience</p>
+<p>1Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Hsueh Chien Dawn</p>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p>1Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shammane D/O Arumugam</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care</p>
+<p>1Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shi Yibin</p>
@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>1Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Prema Latha D/O Thangavelu</p>
