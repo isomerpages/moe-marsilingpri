@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Respect</p>
+<p>3Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Bi Ying</p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Responsibility</p>
+<p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chang Lee Hui</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience</p>
+<p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jian Chye, Sam</p>
@@ -97,7 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p>3Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nursyarmin Binte Suwandi</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Care</p>
+<p>3Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Kai Ling</p>
@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Excellence</p>
+<p>3Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Hua</p>
