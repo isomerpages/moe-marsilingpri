@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Achievements.md
       - Principal's Message.md
       - School History.md
       - School Crest.md
@@ -10,5 +9,6 @@ collections:
       - School Values.md
       - School Song.md
       - Student's Pledge.md
+      - School Achievements.md
       - Marsiling in the News.md
       - Achievements.md
