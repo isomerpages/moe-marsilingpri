@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Respect</p>
+<p>4Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nur Aisyah Md Johari G</p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Responsibility</p>
+<p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Jun Rui</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Resilience</p>
+<p>4Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ow Weng Keong</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Integrity</p>
+<p>4Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Siew Eng</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Care</p>
+<p>4Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fazida Bte Mohd Alim Khan</p>
@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Excellence</p>
+<p>4Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Firzanah Binte Kamsani</p>
