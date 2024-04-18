@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Achievements/Marsiling in the News.md
       - School Achievements/.keep
       - Principal's Message.md
       - School History.md
