@@ -24,7 +24,7 @@ different time of the year.</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
 <p>Day: Thursday</p>
-<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Time: 3.15pm – 4.15pm</p>
 <p>Venue: Computer Lab 1 and 2</p>
 <p></p>
 <h4><strong>CCA Highlights</strong></h4>
