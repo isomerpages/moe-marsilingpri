@@ -21,3 +21,14 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <p>Day: Tuesday</p>
 <p>Time: 3.15p.m. – 4.45p.m.</p>
 <p>Venue: School Hall (Level 2)</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Weekly Training Session</h4>
+<p>MPS Taekwondo training is conducted in the school hall on Tuesdays. Under
+the coaching of experienced instructors, students engage in regular practice
+sessions to refine their skills and prepare for competitions or grading
+tests.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table.png">
+</div>
+<p></p>
