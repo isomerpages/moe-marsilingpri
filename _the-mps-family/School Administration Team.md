@@ -4,8 +4,8 @@ permalink: /the-mps-family/school-administration-team/
 description: ""
 variant: tiptap
 ---
-<p>If you wish to contact our Executive and Administration Staff, please
-email to <a href="mailto:marsiling_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a>
+<p>If you wish to contact our School Administration Team, please email to
+<a href="mailto:marsiling_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a>
 </p>
 <table>
 <tbody>
