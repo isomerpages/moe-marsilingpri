@@ -24,7 +24,7 @@ description: ""
 <p>46511</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Near Gate 1</p>
+<p>Sheltered walkway from bus stop to Gate 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>856, 912, 912B, 913, 913M, 913T, 950</p>
