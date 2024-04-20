@@ -23,7 +23,7 @@ to the community.</p>
 <p>Time: 3.15p.m. – 4.15p.m.</p>
 <p>Venue: Teaching Lab (Level 1)</p>
 <p></p>
-<h4><strong>CCA Highlights</strong></h4>
+<h4><strong>CCA Highlight(s)</strong></h4>
 <h4>World Thinking Day Celebrations</h4>
 <p>Our Brownies took part in the Girl Guides World Thinking Day 2024 event
 held at One Tampines Hub. In partnership with Raffles Girls' School, our
