@@ -32,3 +32,8 @@ of activities that highlight the vibrant and positive aspects of Singaporean
 life. These illustrations were designed to promote healthy lifestyles,
 emphasizing the importance of physical activities, hobbies, and community
 engagement.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Art and Craft" src="/images/Table_1.png">
+</div>
+<p></p>
