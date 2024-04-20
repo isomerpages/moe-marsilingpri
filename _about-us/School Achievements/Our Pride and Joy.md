@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: School Achievements
 ---
-<p></p>
+<h4><strong>Individual and Team Achievements</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LKY Award" src="/images/Achievement_1.jpg">
 </div>
@@ -25,4 +25,303 @@ third_nav_title: School Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Schools that our students end up in" src="/images/Achievement_4.jpg">
 </div>
+<p></p>
+<h4><strong>CCA Achievements</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Patch Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>#GIRL4Change Video Contests #1: International Women’s Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>#GIRL4Change Video Contests #2: Earth Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>#GIRL4Change Video Contests #4: International Day of the Girl Child</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Patch Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Creative Fusion Dance Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sandwich-making Competition (Pack Holiday Camp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nature Ramble Competition (Pack Holiday Camp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Innovative Booth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Our City in Nature Photography Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: ND Got Talent Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Boardgame Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023: Senior Team – 3rd in League 2, Group 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023: Junior Team – 2nd in Classification Round, Group D. (10th out of
+23 teams)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024: Senior Team – 3rd in League 2, Group 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scout</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022: Gold&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scout</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Area Cooking competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023: Two Team with Gold and One Team with Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scout</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Area paper plane competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023: two students with Gold and 8 students with Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scout</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023: Four students&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tchoukball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st ActiveSG-TBAS Inter-School Tchoukball Championships 2023&nbsp; (Senior
+Division)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys - 6th ; Girls- 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tchoukball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st ActiveSG-TBAS Inter-School Tchoukball Championships 2023&nbsp; (Junior
+Division)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (Cup Category) - 2nd&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 Track and Field National School Games
+<br>
+<br>1. Nur Haleeshah Binte Ithnin: J2 Girls Standing Long Jump (Bronze Medal,
+8th position)
+<br>2. Jayden Hoy Jing: S1 Boys Standing Long Jump (Silver Medal, 2nd position)
+<br>3. Olan Cassiopeia Rafael Mansilungan: J1 Girls Multi-Skill Event (Gold
+Achievement Pin)
+<br>4. Nur Qistina Bte Muhd Taufiq: J1 Girls Multi-Skill Event (Bronze Achievement
+Pin)
+<br>5. Khairunnisa Barniyah Bte Shaikhan: J1 Girls Multi-Skill Event (Bronze
+Achievement Pin)
+<br>6. Liv Chew Yu Chen: J1 Girls Multi-Skill Event (Bronze Achievement Pin)
+<br>7. Tier Woan Jiun: S2 Girls 80m (Silver Medal, 2nd position)
+<br>8. Lim Jin Cheng Linus: S2 Boys Vertical Jump (Bronze Medal, 5th position)
+<br>9. S2 Boys 80m (Bronze Medal, 4th position)
+<br>10. Zeng Shuqing: J2 Girls Medicine Ball Throw (2kg) (Bronze Medal, 7th
+position)
+<br>11. Khairunnisa Barniyah Bte Shaikhan: J1 Girls Standing Long Jump (Silver
+Medal, 2nd position)
+<br>12. Khairunnisa Barniyah Bte Shaikhan, J1 Girls 60m Hurdles (52cm) (Bronze
+Medal, 7th position)
+<br>13. Tier Woan Jiun, S2 Girls Long Implement Throw (Turbo Jav 400g) (Gold
+Medal, 1st position)
+<br>14. Overall Divisional Ranking for S2 Girls (2nd position)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
