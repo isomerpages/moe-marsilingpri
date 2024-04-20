@@ -25,7 +25,7 @@ their knowledge and skills in this domain.</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
 <p>Day: Thursday</p>
-<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Time: 3.15pm – 4.15pm</p>
 <p>Venue: Science Laboratory (Level 3)</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
