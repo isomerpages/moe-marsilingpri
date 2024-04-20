@@ -36,3 +36,23 @@ by renewing their promise in front of the whole school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Brownies World Thinking Day (WTD)" src="/images/Brownies___Table_1.png">
 </div>
 <p></p>
+<h4>North Division Day Activities</h4>
+<p>Our Brownies participated in the North Division Day, an annual gathering
+where they learn more about guiding practices with fellow Brownies. Additionally,
+they took part in various activities, exploring themes such as climate
+change, inclusive cities, healthy lifestyles, and mental well-being.</p>
+<p></p>
+<p></p>
+<h4>North Division Outdoor Challenge</h4>
+<p>The North Division Outdoor Challenge offers Guides the chance to engage
+in competitions, cooperate with Guides and Brownies from different schools,
+and enjoy themselves while learning - all within an outdoor environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_3.png">
+</div>
+<h4>National Day Observance Ceremony</h4>
+<p>Always present during the National Day Observance Ceremony, our Brownies,
+alongside the Scouts, lead the procession for the flag-raising segment.
+They carry the flag, bringing it to the flagpoles, and raise it while the
+national anthem and school song are sung.</p>
+<p></p>
