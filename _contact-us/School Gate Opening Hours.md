@@ -7,7 +7,7 @@ description: ""
 <p><strong>Gate 1 (Main Gate)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_1___Table.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Gate_1___Table.png">
 </div>
 <p></p>
 <p><strong>Gate 3</strong>
