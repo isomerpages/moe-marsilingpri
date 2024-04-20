@@ -5,4 +5,50 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<p>In Infocomm Technology (Media Production), the students are given the opportunities to explore the current Infocomm Technologies.</p><p>They’ll gain the knowledge of different programming functions and create simple coding sequences that allows them in games development using SCRATCH or mbot.</p><p>The club members will also learn about AI technology, drone technology as well as participating in competitions held throughout the year.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Yew Leong (I/C)</p></td><td rowspan="1" colspan="1"><p>Computer Lab 1 &amp; 2 (Level 2 &amp; 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Fatimah (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Maneatonufus</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Thiliban S/O Subramaniam</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/it1000.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/it2000.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/it3000.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/it4000.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/it5000.jpg"></div><p></p>
+<h4><strong>About Infocomm Technology (Media Production)</strong></h4>
+<p>In Infocomm Technology (Media Production), students are given the opportunities
+to explore the current Infocomm Technologies.</p>
+<p>Students acquire knowledge in different programming functions and create
+simple coding sequences that allows them in games development using SCRATCH
+or mbot.</p>
+<p>The club members will also learn about AI and Drone technologies as well
+as programming using the Micro:Bit board. The students also have opportunities
+to participate in Learning Journey (LJ) and various competitions held at
+different time of the year.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mr Ang Yew Leong (I/C)</p>
+<p>Mdm Siti Fatimah (2nd I/C)</p>
+<p>Ms Maneatonufus</p>
+<p>Mr Thiliban S/O Subramaniam</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: Computer Lab 1 and 2</p>
+<p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>Competitions</h4>
+<p>Students participated in the following competitions:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Pei Hwa Hackathon 2023 organised by Pei Hwa Secondary School</p>
+</li>
+<li>
+<p>National Primary Games Creation and Coding Competition (NPGC3) organised
+by Wellington Primary School</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_1.png">
+</div>
+<p></p>
+<h4><strong>P3 Learning Scratch Programming</strong></h4>
+<p>Our P3 students started off their first CCA program with learning about
+block-based coding using Scratch 3.0. The students learned the basic functions
+and commands in Scratch, and eventually they were trained to develop their
+own games using Scratch 3.0.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
