@@ -22,3 +22,13 @@ to the community.</p>
 <p>Day: Thursday</p>
 <p>Time: 3.15p.m. – 4.15p.m.</p>
 <p>Venue: Teaching Lab (Level 1)</p>
+<p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>World Thinking Day Celebrations</h4>
+<p>Our Brownies took part in the Girl Guides World Thinking Day 2024 event
+held at One Tampines Hub. In partnership with Raffles Girls' School, our
+Brownies established an interactive booth aimed at educating visitors on
+stress management techniques. Our booth demonstrated how to create water
+bead stress balls as a means of coping with stress.</p>
+<p>In addition, our Brownies reaffirm their commitment to the Guide Laws
+by renewing their promise in front of the whole school.</p>
