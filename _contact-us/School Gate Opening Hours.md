@@ -6,10 +6,22 @@ description: ""
 ---
 <p><strong>Gate 1 (Main Gate)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_1___Table.png">
+</div>
+<p></p>
 <p><strong>Gate 3</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_3___Table.png">
+</div>
+<p></p>
 <p><strong>Gate 4</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_4___Table.png">
+</div>
+<p></p>
 <p><strong>School Gate Opening Hours</strong>
 </p>
 <div class="isomer-image-wrapper">
