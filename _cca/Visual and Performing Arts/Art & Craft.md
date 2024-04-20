@@ -5,4 +5,30 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>The Art &amp; Craft Club has a 4-year plan, such that at the end of Year 4, students&nbsp;would have developed their skills in drawing, painting and craftwork. Students will be able to apply elements of art and principles of design in their artwork. They will also be able to present their artwork confidently and appreciate others ‘artwork as well. Eventually they will be able to produce creative and quality artwork which can be sent for competitions.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Airwan (I/C)</p></td><td rowspan="1" colspan="1"><p>Art Room 2 (Level 1)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms See Poh Bee (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Nur Nazurah Binte Rahim</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art300.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art400.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art500.jpg"></div><p></p>
+<h4><strong>About the Art &amp; Craft Club</strong></h4>
+<p>The Art &amp; Craft Club aims to expose students to a variety of projects
+which provide the opportunity for them to hone their skills in the different
+Art forms – drawing, painting, printmaking, sculpture, craftwork and new
+media. Students will be able to apply Elements of Art and Principles of
+Design in their artwork. They will also be able to present their artwork
+confidently and appreciate others’ artworks as well.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mr Airwan Bin Nain Sardi (I/C)</p>
+<p>Mdm See Poh Bee (2nd I/C)</p>
+<p>Nur Nazurah Binte Abdul Rahim</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Venue: Art Rooms</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Anti-Drug Ambassador Programme</h4>
+<p>As part of the Anti-Drug Ambassador Programme 2023, Art Club members contributed
+to the creation of the Anti-Drug Montage through various drawings. Through
+their diverse and skillfully crafted drawings, they depicted a wide array
+of activities that highlight the vibrant and positive aspects of Singaporean
+life. These illustrations were designed to promote healthy lifestyles,
+emphasizing the importance of physical activities, hobbies, and community
+engagement.</p>
