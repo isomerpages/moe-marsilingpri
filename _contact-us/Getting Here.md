@@ -13,7 +13,7 @@ description: ""
 <p>Bus Stop Number</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p>Bus Stop Description</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Bus Service Number</p>
