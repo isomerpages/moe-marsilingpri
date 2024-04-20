@@ -32,3 +32,7 @@ stress management techniques. Our booth demonstrated how to create water
 bead stress balls as a means of coping with stress.</p>
 <p>In addition, our Brownies reaffirm their commitment to the Guide Laws
 by renewing their promise in front of the whole school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brownies World Thinking Day (WTD)" src="/images/Brownies___Table_1.png">
+</div>
+<p></p>
