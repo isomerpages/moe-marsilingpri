@@ -63,7 +63,7 @@ their Physical Health Education (PHE) lessons.</p>
 <p><strong>Dismissal Time</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Hours School Dismissal Time" src="/images/Dismissal_time.png">
+<img style="width: 80%;" height="auto" width="100%" alt="School Hours School Dismissal Time" src="/images/Dismissal_time.png">
 </div>
 <p></p>
 <p><strong>Lunch Time</strong>
