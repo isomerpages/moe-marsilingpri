@@ -5,4 +5,40 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<p>MPS&nbsp;Environmental Science&nbsp;was introduced in 2014 with the combining of Science and Green Club.&nbsp;Environmental Science&nbsp;aims to instill positive values and attitudes towards Science learning where students&nbsp;will be able to identify and solve science investigate questions as well as towards the community by involving them in conservation and other environmental activities through art. Students also participated in Elementz Science Project Competition and attained Bronze Award &amp; Certificate of Commendation.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Shammane (I/C)</p></td><td rowspan="1" colspan="1"><p>Science Lab 1 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chung Jun Rui(2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Nur Aisyah</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ens400.jpg"></div><p></p>
+<h4><strong>About Environmental Science</strong></h4>
+<p>The Environmental Science club endeavors to cultivate its members into
+proactive and conscientious environmental stewards through a tailored suite
+of Environmental Programs. These programs are designed to imbue participants
+with constructive values and attitudes toward scientific inquiry, empowering
+them to discern and address environmental issues. Students will acquire
+the capacity to identify and resolve scientific investigative queries pertaining
+to the environment. Moreover, they will be afforded opportunities to assume
+leadership roles in championing green initiatives both within the school
+environment and the wider community. Additionally, engagement in competitions
+centered on environmental and scientific themes will serve to further augment
+their knowledge and skills in this domain.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mdm Shammane d/o Arumugam (I/C)</p>
+<p>Ms Siti Aisyah Bte Md Johari G (2nd I/C)</p>
+<p>Mr Chung Jun Rui</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: Science Laboratory (Level 3)</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Sustainability Challenge</h4>
+<p>Students from the Environmental Science program are actively engaged in
+the sorting process of donated garments, graciously contributed by their
+peers at MPS as part of our Sustainability Challenge 2, the Clothes Donation
+Drive. Under the guidance of senior students, they meticulously assess
+the suitability of each item for donation, meticulously fold and pack them
+into bags, poised for dispatch to CLOOP. This endeavor not only underscores
+our commitment to sustainability by promoting the reuse of clothing but</p>
+<p>also facilitates intergenerational collaboration and mentorship within
+our community. The subsequent dispatch of these items to CLOOP ensures
+their responsible recycling or reuse, thereby furthering the principles
+of a circular economy.</p>
+<p></p>
