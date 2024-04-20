@@ -5,4 +5,26 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Percussion Ensemble, previously known as Drumz was introduced in Marsiling Primary School in 2010. Students will learn various percussion instruments such as snare drums, tom toms and African djembes. MPS Percussion Ensemble team was identified and invited to perform for SYF Celebrations at the&nbsp;Esplanade&nbsp;Outdoor Theatre in 2018 and they were mentored by the renowned Singapore Percussion Group Sambiesta. Selected students&nbsp;were trained to co-perform with professional percussionists during this event which was held on 2 July 2018. MPS Percussion Ensemble has performed for various events inside and outside of school (E.g. Marsiling CC NDD and NDOC) and the students always look forward to these platforms when they can showcase their talents and teamwork.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ang Shiao Woon (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Band Room (Level 2)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Li Juanjuan (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Fan Fang</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Percussion%20Ensemble/percussion%20ensemble.jpg"></div><p></p>
+<h4><strong>About Percussion Ensemble</strong></h4>
+<p>In our Percussion Ensemble CCA, students learn to master a variety of
+percussion instruments. Through regular training sessions, they develop
+their musical skills, rhythm, and coordination. Students also work together
+as a team to prepare for performances, where they showcase their talent
+and creativity to the school and community.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mdm Ang Shiao Woon (I/C)</p>
+<p>Mdm Li Juanjuan (2nd I/C)</p>
+<p>Mdm Fan Fang</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Venue: Band Room</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Performance on Marsiling Carnival Day</h4>
+<p>The members of the percussion ensemble have practiced diligently and performed
+at the Marsiling Community Club for the Marsiling Carnival Day, showcasing
+their talents to the public. The opportunity to perform in front of an
+audience has helped them gain confidence.</p>
