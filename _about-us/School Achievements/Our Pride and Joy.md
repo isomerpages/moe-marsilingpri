@@ -288,40 +288,6 @@ Division)&nbsp;</p>
 <p>Girls (Cup Category) - 2nd&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023 Track and Field National School Games
-<br>
-<br>1. Nur Haleeshah Binte Ithnin: J2 Girls Standing Long Jump (Bronze Medal,
-8th position)
-<br>2. Jayden Hoy Jing: S1 Boys Standing Long Jump (Silver Medal, 2nd position)
-<br>3. Olan Cassiopeia Rafael Mansilungan: J1 Girls Multi-Skill Event (Gold
-Achievement Pin)
-<br>4. Nur Qistina Bte Muhd Taufiq: J1 Girls Multi-Skill Event (Bronze Achievement
-Pin)
-<br>5. Khairunnisa Barniyah Bte Shaikhan: J1 Girls Multi-Skill Event (Bronze
-Achievement Pin)
-<br>6. Liv Chew Yu Chen: J1 Girls Multi-Skill Event (Bronze Achievement Pin)
-<br>7. Tier Woan Jiun: S2 Girls 80m (Silver Medal, 2nd position)
-<br>8. Lim Jin Cheng Linus: S2 Boys Vertical Jump (Bronze Medal, 5th position)
-<br>9. S2 Boys 80m (Bronze Medal, 4th position)
-<br>10. Zeng Shuqing: J2 Girls Medicine Ball Throw (2kg) (Bronze Medal, 7th
-position)
-<br>11. Khairunnisa Barniyah Bte Shaikhan: J1 Girls Standing Long Jump (Silver
-Medal, 2nd position)
-<br>12. Khairunnisa Barniyah Bte Shaikhan, J1 Girls 60m Hurdles (52cm) (Bronze
-Medal, 7th position)
-<br>13. Tier Woan Jiun, S2 Girls Long Implement Throw (Turbo Jav 400g) (Gold
-Medal, 1st position)
-<br>14. Overall Divisional Ranking for S2 Girls (2nd position)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
