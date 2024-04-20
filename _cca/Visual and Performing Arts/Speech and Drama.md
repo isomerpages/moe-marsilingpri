@@ -5,4 +5,31 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Speech and Drama is an avenue for students to develop their language and performing arts skill.</p><p>In this CCA, they will learn how to respond confidently and think quickly when they are challenged with exercises such as improvisation. Students learn to work in groups and with other members in the team and share ideas when creating and drafting scenes for practices.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Alivia Tang (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Music Room 2 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Ow Weng Keong (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Nicholas Neo Wenjie</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd400.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd500.jpg"></div><p></p>
+<h4><strong>About Speech &amp; Drama Club</strong></h4>
+<p>MPS Speech &amp; Drama Club aims to provide opportunities for students
+to become confident performers and makers of art. As students work together
+as a team, putting into practice the skills they have learnt, they build
+and demonstrate values of teamwork, perseverance, self-discipline and confidence.
+&nbsp;&nbsp;</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Ms Alivia Tang (I/C)</p>
+<p>Mrs Ow Weng Keong (2nd I/C)</p>
+<p>Mr Nicholas Neo Wenjie</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Venue: Music Room 2 – ISH (Level 3)</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Total Defence Day (TDD) Skit 2024</h4>
+<p>Our members put up a skit for this year’s Total Defence Day which was
+showcased to the whole school during the TDD assembly programme. The skit
+evolved around the 6<sup>th</sup> pillar of Total Defence – Digital Defence.
+Our members had the opportunity to showcase the skills that they had learnt
+during the CCA sessions and it was a great experience for them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama___Table.png">
+</div>
+<p></p>
