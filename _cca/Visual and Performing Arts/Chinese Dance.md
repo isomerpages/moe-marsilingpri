@@ -5,4 +5,30 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Chinese Dance is an appreciation of the aesthetic. Students will learn the basic coordination, rhythmic senses and flexibility. Dancers will develop leadership skills and confidence to guide the juniors and also perform in public. Most importantly, they learn to work together as a team. In the Singapore Youth Festival Arts Presentation 2018, MPS Chinese Dance achieved the Certificate of Accomplishment.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Li Huaitao (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Dance Studio (Level 3)</p></td><td rowspan="1" colspan="1"><p>Tuesday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Goh Soy Moi (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Lam Yen Fong Jasmine</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Siew Eng</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese%20Dance/cnd100.jpg"></div><p></p>
+<h4><strong>About Chinese Dance</strong></h4>
+<p>MPS Chinese Dance is an appreciation of aesthetics. Students will learn
+basic coordination, rhythm, and flexibility. Dancers will develop leadership
+skills and confidence to guide juniors and perform in public. Most importantly,
+they will learn to work together as a team.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mdm Li Huaitao (I/C)</p>
+<p>Mdm Goh Soy Moi (2nd I/C)</p>
+<p>Miss Lam Yen Fong Jasmine</p>
+<p>Mdm Ong Siew Eng</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Tuesday, 3.15pm-4.45pm</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: ISH Dance Studio (Level 3)</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Singapore Youth Festival Arts Presentation 2024</h4>
+<p>Our Chinese Dance participated in the Singapore Youth Festival's Central
+Judging held at NUS UCC on April 4, 2024, and was awarded a Certificate
+of Accomplishment.</p>
+<p>&nbsp;Congratulations to all our participants in Chinese Dance!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance___Table.png">
+</div>
+<p></p>
