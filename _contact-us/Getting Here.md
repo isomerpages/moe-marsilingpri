@@ -118,10 +118,10 @@ to 1.45pm.</p>
 located at the main gate for registration. A Visitor’s sticker will be
 issued, and this must always be prominently displayed while he or she is
 in the school premises.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Map Getting Here Gates" src="/images/getting_here_map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/getting_here_map.png">
 </div>
 <p></p>
