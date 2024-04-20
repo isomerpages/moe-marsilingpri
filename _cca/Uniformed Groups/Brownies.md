@@ -59,6 +59,6 @@ alongside the Scouts, lead the procession for the flag-raising segment.
 They carry the flag, bringing it to the flagpoles, and raise it while the
 national anthem and school song are sung.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="75" src="/images/Brownies___Table_4.png">
 </div>
 <p></p>
