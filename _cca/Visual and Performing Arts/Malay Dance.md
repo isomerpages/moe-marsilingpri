@@ -5,4 +5,32 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Malay Dance aims to promote creativity and instill discipline and teamwork in the student dancers. It also aims to expose students to the Malay culture and thus, gaining deeper understanding of the culture. Through this CCA, students will develop leadership skills and thus, be able to guide the juniors and be confident to perform in school and external events. MPS Malay Dance has attained accomplishment awards for the past few SYF Dance competition and has performed for numerous events.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Khadijah (I/C)</p></td><td rowspan="1" colspan="1"><p>PAL Room 1 &amp; 2 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Tuesday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rosminah (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Julianna</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Norsriwani Bakar</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay%20Dance/mld100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay%20Dance/mld200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay%20Dance/mld300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay%20Dance/mld400.jpg"></div><p></p>
+<h4><strong>About Malay Dance</strong></h4>
+<p>MPS Malay Dance aims to instill resilience and teamwork in the student
+dancers, developing leadership skills and thus, be able to guide the juniors.
+It also aims to expose students to the Malay culture and thus, gaining
+deeper understanding of the culture.&nbsp; MPS Malay Dance has attained
+accomplishment awards for the past few SYF Dance competition and has performed
+for numerous events.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Teacher 1 (I/C): Mdm Khadijah</p>
+<p>Teacher 2 (2nd I/C): Mdm Rosminah</p>
+<p>Teacher 3: Mdm Julianna</p>
+<p>Teacher 4: Mdm Norsriwani</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Tuesday</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: PAL Room</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Singapore Youth Festival&nbsp; (SYF)</h4>
+<p>MPS Malay dance took part in numerous SYF competitions. The students showed
+resilience and were committed during the practice sessions. They always
+try to&nbsp; perform their best during the competition. We have attained
+the Certificate of Achievement for some years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance___Table.png">
+</div>
+<p></p>
