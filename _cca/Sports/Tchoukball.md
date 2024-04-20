@@ -34,4 +34,8 @@ respectively.</p>
 <p>In Term 4, the Junior boys and girls participated in the Inter-School
 Tchoukball Championships 2023. The boys took part in the Plate category
 while the girls took part in the Cup category. The Cup team girls clinched
-the 1<sup>st</sup> runner-up&nbsp;</p>
+the 1<sup>st</sup> runner-up.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball___Table.png">
+</div>
+<p></p>
