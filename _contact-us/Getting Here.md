@@ -6,7 +6,44 @@ description: ""
 ---
 <p><strong>Bus Services</strong>
 </p>
-<p>Nearby bus stop no. and corresponding bus service no.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Bus Stop Number</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Bus Service Number</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46511</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Near Gate 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>856, 912, 912B, 913, 913M, 913T, 950</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46521</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Next to Marsiling MRT Station</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>187, 856, 913, 913T, 925, 925M, 950, 960, 960e, 961, 961M, 963, 963e,
+966</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Nearest MRT Station</strong>
 </p>
