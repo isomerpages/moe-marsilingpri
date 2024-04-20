@@ -14,10 +14,10 @@ accomplishment awards for the past few SYF Dance competition and has performed
 for numerous events.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Teacher 1 (I/C): Mdm Khadijah</p>
-<p>Teacher 2 (2nd I/C): Mdm Rosminah</p>
-<p>Teacher 3: Mdm Julianna</p>
-<p>Teacher 4: Mdm Norsriwani</p>
+<p>Mdm Khadijah (I/C)</p>
+<p>Mdm Rosminah (2nd I/C)</p>
+<p>Mdm Julianna</p>
+<p>Mdm Norsriwani</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
 <p>Day: Tuesday</p>
