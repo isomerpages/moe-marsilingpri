@@ -20,7 +20,7 @@ confidently and appreciate others’ artworks as well.</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
 <p>Day: Thursday</p>
-<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Time: 3.15pm – 4.45pm</p>
 <p>Venue: Art Rooms</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
