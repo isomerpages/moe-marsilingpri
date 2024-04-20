@@ -21,7 +21,6 @@ third_nav_title: School Achievements
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Schools that our students end up in" src="/images/Achievement_4.jpg">
 </div>
