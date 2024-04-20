@@ -41,4 +41,7 @@ our commitment to sustainability by promoting the reuse of clothing but</p>
 our community. The subsequent dispatch of these items to CLOOP ensures
 their responsible recycling or reuse, thereby furthering the principles
 of a circular economy.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science.png">
+</div>
 <p></p>
