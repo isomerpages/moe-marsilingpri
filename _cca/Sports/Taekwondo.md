@@ -5,4 +5,19 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<p>Taekwondo is a modern martial art, characterized by its fast, high and spinning kicks. There are multiple interpretations of the name taekwondo. Taekwondo is often translated as 'the way of hand and foot'.</p><p>MPS Achievement in the 2016 National Inter-Primary&nbsp;School Taekwondo Championships:</p><p>Individual Poomsae</p><p>3rd in Senior Division Female Yellow 7</p><p>4th in Senior Division Female Blue 4</p><p>4th in Senior Division Female Blue 4</p><p>Team Poomsae</p><p>3rd in Senior Division Male Blue 4</p><p>3rd in Senior Division Male Blue 3</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Wong Ah Seng (I/C)</p></td><td rowspan="1" colspan="1"><p>School Hall (Level 2)</p></td><td rowspan="1" colspan="1"><p>Tuesday,3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Fazida (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Faizal Bin Mokhtar</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/taekwondo1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/taekwondo2.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/taekwondo3.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/taekwondo4.png"></div><p></p>
+<h4><strong>About Taekwondo</strong></h4>
+<p>Taekwondo is a modern martial art, characterised by its fast, high and
+spinning kicks. There are multiple interpretations of the name taekwondo.
+It is often translated as 'the way of hand and foot’. Taekwondo provides
+a dynamic platform where students develop discipline, confidence and physical
+fitness. It equips them with both physical prowess and valuable life skills.</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Mr Wong Ah Seng (I/C)</p>
+<p>Mdm Fazida Mohd Alim Khan (2nd I/C)</p>
+<p>Mr Muhammad Faizal Mokhtar</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Tuesday</p>
+<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Venue: School Hall (Level 2)</p>
