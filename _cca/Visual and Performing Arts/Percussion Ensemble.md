@@ -28,3 +28,7 @@ and creativity to the school and community.</p>
 at the Marsiling Community Club for the Marsiling Carnival Day, showcasing
 their talents to the public. The opportunity to perform in front of an
 audience has helped them gain confidence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table.png">
+</div>
+<p></p>
