@@ -43,12 +43,23 @@ by Wellington Primary School</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_1.png">
 </div>
 <p></p>
-<h4><strong>P3 Learning Scratch Programming</strong></h4>
+<h4><strong>P3 Scratch Programming</strong></h4>
 <p>Our P3 students started off their first CCA program with learning about
 block-based coding using Scratch 3.0. The students learned the basic functions
 and commands in Scratch, and eventually they were trained to develop their
 own games using Scratch 3.0.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_2.png">
+</div>
 <p></p>
-<p></p>
+<h4><strong>P4 Coding on BBC Micro:bit Board</strong></h4>
+<p>The P4 to P6 students continued with their application of block-based
+programming using the BBC Micro:bit board. Through the program, students
+learned to integrate input devices such as moisture detector, light and
+proximity sensors to communicate with the Micro:bit board to perform a
+desired output function.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_3.png">
+</div>
 <p></p>
 <p></p>
