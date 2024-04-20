@@ -27,7 +27,7 @@ they will learn to work together as a team.</p>
 <p>Our Chinese Dance participated in the Singapore Youth Festival's Central
 Judging held at NUS UCC on April 4, 2024, and was awarded a Certificate
 of Accomplishment.</p>
-<p>&nbsp;Congratulations to all our participants in Chinese Dance!</p>
+<p>Congratulations to all our participants in Chinese Dance!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance___Table.png">
 </div>
