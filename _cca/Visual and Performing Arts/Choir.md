@@ -5,4 +5,32 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Choir aims to equip members with good singing skills and dance techniques. Members are exposed to a range of repertoire and have various opportunities for performances in and out of school. Members will also have the opportunity to go on a Learning Journey to performing arts centres such as the Esplanade to enjoy performances together.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Toh Jessie (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Music Room 1 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Shi Yibin (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rohana</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ng Sock Hoon</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/sch100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/sch200.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/sch300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/sch400.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show%20Choir/sch500.jpg"></div><p></p>
+<h4><strong>About Choir</strong></h4>
+<p>MPS Choir aims to equip members with good singing techniques. Students
+are exposed to a range of repertoire and have various opportunities for
+performances in and out of school. Additionally, the CCA aims to provide
+a pathway for students to pursue Performing Arts in secondary school through
+Direct School Admission (DSA).</p>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<p>Ms Toh Jessie (I/C)</p>
+<p>Mdm Shi Yibin (2nd I/C)</p>
+<p>Mdm Rohana Ahmad</p>
+<p>Mdm Ng Sock Hoon</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Thursday</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: Music Room 1 (Indoor Sports Hall, Level 3)</p>
+<p></p>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>Voices of Singapore Festival</h4>
+<p>The MPS Choir participated in the Voices of Singapore Festival, Singapore's
+largest non-competitive choral festival. In the lasting allure of the CHIJMES
+Hall, our Choir members sang their hearts out. As part of the festival,
+they also interacted with other primary school Choirs at the Choral Exchange.
+It was a memorable music-making experience for the Choir.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir___Table.png">
+</div>
+<p></p>
