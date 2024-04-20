@@ -41,7 +41,9 @@ by renewing their promise in front of the whole school.</p>
 where they learn more about guiding practices with fellow Brownies. Additionally,
 they took part in various activities, exploring themes such as climate
 change, inclusive cities, healthy lifestyles, and mental well-being.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_2.png">
+</div>
 <p></p>
 <h4>North Division Outdoor Challenge</h4>
 <p>The North Division Outdoor Challenge offers Guides the chance to engage
@@ -50,9 +52,13 @@ and enjoy themselves while learning - all within an outdoor environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_3.png">
 </div>
+<p></p>
 <h4>National Day Observance Ceremony</h4>
 <p>Always present during the National Day Observance Ceremony, our Brownies,
 alongside the Scouts, lead the procession for the flag-raising segment.
 They carry the flag, bringing it to the flagpoles, and raise it while the
 national anthem and school song are sung.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_4.png">
+</div>
 <p></p>
