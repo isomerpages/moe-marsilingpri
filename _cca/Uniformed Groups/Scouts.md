@@ -20,7 +20,7 @@ providing them with practical leadership experience.</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
 <p>Day: Thursday</p>
-<p>Time: 3.15p.m. – 4.45p.m.</p>
+<p>Time: 3.15pm – 4.45pm</p>
 <p>Venue: CCA Room 1 (Indoor Sports Hall, Level 1)</p>
 <p></p>
 <h4><strong>CCA Highlights</strong></h4>
