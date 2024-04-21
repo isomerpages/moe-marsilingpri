@@ -76,11 +76,11 @@ third_nav_title: School Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
+<p><strong>Year</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
+<p><strong>Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,10 +93,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Division Day: Let Your Voices Be Heard!</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>North Division Day: Let Your Voices Be Heard!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st</p>
@@ -105,14 +105,14 @@ third_nav_title: School Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>North Division Outdoor Challenge: Innovative Outdoor Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1st</p>
 </td>
 </tr>
@@ -121,10 +121,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Campfire Performance</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>North Division Outdoor Challenge: Campfire Performance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
@@ -133,14 +133,14 @@ third_nav_title: School Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>North Division Outdoor Challenge: Outdoor Photography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Merit</p>
 </td>
 </tr>
@@ -149,10 +149,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>World Thinking Day</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>World Thinking Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Most Innovative Booth</p>
@@ -163,10 +163,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Division Day: ND Got Talent</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>North Division Day: ND Got Talent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd</p>
@@ -177,10 +177,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nature in Photography</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>Nature in Photography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
@@ -191,10 +191,10 @@ third_nav_title: School Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Division Day: Boardgame Design</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>North Division Day: Boardgame Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
@@ -205,10 +205,10 @@ third_nav_title: School Achievements
 <p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
@@ -219,10 +219,10 @@ third_nav_title: School Achievements
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby National School Games (NSG): Senior Team</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>Rugby National School Games (NSG): Senior Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd in League 2, Group 2</p>
@@ -233,10 +233,10 @@ third_nav_title: School Achievements
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby National School Games (NSG): Junior Team</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>Rugby National School Games (NSG): Junior Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd in Classification Round, Group D. (10th out of 23 teams)</p>
@@ -247,10 +247,10 @@ third_nav_title: School Achievements
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby National School Games (NSG): Senior Team</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>Rugby National School Games (NSG): Senior Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd in League 2, Group 1</p>
@@ -261,10 +261,10 @@ third_nav_title: School Achievements
 <p>Scout</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold&nbsp;</p>
@@ -275,10 +275,10 @@ third_nav_title: School Achievements
 <p>Scout</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Area Cooking competition</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>North Area Cooking competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Two Team with Gold, One Team with Silver</p>
@@ -289,10 +289,10 @@ third_nav_title: School Achievements
 <p>Scout</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Area paper plane competition&nbsp;</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>North Area paper plane competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Two students with Gold, 8 students with Silver</p>
@@ -303,10 +303,10 @@ third_nav_title: School Achievements
 <p>Scout</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Akela Award</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>Akela Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Four students&nbsp;</p>
@@ -317,10 +317,10 @@ third_nav_title: School Achievements
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Senior Division</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys - 6th, Girls- 4th</p>
@@ -331,10 +331,10 @@ third_nav_title: School Achievements
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Junior Division</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Junior Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls (Cup Category),2nd&nbsp;</p>
