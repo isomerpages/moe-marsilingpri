@@ -24,8 +24,18 @@ variant: tiptap
 </div>
 </details>
 </div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>RESPONSIBILITY</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>• I take responsibility for my own actions.
+<br>• I look after the school properties.
+<br>• I follow my class and school rules.
+<br>• I am responsible for my own belongings.
+<br>• I do the right things when no one is looking.</p>
+</div>
+</details>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -33,23 +43,7 @@ variant: tiptap
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
-<p><strong>RESPECT</strong>
-</p>
-<p>• I speak politely to everyone.
-<br>• I have good mannerisms.
-<br>• I greet teachers and friends.
-<br>• I show courtesy and graciousness to everyone.
-<br>• I listen respectfully when others are speaking.
-<br>• I am non-judgemental.
-<br>• I weigh my words carefully before speaking/responding to others.</p>
 <h4><strong>RESPONSIBILITY</strong></h4>
 <blockquote>
 <p>• I take responsibility for my own actions.
