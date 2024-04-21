@@ -4,9 +4,16 @@ permalink: /about-us/schoolvalues/
 description: ""
 variant: tiptap
 ---
-<h2>What Does R3.I.C.E. Mean to Us?</h2>
-<h4><strong>RESPECT</strong></h4>
-<blockquote>
+<p><strong>Our School R3.I.C.E. Values</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3ICE_Values.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>RESPECT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I speak politely to everyone.
 <br>• I have good mannerisms.
 <br>• I greet teachers and friends.
@@ -14,7 +21,35 @@ variant: tiptap
 <br>• I listen respectfully when others are speaking.
 <br>• I am non-judgemental.
 <br>• I weigh my words carefully before speaking/responding to others.</p>
-</blockquote>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p><strong>RESPECT</strong>
+</p>
+<p>• I speak politely to everyone.
+<br>• I have good mannerisms.
+<br>• I greet teachers and friends.
+<br>• I show courtesy and graciousness to everyone.
+<br>• I listen respectfully when others are speaking.
+<br>• I am non-judgemental.
+<br>• I weigh my words carefully before speaking/responding to others.</p>
 <h4><strong>RESPONSIBILITY</strong></h4>
 <blockquote>
 <p>• I take responsibility for my own actions.
