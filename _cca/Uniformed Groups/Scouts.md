@@ -23,7 +23,7 @@ providing them with practical leadership experience.</p>
 <p>Time: 3.15pm – 4.45pm</p>
 <p>Venue: CCA Room 1 (Indoor Sports Hall, Level 1)</p>
 <p></p>
-<h4><strong>CCA Highlights</strong></h4>
+<h4><strong>CCA Highlight(s)</strong></h4>
 <h4>ADIJI Chief Scout</h4>
 <p>On March 2, 2024, our Cub Scouts from P4 to P6 joined 4000 other scouts
 at Choa Chu Kang Stadium to welcome President Tharman Shamugaratnam as
