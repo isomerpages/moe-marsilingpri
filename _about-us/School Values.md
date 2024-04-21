@@ -64,8 +64,8 @@ variant: tiptap
 <br>• I clean up my own table.
 <br>• I arrange the books and worksheets in my own bag.
 <br>• I take care of my peers.
-<br>• I take the initiative to help my peers.</p>
-<p>• I take the initiative to plan and carry out activities to promote community
+<br>• I take the initiative to help my peers.
+<br>• I take the initiative to plan and carry out activities to promote community
 service or environmental awareness.</p>
 <p></p>
 </div>
