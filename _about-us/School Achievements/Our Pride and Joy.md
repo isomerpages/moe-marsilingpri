@@ -6,10 +6,7 @@ variant: tiptap
 third_nav_title: School Achievements
 ---
 <h4><strong>Individual and Team Achievements</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LKY Award" src="/images/Achievement_1.jpg">
-</div>
-<p></p>
+<h4></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OARS Award" src="/images/Achievement_2.jpg">
@@ -295,7 +292,7 @@ third_nav_title: School Achievements
 <p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Junior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls (Cup Category), 2nd&nbsp;</p>
+<p>Girls (Cup Category),2nd&nbsp;</p>
 </td>
 </tr>
 </tbody>
