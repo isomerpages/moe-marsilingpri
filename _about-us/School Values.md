@@ -62,12 +62,8 @@ variant: tiptap
 <br>• I arrange the books and worksheets in my own bag.
 <br>• I take care of my peers.
 <br>• I take the initiative to help my peers.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>I take the initiative to plan and carry out activities to promote community
+<p>• I take the initiative to plan and carry out activities to promote community
 service or environmental awareness.</p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
