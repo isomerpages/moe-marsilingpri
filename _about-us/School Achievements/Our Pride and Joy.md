@@ -10,41 +10,55 @@ third_nav_title: School Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Student</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Aydin Adel Bin Shamsul Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Elyza Sri Binte Razif</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North-West Outstanding All-Rounder Student (OARS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhamad Danial Adnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
