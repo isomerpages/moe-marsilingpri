@@ -61,20 +61,25 @@ third_nav_title: School Achievements
 <p>Muhamad Danial Adnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North-West Outstanding All-Rounder Student (OARS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nasirah Binte Mohamad Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Respect</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OARS Award" src="/images/Achievement_2.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tchoukball Championships" src="/images/Achievement_3.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
