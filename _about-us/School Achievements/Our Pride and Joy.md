@@ -295,8 +295,7 @@ third_nav_title: School Achievements
 <p>1st ActiveSG-TBAS Inter-School Tchoukball Championship: Junior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls (Cup Category)</p>
-<p>2nd&nbsp;</p>
+<p>Girls (Cup Category), 2nd&nbsp;</p>
 </td>
 </tr>
 </tbody>
