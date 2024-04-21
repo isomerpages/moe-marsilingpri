@@ -5,6 +5,33 @@ description: ""
 variant: tiptap
 third_nav_title: School Service Providers
 ---
+<p><strong>School Canteen Food Items</strong>
+</p>
+<p>Here is a list detailing the variety of food available at our school canteen:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pastries and Bakery (Halal)</p>
+</li>
+<li>
+<p>Chinese Rice Dishes</p>
+</li>
+<li>
+<p>Japanese Food</p>
+</li>
+<li>
+<p>Western Food (Halal)</p>
+</li>
+<li>
+<p>Noodles (Halal)</p>
+</li>
+<li>
+<p>Malay Rice Dishes (Halal)</p>
+</li>
+<li>
+<p>Snacks and Sandwiches</p>
+</li>
+</ul>
+<p></p>
 <p><strong>School Canteen Advertisement</strong>
 </p>
 <table>
