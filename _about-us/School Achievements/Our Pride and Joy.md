@@ -70,6 +70,7 @@ third_nav_title: School Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>North-West Outstanding All-Rounder Student (OARS)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Nasirah Binte Mohamad Nasir</p>
@@ -80,11 +81,6 @@ third_nav_title: School Achievements
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Schools that our students end up in" src="/images/Achievement_4.jpg">
-</div>
 <p></p>
 <h4><strong>CCA Achievements</strong></h4>
 <table>
