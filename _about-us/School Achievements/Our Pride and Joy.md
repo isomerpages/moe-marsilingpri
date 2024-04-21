@@ -355,6 +355,21 @@ third_nav_title: School Achievements
 <p>Girls (Cup Category),2nd&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track and Field National School Games (NSG): Standling Long Jump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls: Bronze Medal, 8th position</p>
+<p>Senior Boys: Silver, 2nd position</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
