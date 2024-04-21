@@ -36,8 +36,8 @@ peers at MPS as part of our Sustainability Challenge 2, the Clothes Donation
 Drive. Under the guidance of senior students, they meticulously assess
 the suitability of each item for donation, meticulously fold and pack them
 into bags, poised for dispatch to CLOOP. This endeavor not only underscores
-our commitment to sustainability by promoting the reuse of clothing but</p>
-<p>also facilitates intergenerational collaboration and mentorship within
+our commitment to sustainability by promoting the reuse of clothing but
+also facilitates intergenerational collaboration and mentorship within
 our community. The subsequent dispatch of these items to CLOOP ensures
 their responsible recycling or reuse, thereby furthering the principles
 of a circular economy.</p>
