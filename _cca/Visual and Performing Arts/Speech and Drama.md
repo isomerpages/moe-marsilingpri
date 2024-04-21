@@ -6,8 +6,8 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h4><strong>About Speech and Drama Club</strong></h4>
-<p>MPS Speech &amp; Drama Club aims to provide opportunities for students
-to become confident performers and makers of art. As students work together
+<p>MPS Speech and Drama Club aims to provide opportunities for students to
+become confident performers and makers of art. As students work together
 as a team, putting into practice the skills they have learnt, they build
 and demonstrate values of teamwork, perseverance, self-discipline and confidence.
 &nbsp;&nbsp;</p>
