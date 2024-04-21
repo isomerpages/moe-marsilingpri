@@ -190,22 +190,12 @@ third_nav_title: School Achievements
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby NSG</p>
+<p>Rugby National School Games (NSG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Senior Team – 3rd in League 2, Group 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rugby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rugby NSG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023: Junior Team – 2nd in Classification Round, Group D. (10th out of
-23 teams)</p>
+<p>2023</p>
+<p>Senior Team</p>
+<p>3rd in League 2, Group 2</p>
 </td>
 </tr>
 <tr>
@@ -213,10 +203,28 @@ third_nav_title: School Achievements
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby NSG</p>
+<p>Rugby National School Games (NSG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024: Senior Team – 3rd in League 2, Group 1</p>
+<p>2023</p>
+<p>Junior Team</p>
+<p>2nd in Classification Round,</p>
+<p>Group D.</p>
+<p>(10th out of 23 teams)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby National School Games (NSG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+<p>Senior Team</p>
+<p>3rd in League 2,</p>
+<p>Group 1</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +235,8 @@ third_nav_title: School Achievements
 <p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022: Gold&nbsp;</p>
+<p>2022</p>
+<p>Gold&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +247,9 @@ third_nav_title: School Achievements
 <p>North Area Cooking competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Two Team with Gold and One Team with Silver</p>
+<p>2023</p>
+<p>Two Team with Gold</p>
+<p>One Team with Silver</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +260,9 @@ third_nav_title: School Achievements
 <p>North Area paper plane competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: two students with Gold and 8 students with Silver</p>
+<p>2023</p>
+<p>Two students with Gold</p>
+<p>8 students with Silver</p>
 </td>
 </tr>
 <tr>
@@ -260,7 +273,8 @@ third_nav_title: School Achievements
 <p>Akela Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023: Four students&nbsp;</p>
+<p>2023</p>
+<p>Four students&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -272,7 +286,8 @@ third_nav_title: School Achievements
 Division)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys - 6th ; Girls- 4th</p>
+<p>Boys - 6th</p>
+<p>Girls- 4th</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +299,8 @@ Division)&nbsp;</p>
 Division)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls (Cup Category) - 2nd&nbsp;</p>
+<p>Girls (Cup Category)</p>
+<p>2nd&nbsp;</p>
 </td>
 </tr>
 </tbody>
