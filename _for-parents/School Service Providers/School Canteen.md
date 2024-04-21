@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: School Service Providers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canteen_Photo.jpg">
+</div>
+<p></p>
 <p><strong>School Canteen Food Items</strong>
 </p>
 <p>Here is a list detailing the variety of food available at our school canteen:</p>
