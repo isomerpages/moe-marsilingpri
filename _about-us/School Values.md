@@ -32,7 +32,6 @@ variant: tiptap
 <br>• I follow my class and school rules.
 <br>• I am responsible for my own belongings.
 <br>• I do the right things when no one is looking.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -42,7 +41,6 @@ variant: tiptap
 <p>• I think positively.
 <br>• I never give up.
 <br>• I persevere when faced with challenges.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -53,7 +51,6 @@ variant: tiptap
 <br>• I return things to the rightful owners.
 <br>• I own up when I have done wrong.
 <br>• I encourage everyone to do the right things.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -67,7 +64,6 @@ variant: tiptap
 <br>• I take the initiative to help my peers.
 <br>• I take the initiative to plan and carry out activities to promote community
 service or environmental awareness.</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
