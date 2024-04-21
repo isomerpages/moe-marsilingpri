@@ -54,27 +54,41 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>CARE</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>I ensure my own attire is neat and smart.</p>
+</li>
+<li>
+<p>I clean up my own table.</p>
+</li>
+<li>
+<p>I arrange the books and worksheets in my own bag.</p>
+</li>
+<li>
+<p>I take care of my peers.</p>
+</li>
+<li>
+<p>I take the initiative to help my peers.</p>
+</li>
+<li>
+<p>I take the initiative to plan and carry out activities to promote community
+service or environmental awareness.</p>
+</li>
+</ul>
 </div>
 </details>
-</div>
-<h4><strong>CARE</strong></h4>
-<blockquote>
-<p>• I ensure my own attire is neat and smart.
-<br>• I clean up my own table.
-<br>• I arrange the books and worksheets in my own bag.
-<br>• I take care of my peers.
-<br>• I take the initiative to help my peers.
-<br>• I take the initiative to plan and carry out activities to promote community
-service or environmental awareness.</p>
-</blockquote>
-<h4><strong>EXCELLENCE</strong></h4>
-<blockquote>
+<details class="isomer-details">
+<summary><strong>EXCELLENCE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I do my best.
 <br>• I strive to be better at what I do.
 <br>• I am cooperative.
 <br>• I am synergized.</p>
-</blockquote>
+</div>
+</details>
+</div>
 <p></p>
