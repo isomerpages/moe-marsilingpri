@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Growth Mindset (GM)/GeM@MPS.md
       - Growth Mindset (GM)/GM Mascots and Messages.md
       - Growth Mindset (GM)/Nurturing Growth Mindset in Marsilians.md
       - Growth Mindset (GM)/Making GM Visible.md
