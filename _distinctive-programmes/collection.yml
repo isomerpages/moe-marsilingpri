@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Making GM Visible.md
       - Nurturing Growth Mindset in Marsilians.md
       - GM Mascots and Messages.md
       - GeM@MPS.md
