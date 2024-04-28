@@ -36,7 +36,7 @@ engineering challenges during recess.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_1.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Excellence 2000 (E2K) Mathematics Programme</h4>
 <p>The E2K Mathematics Programme aims to foster independence in mathematical
 thinking skills, as well as nurture other important 21st century competencies,
@@ -48,7 +48,7 @@ concepts and thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Learning Support for Mathematics (LSM) Programme</h4>
 <p>The LSM Programme is designed to provide early intervention support for
 Primary 1 and 2 students who need additional support in acquiring basic
@@ -60,7 +60,7 @@ in Mathematics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_3.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Recess Activities @ Eureka</h4>
 <p>Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally
 alive during recess. Filled with game booths that put students’ Mathematical
@@ -74,7 +74,7 @@ the participants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_4.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Math Hero</h4>
 <p>Math Hero is an in-house program of the Math Department. In this program,
 Primary 1 to 4 students are given a variety of interesting activities to
