@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Nurturing Growth Mindset in Marsilians.md
       - GM Mascots and Messages.md
       - GeM@MPS.md
