@@ -1,5 +1,5 @@
 collections:
-  notable-programmes:
+  notables:
     output: true
     order:
       - Learning for Life Programme/.keep
