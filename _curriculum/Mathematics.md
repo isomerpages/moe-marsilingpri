@@ -18,9 +18,14 @@ variant: tiptap
 <li>
 <p>To enable students to appreciate the relevance of Mathematics in real
 life.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Programmes_Table.png">
+</div>
+<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM Week</h4>
 <p>STEAM stands for Science-Technology-Engineering-Arts and Mathematics.
