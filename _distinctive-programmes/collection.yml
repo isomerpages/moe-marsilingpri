@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Growth Mindset (GM)/The GM Experience @ MPS.md
       - Growth Mindset (GM)/Resources for Parents.md
       - Growth Mindset (GM)/.keep
       - The Sparkle and Ray Story.md
