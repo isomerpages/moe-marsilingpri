@@ -2,14 +2,14 @@ collections:
   curriculum:
     output: true
     order:
-      - PE, Art, Music/.keep
-      - PE, Art, Music/PE.md
-      - PE, Art, Music/Art.md
-      - PE, Art, Music/Music.md
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
+      - PE, Art, Music/.keep
+      - PE, Art, Music/PE.md
+      - PE, Art, Music/Art.md
+      - PE, Art, Music/Music.md
       - CCE/.keep
       - CCE/Discipline.md
       - CCE/Form Teacher Guidance Period (FTGP).md
