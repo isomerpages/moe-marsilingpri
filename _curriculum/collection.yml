@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
+      - PE, Art, Music/.keep
+      - PE, Art, Music/Physical Education.md
       - PE, Art, Music/Visual Art.md
       - PE, Art, Music/Music.md
-      - PE, Art, Music/Physical Education.md
-      - PE, Art, Music/.keep
       - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
