@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Learning for Life Programme/Green Citizenship.md
       - Learning for Life Programme/Values in Action (VIA).md
       - Learning for Life Programme/Student Leadership.md
       - Learning for Life Programme/.keep
