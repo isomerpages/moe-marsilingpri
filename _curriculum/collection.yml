@@ -2,19 +2,20 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue Language.md
       - English Language.md
+      - Mother Tongue Language.md
       - Mathematics.md
       - Science.md
+      - Physical Education.md
       - Music.md
       - Visual Art.md
-      - Physical Education.md
-      - Information Communication Technology.md
       - CCE/.keep
       - CCE/Discipline.md
       - CCE/Form Teacher Guidance Period (FTGP).md
       - CCE/National Education (NE) and Social Studies.md
       - CCE/Tributes to Unsung Heroes.md
+      - Information Communication Technology.md
+      - Programme for Active Learning (PAL).md
       - Growth Mindset/.keep
       - Growth Mindset/GeM@MPS.md
       - Growth Mindset/GM Mascots and Messages.md
@@ -23,7 +24,6 @@ collections:
       - Growth Mindset/The Sparkle and Ray Story.md
       - Growth Mindset/The GM Experience @ MPS.md
       - Growth Mindset/Resources for Parents.md
-      - Programme for Active Learning (PAL).md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Student Leadership.md
       - Learning for Life Programme/Values in Action (VIA).md
