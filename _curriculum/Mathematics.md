@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>Every Marsilian a resilient and joyful problem solver.</p>
-<p></p>
 <h4><strong>Mission</strong></h4>
 <p>The Mathematics Department aims:</p>
 <ul data-tight="true" class="tight">
