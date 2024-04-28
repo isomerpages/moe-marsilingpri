@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - PE, Art, Music/Visual Art.md
       - PE, Art, Music/Music.md
       - PE, Art, Music/Physical Education.md
       - PE, Art, Music/.keep
