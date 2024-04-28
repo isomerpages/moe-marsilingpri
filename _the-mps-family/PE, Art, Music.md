@@ -19,28 +19,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Xinru (School Staff Developer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo_xinru@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Jessie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jessie_toh@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Ban Hwee Jasper (HOD/ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,6 +26,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_ban_hwee_jasper@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Su Haojing SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>su_haojing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -74,17 +63,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Su Haojing SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>su_haojing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Jian Chye Sam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +85,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Airwan Nain Sardi (ST ART)</p>
+<p>Mr Nathanael Teo Yi Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nathanael_teo_yi_jie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rolan Tambunan Amir Assan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Airwan Nain Sardi (ST Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
@@ -129,24 +129,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nathanael Teo Yi Jie</p>
+<p>Ms Yeo Xinru (School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nathanael_teo_yi_jie@schools.gov.sg</p>
+<p>yeo_xinru@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rolan Tambunan Amir Assan</p>
+<p>Ms Toh Jessie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
+<p>jessie_toh@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
