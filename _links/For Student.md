@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <p><strong>Links for Student</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -19,7 +23,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,8 +57,8 @@ students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Aligned with the MOE syllabus, KooBits is a platform that offers interactive
-activities aimed at reinforcing math concepts and
-<br>fostering problem-solving skills for children.</p>
+activities aimed at reinforcing math concepts and fostering problem-solving
+skills for children.</p>
 <p>
 <br>Website: <a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://member.koobits.com/</u></a>
 </p>
