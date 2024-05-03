@@ -8,11 +8,14 @@ variant: tiptap
 </p>
 <p>Single Session for Primary 1 to Primary 6</p>
 <p>Time: 7.30am</p>
-<p>(Students are to be in school by 7.25am)</p>
 <p></p>
 <p><strong>Recess Time</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
