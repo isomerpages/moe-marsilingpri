@@ -7,7 +7,11 @@ third_nav_title: Useful Information
 ---
 <p><strong>Resources for Parents</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,7 +32,7 @@ third_nav_title: Useful Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct School Admission for Secondary Schoool (DSA-Sec)</p>
+<p>Direct School Admission for Secondary School (DSA-Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa</u></a>
