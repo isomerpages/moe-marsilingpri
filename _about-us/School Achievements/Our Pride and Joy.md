@@ -6,7 +6,13 @@ variant: tiptap
 third_nav_title: School Achievements
 ---
 <h4><strong>Individual Achievements</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,7 +30,35 @@ third_nav_title: School Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kugan Kumar S/O Satehs Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
@@ -38,7 +72,7 @@ third_nav_title: School Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
@@ -83,7 +117,13 @@ third_nav_title: School Achievements
 </table>
 <p></p>
 <h4><strong>CCA Achievements</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
