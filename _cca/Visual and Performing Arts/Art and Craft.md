@@ -14,14 +14,14 @@ Design in their artwork. They will also be able to present their artwork
 confidently and appreciate others’ artworks as well.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mr Airwan Bin Nain Sardi (I/C)</p>
-<p>Mdm See Poh Bee (2nd I/C)</p>
-<p>Nur Nazurah Binte Abdul Rahim</p>
+<p>Mr Airwan Bin Nain Sardi (I/C)
+<br>Mdm See Poh Bee (2nd I/C)
+<br>Nur Nazurah Binte Abdul Rahim</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
-<p>Venue: Art Rooms</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.45pm
+<br>Venue: Art Rooms</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Anti-Drug Ambassador Programme</h4>
