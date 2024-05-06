@@ -19,14 +19,14 @@ centered on environmental and scientific themes will serve to further augment
 their knowledge and skills in this domain.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mdm Shammane d/o Arumugam (I/C)</p>
-<p>Ms Siti Aisyah Bte Md Johari G (2nd I/C)</p>
-<p>Mr Chung Jun Rui</p>
+<p>Mdm Shammane d/o Arumugam (I/C)
+<br>Ms Siti Aisyah Bte Md Johari G (2nd I/C)
+<br>Mr Chung Jun Rui</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Science Laboratory (Level 3)</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Science Laboratory (Level 3)</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Sustainability Challenge</h4>
