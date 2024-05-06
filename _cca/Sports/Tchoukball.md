@@ -16,15 +16,15 @@ training, our boys and girls persevere and embrace challenges even when
 training gets tough.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Miss Tan Cassander (I/C)</p>
-<p>Mr Sam Tan (2nd I/C)</p>
-<p>Mdm Jamaliah YL</p>
-<p>Miss Ferlicia Lim</p>
+<p>Miss Tan Cassander (I/C)
+<br>Mr Sam Tan (2nd I/C)
+<br>Mdm Jamaliah YL
+<br>Miss Ferlicia Lim</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: ISH Level 3</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: ISH Level 3</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>1st ActiveSG-TBAS Inter-School Tchoukball Championships 2023</h4>
