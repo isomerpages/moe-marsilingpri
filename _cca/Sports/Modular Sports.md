@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 <h4><strong>About Modular Sports</strong></h4>
-<p>In Modular Sports, our main aim is for students to love and appreciate
+<p>MPS Modular Sports, our main aim is for students to love and appreciate
 the sport, and to be able to acquire skills that will allow them to play
 with their friends and family members in their free time. The students
 learn the basic skills, stroke and footwork of Badminton.
@@ -16,15 +16,15 @@ discipline, and a willingness to learn and adapt, students develop a resilient
 mindset through the CCA.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mdm Lim Shy Ni&nbsp; (I/C)</p>
-<p>Ms Chen Xiaoyin (2nd I/C)</p>
-<p>Mr Nathanael Teo Yi Jie</p>
-<p>Mdm Jeanette Wong</p>
+<p>Mdm Lim Shy Ni&nbsp; (I/C)
+<br>Ms Chen Xiaoyin (2nd I/C)
+<br>Mr Nathanael Teo Yi Jie
+<br>Mdm Jeanette Wong</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Tuesday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: ISH Level 3</p>
+<p>Day: Tuesday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: ISH Level 3</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Weekly fun-filled matches</h4>
