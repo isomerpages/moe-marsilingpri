@@ -13,14 +13,14 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 &nbsp;&nbsp;</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Ms Alivia Tang (I/C)</p>
-<p>Mrs Ow Weng Keong (2nd I/C)</p>
-<p>Mr Nicholas Neo Wenjie</p>
+<p>Ms Alivia Tang (I/C)
+<br>Mrs Ow Weng Keong (2nd I/C)
+<br>Mr Nicholas Neo Wenjie</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Music Room 2 – ISH (Level 3)</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Music Room 2 – ISH (Level 3)</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Total Defence Day (TDD) Skit 2024</h4>
