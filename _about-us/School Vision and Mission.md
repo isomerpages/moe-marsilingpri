@@ -4,12 +4,9 @@ permalink: /school-vision-and-mission/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School_vision__3_.png">
-</div>
+<h4><strong>School Vision</strong></h4>
+<p>Learners and Leaders of Tomorrow</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School_mission__3_.png">
-</div>
-<p></p>
+<h4><strong>School Mission</strong></h4>
+<p>Nurturing resilient learners who are future ready</p>
+<p>Growing confident leaders who are values driven</p>
