@@ -12,16 +12,16 @@ in the realization of responsible citizenship and promotion of service
 to the community.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Miss Chang Lee Hui (I/C)</p>
-<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
-<p>Ms Wen Caizhuang</p>
-<p>Mdm Hazlina Binte Yaacob</p>
-<p>Mdm Latchmana Murlly</p>
+<p>Miss Chang Lee Hui (I/C)
+<br>Ms Teresha Fernandaz Selvamany (2nd I/C)
+<br>Ms Wen Caizhuang
+<br>Mdm Hazlina Binte Yaacob
+<br>Mdm Latchmana Murlly</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Teaching Lab (Level 1)</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Teaching Lab (Level 1)</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>World Thinking Day Celebrations</h4>
