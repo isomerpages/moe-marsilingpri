@@ -17,15 +17,15 @@ to participate in Learning Journey (LJ) and various competitions held at
 different time of the year.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mr Ang Yew Leong (I/C)</p>
-<p>Mdm Siti Fatimah (2nd I/C)</p>
-<p>Ms Maneatonufus</p>
-<p>Mr Thiliban S/O Subramaniam</p>
+<p>Mr Ang Yew Leong (I/C)
+<br>Mdm Siti Fatimah (2nd I/C)
+<br>Ms Maneatonufus
+<br>Mr Thiliban S/O Subramaniam</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Computer Lab 1 and 2</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Computer Lab 1 and 2</p>
 <p></p>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Competitions</h4>
