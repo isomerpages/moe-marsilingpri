@@ -13,15 +13,15 @@ Cub Scouts will learn valuable skills in self-management and peer support,
 providing them with practical leadership experience.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mr Tsen Hon Leong (I/C)</p>
-<p>Mdm Nur ‘Aliah Binte Gasali (2nd I/C)</p>
-<p>Mr Wang Yuhang</p>
-<p>Miss Michelle Tan Siyun</p>
+<p>Mr Tsen Hon Leong (I/C)
+<br>Mdm Nur ‘Aliah Binte Gasali (2nd I/C)
+<br>Mr Wang Yuhang
+<br>Miss Michelle Tan Siyun</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
-<p>Venue: CCA Room 1 (Indoor Sports Hall, Level 1)</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.45pm
+<br>Venue: CCA Room 1 (Indoor Sports Hall, Level 1)</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>ADIJI Chief Scout</h4>
