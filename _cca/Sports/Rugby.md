@@ -15,15 +15,15 @@ for students to pursue the sport in secondary school through Direct School
 Admission (DSA).</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mr Leonard Ang (I/C)</p>
-<p>Mr Mohammad Nursaffwan Othman (2nd I/C)</p>
-<p>Mr Amir Abidin</p>
-<p>Mr Mohammad Ibrahim Zainee</p>
+<p>Mr Leonard Ang (I/C)
+<br>Mr Mohammad Nursaffwan Othman (2nd I/C)
+<br>Mr Amir Abidin
+<br>Mr Mohammad Ibrahim Zainee</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Field</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Field</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Rugby National School Games (Senior &amp; Junior Division)</h4>
