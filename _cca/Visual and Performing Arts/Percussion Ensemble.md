@@ -13,14 +13,14 @@ as a team to prepare for performances, where they showcase their talent
 and creativity to the school and community.</p>
 <p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<p>Mdm Ang Shiao Woon (I/C)</p>
-<p>Mdm Li Juanjuan (2nd I/C)</p>
-<p>Mdm Fan Fang</p>
+<p>Mdm Ang Shiao Woon (I/C)
+<br>Mdm Li Juanjuan (2nd I/C)
+<br>Mdm Fan Fang</p>
 <p></p>
 <h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.15pm</p>
-<p>Venue: Band Room</p>
+<p>Day: Thursday
+<br>Time: 3.15pm – 4.15pm
+<br>Venue: Band Room</p>
 <p></p>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Performance on Marsiling Carnival Day</h4>
