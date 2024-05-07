@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 <h4><strong>About Percussion Ensemble</strong></h4>
-<p>In our Percussion Ensemble CCA, students learn to master a variety of
+<p>MPS Percussion Ensemble CCA, students learn to master a variety of
 percussion instruments. Through regular training sessions, they develop
 their musical skills, rhythm, and coordination. Students also work together
 as a team to prepare for performances, where they showcase their talent
