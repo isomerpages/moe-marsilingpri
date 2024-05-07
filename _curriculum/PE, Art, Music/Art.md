@@ -5,20 +5,22 @@ description: ""
 third_nav_title: PE, Art, Music
 variant: tiptap
 ---
-### **Vision**
-
-Every Marsilian can create and appreciate Art.
-
-### **Mission**
-
-Developing the potential in students to provide them with the appropriate skills to create and appreciate Art.
-
-**Programmes**
-
-
-
-|  | | |
-| -------- | -------- | -------- |
-| Marsiling Art Xperience (MAX)    |     | In Marsiling Primary School, all students are exposed to 4 different Art forms throughout the 6 years – drawing, painting, printmaking and sculpting. Through the exploration of different media and forms, students learn and apply the Elements of Art and Principles of Design. Every art project involves a discussion of an artwork by a selected artist, followed by the art-making process and finally closing with a gallery walk and peer critique.     |
-| Art MasterClasses    |     | P4 students who show the right aptitude in ceramics and painting will be invited to join the Ceramics and Watercolour MasterClasses to further develop their potential in the respective Art forms. These enrichment classes are held outside curriculum hours.    |
-| Museum-Based Learning   |     | P4 students are involved in this programme. They would learn how to respond to an artwork using Thinking Routines such as See-Think-Wonder. The programme includes a trip to a local Art Gallery such as the NUS Museum, where they would be looking at artifacts and artworks.     |
+<h4><strong>Vision</strong></h4>
+<p>Every Marsilian can create and appreciate Art.</p>
+<h4><strong>Mission</strong></h4>
+<p>Developing the potential in students to provide them with the appropriate
+skills to create and appreciate Art.</p>
+<h3><strong>Programmes at a Glance</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide1.jpg">
+</div>
+<h4><strong>Key Programmes</strong></h4>
+<h4>Marsiling Art Xperience (MAX)</h4>
+<p>In Marsiling Primary School, all students are exposed to different Art
+forms throughout the 6 years - drawing, painting, printmaking, sculpting
+and digital art. Through the exploration of different media and forms,
+students learn and apply the Elements of Art and Principles of Design.
+Every art project involves a discussion of an artwork by a selected artist,
+followed by the art-making process and finally closing with a gallery walk
+and peer critique.</p>
