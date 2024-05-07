@@ -5,87 +5,119 @@ description: ""
 third_nav_title: PE, Art, Music
 variant: tiptap
 ---
-#### **Vision**
-
-      
-
-**M.O.R.E. (M**aximum **O**pportunity via a **R**obust **E**xperience)
-
-
-
-#### **Mission**
-
-*   Develop the social, emotional, psychomotor and cognitive aspects of all Marsilians through the various platforms and engagement in physical and outdoor activities.
-*   Inculcate in all Marsilians life-long passion, interest and enjoyment to lead a physically active and healthy lifestyle.
-
-#### **Goals**
-
-*   For Marsilians to:
-
-*   Keep fit and enjoy sports and games
-*   Be confident in water
-*   Participate in at least 1 Inter-Class Game
-*   Enjoy the companionship and play with all classmates and friends
-*   Be creative and resilient
-*   Develop discipline and&nbsp;sportsmanship
-*   Be prepared for CCAs in secondary schools
-
-#### **Programmes**
-
-
-###### **P1 & P2 Mini Trampoline**
-
-Rebounding is a type of aerobic exercise performed while jumping on a mini trampoline. Rebounding is key to develop the ABCs (agility, balance, co-ordination) skills which are necessary for children to enjoy a variety of other sports and games.
-Students will get to experience rebounding to the tempo of music.
-
-![](/images/Curriculum/pe100000.png)
-
-
-###### **P3 SwimSafer**
-
-In SwimSafer, students will learn the basic water skills required to be able to swim. With the guidance of qualified instructors, they will gain confidence and develop independence in the water, as well as learn general and deep-end water safety.
-
-In addition, students will learn techniques like forward and backward movement, safe water entry and exit, and introduction to personal water survival skills.
-![](/images/Curriculum/pe20000.png)
-
-###### **P4 Kin-Ball**
-
-Kin-Ball is a fun, easy-to-play and exciting team bonding game. The game is like a game of a volleyball but played with a huge ball. The game highly promotes communication and teamwork amongst students.
-![](/images/Curriculum/pe3000.png)
-
-###### **P5 Leadership and Adventure Camp**
-
-The Leadership and Adventure Camp is an exciting and adventurous programme that is filled with team-bonding games and activities. The camp challenge students to strive and unleash their potential to excel in their studies and life.
-
-Activities like High and Low Rope Elements, trail walk; problem-solving and rock climbing, bring out the best in students and forge strong bonds among the students and teachers.
-![](/images/Curriculum/pe4000.png)
-
-
-###### **P6 Archery**
-
-Archery is a great sport for boosting students' mental and physical health and fitness. Archers require not only physical strength, but they will also need mental fitness and archers develop their focus, flexibility and attention skills.
-
-The sport can be extremely dangerous if students are reckless. Archery teaches everyone to be responsible for one another and be responsible for the equipment they are use.
-![](/images/Curriculum/pe5000.png)
-
-#### **Highlights**
-###### **School Events:**
-
-
-The PE / CCA Department organises annual events to provide the students of Marsiling Primary School with a wholesome and enjoyable learning experience in the school. Such events include Lower Primary Games and Inter-Class Games.
-
-
-* ######  **Levels P1-P6: Unstructured Play**
-
-Students from all levels are given the opportunity to play at the school field and playground during their recess from Mondays to Fridays. This helps to keep them physically active in school beyond the PE lessons.
-![](/images/Curriculum/pe6000.png)
-
-* ######  **Levels P1-P2: Lower Primary Games**
-
-Students from Primary 1 and 2 are taught a variety of fundamental movements and manipulative skills during PE lessons. For the Lower Primary Games, all Primary 1 and Primary 2 students will perform what they have learned in front of their parents. Parents will also be invited to participate in the Parent-Child Race during the event.
-![](/images/Curriculum/pe7000.png)
-
-* ######  **Levels P3-P6: Inter-Class Games**
-
-Students from Primary 3 to Primary 6 will have the opportunity to represent their class to participate in the annual Inter-Class Games. The Inter-Class Games aim to develop and build strong teamwork and sportsmanship amongst the students to also promote the importance of regularly being physically engaged in sports and games. The Inter-Class Games will be conducted during PE lessons after the students have learned and master the skills for a particular sport / game module. There is a wide range of sports played during the Intra-Class Games such as Captain's Ball, Floorball, modified Volleyball and Tchoukball.
-![](/images/Curriculum/pe8000.png)
+<h4><strong>Vision</strong></h4>
+<p>M.O.R.E. (Maximum Opportunity via a Robust Experience)</p>
+<h4><strong>Mission</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop the social, emotional, psychomotor and cognitive aspects of Marsilians
+through various platforms and engagement in physical and outdoor activities.</p>
+</li>
+<li>
+<p>Inculcate in Marsilians life-long passion, interest and enjoyment to lead
+a physically active and healthy lifestyle.</p>
+</li>
+</ul>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide2.jpg">
+</div>
+<h4><strong>Key Programmes</strong></h4>
+<h4>Lower Primary Games (LPG)</h4>
+<p>Programme Description</p>
+<p>Students from Primary 1 and 2 are taught a variety of fundamental movements
+and manipulative skills during PE lessons.</p>
+<p>For the Lower Primary Games, all Primary 1 and Primary 2 students will
+perform what they have learned in front of their parents. Parents are also
+invited to participate in the parent-child game during the event.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide4.jpg">
+</div>
+<h4>Inter-class Games</h4>
+<p>Programme Description</p>
+<p></p>
+<p>The Inter-class Games aim to develop strong teamwork and build sportsmanship
+amongst students, and to promote the importance of being physically engaged
+in sports and games on a regular basis.</p>
+<p></p>
+<p>Students from Primary 3 to Primary 6 will have the opportunity to represent
+their class to participate and compete in the annual Inter-class Games.</p>
+<p></p>
+<p>The Inter-class Games are held during PE curriculum after the students
+have learned and mastered the skills for a particular sport / game module.
+There is a wide range of sports played during the Inter-class Games such
+as Captain's Ball, Floorball, modified Volleyball and Tchoukball.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide6.jpg">
+</div>
+<h4>Trampoline</h4>
+<p>Programme Description</p>
+<p>Rebounding is introduced to Primary 1 and 2 students as part of the Sports
+Education Programme to encourage sports participation in schools and increase
+sporting opportunities for the young.</p>
+<p>Rebounding is a type of aerobic exercise performed while jumping on a
+mini trampoline. Rebounding is key to develop the ABCs (agility, balance,
+co-ordination) skills which are necessary for children to enjoy a variety
+of other sports and games. Students will get to experience rebounding to
+the tempo of music during the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide8.jpg">
+</div>
+<h4>SwimSafer 2.0 Programme</h4>
+<p>Programme Description</p>
+<p>In the SwimSafer 2.0 Programme, students will acquire water safety knowledge,
+personal water survival skills and swimming skills.</p>
+<p>With the guidance of qualified swim instructors, students will learn the
+basic water skills required to be able to swim. Students will learn techniques
+like forward and backward movements, safe water entry and exit, and introduction
+to personal water survival skills.</p>
+<p>Students will gain confidence and develop independence in the water from
+the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide10.jpg">
+</div>
+<h4>Kin-Ball</h4>
+<p>Programme Description</p>
+<p>Kin-Ball is introduced to Primary 4 students as part of the Sports Education
+Programme to encourage sports participation in schools and increase sporting
+opportunities for the young.</p>
+<p>Kin-Ball is a fun, easy-to-play and exciting team bonding game. The game
+is akin to a game of a volleyball but played with a huge inflated ball.
+The game promotes communication and teamwork amongst students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide12.jpg">
+</div>
+<h4>Outdoor Adventure Learning (OAL) Cohort Camp</h4>
+<p>Programme Description</p>
+<p>The Primary 5 Outdoor Adventure learning Cohort Camp is a fun and exciting
+outdoor programme that is filled with team-bonding games and activities.</p>
+<p>The OAL Cohort Camp challenges students to strive and unleash their potential
+to excel both in their studies and in life.</p>
+<p>Activities like low and ligh rope elements, trail walks; problem-solving
+and rock climbing, bring out the best in students and forge strong bonds
+among the students and teachers during the camp.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide14.jpg">
+</div>
+<h4>Archery</h4>
+<p>Programme Description</p>
+<p>Archery is introduced to Primary 6 students as part of the Sports Education
+Programme to encourage sports participation in schools and increase sporting
+opportunities for the young.</p>
+<p>Archery is a great sport to boost students' mental and physical health
+and fitness. Archers not only require physical strength, but they will
+also need mental fitness to develop their focus, flexibility and attention
+skills.</p>
+<p>Archery teaches students to be responsible for one another’s safety and
+to be responsible for the equipment they use during the programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide16.jpg">
+</div>
+<p></p>
