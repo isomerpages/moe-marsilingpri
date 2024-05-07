@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 <h4><strong>About Track and Field</strong></h4>
-<p>Through the CCA, the athletes will be able to develop athletics skills,
+<p>MPS Track and Field CCA, the athletes will be able to develop athletics skills,
 social skills, team building, perseverance, hard work and character building.
 With the knowledge acquired as well as the skills and values learnt, they
 will develop the passion for the sport, take it up as a healthy hobby in
