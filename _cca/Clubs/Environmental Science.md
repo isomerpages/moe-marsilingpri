@@ -6,7 +6,7 @@ third_nav_title: Clubs
 variant: markdown
 ---
 <h4><strong>About Environmental Science</strong></h4>
-<p>The Environmental Science club endeavors to cultivate its members into
+<p>MPS Environmental Science club endeavors to cultivate its members into
 proactive and conscientious environmental stewards through a tailored suite
 of Environmental Programs. These programs are designed to imbue participants
 with constructive values and attitudes toward scientific inquiry, empowering
