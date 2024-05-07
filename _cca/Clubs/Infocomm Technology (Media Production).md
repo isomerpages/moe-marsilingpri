@@ -6,7 +6,7 @@ third_nav_title: Clubs
 variant: markdown
 ---
 <h4><strong>About Infocomm Technology (Media Production)</strong></h4>
-<p>In Infocomm Technology (Media Production), students are given the opportunities
+<p>MPS Infocomm Technology (Media Production), students are given the opportunities
 to explore the current Infocomm Technologies.</p>
 <p>Students acquire knowledge in different programming functions and create
 simple coding sequences that allows them in games development using SCRATCH
