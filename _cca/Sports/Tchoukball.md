@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 <h4><strong>Tchoukball</strong></h4>
-<p>Tchoukball&nbsp;is a non-contact indoor team sport. Its name resembles
+<p> MPS Tchoukball&nbsp;is a non-contact indoor team sport. Its name resembles
 the sound - ‘tchouk’ - that's produced when the ball hits the frame. It
 is fast-paced ball game where players are required to jump, throw and catch
 balls, as well as run around the court.</p>
