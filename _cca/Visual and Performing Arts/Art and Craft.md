@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 <h4><strong>About the Art and Craft Club</strong></h4>
-<p>The Art and Craft Club aims to expose students to a variety of projects
+<p>MPS Art and Craft Club aims to expose students to a variety of projects
 which provide the opportunity for them to hone their skills in the different
 Art forms – drawing, painting, printmaking, sculpture, craftwork and new
 media. Students will be able to apply Elements of Art and Principles of
