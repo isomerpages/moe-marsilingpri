@@ -37,3 +37,28 @@ will be conducted for Drawing and Painting, and participants will be selected
 students from Primary 3 and 4. These enrichment classes will be held outside
 of curriculum hours.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide5.jpg">
+</div>
+<h4>Museum-Based Learning</h4>
+<p>Since 2018, as part of the refreshed Art Syllabus, students will have
+the opportunity to visit museums such as the National University of Singapore
+(NUS) Museum. This is to make learning more authentic and also to expose
+students to Singaporean Art. Primary 4 students are involved in this programme.
+They would learn how to respond to artworks using Thinking Routines such
+as See-Think-Wonder.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide7.jpg">
+</div>
+<h4>Talent Identification Programme</h4>
+<p>As part of the school’s Talent Identification Programme, an internal competition
+is held for all Primary 2 students. In 2023, students participated in a
+Doodling Competition. As a follow-up, shortlisted students were offered
+to join the Art &amp; Craft Club when they are in Primary 3 the following
+year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide9.jpg">
+</div>
+<p></p>
