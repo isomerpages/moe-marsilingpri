@@ -24,3 +24,16 @@ students learn and apply the Elements of Art and Principles of Design.
 Every art project involves a discussion of an artwork by a selected artist,
 followed by the art-making process and finally closing with a gallery walk
 and peer critique.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide3.jpg">
+</div>
+<h4>Art MasterClasses</h4>
+<p>The Art MasterClasses is an Art Enrichment Programme for selected students
+who show potential in a particular Art form. In 2023, there were 2 MasterClasses
+conducted for 2 groups of Primary 4 students, focusing on Watercolour and
+Ceramics. From 2024 onwards, with the refresh of the Art Syllabus, MasterClasses
+will be conducted for Drawing and Painting, and participants will be selected
+students from Primary 3 and 4. These enrichment classes will be held outside
+of curriculum hours.</p>
+<p></p>
