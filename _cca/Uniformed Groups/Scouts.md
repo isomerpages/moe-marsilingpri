@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: markdown
 ---
 <h4><strong>About Scouts</strong></h4>
-<p>The CCA aims to nurture the holistic development of Cub Scouts within
+<p>MPS Scouts CCA aims to nurture the holistic development of Cub Scouts within
 an environment that fosters intellectual and physical growth, while also
 presenting challenges for them to overcome. Through active participation,
 Cub Scouts will learn valuable skills in self-management and peer support,
