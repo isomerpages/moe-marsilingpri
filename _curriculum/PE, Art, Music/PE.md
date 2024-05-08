@@ -19,8 +19,9 @@ a physically active and healthy lifestyle.</p>
 </li>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture20.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Lower Primary Games (LPG)</h4>
@@ -32,7 +33,7 @@ perform what they have learned in front of their parents. Parents are also
 invited to participate in the parent-child game during the event.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture21.png">
 </div>
 <h4>Inter-class Games</h4>
 <p>Programme Description</p>
@@ -50,7 +51,7 @@ There is a wide range of sports played during the Inter-class Games such
 as Captain's Ball, Floorball, modified Volleyball and Tchoukball.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture22.png">
 </div>
 <h4>Trampoline</h4>
 <p>Programme Description</p>
@@ -64,7 +65,7 @@ of other sports and games. Students will get to experience rebounding to
 the tempo of music during the programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture23.png">
 </div>
 <h4>SwimSafer 2.0 Programme</h4>
 <p>Programme Description</p>
@@ -78,7 +79,7 @@ to personal water survival skills.</p>
 the programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture24.png">
 </div>
 <h4>Kin-Ball</h4>
 <p>Programme Description</p>
@@ -90,7 +91,7 @@ is akin to a game of a volleyball but played with a huge inflated ball.
 The game promotes communication and teamwork amongst students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture25.png">
 </div>
 <h4>Outdoor Adventure Learning (OAL) Cohort Camp</h4>
 <p>Programme Description</p>
@@ -103,7 +104,7 @@ and rock climbing, bring out the best in students and forge strong bonds
 among the students and teachers during the camp.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture26.png">
 </div>
 <h4>Archery</h4>
 <p>Programme Description</p>
@@ -118,6 +119,6 @@ skills.</p>
 to be responsible for the equipment they use during the programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Slide16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture27.png">
 </div>
 <p></p>
