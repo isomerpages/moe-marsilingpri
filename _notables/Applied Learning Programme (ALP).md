@@ -12,8 +12,9 @@ them clearly and confidently</p>
 the ability to articulate their ideas and interest and active communicators
 who rally others to action through the use of engaging narratives.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Picture1.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>SPARKS@MPS</h4>
@@ -49,7 +50,7 @@ plot and script, visual images and sound can help them to communicate ideas
 across with greater impact. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Picture2.png">
 </div>
 <h4>STAR Development Programme (Tier 2)</h4>
 <p><strong>STAR Development Programme</strong>&nbsp;is our talent development
@@ -64,6 +65,6 @@ in competitions such as Wits &amp; Words 2024 Inter-school Debate Championships,
 Mythos Junior Orators and National English Writing Competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Picture3.png">
 </div>
 <p></p>
