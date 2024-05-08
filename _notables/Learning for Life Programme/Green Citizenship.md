@@ -32,10 +32,10 @@ with community partners.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture1.png">
 </div>
+<p></p>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Sustainability Challenge</h4>
 <p>Marsilians engage in Sustainability Challenges termly to enable them to
@@ -48,7 +48,7 @@ members as eco-stewards who&nbsp; spread the green message beyond the school
 community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture2.png">
 </div>
 <h4>Significant Environmental Days &amp; Green Citizenship Days</h4>
 <p>Marsilians engage in a series of activities during these significant days
@@ -79,7 +79,7 @@ school grounds.</p>
 <h4>Significant Environmental Days &amp; Green Citizenship Days (Water Wednesdays)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture3.png">
 </div>
 <h4></h4>
 <p></p>
