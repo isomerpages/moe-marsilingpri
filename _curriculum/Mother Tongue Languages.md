@@ -25,7 +25,7 @@ in everyday life.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture9.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Mother Tongue Language Fortnight</h4>
@@ -64,7 +64,7 @@ as well as experienced the traditions associated with the different ethnic
 groups in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Picture10.png">
 </div>
 <h4>Mother Tongue Reading Programme</h4>
 <p>The Mother Tongue Reading program is designed to cultivate a passion for
@@ -82,6 +82,6 @@ students' works into a school publication. This publication then serves
 as a valuable teaching and learning resource moving forward.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Picture11.png">
 </div>
 <p></p>
