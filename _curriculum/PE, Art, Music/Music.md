@@ -24,8 +24,9 @@ cultures.</p>
 </li>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music___Porgrammesat_a_Glance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture12.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Engaging With Songs, Our World Through Songs</h4>
@@ -41,7 +42,7 @@ about the music; it's a voyage through history and culture, all wrapped
 up in the universal language of melody.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture13.png">
 </div>
 <h4>From BUSK till dawn</h4>
 <p>Get ready to watch our Primary 3 to Primary 6 students showcase their
@@ -75,7 +76,7 @@ portfolios, and pave the way for future applications to Direct School Admission
 (DSA) through CCA participation in Primary 6.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture14.png">
 </div>
 <h4>Tech Tunes: Music Making using Technology</h4>
 <p>Primary 5 and 6 students unlock their creative potential as they delve
@@ -87,7 +88,7 @@ their understanding of musical concepts and elements acquired from Primary
 1 to 4.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Slide10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture19.png">
 </div>
 <h4>Curriculum Enrichment Programme:&nbsp;<br>P1 Movement through Music and P2 Singing (Voice Exploration)</h4>
 <p>Get ready for an immersive dance and vocal adventure. In Primary 1, students
@@ -100,7 +101,7 @@ It's a journey of self-expression and skill-building that lays the foundation
 for a lifelong love of music and performance!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Slide12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture16.png">
 </div>
 <h4>Jamming with Ukulele</h4>
 <p>Dive into the captivating world of the ukulele! Students will learn a
@@ -110,7 +111,7 @@ during lessons, and some even performed at “from BUSK till dawn” to dazzle
 audiences with their newfound skill. Let’s strum away!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Slide14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture17.png">
 </div>
 <h4>Hip Hop Hustle: Move &amp; Groove!</h4>
 <p>Get ready to groove with our Primary 6 students as they dive into a series
