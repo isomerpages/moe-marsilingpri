@@ -12,9 +12,6 @@ variant: tiptap
 skills to create and appreciate Art.</p>
 <h3><strong>Programmes at a Glance</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide1.jpg">
-</div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Marsiling Art Xperience (MAX)</h4>
 <p>In Marsiling Primary School, all students are exposed to different Art
@@ -25,9 +22,6 @@ Every art project involves a discussion of an artwork by a selected artist,
 followed by the art-making process and finally closing with a gallery walk
 and peer critique.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide3.jpg">
-</div>
 <h4>Art MasterClasses</h4>
 <p>The Art MasterClasses is an Art Enrichment Programme for selected students
 who show potential in a particular Art form. In 2023, there were 2 MasterClasses
@@ -37,9 +31,6 @@ will be conducted for Drawing and Painting, and participants will be selected
 students from Primary 3 and 4. These enrichment classes will be held outside
 of curriculum hours.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide5.jpg">
-</div>
 <h4>Museum-Based Learning</h4>
 <p>Since 2018, as part of the refreshed Art Syllabus, students will have
 the opportunity to visit museums such as the National University of Singapore
@@ -48,9 +39,6 @@ students to Singaporean Art. Primary 4 students are involved in this programme.
 They would learn how to respond to artworks using Thinking Routines such
 as See-Think-Wonder.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide7.jpg">
-</div>
 <h4>Talent Identification Programme</h4>
 <p>As part of the school’s Talent Identification Programme, an internal competition
 is held for all Primary 2 students. In 2023, students participated in a
@@ -58,7 +46,4 @@ Doodling Competition. As a follow-up, shortlisted students were offered
 to join the Art &amp; Craft Club when they are in Primary 3 the following
 year.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Slide9.jpg">
-</div>
 <p></p>
