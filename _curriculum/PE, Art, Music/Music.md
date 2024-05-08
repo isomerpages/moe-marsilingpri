@@ -25,10 +25,6 @@ cultures.</p>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Website_Template__Final____Music.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music___Porgrammesat_a_Glance.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
