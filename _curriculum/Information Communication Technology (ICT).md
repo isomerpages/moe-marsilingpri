@@ -14,7 +14,7 @@ designers.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Picture6.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Digital Literacy @ MPS</h4>
@@ -40,7 +40,7 @@ developments.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Picture7.png">
 </div>
 <h4>Code For Fun</h4>
 <p>The Code for Fun Enrichment Programme is offered to all P6 students. The
@@ -60,6 +60,6 @@ and computational thinking skills.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Picture8.png">
 </div>
 <p></p>
