@@ -13,7 +13,7 @@ contribute in our multi-racial school community.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture1.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>NE Commemorative Events</h4>
@@ -22,12 +22,13 @@ experiences which aims to strengthen our students’ citizenship dispositions,
 engage and empower them to be active and concerned citizens in Singapore.
 They are linked to defining moments in Singapore's history.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture3.png">
 </div>
 <h4>NE Show</h4>
 <p>P5 students will participate in the annual NE Show which is a preview
@@ -36,7 +37,7 @@ students where they can look towards the future with hope and make a commitment
 towards the nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture4.png">
 </div>
 <h4>#1958 Heritage Gallery &amp; Marsiling Heritage Trail</h4>
 <p>The #1958 Heritage Gallery and The Marsiling Heritage Trail were launched
@@ -48,7 +49,7 @@ this neighbourhood and to have a deeper appreciation for the heritage of
 the community in which our school is located.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture5.png">
 </div>
 <h4>CCE &amp; Social Studies (SS) Cohort Learning Journeys</h4>
 <p>To deepen their understanding and application of their learning in CCE
@@ -61,7 +62,7 @@ support each other in achieving shared goals in the activities designed
 for their cognitive and social emotional development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture6.png">
 </div>
 <h4>Interdisciplinary Project Work (IPW)</h4>
 <p>To promote the development of 21st century skills and build the culture
@@ -75,6 +76,6 @@ their learning and committed to build positive peer relationships through
 respectful conversations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Slide12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Picture7.png">
 </div>
 <p></p>
