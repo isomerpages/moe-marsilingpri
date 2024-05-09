@@ -25,7 +25,6 @@ a physically active and healthy lifestyle.</p>
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Lower Primary Games (LPG)</h4>
-<p>Programme Description</p>
 <p>Students from Primary 1 and 2 are taught a variety of fundamental movements
 and manipulative skills during PE lessons.</p>
 <p>For the Lower Primary Games, all Primary 1 and Primary 2 students will
@@ -36,8 +35,6 @@ invited to participate in the parent-child game during the event.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture21.png">
 </div>
 <h4>Inter-class Games</h4>
-<p>Programme Description</p>
-<p></p>
 <p>The Inter-class Games aim to develop strong teamwork and build sportsmanship
 amongst students, and to promote the importance of being physically engaged
 in sports and games on a regular basis.</p>
@@ -54,7 +51,6 @@ as Captain's Ball, Floorball, modified Volleyball and Tchoukball.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture22.png">
 </div>
 <h4>Trampoline</h4>
-<p>Programme Description</p>
 <p>Rebounding is introduced to Primary 1 and 2 students as part of the Sports
 Education Programme to encourage sports participation in schools and increase
 sporting opportunities for the young.</p>
@@ -68,7 +64,6 @@ the tempo of music during the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture23.png">
 </div>
 <h4>SwimSafer 2.0 Programme</h4>
-<p>Programme Description</p>
 <p>In the SwimSafer 2.0 Programme, students will acquire water safety knowledge,
 personal water survival skills and swimming skills.</p>
 <p>With the guidance of qualified swim instructors, students will learn the
@@ -82,7 +77,6 @@ the programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture24.png">
 </div>
 <h4>Kin-Ball</h4>
-<p>Programme Description</p>
 <p>Kin-Ball is introduced to Primary 4 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
 opportunities for the young.</p>
@@ -94,7 +88,6 @@ The game promotes communication and teamwork amongst students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture25.png">
 </div>
 <h4>Outdoor Adventure Learning (OAL) Cohort Camp</h4>
-<p>Programme Description</p>
 <p>The Primary 5 Outdoor Adventure learning Cohort Camp is a fun and exciting
 outdoor programme that is filled with team-bonding games and activities.</p>
 <p>The OAL Cohort Camp challenges students to strive and unleash their potential
@@ -107,7 +100,6 @@ among the students and teachers during the camp.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/Picture26.png">
 </div>
 <h4>Archery</h4>
-<p>Programme Description</p>
 <p>Archery is introduced to Primary 6 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
 opportunities for the young.</p>
