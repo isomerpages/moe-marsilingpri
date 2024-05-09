@@ -55,4 +55,5 @@ Foundation.</p>
 </div>
 <p>View the video below to see our students in action during the STEM Playground
 Challenge – Cotton Reel Challenge.</p>
-<p></p>
+<p><a href="https://youtube.com/shorts/glxvemUnvwA?si=OvzZ3028Rnj5qDpO" rel="noopener noreferrer nofollow" target="_blank">https://youtube.com/embed/glxvemUnvwA?si=OvzZ3028Rnj5qDpO</a>
+</p>
