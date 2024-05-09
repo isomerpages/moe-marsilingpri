@@ -6,9 +6,8 @@ variant: tiptap
 third_nav_title: School Achievements
 ---
 <h4><strong>Individual Achievements</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -17,9 +16,6 @@ third_nav_title: School Achievements
 <tr>
 <th rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Award</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Student</p>
@@ -33,13 +29,10 @@ third_nav_title: School Achievements
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Care</p>
+<p>6 Responsibility</p>
 </td>
 </tr>
 <tr>
@@ -47,21 +40,15 @@ third_nav_title: School Achievements
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Kugan Kumar S/O Satehs Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Harmony</p>
+<p>6 Harmony</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aydin Adel Bin Shamsul Nahar</p>
@@ -75,9 +62,6 @@ third_nav_title: School Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kuan Yew Award for All-Round Excellence&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Elyza Sri Binte Razif</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,9 +73,6 @@ third_nav_title: School Achievements
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North-West Outstanding All-Rounder Student (OARS)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Muhamad Danial Adnan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,10 +82,6 @@ third_nav_title: School Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North-West Outstanding All-Rounder Student (OARS)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Nasirah Binte Mohamad Nasir</p>
