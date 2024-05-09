@@ -101,17 +101,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rolan Tambunan Amir Assan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Airwan Nain Sardi (ST Art)</p>
 </td>
 <td rowspan="1" colspan="1">
