@@ -32,7 +32,7 @@ third_nav_title: School Achievements
 <p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Responsibility</p>
+<p>6Care</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: School Achievements
 <p>Kugan Kumar S/O Satehs Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Harmony</p>
+<p>6Harmony</p>
 </td>
 </tr>
 <tr>
