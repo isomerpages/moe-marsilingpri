@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <p><strong>Heads of Departments</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -63,10 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Herianti Abu Shah</p>
+<p>Mdm Herianti Bte Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education</p>
+<p>HOD/Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>herianti_abu_shah@schools.gov.sg</p>
@@ -74,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jasper Chua</p>
+<p>Mr Jasper Chua Ban Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Information &amp; Communications Technology</p>
@@ -85,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Goh</p>
+<p>Ms Angela Goh Lay Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Educational Support</p>
@@ -107,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shazana Mohamed Shahari</p>
+<p>Ms Shazana Bte Mohamed Shahari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH/Middle Primary</p>
@@ -118,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Danny Sim</p>
+<p>Mr Danny Sim Swee Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH/Upper Primary</p>
@@ -134,7 +139,12 @@ variant: tiptap
 <p></p>
 <p><strong>Level Heads (LH), Subject Heads (SH) and Assistant Year Heads (AYH)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -160,7 +170,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Tan</p>
+<p>Mr Jason Tan Yong Sng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/Mathematics (Cov. HOD/Maths)</p>
@@ -185,7 +195,7 @@ variant: tiptap
 <p>Ms Elishe Lim Shi Chi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Chinese Language (Cov. HOD/MT)</p>
+<p>SH/Chinese Language (Cov. HOD/MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>elishe_lim_shi_chi@schools.gov.sg</p>
@@ -218,7 +228,7 @@ variant: tiptap
 <p>Mdm Ong Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character &amp; Citizenship Education</p>
+<p>SH/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_siew_eng@schools.gov.sg</p>
@@ -248,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Sng</p>
+<p>Mdm Shirley Sng Su Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being (Cov. AYH/Middle Primary)</p>
@@ -264,7 +274,12 @@ variant: tiptap
 <p></p>
 <p><strong>Senior Teachers (ST)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -285,7 +300,7 @@ variant: tiptap
 <p>Mr Mohd Ali Mirza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/ English Language</p>
+<p>ST / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohd_ali_mirza@schools.gov.sg</p>
@@ -296,7 +311,7 @@ variant: tiptap
 <p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/ Chinese Language</p>
+<p>ST / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_soy_moi@schools.gov.sg</p>
@@ -304,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamaliah Yusope Lamat</p>
+<p>Mdm Jamaliah Bte Yusope Lamat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Malay Language</p>
@@ -354,7 +369,12 @@ variant: tiptap
 <p></p>
 <p><strong>Administration Managers</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
