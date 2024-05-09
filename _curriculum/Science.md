@@ -68,3 +68,21 @@ learning in a fun way. The Science SPARKLE lessons are more than just experiment
 They are catalysts for a lifelong love of science. It empowers students
 to explore, question, and discover.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/4.png">
+</div>
+<h4>Science@FaSCInation</h4>
+<p>Science@FaSCInation, a Science MTV (Making Things Visible) learning space,
+comes alive during recess. Students explore forensic science through investigations.
+The space allows them to see the applications of Science beyond the syllabus
+and use the process skills acquired in class to solve the crime. Students
+get the opportunity to engage in hands-on activities that ignite their
+curiosity and passion for Science as they play the role of a forensic scientist.
+Beyond forensic science, students can also engage in experiments that deepens
+their understanding and allows them to demonstrate ways and thinking of
+doing Science.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/5.png">
+</div>
+<p></p>
