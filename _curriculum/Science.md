@@ -55,5 +55,16 @@ Foundation.</p>
 </div>
 <p>View the video below to see our students in action during the STEM Playground
 Challenge – Cotton Reel Challenge.</p>
-<p><a href="https://youtube.com/shorts/glxvemUnvwA?si=OvzZ3028Rnj5qDpO" rel="noopener noreferrer nofollow" target="_blank">https://youtube.com/embed/glxvemUnvwA?si=OvzZ3028Rnj5qDpO</a>
+<p><a href="https://youtube.com/shorts/uXXSzUNuI5o?feature=share" rel="noopener noreferrer nofollow" target="_blank">STEM Playground Challenge</a>
 </p>
+<h4>The Science SPARKLE</h4>
+<p>The Science SPARKLE lessons facilitate the learning of science for our
+lower block students. Developed with the aim of making science accessible
+and exciting, these lessons include a variety of experiments and activities
+that cover a wide range of scientific concepts in the revised primary science
+syllabus.</p>
+<p>Students are engaged in rich discussions in class enabling them to retain
+learning in a fun way. The Science SPARKLE lessons are more than just experiments;
+They are catalysts for a lifelong love of science. It empowers students
+to explore, question, and discover.</p>
+<p></p>
