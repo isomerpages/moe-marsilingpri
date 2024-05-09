@@ -44,7 +44,10 @@ They are designed with five characteristics in mind:</p>
 <p>Provides opportunities for children to create</p>
 </li>
 <li>
-<p>Incorporates values</p>
+<p>Incorporates values education and social-emotional learning</p>
+</li>
+<li>
+<p>Fun and enjoyable</p>
 </li>
 </ol>
 <p></p>
