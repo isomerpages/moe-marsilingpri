@@ -25,7 +25,7 @@ in everyday life.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/Picture9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Picture9.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Mother Tongue Language Fortnight</h4>
