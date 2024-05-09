@@ -21,11 +21,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Staff</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p><strong>Name of Staff</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,10 +35,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Xinru</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Ms Yeo Xinru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_xinru@schools.gov.sg</p>
@@ -46,10 +46,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Sze Leng</p>
+<p>HOD/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
+<p>Ms Yong Sze Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yong_sze_leng@schools.gov.sg</p>
@@ -57,10 +57,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Maidin</p>
+<p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
+<p>Ms Natasha Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>natasha_maidin@schools.gov.sg</p>
@@ -68,10 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Herianti Bte Abu Shah</p>
+<p>HOD/Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education (CCE)</p>
+<p>Mdm Herianti Bte Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>herianti_abu_shah@schools.gov.sg</p>
@@ -79,10 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jasper Chua Ban Hwee</p>
+<p>HOD/Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Information &amp; Communications Technology</p>
+<p>Mr Jasper Chua Ban Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_ban_hwee_jasper@schools.gov.sg</p>
@@ -90,10 +90,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Goh Lay Ching</p>
+<p>HOD/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>Ms Angela Goh Lay Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_lay_ching_angela@schools.gov.sg</p>
@@ -101,10 +101,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nick Chan</p>
+<p>YH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Lower Primary</p>
+<p>Mr Nick Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_hong_wei@schools.gov.sg</p>
@@ -112,10 +112,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shazana Bte Mohamed Shahari</p>
+<p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Middle Primary</p>
+<p>Ms Shazana Bte Mohamed Shahari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shazana_mohamed_shahari@schools.gov.sg</p>
@@ -123,11 +123,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Danny Sim Swee Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>YH/Upper Primary</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Danny Sim Swee Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_swee_sheng_danny@schools.gov.sg</p>
