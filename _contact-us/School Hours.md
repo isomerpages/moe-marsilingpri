@@ -74,5 +74,5 @@ their Physical Health Education (PHE) lessons.</p>
 <p>Students participating in afterschool programs are provided with a designated
 break period to enjoy their meals prior to the commencement of their activities.
 Within this timeframe, students can choose to eat food either purchased
-from the school canteen or brought from home</p>
+from the school canteen or brought from home.</p>
 <p>Time: 1.30pm to 2.00pm</p>
