@@ -40,7 +40,7 @@ variant: tiptap
 <p>P2 and P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am to 10am</p>
+<p>9.30am to 10.00am</p>
 </td>
 </tr>
 <tr>
@@ -75,4 +75,4 @@ their Physical Health Education (PHE) lessons.</p>
 break period to enjoy their meals prior to the commencement of their activities.
 Within this timeframe, students can choose to eat food either purchased
 from the school canteen or brought from home</p>
-<p>Time: 1.30pm to 2pm</p>
+<p>Time: 1.30pm to 2.00pm</p>
