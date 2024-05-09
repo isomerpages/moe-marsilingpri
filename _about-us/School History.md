@@ -8,6 +8,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School History Timeline" src="/images/Timeline_V6_Compressed.png">
+<img style="width: 100%" height="auto" width="100%" alt="School history with latest ISH picture" src="/images/School_History_Timeline.png">
 </div>
 <p></p>
