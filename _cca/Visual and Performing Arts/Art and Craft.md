@@ -3,7 +3,7 @@ title: Art and Craft
 permalink: /cca/visual-and-performing-arts/art-craft/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>About the Art and Craft Club</strong></h4>
 <p>MPS Art and Craft Club aims to expose students to a variety of projects
@@ -12,7 +12,42 @@ Art forms – drawing, painting, printmaking, sculpture, craftwork and new
 media. Students will be able to apply Elements of Art and Principles of
 Design in their artwork. They will also be able to present their artwork
 confidently and appreciate others’ artworks as well.</p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mr Airwan Bin Nain Sardi (I/C)</p>
+<p>Mdm See Poh Bee (2nd I/C)</p>
+<p>Nur Nazurah Binte Abdul Rahim</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Art Rooms</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
 <h4><strong>Teachers-in-charge</strong></h4>
 <p>Mr Airwan Bin Nain Sardi (I/C)
 <br>Mdm See Poh Bee (2nd I/C)
