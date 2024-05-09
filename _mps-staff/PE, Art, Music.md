@@ -4,7 +4,12 @@ permalink: /pe-art-music/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,17 +24,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Ban Hwee Jasper (HOD/ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ban_hwee_jasper@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Su Haojing SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,6 +31,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>su_haojing@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Ban Hwee Jasper (HOD/ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_ban_hwee_jasper@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
