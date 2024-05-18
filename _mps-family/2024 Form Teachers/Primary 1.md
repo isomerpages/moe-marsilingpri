@@ -61,7 +61,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nick Chan Hong Wei</p>
+<p>Mr Chan Hong Wei, Nick</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_hong_wei@schools.gov.sg</p>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>1Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dawn Lee Hsueh Chien</p>
+<p>Ms Lee Hsueh Chien Dawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_hsueh_chien dawn@schools.gov.sg</p>
