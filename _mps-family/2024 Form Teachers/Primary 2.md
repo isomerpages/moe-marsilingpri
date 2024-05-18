@@ -39,7 +39,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Teresha Fernandaz Selvamany</p>
+<p>Ms Teresha Fernandaz Selvamany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teresha_fernandaz_selvamany@schools.gov.sg</p>
