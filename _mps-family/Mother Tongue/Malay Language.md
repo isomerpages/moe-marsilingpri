@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsriwani (SH/Malay Language)</p>
+<p>Mdm Norsriwani Bakar (SH/Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norsriwani_bakar@schools.gov.sg</p>
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamaliah (ST/ML)</p>
+<p>MMdm Jamaliah Yusope Lamat (ST/ML)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jamaliah_yusope_lamat@schools.gov.sg</p>
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazlina Yaacob</p>
+<p>Mdm Hazlina Bte Yaacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hazlina_yaacob@schools.gov.sg</p>
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Julianna Adam</p>
+<p>Mdm Julianna Bte Adam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>julianna_adam@schools.gov.sg</p>
@@ -53,7 +53,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Khadijah</p>
+<p>Mdm Nur 'Aliah Binte Gasali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nuraliah_gasali@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_khadijah_abdul_aziz@schools.gov.sg</p>
@@ -61,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohana Ahmad</p>
+<p>Mdm Rohana Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rohana_ahmad@schools.gov.sg</p>
@@ -77,18 +85,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Muhammad</p>
+<p>Mdm Siti Fatimah Bt Muhammad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_fatimah_bt_muhammad@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur 'Aliah Binte Gasali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nuraliah_gasali@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
