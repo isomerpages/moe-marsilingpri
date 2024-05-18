@@ -6,10 +6,13 @@ variant: tiptap
 ---
 <p></p>
 <h4><strong>School Vision</strong></h4>
-<p>Learners and Leaders of Tomorrow</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Vision__5_.png">
+</div>
 <p></p>
 <p></p>
 <h4><strong>School Mission</strong></h4>
-<p>Nurturing resilient learners who are future ready
-<br>Growing confident leaders who are values driven</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Mission__4_.png">
+</div>
 <p></p>
