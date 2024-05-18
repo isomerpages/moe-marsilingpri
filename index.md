@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our Achievements
           description: Click to view
-          url: /about-us/school-achievements/
+          url: https://marsilingpri.moe.edu.sg/about-us/school-achievements/
         - title: Follow us on Instagram
           description: Click to view
           url: https://www.instagram.com/marsilingprimaryschool?igsh=OTEwaDJwZjhzMm1p
