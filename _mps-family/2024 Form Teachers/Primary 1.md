@@ -72,7 +72,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janaki Amma Prankumar</p>
+<p>Mdm Janaki Amma S Pillay (Mrs Pran)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>janaki_amma_prankumar_a@schools.gov.sg</p>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>1Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Hsueh Chien Dawn</p>
+<p>Ms Dawn Lee Hsueh Chien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_hsueh_chien dawn@schools.gov.sg</p>
@@ -94,7 +94,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Khadijah Abdul Aziz</p>
+<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_khadijah_abdul_aziz@schools.gov.sg</p>
