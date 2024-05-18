@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mdm Ang Shiao Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_shiao_woon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mdm Fan Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>fan_fang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mdm Lee Guan Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_guan_pheng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Mdm Li Huaitao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>li_huaitao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>Mdm Ong Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ong_kai_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: tiptap
 <p>Mdm Shi Yibin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>shi_yibin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ variant: tiptap
 <p>Mr Chin Thian Soong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chin_thian_soong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Mr Tsen Hon Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tsen_hon_leong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>Mr Wang Yuhang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wang_yuhang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ variant: tiptap
 <p>Ms Li Juanjuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>li_juanjuan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
