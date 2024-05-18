@@ -4,10 +4,9 @@ permalink: /school-history/
 description: ""
 variant: tiptap
 ---
-<p><strong>A Brief History of Marsiling Primary School</strong>
-</p>
+<h4><strong>A Brief History of Marsiling Primary School</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School history with latest ISH picture" src="/images/School_History_Timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timeline_V8.png">
 </div>
 <p></p>
