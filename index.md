@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page Image.gif
+      key_highlights:
+        - title: Our Achievements
+          description: Click to view
+          url: /about-us/school-achievements/
+        - title: Follow us on Instagram
+          description: Click to view
+          url: https://www.instagram.com/marsilingprimaryschool?igsh=OTEwaDJwZjhzMm1p
   - announcements:
       title: Announcements
       id: announcements
