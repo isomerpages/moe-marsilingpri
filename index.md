@@ -22,7 +22,7 @@ sections:
       title: Highlights
       id: announcements
       announcement_items:
-        - title: What does being responsible mean?
+        - title: "ZB Schools: What does being responsible mean?"
           date: 13 May 2024
           announcement: 《大头条进校园》series has arrived at Marsiling Primary School! Three P5
             students shared their views on current news topics and how they
