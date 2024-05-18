@@ -5,7 +5,12 @@ description: ""
 third_nav_title: 2024 Form Teachers
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +28,7 @@ variant: tiptap
 <p>3Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Bi Ying</p>
+<p>Ms Alivia Tang Bi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_bi_ying@schools.gov.sg</p>
@@ -45,7 +50,7 @@ variant: tiptap
 <p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Lee Hui</p>
+<p>Miss Clara Chang Lee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_lee_hui@schools.gov.sg</p>
@@ -67,7 +72,7 @@ variant: tiptap
 <p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jian Chye, Sam</p>
+<p>Mr Sam Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jian_chye_sam@schools.gov.sg</p>
