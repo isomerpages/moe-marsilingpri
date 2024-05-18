@@ -6,6 +6,11 @@ variant: tiptap
 third_nav_title: School Achievements
 ---
 <h4><strong>Individual Achievements</strong></h4>
+<h4>Lee Kuan Yew Award for All-Round Excellence (LKY-ARE)&nbsp;</h4>
+<p>This award recognises well-rounded students who have excelled in both
+academic and non-academic spheres. The award aims to encourage students
+to continue to excel in their studies, develop their character and strengths,
+and contribute back to society.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,6 +73,31 @@ third_nav_title: School Achievements
 <p>6Integrity</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4></h4>
+<h4>North-West Outstanding All-Rounder Student (OARS) Award</h4>
+<p>This award recognises students who embody the spirit of giving back, have
+contributed significantly to the community through CDC programmes and excel
+in their CCA, leadership and academics.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023</p>
@@ -92,7 +122,7 @@ third_nav_title: School Achievements
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4></h4>
 <h4><strong>CCA Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
