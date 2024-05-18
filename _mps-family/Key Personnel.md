@@ -395,10 +395,10 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Chui Lin, Winnie</p>
+<p>Mdm Wong Hiu Fung, Candy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>winnie_ng@schools.gov.sg</p>
+<p>wong_hiu_fung@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -406,10 +406,10 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiu Fung, Candy</p>
+<p>Ms Ng Chui Lin, Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_hiu_fung@schools.gov.sg</p>
+<p>winnie_ng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
