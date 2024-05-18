@@ -124,6 +124,7 @@ in their CCA, leadership and academics.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Achievements</strong></h4>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
