@@ -18,6 +18,6 @@ third_nav_title: School Achievements
 <div class="isomer-card-description">How a broadcast room helps strengthen students’ language skills</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www-zbschools-sg.translate.goog/stories-29563?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Interview by ZB Schools" src="/images/Article_4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Da Toutiao enters campus - Be a responsible person</div><div class="isomer-card-description">Let’s hear what students from Marsiling Primary School think about responsibility.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www-zbschools-sg.translate.goog/stories-29563?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Interview by ZB Schools" src="/images/Article_4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Da Toutiao Enters Campus: Be a Responsible Person</div><div class="isomer-card-description">Let’s hear what students from Marsiling Primary School think about responsibility.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
