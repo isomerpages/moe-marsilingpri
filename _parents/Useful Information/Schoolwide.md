@@ -35,7 +35,8 @@ third_nav_title: Useful Information
 <p>Home-Based Learning (HBL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.marsilingpri.moe.edu.sg/curriculum/HBL/" rel="noopener noreferrer nofollow" target="_blank">https://www.marsilingpri.moe.edu.sg/curriculum/hbl/</a>&nbsp;</p>
+<p><a href="/files/Home_Based_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Home-Based Learning</a>
+</p>
 </td>
 </tr>
 <tr>
