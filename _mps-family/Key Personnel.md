@@ -60,7 +60,7 @@ variant: tiptap
 <p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Maidin</p>
+<p>Ms Natasha Bte Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>natasha_maidin@schools.gov.sg</p>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>HOD/Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Herianti Bte Abu Shah</p>
+<p>Mdm Herianti Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>herianti_abu_shah@schools.gov.sg</p>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>YH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nick Chan</p>
+<p>Mr Nick Chan Hong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_hong_wei@schools.gov.sg</p>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shazana Bte Mohamed Shahari</p>
+<p>Mdm Shazana Binte Mohamed Shahari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shazana_mohamed_shahari@schools.gov.sg</p>
