@@ -3,7 +3,7 @@ title: Brownies
 permalink: /cca/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>About Brownies</strong></h4>
 <p>MPS Brownies is associated to Girl Guides Singapore. The CCA aims to provide
@@ -11,18 +11,63 @@ girls with the opportunity for self-training in the development of character,
 in the realization of responsible citizenship and promotion of service
 to the community.</p>
 <p></p>
-<h4><strong>Teachers-in-charge</strong></h4>
-<p>Miss Chang Lee Hui (I/C)
-<br>Ms Teresha Fernandaz Selvamany (2nd I/C)
-<br>Ms Wen Caizhuang
-<br>Mdm Hazlina Binte Yaacob
-<br>Mdm Latchmana Murlly</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Miss Chang Lee Hui (I/C)</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Teaching Lab (Level 1)</p>
 <p></p>
-<h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday
-<br>Time: 3.15pm – 4.15pm
-<br>Venue: Teaching Lab (Level 1)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wen Caizhuang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazlina Binte Yaacob</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Latchmana Murlly</p>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>World Thinking Day Celebrations</h4>
 <p>Our Brownies took part in the Girl Guides World Thinking Day 2024 event
