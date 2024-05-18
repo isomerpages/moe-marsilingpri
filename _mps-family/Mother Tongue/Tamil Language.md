@@ -29,22 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Latchmana Murlly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>latchmana_murlly@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Raj Sathiya Bamah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Thiliban S/O Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,6 +41,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>janaki_amma_prankumar_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Latchmana Murlly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>latchmana_murlly@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Raj Sathiya Bamah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
