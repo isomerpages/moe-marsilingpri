@@ -4,11 +4,12 @@ permalink: /about-us/schoolvalues/
 description: ""
 variant: tiptap
 ---
-<p><strong>Our School R3.I.C.E. Values</strong>
-</p>
+<h4><strong>Our School R3.I.C.E. Values</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3ICE_Values__V2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3ICE_Values.png">
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>RESPECT</strong>
