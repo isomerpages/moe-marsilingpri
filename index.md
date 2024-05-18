@@ -15,6 +15,9 @@ sections:
         - title: Follow us on Instagram
           description: Click to view
           url: https://www.instagram.com/marsilingprimaryschool?igsh=OTEwaDJwZjhzMm1p
+        - title: Follow us on Facebook
+          description: Click to view
+          url: https://www.facebook.com/MarsilingPri/
   - announcements:
       title: Announcements
       id: announcements
