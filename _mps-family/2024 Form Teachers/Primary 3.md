@@ -28,7 +28,7 @@ variant: tiptap
 <p>3Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alivia Tang Bi Ying</p>
+<p>Ms Tang Bi Ying, Alivia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_bi_ying@schools.gov.sg</p>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Clara Chang Lee Hui</p>
+<p>Miss Chang Lee Hui, Clara</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_lee_hui@schools.gov.sg</p>
