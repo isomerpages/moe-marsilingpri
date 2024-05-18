@@ -101,7 +101,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Airwan Nain Sardi (ST Art)</p>
+<p>Mr Airwan Nain Sardi (ST/Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
