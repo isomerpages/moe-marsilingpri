@@ -23,6 +23,15 @@ third_nav_title: Useful Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Direct School Admission for Secondary School (DSA-Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>PSLE Scoring and Sec 1 Posting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,10 +41,10 @@ third_nav_title: Useful Information
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Direct School Admission for Secondary School (DSA-Secondary)</p>
+<p>SchoolFinder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/dsa</u></a>
+<p><a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school</a>
 </p>
 </td>
 </tr>
