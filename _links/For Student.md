@@ -65,27 +65,6 @@ skills for children.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DiscoveReads</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DiscoveReads.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>DiscoveReads is a digital platform curated by the National Library Board
-(NLB) specifically for children and teenager. It aims to offer a wide range
-of resources, including books, educational materials, online programs,
-and
-<br>information about events and activities tailored to young audiences.</p>
-<p>
-<br>Website: <a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://childrenandteens.nlb.gov.sg/</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>myON</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -117,6 +96,27 @@ students are encouraged to take charge of their learning journey, fostering
 a habit of self-directed study.</p>
 <p></p>
 <p>Website: <a href="https://www.ezhishi.com/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.com/Contents/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DiscoveReads</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DiscoveReads.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>DiscoveReads is a digital platform curated by the National Library Board
+(NLB) specifically for children and teenager. It aims to offer a wide range
+of resources, including books, educational materials, online programs,
+and
+<br>information about events and activities tailored to young audiences.</p>
+<p>
+<br>Website: <a href="https://childrenandteens.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://childrenandteens.nlb.gov.sg/</u></a>
 </p>
 </td>
 </tr>
