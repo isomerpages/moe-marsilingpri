@@ -18,6 +18,17 @@ sections:
         - title: Follow us on Facebook
           description: Click to view
           url: https://www.facebook.com/MarsilingPri/
+  - announcements:
+      title: Highlights
+      id: announcements
+      announcement_items:
+        - title: What does being responsible mean?
+          date: 13 May 2024
+          announcement: 《大头条进校园》series has arrived at Marsiling Primary School! Three P5
+            students shared their views on current news topics and how they
+            demonstrate a sense of responsibility in their daily lives.
+          link_text: Click on the link  to watch the video.
+          link_url: https://www.zbschools.sg/stories-29563
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events
@@ -25,16 +36,4 @@ sections:
       url: https://www.facebook.com/MarsilingPri/posts/pfbid035XePM3bVKQmq11AxazVwdnhpLHRXx2kfxrzCvVbe3itfHuiHULs2K3n9ZZrk32DZl
       image: /images/P5 Camp 2023.jpg
       alt: Image alt text
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 13 May 2024
-          announcement: 《大头条进校园》series has arrived at Marsiling Primary School! Three P5
-            students shared their views on current news topics and how they
-            demonstrate a sense of responsibility in their daily lives.
-          link_text: Click on the link  to watch the video.
-          link_url: https://www.zbschools.sg/stories-29563
 ---
