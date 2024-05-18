@@ -127,7 +127,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Danny Sim Swee Sheng</p>
+<p>Mr Sim Swee Sheng Danny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_swee_sheng_danny@schools.gov.sg</p>
