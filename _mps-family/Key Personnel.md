@@ -209,7 +209,7 @@ variant: tiptap
 <p>SH/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsriwani Bte Bakar</p>
+<p>Mdm Norsriwani Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norsriwani_bakar@schools.gov.sg</p>
@@ -242,7 +242,7 @@ variant: tiptap
 <p>SH/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Tan Siyun</p>
+<p>Miss Michelle Tan Siyun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>michelle_tan@schools.gov.sg</p>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>AYH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ferlicia Lim</p>
+<p>Miss Ferlicia Lim Duyue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ferlicia_lim@schools.gov.sg</p>
@@ -286,11 +286,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name of Staff</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p><strong>Name of Staff</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,10 +300,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Ali Mirza</p>
+<p>ST/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / English Language</p>
+<p>Mr Mohd Ali Mirza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohd_ali_mirza@schools.gov.sg</p>
@@ -311,10 +311,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Soy Moi</p>
+<p>ST/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Chinese Language</p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_soy_moi@schools.gov.sg</p>
@@ -322,10 +322,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamaliah Bte Yusope Lamat</p>
+<p>ST/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Malay Language</p>
+<p>Mdm Jamaliah Yusope Lamat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jamaliah_yusope_lamat@schools.gov.sg</p>
@@ -333,10 +333,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Sock Hoon</p>
+<p>ST/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Mathematics</p>
+<p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_sock_hoon_a@schools.gov.sg</p>
@@ -344,10 +344,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Shy Ni</p>
+<p>ST/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Mathematics</p>
+<p>Mdm Lim Shy Ni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_shy_ni@schools.gov.sg</p>
@@ -355,12 +355,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Airwan Nain Sardi</p>
+<p>ST/Art</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST / Art</p>
-<p></p>
-<p></p>
+<p>Mr Airwan B Nain Sardi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>airwan_b_nain_sardi@schools.gov.sg</p>
