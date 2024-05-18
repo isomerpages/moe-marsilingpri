@@ -381,10 +381,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name of Staff</p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Name of Staff</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
@@ -392,10 +392,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Winnie Ng Chui Lin</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Ms Winnie Ng Chui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>winnie_ng@schools.gov.sg</p>
@@ -403,10 +403,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Candy Wong Hiu Fung</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Mdm Candy Wong Hiu Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_hiu_fung@schools.gov.sg</p>
