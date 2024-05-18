@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Raj Sathiya Bamah</p>
+<p>Mdm Sathiya Bamah D/O Ayappan (Mrs Raj)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
