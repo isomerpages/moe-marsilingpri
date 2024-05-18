@@ -146,17 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sun Shwu Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sun_shwu_ping@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sathiya Baman D/O Ayappan</p>
+<p>Mdm Sathiya Bamah D/O Ayappan (Mrs Raj)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
