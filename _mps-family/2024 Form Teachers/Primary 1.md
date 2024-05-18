@@ -39,7 +39,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mohana Parthiben</p>
+<p>Ms Mohana d/o Thangavalu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohana_parthiben@schools.gov.sg</p>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur 'Aliah Gasali</p>
+<p>Mdm Nur 'Aliah Binte Gasali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nuraliah_gasali@schools.gov.sg</p>
@@ -61,7 +61,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hong Wei</p>
+<p>Mr Nick Chan Hong Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_hong_wei@schools.gov.sg</p>
