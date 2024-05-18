@@ -3,26 +3,59 @@ title: Scouts
 permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>About Scouts</strong></h4>
-<p>MPS Scouts CCA aims to nurture the holistic development of Cub Scouts within
-an environment that fosters intellectual and physical growth, while also
-presenting challenges for them to overcome. Through active participation,
+<p>MPS Scouts CCA aims to nurture the holistic development of Cub Scouts
+within an environment that fosters intellectual and physical growth, while
+also presenting challenges for them to overcome. Through active participation,
 Cub Scouts will learn valuable skills in self-management and peer support,
 providing them with practical leadership experience.</p>
 <p></p>
-<h4><strong>Teachers-in-charge</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
 <p>Mr Tsen Hon Leong (I/C)
 <br>Mdm Nur ‘Aliah Binte Gasali (2nd I/C)
 <br>Mr Wang Yuhang
 <br>Miss Michelle Tan Siyun</p>
 <p></p>
-<h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Thursday
-<br>Time: 3.15pm – 4.45pm
-<br>Venue: CCA Room 1 (Indoor Sports Hall, Level 1)</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>CCA Room 1 (Indoor Sports Hall, Level 1)</p>
 <p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>ADIJI Chief Scout</h4>
 <p>On March 2, 2024, our Cub Scouts from P4 to P6 joined 4000 other scouts
