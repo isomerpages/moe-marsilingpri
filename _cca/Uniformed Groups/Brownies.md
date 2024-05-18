@@ -30,8 +30,13 @@ to the community.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Miss Chang Lee Hui (I/C)</p>
+<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
+<p>Ms Wen Caizhuang</p>
+<p>Mdm Hazlina Binte Yaacob</p>
+<p>Mdm Latchmana Murlly</p>
+<p></p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Day: Thursday</p>
@@ -44,27 +49,10 @@ to the community.</p>
 </tr>
 <tr></tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wen Caizhuang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hazlina Binte Yaacob</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Latchmana Murlly</p>
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <h4></h4>
