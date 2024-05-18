@@ -8,9 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Leaders.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.png">
-</div>
 <p><strong>School Leaders</strong>
 </p>
 <table style="minWidth: 75px">
