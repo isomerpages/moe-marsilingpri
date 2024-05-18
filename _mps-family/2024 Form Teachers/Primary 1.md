@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Wai Hao Leonard</p>
+<p>Mr Leonard Ang Wai Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_wai_hao_leonard@schools.gov.sg</p>
