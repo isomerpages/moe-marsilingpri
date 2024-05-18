@@ -26,7 +26,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Chui Lin, Winnie</p>
+<p>Mdm Wong Hiu Fung, Candy</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiu Fung, Candy</p>
+<p>Ms Ng Chui Lin, Winnie</p>
 </td>
 </tr>
 <tr>
