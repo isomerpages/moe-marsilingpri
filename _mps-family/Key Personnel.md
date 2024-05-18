@@ -82,7 +82,7 @@ variant: tiptap
 <p>HOD/Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jasper Chua Ban Hwee</p>
+<p>Mr Chua Ban Hwee Jasper</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_ban_hwee_jasper@schools.gov.sg</p>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>HOD/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Goh Lay Ching</p>
+<p>Ms Goh Lay Ching, Anglea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_lay_ching_angela@schools.gov.sg</p>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>YH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nick Chan Hong Wei</p>
+<p>Mr Chan Hong Wei, Nick</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_hong_wei@schools.gov.sg</p>
@@ -176,7 +176,7 @@ variant: tiptap
 <p>LH/Mathematics (Cov. HOD/Maths)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Tan Yong Sng</p>
+<p>Mr Tan Yong Sng, Jason</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_yong_sng@schools.gov.sg</p>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>AYH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ferlicia Lim Duyue</p>
+<p>Miss Lim Duyue Ferlicia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ferlicia_lim@schools.gov.sg</p>
@@ -265,7 +265,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Sng Su Hoon</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
@@ -395,7 +395,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Winnie Ng Chui Lin</p>
+<p>Ms Ng Chui Lin, Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>winnie_ng@schools.gov.sg</p>
@@ -406,7 +406,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Candy Wong Hiu Fung</p>
+<p>Mdm Wong Hiu Fung, Candy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_hiu_fung@schools.gov.sg</p>
