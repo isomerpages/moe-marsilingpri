@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: School Letters
 ---
-<h4><strong>2024</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
