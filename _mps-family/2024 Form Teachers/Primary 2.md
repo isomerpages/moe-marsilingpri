@@ -28,7 +28,7 @@ variant: tiptap
 <p>2Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Francis Tay Kim Hock</p>
+<p>Mr Tay Kim Hock, Francis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_kim_hock@schools.gov.sg</p>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Sng Su Hoon</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
@@ -138,7 +138,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jasper Chua Ban Hwee</p>
+<p>Mr Chua Ban Hwee, Jasper</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_ban_hwee_jasper@schools.gov.sg</p>
