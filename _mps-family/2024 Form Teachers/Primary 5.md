@@ -127,7 +127,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Kim Chai</p>
+<p>Mrs Han Lee Kwang Nee Ang Kim Chai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_kim_chai@schools.gov.sg</p>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms How Li Miin</p>
+<p>Miss How Li Miin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>how_li_miin@schools.gov.sg</p>
