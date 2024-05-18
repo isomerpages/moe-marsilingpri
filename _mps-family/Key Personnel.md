@@ -187,7 +187,7 @@ variant: tiptap
 <p>LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Aisyah Johari</p>
+<p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_nur_aisyah_johari@schools.gov.sg</p>
