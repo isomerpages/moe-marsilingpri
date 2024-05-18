@@ -138,7 +138,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Suhailah Ibrahim</p>
+<p>Miss Suhailah Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suhailah_ibrahim@schools.gov.sg</p>
