@@ -135,7 +135,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4></h4>
 <p></p>
 <p><strong>Level Heads (LH), Subject Heads (SH) and Assistant Year Heads (AYH)</strong>
 </p>
