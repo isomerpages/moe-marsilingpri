@@ -67,6 +67,12 @@ programs to fly drones and accomplish designated tasks. This activity offers
 students the chance to enhance their troubleshooting skills and logical
 thinking while fostering teamwork through collaboration.</p>
 <p></p>
+<p>View the video below, which presents students having a whale of a time
+experimenting with the drones, figuring out how to steer them in their
+desired directions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
 <p></p>
 <h4>P3 Scratch Programming</h4>
 <p>Our P3 students started off their first CCA program with learning about
