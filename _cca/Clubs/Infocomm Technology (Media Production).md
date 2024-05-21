@@ -61,6 +61,13 @@ different time of the year.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
+<h4>Drone Flying Programme</h4>
+<p>The programme offers students the chance to develop coding skills by creating
+programs to fly drones and accomplish designated tasks. This activity offers
+students the chance to enhance their troubleshooting skills and logical
+thinking while fostering teamwork through collaboration.</p>
+<p></p>
+<p></p>
 <h4>P3 Scratch Programming</h4>
 <p>Our P3 students started off their first CCA program with learning about
 block-based coding using Scratch 3.0. The students learned the basic functions
