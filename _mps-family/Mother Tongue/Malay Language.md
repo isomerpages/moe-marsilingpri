@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MMdm Jamaliah Yusope Lamat (ST/ML)</p>
+<p>Mdm Jamaliah Yusope Lamat (ST/ML)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jamaliah_yusope_lamat@schools.gov.sg</p>
