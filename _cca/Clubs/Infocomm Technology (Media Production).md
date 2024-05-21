@@ -64,7 +64,7 @@ different time of the year.</p>
 <h4>Drone Flying Programme</h4>
 <p>The programme offers students the chance to develop coding skills by creating
 programs to fly drones and accomplish designated tasks. This activity offers
-students the chance to enhance their troubleshooting skills and logical
+students the opportunity to enhance their troubleshooting skills and logical
 thinking while fostering teamwork through collaboration.</p>
 <p></p>
 <p>View the video below, which presents students having a whale of a time
