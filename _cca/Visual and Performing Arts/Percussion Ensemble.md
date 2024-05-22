@@ -30,19 +30,26 @@ to the school and community.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Mdm Ang Shiao Woon (I/C)</p>
 <p>Mdm Li Juanjuan (2nd I/C)</p>
 <p>Mdm Fan Fang</p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Day: Thursday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Band Room</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <h4></h4>
