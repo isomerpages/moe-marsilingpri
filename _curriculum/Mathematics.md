@@ -93,5 +93,33 @@ invention thinking and effective communication skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
 </div>
 <p></p>
+<h4>Math @ Eureka</h4>
+<p>Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally
+alive during recess with a wide range of activities such as forming figures
+using Tangrams, Geoboards and LEGO pieces and shopping within budget at
+our life-sized “Mini Mart”. In addition, Eureka is used during Math lessons
+for students to explore mathematical concepts outside the classroom.</p>
+<p>By immersing students in learning experiences that focuses on play and
+exploration, various components of 21CC such as critical thinking, creativity,
+collaboration and communication are fostered.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_4.png">
+</div>
+<h4></h4>
+<h4>Math Hero</h4>
+<p>Math Hero is an in-house program of the Math Department. It aims to encourage
+and motivate our students to take ownership of their own learning and hone
+components of 21CC such as self-management, responsible decision-making,
+inventive thinking and communication.</p>
+<p>In this program, Primary 1 to 4 students are given a variety of interesting
+activities to choose to complete. Some of the activities required them
+to play a game with their friends and some require the involvement of family
+members which allows meaningful bonding. Upon the completion of each activity,
+star(s) will be awarded to the students. When a student has earned a stipulated
+number of stars, a Math Hero button badge and certificate will be awarded
+to him/her.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_5.png">
+</div>
 <p></p>
 <p></p>
