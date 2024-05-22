@@ -33,28 +33,20 @@ training gets tough.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
-<p>Miss Tan Cassander (I/C)
-<br>Mr Sam Tan (2nd I/C)
-<br>Mdm Jamaliah YL
-<br>Miss Ferlicia Lim</p>
-<p></p>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Cassander (I/C)</p>
+<p>Mr Sam Tan (2nd I/C)</p>
+<p>Mdm Jamaliah YL</p>
+<p>Miss Ferlicia Lim</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Day: Thursday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>ISH (Level 3)</p>
-<p></p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 </tbody>
 </table>
 <h4></h4>
