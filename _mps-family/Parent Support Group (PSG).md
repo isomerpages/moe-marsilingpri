@@ -4,21 +4,38 @@ permalink: /the-mps-family/parent-support-group/
 description: ""
 variant: tiptap
 ---
-<h3><strong>PSG COMMITTEE MEMBERS</strong></h3>
+<h4><strong>PSG COMMITTEE MEMBERS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
 </div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>EXCO-Members</strong>
 </p>
-<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
-<p>Khairul Anuar Bin Md Ibrahim</p>
-<p>Zhang Yang</p>
-<p>Yoh Sara</p>
-<p>Nadia Binte Hassan</p>
-<p>Valance Goh Soo Li</p>
-<p>Siti Aminah Binti Noh</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>PSG-Members</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
+<p>Khairul Anuar Bin Md Ibrahim</p>
+<p>Nadia Binte Hassan</p>
+<p>Siti Aminah Binti Noh</p>
+<p>Valance Goh Soo Li</p>
+<p>Yoh Sara</p>
+<p>Zhang Yang</p>
+</td>
+<td rowspan="7" colspan="1">
 <p>Charlene Ng Chuu Er</p>
 <p>Irene Nesaselvan</p>
 <p>Fion Ng</p>
@@ -37,6 +54,17 @@ variant: tiptap
 <p>Razif Sahri</p>
 <p>Siti Suriana</p>
 <p>Aye The Zar</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>About the PSG:</strong>
 </p>
 <p>We are a group of parents sharing our time, talents and efforts (passion)
