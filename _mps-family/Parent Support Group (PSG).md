@@ -145,56 +145,21 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>About PSG</strong></h4>
-<p>We are a group of parents sharing our time, talents and efforts (passion)
-with the school. Through the fun activities, we are able to learn with
-our children towards achieving the school vision.</p>
+<p>The PSG serves as a fundamental complement to the school, supporting and
+strengthening the school’s programmes to improve our children’s holistic
+development and learning.</p>
+<p>We work together with the school to help organise and facilitate enriching
+and enjoyable learning experiences for our children. These activities are
+often held during the recess time, aligning with the school-based events
+such as Chinese New Year, International Friendship Day, Earth Week, and
+Children’s Day. These events are packed with an array of engaging activities
+which include interactive games, and hands-on crafts.</p>
+<p>We have a big part to play in enriching our children’s school life where
+we collaborate with the school for key school programmes.</p>
+<p>We are eager to welcome fellow parents who share our passion for creating
+memorable moments and shaping a more caring and vibrant school life for
+our children. Join us as we embark on this fulfilling journey of shaping
+a future for the next generation.</p>
 <p></p>
-<h4><strong>Being A Parent Volunteer</strong></h4>
-<p>We will partner with the school in our children's learning journey
-<br>We will support the development of our children
-<br>We will participate in our children's progress
-<br>We will collaborate and learn with other parents
-<br>We will value add to the school, our children and our lives</p>
 <p></p>
-<h4><strong>PV Form</strong></h4>
-<p>Take the first step! Come join us&nbsp;&nbsp;<a href="https://form.gov.sg/63620bee2fec1f00120d65c2" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
-register.</p>
-<p></p>
-<h4><strong>Vision</strong></h4>
-<p>An Engaged and Committed Parents.</p>
-<p></p>
-<h4><strong>Mission</strong></h4>
-<p>To create a happy learning experience and environment for the parents
-and our children during their time in Marsiling Primary School.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_01.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_02.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_03.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_04.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_05.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_06.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_07.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg_08.JPG">
-</div>
 <p></p>
