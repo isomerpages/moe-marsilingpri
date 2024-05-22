@@ -181,7 +181,9 @@ and value Total Defence principles.</p>
 <p>From coordinating traditional craft stations to assisting with educational
 booths on Malay customs and traditions, PSG members actively engaged students
 in an immersive cultural appreciation experience.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_Hari_Raya.png">
+</div>
 <p></p>
 <h4><strong>Be a PSG Member</strong></h4>
 <p>As PSG members, we have a big part to play in enriching our children’s
