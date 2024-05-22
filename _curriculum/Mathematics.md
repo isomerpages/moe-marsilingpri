@@ -28,6 +28,7 @@ life.</p>
 </div>
 <p></p>
 <h4><strong>MOE Mathematics Framework</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Framework.png">
 </div>
@@ -37,9 +38,9 @@ problem solving. Supporting this focus are five inter-related components
 <h4></h4>
 <h4><strong>Teaching and Learning</strong></h4>
 <h4>3 Phases of Learning: Readiness, Engagement and Mastery</h4>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA___Framework_on_3_phases_of_learning.png">
+</div>
 <p></p>
 <p></p>
 <h4><strong>Concrete Pictorial Abstract (C-P-A) Approach</strong></h4>
@@ -75,5 +76,22 @@ needed to thrive in a constantly evolving world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_1.png">
 </div>
+<p></p>
+<h4>Excellence 2000 (E2K) Mathematics Programme</h4>
+<p>The E2K Mathematics Programme is designed by education specialists to
+meet the advanced learning needs of Primary 4 and 5 high-achieving learners.
+It aims to develop students’ mathematical reasoning skills and deepens
+their conceptual understanding through an inquiry approach. Students will
+have opportunities to work independently or collaborate with their peers
+and engage in mathematical thinking through resources such as games, puzzles,
+and mathematical explorations specially designed for this programme.</p>
+<p>Through the rich learning experiences offered by the programme, students
+will develop the attitudes, habits and dispositions mathematicians possess.
+They will also gain different components of 21CC such as critical thinking,
+invention thinking and effective communication skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
