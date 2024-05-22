@@ -144,27 +144,26 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>About the PSG:</strong>
-</p>
+<h4><strong>About the PSG:</strong></h4>
 <p>We are a group of parents sharing our time, talents and efforts (passion)
 with the school. Through the fun activities, we are able to learn with
 our children towards achieving the school vision.</p>
-<p><strong>Being A Parent Volunteer</strong>
-</p>
+<p></p>
+<h4><strong>Being A Parent Volunteer</strong></h4>
 <p>We will partner with the school in our children's learning journey
 <br>We will support the development of our children
 <br>We will participate in our children's progress
 <br>We will collaborate and learn with other parents
 <br>We will value add to the school, our children and our lives</p>
-<p><strong>PV Form</strong>
-</p>
+<p></p>
+<h4><strong>PV Form</strong></h4>
 <p>Take the first step! Come join us&nbsp;&nbsp;<a href="https://form.gov.sg/63620bee2fec1f00120d65c2" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;to
 register.</p>
-<p><strong>Our Vision:</strong>
-</p>
+<p></p>
+<h4><strong>Vision</strong></h4>
 <p>An Engaged and Committed Parents.</p>
-<p><strong>Our Mission:</strong>
-</p>
+<p></p>
+<h4><strong>Mission</strong></h4>
 <p>To create a happy learning experience and environment for the parents
 and our children during their time in Marsiling Primary School.</p>
 <div class="isomer-image-wrapper">
