@@ -62,3 +62,20 @@ tests.</p>
 students with opportunities to demonstrate their progress and receive recognition
 for their efforts while also serving as a means for instructors to assess
 student development and readiness for advancement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table_on_in_house_grading.png">
+</div>
+<p></p>
+<h4>NSG Taekwondo Poomsae Championships</h4>
+<p>The National School Games (NSG) Taekwondo Poomsae Championships is an
+important event for the year. In this competition, students perform Poomsae,
+which are sequences of Taekwondo moves like stances, strikes, and kicks.
+They are judged on how accurately and skillfully they execute these moves.
+This championship helps students develop their Taekwondo skills, physical
+fitness, and sportsmanship. It also promotes the martial art's traditions
+and provides an opportunity for young athletes to compete, gain recognition,
+and make new friends from different schools.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table_on_NSG.png">
+</div>
+<p></p>
