@@ -48,24 +48,6 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
-<h4>Weekly Training Session</h4>
-<p>MPS Taekwondo training is conducted in the school hall on Tuesdays. Under
-the coaching of experienced instructors, students engage in regular practice
-sessions to refine their skills and prepare for competitions or grading
-tests.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table.png">
-</div>
-<h4></h4>
-<h4>In-house grading at MPS</h4>
-<p>In-house gradings are an important aspect of the Taekwondo journey, providing
-students with opportunities to demonstrate their progress and receive recognition
-for their efforts while also serving as a means for instructors to assess
-student development and readiness for advancement.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table_on_in_house_grading.png">
-</div>
-<p></p>
 <h4>NSG Taekwondo Poomsae Championships</h4>
 <p>The National School Games (NSG) Taekwondo Poomsae Championships is an
 important event for the year. In this competition, students perform Poomsae,
@@ -78,4 +60,23 @@ and make new friends from different schools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table_on_NSG.png">
 </div>
+<h4></h4>
+<h4>In-house grading at MPS</h4>
+<p>In-house gradings are an important aspect of the Taekwondo journey, providing
+students with opportunities to demonstrate their progress and receive recognition
+for their efforts while also serving as a means for instructors to assess
+student development and readiness for advancement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table_on_in_house_grading.png">
+</div>
+<h4></h4>
+<h4>Weekly Training Session</h4>
+<p>MPS Taekwondo training is conducted in the school hall on Tuesdays. Under
+the coaching of experienced instructors, students engage in regular practice
+sessions to refine their skills and prepare for competitions or grading
+tests.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table.png">
+</div>
+<h4></h4>
 <p></p>
