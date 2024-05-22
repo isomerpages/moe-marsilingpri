@@ -4,7 +4,7 @@ permalink: /the-mps-family/parent-support-group/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Parent Support Group (PSG) Committee Members</strong></h4>
+<h4><strong>Parents Support Group (PSG) Committee Members</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
