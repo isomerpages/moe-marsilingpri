@@ -50,3 +50,15 @@ future and become sportsmen of integrity.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>National School Games (NSG)</h4>
+<p>Under the guidance of our dedicated teachers and coaches, students are
+trained to compete to the best of their abilities in National Inter-Primary
+School Track &amp; Field Meet (NSG). Through NSG, students can heighten
+their opportunities to enter established schools which offers Track and
+Field CCA through Direct School Admission (DSA). Some of these schools
+are Raffles Institution, St. Joseph’s Institution (SJI), Cedar Girls’ Secondary
+School, Nanyang Girls’ High School and even Singapore Sports School.</p>
+<p></p>
+<p></p>
+<p></p>
