@@ -57,7 +57,9 @@ a sense of community and national pride.</p>
 for our students. Students felt a profound sense of connection with the
 audience, realizing the power of music to bring people together and celebrate
 shared values.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_Marsiling_Carnival_Day.png">
+</div>
 <p></p>
 <h4>Performance on Awards and Appreciation Day 2023</h4>
 <p>During our Award and Appreciation Day, the Percussion Ensemble proudly
