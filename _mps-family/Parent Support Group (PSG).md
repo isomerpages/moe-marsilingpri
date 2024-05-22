@@ -4,7 +4,7 @@ permalink: /the-mps-family/parent-support-group/
 description: ""
 variant: tiptap
 ---
-<h4><strong>PSG COMMITTEE MEMBERS</strong></h4>
+<h4><strong>Parent Support Group (PSG) Committee Members</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
@@ -144,7 +144,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>About MPS PSG</strong></h4>
+<h4><strong>About PSG</strong></h4>
 <p>We are a group of parents sharing our time, talents and efforts (passion)
 with the school. Through the fun activities, we are able to learn with
 our children towards achieving the school vision.</p>
