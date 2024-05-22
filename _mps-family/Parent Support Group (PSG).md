@@ -167,6 +167,14 @@ Chinese New Year customs among students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_CNY.png">
 </div>
 <p></p>
+<h4>Total Defence Day Activities</h4>
+<p>During Total Defence Day recess activities, PSG members inspire students
+to engage fully in activities and discussions related to national defence,
+fostering a sense of enthusiasm and civic responsibility. PSG's support
+creates a dynamic learning environment that empowers students to understand
+and value Total Defence principles.</p>
+<p></p>
+<p></p>
 <h4><strong>Be a PSG Member</strong></h4>
 <p>As PSG members, we have a big part to play in enriching our children’s
 school life where we collaborate with the school for key school programmes.</p>
