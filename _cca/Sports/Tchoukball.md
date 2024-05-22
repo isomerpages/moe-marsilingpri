@@ -82,5 +82,10 @@ and catching (two-handed catch and ⁠single-handed catch) techniques.</p>
 sessions. Theses sessions provide an avenue for our students to further
 practise and hone their throwing, shooting and catching techniques.</p>
 <p></p>
+<p>View the video below, featuring our students during one of their training
+sessions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
 <p></p>
 <p></p>
