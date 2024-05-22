@@ -91,7 +91,7 @@ invention thinking and effective communication skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
 </div>
 <p></p>
-<h4>Math @ Eureka</h4>
+<h4>Math@Eureka</h4>
 <p>Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally
 alive during recess with a wide range of activities such as forming figures
 using Tangrams, Geoboards and LEGO pieces and shopping within budget at
