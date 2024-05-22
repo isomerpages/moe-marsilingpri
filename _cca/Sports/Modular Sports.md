@@ -34,22 +34,23 @@ mindset through the CCA.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Shy Ni&nbsp; (I/C)
-<br>Ms Chen Xiaoyin (2nd I/C)
-<br>Mr Nathanael Teo Yi Jie
-<br>Mdm Jeanette Wong</p>
+<td rowspan="2" colspan="1">
+<p>Mdm Lim Shy Ni&nbsp; (I/C)</p>
+<p>Ms Chen Xiaoyin (2nd I/C)</p>
+<p>Mr Nathanael Teo Yi Jie</p>
+<p>Mdm Jeanette Wong</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>ISH</p>
 <p>(Level 3)</p>
 <p></p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <h4></h4>
