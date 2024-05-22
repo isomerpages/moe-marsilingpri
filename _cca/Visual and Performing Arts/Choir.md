@@ -48,7 +48,7 @@ School.</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Music Room 1</p>
-<p>(Indoor Sports Hall, Level 3)</p>
+<p>(ISH, Level 3)</p>
 <p></p>
 </td>
 </tr>
