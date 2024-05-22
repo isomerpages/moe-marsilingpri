@@ -16,6 +16,7 @@ as programming using the Micro:Bit board. The students also have opportunities
 to participate in Learning Journey (LJ) and various competitions held at
 different time of the year.</p>
 <p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
