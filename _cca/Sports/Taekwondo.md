@@ -56,4 +56,9 @@ tests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taekwondo___Table.png">
 </div>
-<p></p>
+<h4></h4>
+<h4>In-house grading at MPS</h4>
+<p>In-house gradings are an important aspect of the Taekwondo journey, providing
+students with opportunities to demonstrate their progress and receive recognition
+for their efforts while also serving as a means for instructors to assess
+student development and readiness for advancement.</p>
