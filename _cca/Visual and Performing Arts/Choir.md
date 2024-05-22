@@ -70,3 +70,18 @@ and performers. Other than performing, our students also interacted with
 other primary school Choirs at the Choral Exchange. It was a memorable
 music-making experience for the Choir.</p>
 <p></p>
+<p>View the video below, featuring our Choir performing at the Voices of
+Singapore Festival held at the beautiful CHIJMES Hall.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
+<p></p>
+<h4>Singapore Youth Festival Arts Presentation</h4>
+<p>The MPS Choir participated in the annual Singapore Youth Festival Arts
+Presentation held at School of the Arts. The Choir has shown the values
+of resilience and excellence, and was awarded a Certificate of Accomplishment.
+Congratulations to all our Choir members!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir___Table_on_SYF.png">
+</div>
+<p></p>
