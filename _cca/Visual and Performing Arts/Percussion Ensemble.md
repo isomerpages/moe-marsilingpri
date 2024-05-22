@@ -54,19 +54,6 @@ to the school and community.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
-<h4>Performance on Marsiling Carnival Day</h4>
-<p>The performance on Marsiling Carnival Day at the Marsiling Community Club
-was a significant milestone for our Percussion Ensemble. It allowed our
-students to share their musical talents with a wider audience, fostering
-a sense of community and national pride.</p>
-<p>Performing at the community club for National Day was an enriching experience
-for our students. Students felt a profound sense of connection with the
-audience, realizing the power of music to bring people together and celebrate
-shared values.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_Marsiling_Carnival_Day.png">
-</div>
-<p></p>
 <h4>Performance on Awards and Appreciation Day 2023</h4>
 <p>During our Award and Appreciation Day, the Percussion Ensemble proudly
 showcased their talents in a vibrant performance. The students performed
@@ -82,4 +69,17 @@ success of the performance.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_AAD_2023.png">
 </div>
 <h4></h4>
+<h4>Performance on Marsiling Carnival Day</h4>
+<p>The performance on Marsiling Carnival Day at the Marsiling Community Club
+was a significant milestone for our Percussion Ensemble. It allowed our
+students to share their musical talents with a wider audience, fostering
+a sense of community and national pride.</p>
+<p>Performing at the community club for National Day was an enriching experience
+for our students. Students felt a profound sense of connection with the
+audience, realizing the power of music to bring people together and celebrate
+shared values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_Marsiling_Carnival_Day.png">
+</div>
+<p></p>
 <p></p>
