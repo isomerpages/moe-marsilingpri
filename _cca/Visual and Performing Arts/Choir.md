@@ -5,7 +5,61 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
-</div>
+<h4><strong>About Choir</strong></h4>
+<p>MPS Choir aims to equip members with good singing techniques. Students
+learn to have strong breath support, to pitch accurately for harmonization
+and more. They also pick up musicianship and stage presentation skills.
+Students are exposed to a range of repertoire and have various opportunities
+for performances in and out of school.</p>
+<p>Additionally, the CCA aims to provide a pathway for students to pursue
+Performing Arts in secondary school through Direct School Admission (DSA).
+Throughout the years, successful applicants have been able to sustain their
+passion for singing in Chung Cheng High School and Swiss Cottage Secondary
+School.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Ms Toh Jessie (I/C)</p>
+<p>Mdm Shi Yibin (2nd I/C)</p>
+<p>Mdm Rohana Ahmad</p>
+<p>Mdm Ng Sock Hoon</p>
+<p></p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Music Room 1</p>
+<p>(Indoor Sports Hall, Level 3)</p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
 <p></p>
