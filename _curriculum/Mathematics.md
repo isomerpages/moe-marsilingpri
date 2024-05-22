@@ -27,6 +27,20 @@ life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Programmes_Table_v2.png">
 </div>
 <p></p>
+<h4><strong>MOE Mathematics Framework</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Framework.png">
+</div>
+<p>The central focus of Mathematics curriculum is the development of Mathematical
+problem solving. Supporting this focus are five inter-related components
+– concepts, skills, processes, metacognition and attitudes.</p>
+<h4></h4>
+<h4><strong>Teaching and Learning</strong></h4>
+<h4>3 Phases of Learning: Readiness, Engagement and Mastery</h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
