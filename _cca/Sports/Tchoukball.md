@@ -69,7 +69,6 @@ throw and catch balls. Our training sessions are held regularly by an external
 coach where students will gain mastery in their throwing (underhand throw,
 overhand throw and side arm throw), shooting (jump shot and stand shot)
 and catching (two-handed catch and ⁠single-handed catch) techniques.</p>
-<p></p>
 <p>Before every competition season, our students attend additional training
 sessions. Theses sessions provide an avenue for our students to further
 practise and hone their throwing, shooting and catching techniques.</p>
