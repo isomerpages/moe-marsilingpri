@@ -176,6 +176,10 @@ and value Total Defence principles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_Total_Defence_Day.png">
 </div>
+<h4></h4>
+<h4>Hari Raya Activities</h4>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>Be a PSG Member</strong></h4>
 <p>As PSG members, we have a big part to play in enriching our children’s
