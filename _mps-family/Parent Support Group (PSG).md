@@ -133,13 +133,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Juriah Binte Ahmad</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Siti Suriana</p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
