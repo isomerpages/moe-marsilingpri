@@ -344,7 +344,7 @@ in their CCA, leadership and academics.</p>
 <p>North Area Cooking competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Two Team with Gold, One Team with Silver</p>
+<p>Two Teams with Gold, One Team with Silver</p>
 </td>
 </tr>
 <tr>
