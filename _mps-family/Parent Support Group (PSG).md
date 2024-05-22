@@ -46,35 +46,104 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Zhang Yang</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>PSG-Members</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adonis Pabon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kristine Lorriane Samson Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alice Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Soo How</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aye The Zar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Wan Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charlene Ng Chuu Er</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marianne Gamil</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fion Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May Zin New</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foo Hou Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Niu Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hedelisa Aribato</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Razif Sahri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Irene Nesaselvan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rossana Quizon Dulos</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Juriah Binte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Suriana</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>PSG-Members</strong>
-</p>
-<p>Charlene Ng Chuu Er</p>
-<p>Irene Nesaselvan</p>
-<p>Fion Ng</p>
-<p>Loh Wan Yee</p>
-<p>Kristine Lorriane Samson Lee</p>
-<p>Foo Hou Yee</p>
-<p>Rossana Quizon Dulos</p>
-<p>Alice Lee</p>
-<p>Niu Jing</p>
-<p>Lee Soo How</p>
-<p>Marianne Gamil</p>
-<p>May Zin New</p>
-<p>Juriah Binte Ahmad</p>
-<p>Hedelisa Aribato</p>
-<p>Adonis Pabon</p>
-<p>Razif Sahri</p>
-<p>Siti Suriana</p>
-<p>Aye The Zar</p>
+<p></p>
+<p></p>
 <p><strong>About the PSG:</strong>
 </p>
 <p>We are a group of parents sharing our time, talents and efforts (passion)
