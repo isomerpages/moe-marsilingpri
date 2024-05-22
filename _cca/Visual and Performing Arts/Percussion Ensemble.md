@@ -72,4 +72,7 @@ of their achievements.</p>
 accomplishment and joy. The experience reinforced the importance of teamwork,
 as they realized how crucial each member’s contribution was to the overall
 success of the performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_AAD_2023.png">
+</div>
 <p></p>
