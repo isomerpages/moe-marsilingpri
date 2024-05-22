@@ -59,6 +59,8 @@ their opportunities to enter established schools which offers Track and
 Field CCA through Direct School Admission (DSA). Some of these schools
 are Raffles Institution, St. Joseph’s Institution (SJI), Cedar Girls’ Secondary
 School, Nanyang Girls’ High School and even Singapore Sports School.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_and_Field___Table_on_NSG.png">
+</div>
 <p></p>
 <p></p>
