@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>PSG COMMITTEE MEMBERS</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
 </div>
-<p></p>
-<p></p>
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,7 +143,6 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p><strong>About the PSG:</strong>
 </p>
