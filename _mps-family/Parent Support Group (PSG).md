@@ -168,17 +168,19 @@ Chinese New Year customs among students.</p>
 </div>
 <p></p>
 <h4>Total Defence Day Activities</h4>
-<p>During Total Defence Day recess activities, PSG members inspire students
+<p>During Total Defence Day recess activities, PSG members inspired students
 to engage fully in activities and discussions related to national defence,
 fostering a sense of enthusiasm and civic responsibility. PSG's support
-creates a dynamic learning environment that empowers students to understand
+created a dynamic learning environment that empowers students to understand
 and value Total Defence principles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_Total_Defence_Day.png">
 </div>
 <h4></h4>
 <h4>Hari Raya Activities</h4>
-<p></p>
+<p>From coordinating traditional craft stations to assisting with educational
+booths on Malay customs and traditions, PSG members actively engaged students
+in an immersive cultural appreciation experience.</p>
 <p></p>
 <p></p>
 <h4><strong>Be a PSG Member</strong></h4>
