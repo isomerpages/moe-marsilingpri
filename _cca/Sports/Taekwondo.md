@@ -3,25 +3,50 @@ title: Taekwondo
 permalink: /cca/sports/taekwondo/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>About Taekwondo</strong></h4>
-<p>MPS Taekwondo is a modern martial art, characterised by its fast, high and
-spinning kicks. There are multiple interpretations of the name taekwondo.
+<p>MPS Taekwondo is a modern martial art, characterised by its fast, high
+and spinning kicks. There are multiple interpretations of the name taekwondo.
 It is often translated as 'the way of hand and foot’. Taekwondo provides
 a dynamic platform where students develop discipline, confidence and physical
 fitness. It equips them with both physical prowess and valuable life skills.</p>
-<p></p>
-<h4><strong>Teachers-in-charge</strong></h4>
-<p>Mr Wong Ah Seng (I/C)
-<br>Mdm Fazida Mohd Alim Khan (2nd I/C)
-<br>Mr Muhammad Faizal Mokhtar</p>
-<p></p>
-<h4><strong>Training Schedule and Venue</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mr Wong Ah Seng (I/C)</p>
+<p>Mdm Fazida Mohd Alim Khan (2nd I/C)</p>
+<p>Mr Muhammad Faizal Mokhtar</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Day: Tuesday
-<br>Time: 3.15pm – 4.15pm
-<br>Venue: School Hall (Level 2)</p>
-<p></p>
+<br>Time: 3.15pm – 4.15pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>School Hall (Level 2)</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Weekly Training Session</h4>
 <p>MPS Taekwondo training is conducted in the school hall on Tuesdays. Under
