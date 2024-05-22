@@ -9,8 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
 </div>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -20,8 +21,8 @@ variant: tiptap
 <p><strong>EXCO-Members</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>PSG-Members</strong>
+<td rowspan="1" colspan="2">
+<p><strong>  PSG-Members</strong>
 </p>
 </td>
 </tr>
@@ -44,6 +45,8 @@ variant: tiptap
 <p>Foo Hou Yee</p>
 <p>Rossana Quizon Dulos</p>
 <p>Alice Lee</p>
+</td>
+<td rowspan="7" colspan="1">
 <p>Niu Jing</p>
 <p>Lee Soo How</p>
 <p>Marianne Gamil</p>
