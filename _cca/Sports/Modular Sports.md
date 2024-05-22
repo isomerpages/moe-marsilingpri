@@ -62,4 +62,7 @@ They provide an opportunity for players of varying skill levels to come
 together and engage in the sport in a relaxed atmosphere. Friendly matches
 are an excellent way our players stay active, hone their skills, and socialize
 with peers who share a passion for badminton and basketball.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modular_Sports___Weekly_Fun_filled_Matches.png">
+</div>
 <p></p>
