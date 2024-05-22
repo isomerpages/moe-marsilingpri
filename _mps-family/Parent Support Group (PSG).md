@@ -9,34 +9,57 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/psg%20committee.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<h4><strong>EXCO-Members</strong></h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>EXCO-Members</strong>
-</p>
+<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>  PSG-Members</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>Siti Aminah Binti Noh</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
-<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
+<td rowspan="1" colspan="1">
 <p>Khairul Anuar Bin Md Ibrahim</p>
-<p>Nadia Binte Hassan</p>
-<p>Siti Aminah Binti Noh</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Valance Goh Soo Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nadia Binte Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Yoh Sara</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Zhang Yang</p>
 </td>
-<td rowspan="7" colspan="1">
+</tr>
+</tbody>
+</table>
+<p><strong>PSG-Members</strong>
+</p>
 <p>Charlene Ng Chuu Er</p>
 <p>Irene Nesaselvan</p>
 <p>Fion Ng</p>
@@ -45,8 +68,6 @@ variant: tiptap
 <p>Foo Hou Yee</p>
 <p>Rossana Quizon Dulos</p>
 <p>Alice Lee</p>
-</td>
-<td rowspan="7" colspan="1">
 <p>Niu Jing</p>
 <p>Lee Soo How</p>
 <p>Marianne Gamil</p>
@@ -57,17 +78,6 @@ variant: tiptap
 <p>Razif Sahri</p>
 <p>Siti Suriana</p>
 <p>Aye The Zar</p>
-</td>
-</tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>About the PSG:</strong>
 </p>
 <p>We are a group of parents sharing our time, talents and efforts (passion)
