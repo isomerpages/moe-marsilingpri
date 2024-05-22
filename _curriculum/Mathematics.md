@@ -65,7 +65,7 @@ Technology, Engineering, Arts and Mathematics. A collaborative effort between
 the Science and Mathematics department, STEAM@MPS aims to provide students
 with the opportunity to learn through exploration, sparking invention,
 innovation and joy of learning. The various STEAM activities held throughout
-the year is based on the engineering design process. As students brainstorm
+the year are based on the engineering design process. As students brainstorm
 ideas, test and iterate solutions based on new information and challenges,
 the open-ended environment encourages them to think outside the box, nurturing
 different components of 21CC, such as adaptive and critical thinking in
