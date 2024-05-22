@@ -35,21 +35,20 @@ Secondary.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Mr Leonard Ang (I/C)
-<br>Mr Mohammad Nursaffwan Othman (2nd I/C)
-<br>Mr Amir Abidin
-<br>Mr Mohammad Ibrahim Zainee</p>
+<td rowspan="1" colspan="1">
+<p>Mr Leonard Ang (I/C)</p>
+<p>Mr Mohammad Nursaffwan Othman (2nd I/C)</p>
+<p>Mr Amir Abidin</p>
+<p>Mr Mohammad Ibrahim Zainee</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Day: Thursday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Field</p>
 </td>
 </tr>
-<tr></tr>
 </tbody>
 </table>
 <h4></h4>
