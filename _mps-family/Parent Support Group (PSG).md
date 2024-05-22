@@ -18,7 +18,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>EXCO-Members</strong></h4>
+<h4><strong>EXCO Members</strong></h4>
 </th>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>PSG-Members</strong></h4>
+<h4><strong>PSG Members</strong></h4>
 </th>
 </tr>
 <tr>
