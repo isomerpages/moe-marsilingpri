@@ -81,44 +81,7 @@ variant: tiptap
 <p>Siti Aminah Binti Noh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Valance Goh Soo Li</p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr>
@@ -126,29 +89,29 @@ variant: tiptap
 <p>Khairul Anuar Bin Md Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yoh Sara</p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nadia Binte Hassan</p>
+<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Zhang Yang</p>
 </td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>Siti Aminah Binti Noh</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr></tr>
 </tbody>
 </table>
-<p></p>
+<h4></h4>
 <h4><strong>About PSG</strong></h4>
 <p>MPS PSG serves as a fundamental complement to the school, supporting and
 strengthening the school’s programmes to improve our children’s holistic
