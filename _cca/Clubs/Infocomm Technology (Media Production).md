@@ -34,21 +34,22 @@ different time of the year.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Ang Yew Leong (I/C)</p>
 <p>Mdm Siti Fatimah (2nd I/C)</p>
 <p>Ms Maneatonufus</p>
 <p>Mr Thiliban S/O Subramaniam</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Computer Lab 1 and 2</p>
 <p></p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <h4></h4>
