@@ -29,7 +29,6 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
