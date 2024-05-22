@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>About the Art &amp; Craft Club</strong></h4>
+<h4><strong>About Art &amp; Craft Club</strong></h4>
 <p>MPS Art &amp; Craft Club aims to expose students to a variety of projects
 which provide the opportunity for them to hone their skills in the different
 Art forms – drawing, painting, printmaking, sculpture, craftwork and new
