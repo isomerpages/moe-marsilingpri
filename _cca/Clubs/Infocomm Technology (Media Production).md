@@ -56,9 +56,9 @@ different time of the year.</p>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Drone Flying Programme</h4>
 <p>The programme offers students the chance to develop coding skills by creating
-programs to fly drones and accomplish designated tasks. This activity offers
-students the opportunity to enhance their troubleshooting skills and logical
-thinking while fostering teamwork through collaboration.</p>
+programmes to fly drones and accomplish designated tasks. This activity
+offers students the opportunity to enhance their troubleshooting skills
+and logical thinking while fostering teamwork through collaboration.</p>
 <p></p>
 <p>View the video below, featuring our students experimenting with the drones
 and figuring out how to steer them in their desired directions.</p>
@@ -67,7 +67,7 @@ and figuring out how to steer them in their desired directions.</p>
 </div>
 <p></p>
 <h4>P3 Scratch Programming</h4>
-<p>Our P3 students started off their first CCA program with learning about
+<p>Our P3 students started off their first CCA programme with learning about
 block-based coding using Scratch 3.0. The students learned the basic functions
 and commands in Scratch, and eventually they were trained to develop their
 own games using Scratch 3.0.</p>
@@ -77,7 +77,7 @@ own games using Scratch 3.0.</p>
 <p></p>
 <h4>P4 Coding on BBC Micro:bit Board</h4>
 <p>The P4 to P6 students continued with their application of block-based
-programming using the BBC Micro:bit board. Through the program, students
+programming using the BBC Micro:bit board. Through the programme, students
 learned to integrate input devices such as moisture detector, light and
 proximity sensors to communicate with the Micro:bit board to perform a
 desired output function.</p>
@@ -92,7 +92,7 @@ desired output function.</p>
 <p>Pei Hwa Hackathon 2023 organised by Pei Hwa Secondary School</p>
 </li>
 <li>
-<p>National Primary Games Creation and Coding Competition (NPGC3) organised
+<p>National Primary Games Creation and Coding Competition (NPGC3) 2023 organised
 by Wellington Primary School</p>
 </li>
 </ol>
