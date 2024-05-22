@@ -73,7 +73,6 @@ music-making experience for the Choir.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir__Table_on_Voices_of_Singapore_Festival.png">
 </div>
 <p></p>
-<p></p>
 <h4>Singapore Youth Festival Arts Presentation</h4>
 <p>The MPS Choir participated in the annual Singapore Youth Festival Arts
 Presentation held at School of the Arts. The Choir has shown the values
