@@ -34,7 +34,7 @@ confidently and appreciate others’ artworks as well.</p>
 <td rowspan="2" colspan="1">
 <p>Mr Airwan Bin Nain Sardi (I/C)</p>
 <p>Mdm See Poh Bee (2nd I/C)</p>
-<p>Nur Nazurah Binte Abdul Rahim</p>
+<p>Miss Nur Nazurah Binte Abdul Rahim</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
