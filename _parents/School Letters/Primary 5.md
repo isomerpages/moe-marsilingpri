@@ -37,7 +37,7 @@ third_nav_title: School Letters
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p></p>
+<p>Term 2</p>
 </th>
 </tr>
 <tr>
