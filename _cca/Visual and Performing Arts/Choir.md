@@ -16,7 +16,6 @@ Performing Arts in secondary school through Direct School Admission (DSA).
 Throughout the years, successful applicants have been able to sustain their
 passion for singing in Chung Cheng High School and Swiss Cottage Secondary
 School.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,4 +61,12 @@ School.</p>
 </tbody>
 </table>
 <h4></h4>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>Voices of Singapore Festival</h4>
+<p>The MPS Choir participated in the annual Voices of Singapore Festival,
+Singapore's largest non-competitive choral festival. The festival aims
+to create meaningful choral music-making experiences for all its participants
+and performers. Other than performing, our students also interacted with
+other primary school Choirs at the Choral Exchange. It was a memorable
+music-making experience for the Choir.</p>
 <p></p>
