@@ -41,8 +41,6 @@ problem solving. Supporting this focus are five inter-related components
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA___Framework_on_3_phases_of_learning.png">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Concrete Pictorial Abstract (C-P-A) Approach</strong></h4>
 <p>Learning experiences in the classroom are designed based on the C-P-A
 approach.</p>
