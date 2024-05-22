@@ -21,5 +21,12 @@ variant: tiptap
 life.</p>
 </li>
 </ul>
+<h4></h4>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Programmes_Table_v2.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
