@@ -11,7 +11,6 @@ instruments. Through regular training sessions, they develop their musical
 skills, rhythm, and coordination. Students also work together as a team
 to prepare for performances, where they showcase their talent and creativity
 to the school and community.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -46,7 +45,7 @@ to the school and community.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Performance on Marsiling Carnival Day</h4>
 <p>The performance on Marsiling Carnival Day at the Marsiling Community Club
@@ -75,4 +74,5 @@ success of the performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_AAD_2023.png">
 </div>
+<h4></h4>
 <p></p>
