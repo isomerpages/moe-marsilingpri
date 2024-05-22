@@ -173,7 +173,9 @@ to engage fully in activities and discussions related to national defence,
 fostering a sense of enthusiasm and civic responsibility. PSG's support
 creates a dynamic learning environment that empowers students to understand
 and value Total Defence principles.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_Total_Defence_Day.png">
+</div>
 <p></p>
 <h4><strong>Be a PSG Member</strong></h4>
 <p>As PSG members, we have a big part to play in enriching our children’s
