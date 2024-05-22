@@ -155,6 +155,17 @@ such as Chinese New Year, International Friendship Day, Earth Week, and
 Children’s Day. These events are packed with an array of engaging activities
 which include interactive games, and hands-on crafts.</p>
 <p></p>
+<h4><strong>PSG Events</strong></h4>
+<h4>Chinese New Year Activities</h4>
+<p>PSG greatly enriched the Chinese New Year recess activities by ensuring
+smooth operations and creating an engaging environment for students to
+explore traditions. Through cultural demonstrations, PSG enriched students'
+understanding of Chinese culture. Our dedication significantly enhanced
+the educational value of the event, fostering a deeper appreciation for
+Chinese New Year customs among students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG___Table_on_CNY.png">
+</div>
 <p></p>
 <h4><strong>Be a PSG Member</strong></h4>
 <p>As PSG members, we have a big part to play in enriching our children’s
@@ -165,7 +176,5 @@ our children. Join us as we embark on this fulfilling journey of shaping
 a future for the next generation.</p>
 <p><a href="https://form.gov.sg/63620bee2fec1f00120d65c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
 access our PSG Volunteer Registration Form.</p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
