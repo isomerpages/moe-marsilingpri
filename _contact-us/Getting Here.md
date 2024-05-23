@@ -6,7 +6,12 @@ description: ""
 ---
 <p><strong>Bus Services</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -71,7 +76,7 @@ Station) during the gate opening hours.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents can only drive into the school after 2.00pm Students are to wait
+<p>Parents can only drive into the school after 2.00pm. Students are to wait
 for their parents at the roundabout (school foyer).</p>
 </li>
 <li>
