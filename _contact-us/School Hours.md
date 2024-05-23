@@ -61,7 +61,7 @@ have a snack and practise self-leadership. Students are encouraged to bring
 a healthy snack, such as bread, biscuits or fruits, to eat in class during
 Take 5! Our Marsilians will be taught how to choose healthy snacks during
 their Physical Health Education (PHE) lessons.</p>
-<p>Time: Between 12 noon and 12.15pm</p>
+<p>Time: Between 12.00pm and 12.15pm</p>
 <p></p>
 <p><strong>Dismissal Time</strong>
 </p>
