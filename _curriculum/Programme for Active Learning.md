@@ -41,10 +41,10 @@ They are designed with five characteristics in mind:</p>
 <p>Encompass learning in a creative way</p>
 </li>
 <li>
-<p>Provides opportunities for children to create</p>
+<p>Provide opportunities for children to create</p>
 </li>
 <li>
-<p>Incorporates values education and social-emotional learning</p>
+<p>Incorporate values education and social-emotional learning</p>
 </li>
 <li>
 <p>Fun and enjoyable</p>
