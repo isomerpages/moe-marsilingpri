@@ -15,7 +15,7 @@ variant: markdown
 <p><strong>Operating Hours</strong>
 <br>Monday - Friday (School Term)
 <br>8.30 am&nbsp; to 3.30 pm</p>
-<p>Parents are allowed to purchase at school bookshop at 2.00pm-3.30pm.</p>
+<p>Parents are allowed to purchase at school bookshop between 2.00pm to 3.30pm.</p>
 <p><strong>Contact</strong>
 <br>Tel: 6547 4203 / 6547 4204
 <br>Fax: 6547 4305</p>
