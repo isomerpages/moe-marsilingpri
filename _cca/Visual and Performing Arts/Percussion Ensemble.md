@@ -63,7 +63,7 @@ the audience and making the Award and Appreciation Day a memorable celebration
 of their achievements.</p>
 <p>After their performance, the students experienced a profound sense of
 accomplishment and joy. The experience reinforced the importance of teamwork,
-as they realized how crucial each member’s contribution was to the overall
+as they realised how crucial each member’s contribution was to the overall
 success of the performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_AAD_2023.png">
@@ -76,7 +76,7 @@ students to share their musical talents with a wider audience, fostering
 a sense of community and national pride.</p>
 <p>Performing at the community club for National Day was an enriching experience
 for our students. Students felt a profound sense of connection with the
-audience, realizing the power of music to bring people together and celebrate
+audience, realising the power of music to bring people together and celebrate
 shared values.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_Marsiling_Carnival_Day.png">
