@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>Every Marsilian to discover their passion and purpose and learn to communicate
-them clearly and confidently</p>
+them clearly and confidently.</p>
 <h4><strong>Mission</strong></h4>
 <p>To nurture confident communicators who listen actively and demonstrate
 the ability to articulate their ideas and interest and active communicators
