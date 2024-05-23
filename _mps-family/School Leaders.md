@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mr Jackson Kek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Academic)</p>
+<p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>marsiling_ps@moe.edu.sg</p>
