@@ -14,7 +14,7 @@ who rally others to action through the use of engaging narratives.</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/ALP_Prog_At_Glance.png">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>SPARKS@MPS</h4>
