@@ -22,7 +22,7 @@ the ability to communicate clearly and cooperate with others which are
 important Social and Emotional (SE) competencies. There are platforms for
 experiential learning – experimentation, exploration and achieving success.
 Opportunities are also provided for Marsilians to go through learning experiences
-to acquire a range of skills as well as interaction with friends and thereby
+to acquire a range of skills as well as interact with peers and thereby
 developing confidence.</p>
 <p></p>
 <p>As a Marsilian, you will receive broad exposure and experiences through
