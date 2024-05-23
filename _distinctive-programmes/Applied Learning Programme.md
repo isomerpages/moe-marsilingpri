@@ -42,11 +42,11 @@ front of an audience.</p>
 resources to engage the audience through storytelling. The programme encourages
 students to express themselves creatively to convey purpose, context and
 culture of stories to their audience.</p>
-<p><strong>Primary 4 Filmmaking</strong>
+<p><strong>Primary 4 Film making</strong>
 </p>
-<p>Students learn to create their own stories through storyboarding and filmmaking.
-Students acquire visual literacy and understand how an interesting plot
-and script, visual images and sound can help them to communicate ideas
+<p>Students learn to create their own stories through storyboarding and film
+making. Students acquire visual literacy and understand how an interesting
+plot and script, visual images and sound can help them to communicate ideas
 across with greater impact. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -59,7 +59,7 @@ show interest and passion in the area of oracy and/ or speech and drama.
 Through this programme, students will be provided with opportunities to
 stretch their potential. Selected students will get opportunities to participate
 in programmes such as Trinity College London Speech and Drama Programme
-and filmmaking masterclass as well as competitions to hone their talent
+and film making masterclass as well as competitions to hone their talent
 and skills. Selected students who have displayed talents will take part
 in competitions such as Wits &amp; Words 2024 Inter-school Debate Championships,
 Mythos Junior Orators and National English Writing Competition.</p>
