@@ -6,15 +6,15 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h4><strong>About Infocomm Technology (Media Production)</strong></h4>
-<p>MPS Infocomm Technology (Media Production), students are given the opportunities
-to explore the current Infocomm Technologies.</p>
+<p>In MPS Infocomm Technology (Media Production), students are given the
+opportunities to explore the current Infocomm Technologies.</p>
 <p>Students acquire knowledge in different programming functions and create
 simple coding sequences that allows them in games development using SCRATCH
 or mbot.</p>
-<p>The club members will also learn about AI and Drone technologies as well
-as programming using the Micro:Bit board. The students also have opportunities
-to participate in Learning Journey (LJ) and various competitions held at
-different time of the year.</p>
+<p>The club members will also learn about Artificial Intelligence (AI) and
+Drone technologies as well as programming using the Micro:Bit board. The
+students also have opportunities to participate in Learning Journey (LJ)
+and various competitions held at different time of the year.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,20 +67,20 @@ and figuring out how to steer them in their desired directions.</p>
 </div>
 <p></p>
 <h4>P3 Scratch Programming</h4>
-<p>Our P3 students started off their first CCA programme with learning about
-block-based coding using Scratch 3.0. The students learned the basic functions
-and commands in Scratch, and eventually they were trained to develop their
+<p>Our P3 students starts off their first CCA programme with learning about
+block-based coding using Scratch 3.0. The students learn the basic functions
+and commands in Scratch, and eventually they are train to develop their
 own games using Scratch 3.0.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_2.png">
 </div>
 <p></p>
 <h4>P4 Coding on BBC Micro:bit Board</h4>
-<p>The P4 to P6 students continued with their application of block-based
-programming using the BBC Micro:bit board. Through the programme, students
-learned to integrate input devices such as moisture detector, light and
-proximity sensors to communicate with the Micro:bit board to perform a
-desired output function.</p>
+<p>The P4 to P6 students continue with their application of block-based programming
+using the BBC Micro:bit board. Through the programme, students will learn
+to integrate input devices such as moisture detector, light and proximity
+sensors to communicate with the Micro:bit board to perform a desire output
+function.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT___Table_3.png">
 </div>
