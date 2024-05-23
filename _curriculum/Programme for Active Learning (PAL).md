@@ -50,9 +50,9 @@ They are designed with five characteristics in mind:</p>
 <p>Fun and enjoyable</p>
 </li>
 </ol>
-<h4><strong>Our Programme for Active Learning (PAL) Programmes</strong></h4>
-<h4>Art</h4>
-<p>In our visual arts programme, we focus more on exploration, creativity,
+<h4><strong>Our PAL @ MPS Modules</strong></h4>
+<h4>Visual Arts</h4>
+<p>In our visual arts modules, we focus more on exploration, creativity,
 and enjoyment rather than the specific artistic goals. Through the various
 activities, we encourage out students to explore their creativity and imagination
 through art-making. We want our students to develop their observational
