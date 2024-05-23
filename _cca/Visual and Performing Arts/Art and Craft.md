@@ -53,8 +53,8 @@ confidently and appreciate others’ artworks as well.</p>
 <p>Members of the CCA represented the school in the recent N5 Cluster Art
 Exhibition held from 6 May to 1 July. The themed "CONNECTIONS", it delves
 into the profound impact of identity, relationships, and choice on our
-global citizenship. Using Google maps, the students traced out the daily
-route they take from home to school. The lines were then expanded into
+global citizenship. Used of Google maps, the students traced out the daily
+route they took from home to school. The lines were then expanded into
 an artwork using the Assembly app. All the routes were then consolidated
 into one image, reminding the students of how they are all connected for
 the love of Art.</p>
