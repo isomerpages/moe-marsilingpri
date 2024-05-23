@@ -51,13 +51,13 @@ confidently and appreciate others’ artworks as well.</p>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>N5 Cluster Art Exhibition 2024</h4>
 <p>Members of the CCA represented the school in the recent N5 Cluster Art
-Exhibition held from 6 May to 1 July. Themed "CONNECTIONS", it delves into
-the profound impact of identity, relationships, and choice on our global
-citizenship. Using Google maps, the students traced out the daily route
-they take from home to school. The lines are then expanded into an artwork
-using the Assembly app. All the routes were then consolidated into one
-image, reminding the students of how they are all connected for the love
-of Art.</p>
+Exhibition held from 6 May to 1 July. The themed "CONNECTIONS", it delves
+into the profound impact of identity, relationships, and choice on our
+global citizenship. Using Google maps, the students traced out the daily
+route they take from home to school. The lines were then expanded into
+an artwork using the Assembly app. All the routes were then consolidated
+into one image, reminding the students of how they are all connected for
+the love of Art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art___Table_on_N5_Cluster_Art_Exhibition_2024.png">
 </div>
