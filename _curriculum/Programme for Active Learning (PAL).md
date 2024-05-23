@@ -77,7 +77,7 @@ artistic growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture3.png">
 </div>
-<h4>Dance</h4>
+<h4>Dance and Drama</h4>
 <p>Our Primary 1 and 2 students embark on an immersive journey into the world
 of performing arts, where they cultivate a profound understanding of self-expression
 and collaboration. Through interactive lessons on performance etiquette
@@ -101,14 +101,13 @@ of teamwork to bring their artistic visions to life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture4.png">
 </div>
 <h4>Outdoor Education</h4>
-<p>Our Outdoor Programme aims to equip our Primary 2 students with the relevant
-skills and knowledge to</p>
-<p>enable them to be safe and comfortable in the outdoors setting. We would
-also like to help them cultivate a sense of ownership for the environment,
-encourage and provide opportunities for our students to take</p>
-<p>action to sustain our City in a Garden. We hope to shape our students’
-character and attitudes through</p>
-<p>experiential learning in school as part of the module.</p>
+<p>Our Outdoor Education Module aims to equip our Primary 2 students with
+the relevant skills and knowledge to enable them to be safe and comfortable
+in the outdoors setting. We would also like to help them cultivate a sense
+of ownership for the environment, encourage and provide opportunities for
+our students to take action to sustain our City in a Garden. We hope to
+shape our students’ character and attitudes through experiential learning
+in school as part of the module.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture5.png">
