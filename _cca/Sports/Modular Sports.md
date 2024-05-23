@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h4><strong>About Modular Sports</strong></h4>
-<p>MPS Modular Sports, our main aim is for students to love and appreciate
+<p>In MPS Modular Sports, our main aim is for students to love and appreciate
 the sport, and to be able to acquire skills that will allow them to play
 with their friends and family members in their free time.</p>
 <p>The students learn the basic skills and footwork of Badminton and Basketball.
