@@ -26,7 +26,7 @@ to acquire a range of skills as well as interact with peers and thereby
 developing confidence.</p>
 <p></p>
 <p>As a Marsilian, you will receive broad exposure and experiences through
-fun and varied activities in 4 domains. The modules facilitate holistic
+fun and varied activities in four domains. The modules facilitate holistic
 development of pupils in the five domains, that is, moral, cognitive, physical,
 social and aesthetics. It also provides varied avenues for Marsilians to
 develop social and emotional competencies.</p>
