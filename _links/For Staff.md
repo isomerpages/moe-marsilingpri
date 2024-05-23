@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <p><strong>Links for Staff</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -15,15 +19,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Website</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC Mobile</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://scmobile.moe.edu.sg/login</u></a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,16 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OPAL 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F" rel="noopener noreferrer nofollow" target="_blank"><u>https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MIMs Portal</p>
+<p>MIMS Portal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg/nidp/saml2/sso</u></a>
@@ -58,6 +44,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>https://intranet.moe.gov.sg/Pages/Home.aspx</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPAL 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F" rel="noopener noreferrer nofollow" target="_blank"><u>https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F</u></a>
 </p>
 </td>
 </tr>
@@ -76,6 +71,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://scmobile.moe.edu.sg/login</u></a>
 </p>
 </td>
 </tr>
