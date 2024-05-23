@@ -44,9 +44,9 @@ students to express themselves creatively to convey purpose, context and
 culture of stories to their audience.</p>
 <p><strong>Primary 4 Filmmaking</strong>
 </p>
-<p>Students learn to create their own stories through storyboarding and film
-making. Students acquire visual literacy and understand how an interesting
-plot and script, visual images and sound can help them to communicate ideas
+<p>Students learn to create their own stories through storyboarding and filmmaking.
+Students acquire visual literacy and understand how an interesting plot
+and script, visual images and sound can help them to communicate ideas
 across with greater impact. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
