@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Marsiling Primary School
 locations:
   - address:
-      - 31 Woodlands Centre Rd
+      - 31 Woodlands Centre Road
       - Singapore 738927
       - ""
     operating_hours:
@@ -23,4 +23,5 @@ contacts:
       - email: marsiling_ps@moe.edu.sg
       - other: ""
     title: General Office
+feedback: ""
 ---
