@@ -43,7 +43,10 @@ skills.</p>
 <p>Archery teaches students to be responsible for one another’s safety and
 for the equipment they use during the programme.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE - Table on Archery" src="/images/Picture27.png">
+</div>
+<h4></h4>
 <h4>Sports Education Programme: Kin-Ball</h4>
 <p>Kin-Ball is introduced to Primary 4 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
