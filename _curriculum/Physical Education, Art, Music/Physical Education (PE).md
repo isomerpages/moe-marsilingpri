@@ -32,6 +32,18 @@ among the students and teachers during the camp.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_OAL_Camp.png">
 </div>
 <h4></h4>
+<h4>Lower Primary Games (LPG)</h4>
+<p>Lower Primary students are taught a variety of fundamental movements (locomotor
+and non-locomotor skills) and manipulative skills during PE lessons.</p>
+<p>The Lower Primary Games is an annual sports event for Primary 1 and 2
+students to showcase their PE skills by taking part in exciting games.
+They will perform and demonstrate what they have learned in PE in front
+of their parents, who are specially invited to the event.</p>
+<p>Parents get to participate in the parent-child game during the event.
+This parent-child game not only helps to build and strengthen their relationship,
+but it also allows parents to understand what their child is learning during
+PE lessons and its importance in the holistic development of the child.</p>
+<h4></h4>
 <h4>Sports Education Programme: Archery</h4>
 <p>Archery is introduced to Primary 6 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
