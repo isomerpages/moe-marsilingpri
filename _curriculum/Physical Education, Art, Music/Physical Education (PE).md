@@ -47,6 +47,22 @@ PE lessons and its importance in the holistic development of the child.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_LPG.png">
 </div>
 <h4></h4>
+<h4>Inter-Class Games</h4>
+<p>The Inter-Class Games aim to develop strong teamwork and sportsmanship
+among students, and to promote the importance of regular physical engagement
+in sports and games. It also helps to develop resilience, which is one
+of the school values, in the mind and body.</p>
+<p>Students from Primary 3 to 6 will have the opportunity to represent their
+class and participate in the annual Inter-Class Games. These games are
+held during the PE curriculum after the students have learned and mastered
+the skills for a particular sport/game module.</p>
+<p>Through the games, students are exposed to a wide variety of sporting
+activities such as Captain's Ball, Floorball, modified Volleyball, and
+Tchoukball.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE Table on interclass games" src="/images/Table_on_inter_class_games.png">
+</div>
+<h4></h4>
 <h4>Sports Education Programme: Archery</h4>
 <p>Archery is introduced to Primary 6 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
