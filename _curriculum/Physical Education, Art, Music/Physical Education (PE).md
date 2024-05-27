@@ -101,7 +101,17 @@ the programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PE - Table on trampoline" src="/images/Picture23.png">
 </div>
-<p></p>
+<h4></h4>
+<h4>Junior Sports Academy (JSA) Programme</h4>
+<p>MOE provides broad-based opportunities for primary school students to
+explore, discover, and develop their areas of interest and strengths across
+a wider range of physical activities through the Junior Sports Academy
+(JSA) programme.</p>
+<p>Selected students from the JSA selection trials will subsequently be invited
+to participate in sport modules and sports-related workshops.</p>
+<p>With enhanced overall motor skills, knowledge, and motivation, these students
+will be able to make more informed choices when committing to a sport at
+secondary school or in other relevant sports organizations.</p>
 <p></p>
 <p></p>
 <p></p>
