@@ -43,6 +43,9 @@ of their parents, who are specially invited to the event.</p>
 This parent-child game not only helps to build and strengthen their relationship,
 but it also allows parents to understand what their child is learning during
 PE lessons and its importance in the holistic development of the child.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_LPG.png">
+</div>
 <h4></h4>
 <h4>Sports Education Programme: Archery</h4>
 <p>Archery is introduced to Primary 6 students as part of the Sports Education
@@ -82,6 +85,7 @@ the programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PE - Table on trampoline" src="/images/Picture23.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
