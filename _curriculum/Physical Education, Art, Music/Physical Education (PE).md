@@ -41,5 +41,9 @@ mini trampoline. It is key to developing the ABCs (agility, balance, coordinatio
 skills necessary for children to enjoy a variety of other sports and games.
 Students will get to experience rebounding to the tempo of music during
 the programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE - Table on trampoline" src="/images/Picture23.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
