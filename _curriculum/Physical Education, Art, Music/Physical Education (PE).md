@@ -111,7 +111,7 @@ a wider range of physical activities through the Junior Sports Academy
 to participate in sport modules and sports-related workshops.</p>
 <p>With enhanced overall motor skills, knowledge, and motivation, these students
 will be able to make more informed choices when committing to a sport at
-secondary school or in other relevant sports organizations.</p>
+secondary school or in other relevant sports organisations.</p>
 <p></p>
 <p></p>
 <p></p>
