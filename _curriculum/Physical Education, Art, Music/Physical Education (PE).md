@@ -73,7 +73,6 @@ need mental fitness to develop their focus, flexibility, and attention
 skills.</p>
 <p>Archery teaches students to be responsible for one another’s safety and
 for the equipment they use during the programme.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PE - Table on Archery" src="/images/Picture27.png">
 </div>
