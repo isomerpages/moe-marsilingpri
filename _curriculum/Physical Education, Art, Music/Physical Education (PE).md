@@ -32,6 +32,14 @@ among the students and teachers during the camp.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_OAL_Camp.png">
 </div>
 <p></p>
+<h4>Sports Education Programme: Kin-Ball</h4>
+<p>Kin-Ball is introduced to Primary 4 students as part of the Sports Education
+Programme to encourage sports participation in schools and increase sporting
+opportunities for the young.</p>
+<p>Kin-Ball is a fun, easy-to-play and exciting team bonding game. The game
+is akin to a game of a volleyball but played with a huge inflated ball.
+The game helps to promote communication and teamwork amongst students.</p>
+<p></p>
 <h4>Sports Education Programme: Trampoline</h4>
 <p>Rebounding is introduced to Primary 1 and 2 students as part of the Sports
 Education Programme to encourage sports participation in schools and increase
