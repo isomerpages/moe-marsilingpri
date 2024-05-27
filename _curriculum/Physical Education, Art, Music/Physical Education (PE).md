@@ -31,7 +31,7 @@ among the students and teachers during the camp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_OAL_Camp.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Sports Education Programme: Archery</h4>
 <p>Archery is introduced to Primary 6 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
@@ -42,6 +42,8 @@ need mental fitness to develop their focus, flexibility, and attention
 skills.</p>
 <p>Archery teaches students to be responsible for one another’s safety and
 for the equipment they use during the programme.</p>
+<p></p>
+<p></p>
 <h4>Sports Education Programme: Kin-Ball</h4>
 <p>Kin-Ball is introduced to Primary 4 students as part of the Sports Education
 Programme to encourage sports participation in schools and increase sporting
@@ -52,7 +54,7 @@ The game helps to promote communication and teamwork amongst students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE___Table_on_Kin_Ball.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>Sports Education Programme: Trampoline</h4>
 <p>Rebounding is introduced to Primary 1 and 2 students as part of the Sports
 Education Programme to encourage sports participation in schools and increase
