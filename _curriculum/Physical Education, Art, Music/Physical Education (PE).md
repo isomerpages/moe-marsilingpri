@@ -112,6 +112,8 @@ to participate in sport modules and sports-related workshops.</p>
 <p>With enhanced overall motor skills, knowledge, and motivation, these students
 will be able to make more informed choices when committing to a sport at
 secondary school or in other relevant sports organisations.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PE - Table on JSA" src="/images/PE_Table___JSA.png">
+</div>
 <p></p>
 <p></p>
