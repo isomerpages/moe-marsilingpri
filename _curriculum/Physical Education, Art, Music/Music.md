@@ -45,5 +45,20 @@ up in the universal language of melody.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Music - Table 1" src="/images/Picture13.png">
 </div>
+<h4></h4>
+<h4>From BUSK till dawn</h4>
+<p>Get ready to watch our Primary 3 to Primary 6 students showcase their
+talents in a supportive and non-competitive atmosphere at “from BUSK till
+dawn"! Each term, for a span of two weeks, during recess, students have
+the chance to take the stage to showcase their skills and passions.</p>
+<p>The MPS community eagerly awaits these lively performances and dynamic
+display of talent, which take place at the canteen. Standout acts discovered
+during these sessions might even earn a spot at the Teachers' Day Concert,
+showcasing their talent to the entire school!</p>
+<p>View the video below, featuring the captivating and exceptional performances
+that stole the spotlight at “from BUSK till dawn”!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
 <p></p>
 <p></p>
