@@ -18,6 +18,7 @@ sections:
         - title: Follow us on Facebook
           description: Click to view
           url: https://www.facebook.com/MarsilingPri/
+      variant: image
   - announcements:
       title: Highlights
       id: announcements
