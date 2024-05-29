@@ -49,6 +49,9 @@ school grounds.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship___GCD.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship_1___GCD_Table.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
