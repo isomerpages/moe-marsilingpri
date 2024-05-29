@@ -48,8 +48,8 @@ lives.</p>
 <p>Never give up.</p>
 </li>
 </ol>
-<p></p>
 <p>These messages are adapted from the book entitled "Mindset: The New Psychology
 of Success.” written by Carol Dweck (2006).</p>
+<p></p>
 <p></p>
 <p></p>
