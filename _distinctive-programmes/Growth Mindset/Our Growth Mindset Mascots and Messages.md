@@ -28,7 +28,6 @@ lives.</p>
 <p></p>
 <h4><strong>Our Growth Mindset (GM) Messages</strong></h4>
 <p>The 6 Growth Mindset messages are</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Effort is important.</p>
@@ -52,6 +51,5 @@ lives.</p>
 <p></p>
 <p>These messages are adapted from the book entitled "Mindset: The New Psychology
 of Success.” written by Carol Dweck (2006).</p>
-<p></p>
 <p></p>
 <p></p>
