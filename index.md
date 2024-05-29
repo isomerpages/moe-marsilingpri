@@ -8,32 +8,28 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page Image.gif
+      key_highlights:
+        - title: Our Achievements
+          description: Click to view
+          url: https://staging-lite.dnqf9i9g7u9t3.amplifyapp.com/about-us/school-achievements/marsiling-in-the-news/
+        - title: Follow us on Instagram
+          description: Click to view
+          url: https://www.instagram.com/marsilingprimaryschool?igsh=OTEwaDJwZjhzMm1p
+        - title: Follow us on Facebook
+          description: Click to view
+          url: https://www.facebook.com/MarsilingPri/
+      variant: image
   - announcements:
-      title: Announcements
+      title: Highlights
       id: announcements
       announcement_items:
-        - title: The Inspiring Teacher of English Award (ITEA) 2024 is open for
-            nomination!
-          date: 10 March 2024
-          announcement: Nominate teachers who ignite passion for English, promote
-            interactive learning, and adapt to student needs for the ITEA 2024
-            by 25 March.
-          link_text: Read more
-          link_url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-        - title: The Most Inspiring Tamil Teacher Award 2024 is open for nomination!
-          date: 20 March 2024
-          announcement: Nominate teachers who are dedicated and passionate in nurturing
-            the students to be self-directed and engaged learners for The Most
-            Inspiring Tamil Teacher Award 2024 by 1 April 2024
-          link_text: Read more
-          link_url: https://go.gov.sg/mitt2024nominationformel.
-        - title: The Arif Budiman Malay Language Teacher Award (AGAB) 2024
-          date: 20 March 2024
-          announcement: Nominate teachers who is a learned person that contributes to
-            society, through their dedication, commitment and exemplary service
-            as a Singapore educator for the AGAB 2024 by 1 April 2024
-          link_text: Read more
-          link_url: https://go.gov.sg/agab2024
+        - title: What does being responsible mean?
+          date: 13 May 2024
+          announcement: 《大头条进校园》series has arrived at Marsiling Primary School! Three P5
+            students shared their views on current news topics and how they
+            demonstrate a sense of responsibility in their daily lives.
+          link_text: Click on the link  to watch the video.
+          link_url: https://www.zbschools.sg/stories-29563
   - infopic:
       title: 2023 P5 Camp
       subtitle: Events

@@ -4,9 +4,17 @@ permalink: /about-us/schoolvalues/
 description: ""
 variant: tiptap
 ---
-<h2>What Does R3.I.C.E. Mean to Us?</h2>
-<h4><strong>RESPECT</strong></h4>
-<blockquote>
+<h4><strong>Our School R3.I.C.E. Values</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3ICE_Values.png">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>RESPECT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I speak politely to everyone.
 <br>• I have good mannerisms.
 <br>• I greet teachers and friends.
@@ -14,30 +22,42 @@ variant: tiptap
 <br>• I listen respectfully when others are speaking.
 <br>• I am non-judgemental.
 <br>• I weigh my words carefully before speaking/responding to others.</p>
-</blockquote>
-<h4><strong>RESPONSIBILITY</strong></h4>
-<blockquote>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>RESPONSIBILITY</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I take responsibility for my own actions.
-<br>• I look after the school propertyies.
+<br>• I look after the school properties.
 <br>• I follow my class and school rules.
 <br>• I am responsible for my own belongings.
 <br>• I do the right things when no one is looking.</p>
-</blockquote>
-<h4><strong>RESILIENCE</strong></h4>
-<blockquote>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>RESILIENCE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I think positively.
 <br>• I never give up.
 <br>• I persevere when faced with challenges.</p>
-</blockquote>
-<h4><strong>INTEGRITY</strong></h4>
-<blockquote>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>INTEGRITY</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I am truthful and honest.
 <br>• I return things to the rightful owners.
 <br>• I own up when I have done wrong.
 <br>• I encourage everyone to do the right things.</p>
-</blockquote>
-<h4><strong>CARE</strong></h4>
-<blockquote>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CARE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I ensure my own attire is neat and smart.
 <br>• I clean up my own table.
 <br>• I arrange the books and worksheets in my own bag.
@@ -45,12 +65,17 @@ variant: tiptap
 <br>• I take the initiative to help my peers.
 <br>• I take the initiative to plan and carry out activities to promote community
 service or environmental awareness.</p>
-</blockquote>
-<h4><strong>EXCELLENCE</strong></h4>
-<blockquote>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EXCELLENCE</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>• I do my best.
 <br>• I strive to be better at what I do.
 <br>• I am cooperative.
 <br>• I am synergized.</p>
-</blockquote>
+</div>
+</details>
+</div>
 <p></p>

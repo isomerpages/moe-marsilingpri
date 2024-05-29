@@ -1,0 +1,22 @@
+collections:
+  mps-family:
+    output: true
+    order:
+      - School Leaders.md
+      - Key Personnel.md
+      - 2024 Form Teachers/.keep
+      - 2024 Form Teachers/Primary 1.md
+      - 2024 Form Teachers/Primary 2.md
+      - 2024 Form Teachers/Primary 3.md
+      - 2024 Form Teachers/Primary 4.md
+      - 2024 Form Teachers/Primary 5.md
+      - 2024 Form Teachers/Primary 6.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - PE, Art, Music.md
+      - Allied Educators.md
+      - School Administration Team (SAT).md
+      - School Advisory Committee (SAC).md
+      - Parent Support Group (PSG).md

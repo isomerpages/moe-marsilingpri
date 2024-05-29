@@ -1,0 +1,14 @@
+collections:
+  distinctive-programmes:
+    output: true
+    order:
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Student Leadership.md
+      - Learning for Life Programme/Values in Action (VIA).md
+      - Learning for Life Programme/Green Citizenship.md
+      - Applied Learning Programme.md
+      - Growth Mindset/.keep
+      - Growth Mindset/About Growth Mindset.md
+      - Growth Mindset/Our Growth Mindset Mascots and Messages.md
+      - Growth Mindset/Making Growth Mindset Visible.md
+      - Growth Mindset/Our Growth Mindset Programmes.md

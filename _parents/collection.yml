@@ -1,0 +1,31 @@
+collections:
+  parents:
+    output: true
+    order:
+      - School Letters/.keep
+      - School Letters/Schoolwide.md
+      - School Letters/Primary 1.md
+      - School Letters/Primary 2.md
+      - School Letters/Primary 3.md
+      - School Letters/Primary 4.md
+      - School Letters/Primary 5.md
+      - School Letters/Primary 6.md
+      - Briefing Slides/.keep
+      - Briefing Slides/Primary 1.md
+      - Briefing Slides/Primary 2.md
+      - Briefing Slides/Primary 3.md
+      - Briefing Slides/Primary 4.md
+      - Briefing Slides/Primary 5.md
+      - Briefing Slides/Primary 6.md
+      - School Service Providers/.keep
+      - School Service Providers/School Based Student Care Centre.md
+      - School Service Providers/School Bookshop.md
+      - School Service Providers/School Bus Service.md
+      - School Service Providers/School Canteen.md
+      - School Service Providers/School Dental Service.md
+      - School Service Providers/School Uniform.md
+      - Useful Information/.keep
+      - Useful Information/Schoolwide.md
+      - Useful Information/Lower Primary.md
+      - Useful Information/Middle Primary.md
+      - Useful Information/Upper Primary.md

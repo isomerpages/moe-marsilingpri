@@ -5,4 +5,80 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Speech and Drama is an avenue for students to develop their language and performing arts skill.</p><p>In this CCA, they will learn how to respond confidently and think quickly when they are challenged with exercises such as improvisation. Students learn to work in groups and with other members in the team and share ideas when creating and drafting scenes for practices.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Alivia Tang (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Music Room 2 (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Ow Weng Keong (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Nicholas Neo Wenjie</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd100.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd200.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd300.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd400.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/spd500.jpg"></div><p></p>
+<h4><strong>About Speech &amp; Drama Club</strong></h4>
+<p>MPS Speech &amp; Drama Club aims to provide opportunities for students
+to become confident performers and makers of art. As students work together
+as a team, putting into practice the skills they have learnt, they build
+and demonstrate values of teamwork, perseverance, self-discipline and confidence.
+&nbsp;&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms Alivia Tang (I/C)</p>
+<p>Mrs Ow Weng Keong (2nd I/C)</p>
+<p>Mr Nicholas Neo Wenjie</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Music Room 2</p>
+<p>ISH (Level 3)</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>Speak Good English Movement</h4>
+<p>With the purpose of educating Marsilians on speaking good English, MPS
+Speech and Drama Club started on a storyboarding journey with members making
+use of a story plot to discuss the camera angles to film from, the props
+needed and the dialogues of the characters for the respective scenes in
+the story. They also drew up sketches of how the scenes would look like
+in their storyboard templates. After the storyboards were completed, some
+members took up the roles of filming the scenes, editing and adding in
+subtitles for the skit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama___Table_on_Speak_Good_English.png">
+</div>
+<p></p>
+<h4>Total Defence Day (TDD) Skit 2024</h4>
+<p>Our members put up a skit for this year’s Total Defence Day which was
+showcased to the whole school during the TDD assembly programme. The skit
+evolved around the 6<sup>th</sup> pillar of Total Defence – Digital Defence.
+Our members had the opportunity to showcase the skills that they had learnt
+during the CCA sessions and it was a great experience for them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama___Table.png">
+</div>
+<h4></h4>
+<h4>STEAM</h4>
+<p>MPS Speech and Drama Club has been partnering with the STEAM committee
+for the past 2 years to put up skits as part of STEAM assembly programmes.
+This platform provides opportunities for our members to showcase their
+talents and hone their skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama___Table_on_STEAM.png">
+</div>
+<p></p>
+<p></p>

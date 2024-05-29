@@ -3,21 +3,12 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - History.md
-      - Our Crest.md
-      - Vision & Mission.md
+      - School History.md
+      - School Crest.md
+      - School Vision and Mission.md
       - School Values.md
       - School Song.md
       - Student's Pledge.md
-      - Marsiling in the News.md
-      - Achievements.md
-      - School Information/.keep
-      - School Information/Contact Us.md
-      - School Information/School Hours.md
-      - School Information/School Fees Collection.md
-      - School Information/School Canteen.md
-      - School Information/School Uniform.md
-      - School Information/School Bookshop.md
-      - School Information/School Based Student Care Centre.md
-      - School Information/School Bus Service.md
-      - School Information/School Dental Service.md
+      - School Achievements/.keep
+      - School Achievements/Marsiling in the News.md
+      - School Achievements/Our Pride and Joy.md

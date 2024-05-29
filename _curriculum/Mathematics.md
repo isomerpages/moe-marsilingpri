@@ -2,73 +2,122 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+variant: tiptap
 ---
-##### **Vision:**
-
-Every Marsilian a resilient and joyful problem solver.
-
-##### **Mission:**
-
-The Mathematics Department aims:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;To engage students to think critically and reason clearly in Mathematics.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;To foster students’ positive attitudes towards the learning of Mathematics.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;To enable students to appreciate the relevance of Mathematics in real life.
-
-**Our Mathematics Programme at a Glance:**
-
-![](/images/Curriculum/maths%20prog.png)
-
-##### **MOE Mathematics Framework** 
-![](/images/Curriculum/MTM1.png)
-The central focus of the Mathematics curriculum is the development of Mathematical problem solving. Supporting this focus are five inter-related components – concepts, skills, processes, metacognition and attitudes.
-
-##### **Concrete Pictorial Abstract (C-P-A) Approach**
-
-Learning experiences in the classroom are designed based on the C-P-A approach.
-
-Concrete is the “doing” stage, using concrete objects such as fraction discs, multi-link cubes and base-ten sets to help students understand the concepts.
-
-Pictorial is the “seeing” stage, using representations of the objects to model problems.
-
-Abstract is the “symbolic” stage, where students are able to use symbols to demonstrate understanding of problems.
-
-This approach helps students learn new ideas and build on their existing knowledge by introducing abstract concepts in a more familiar and tangible way.
-
-![](/images/Curriculum/MTM2.png)
-
-#### **Key Programmes / Activities / Events**
-
-##### **STEAM Week**
-
-STEAM stands for Science-Technology-Engineering-Arts and Mathematics. The various engaging activities held during STEAM week provided students the opportunity to learn through exploration, sparking invention, innovation and joy of learning and to enthuse students to explore the areas of STEAM.
-
-In alignment with the school’s move towards sustainable living, students collaborated with one another to design toys made from recyclables. In addition, students used their creativity and demonstrated their entrepreneurial dare, taking calculated risks working as a class to complete various timed engineering challenges during recess.
-
-![](/images/Curriculum/MTM3.png)
-
-##### **Excellence 2000 (E2K) Mathematics Programme**
-
-The E2K Mathematics Programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies, such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
-
-The programme comprises mathematics curriculum units designed to challenge selected Primary 4 and 5 students and to introduce them to advanced mathematical concepts and thinking.
-
-##### **Learning Support for Mathematics (LSM) Programme**
-
-The LSM Programme is designed to provide early intervention support for Primary 1 and 2 students who need additional support in acquiring basic numeracy skills. The programme focuses on basic mathematical skills and concepts to consolidate good foundation. It aims to build students’ confidence and positive beliefs about their ability to do Math. The programme is also extended to P3 and P4 students who need to build their foundation skills in Mathematics.
-
-##### **Recess Activities @ Eureka!**
-
-Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally alive during recess. Filled with game booths that put students’ Mathematical skills to the test, Eureka aims to promote the joy of learning in Mathematics. The activities range from forming figures using Tangrams, Geoboards and LEGO pieces to shopping within budget at our life-sized “Mini Mart”.
-
-To ensure recess activities run smoothly, groups of students were selected and underwent training on the various Mathematics activities. They are then deployed as Eureka Facilitators to provide immediate assistance to the participants.
-
-![](/images/Curriculum/eureka%20maths.png)
-
-##### **Math Hero**
-
-Math Hero is an in-house program of the Math Department. In this program, Primary 1 to 5 students are given a variety of interesting activities to choose to complete. Some of the activities require the involvement of parents. Upon the completion of each activity, star(s) will be awarded to the students. When a student has earned a stipulated number of stars, a Math Hero button badge and certificate will be awarded to him/her. This program encourages our students to explore Mathematics beyond the textbook and workbook in greater extent of the subject elements through creative problem-solving.
-
-![](/images/Curriculum/math%20hero.png)
+<h4><strong>Vision</strong></h4>
+<p>Every Marsilian a resilient and joyful problem solver.</p>
+<h4></h4>
+<h4><strong>Mission</strong></h4>
+<p>The Mathematics Department aims:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To engage students to think critically and reason clearly in Mathematics.</p>
+</li>
+<li>
+<p>To foster students’ positive attitudes towards the learning of Mathematics.</p>
+</li>
+<li>
+<p>To enable students to appreciate the relevance of Mathematics in real
+life.</p>
+</li>
+</ul>
+<h4></h4>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Programmes_Table_v2.png">
+</div>
+<p></p>
+<h4><strong>Mathematics Framework</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Framework.png">
+</div>
+<p>The central focus of Mathematics curriculum is the development of Mathematical
+problem solving. Supporting this focus are five inter-related components
+– concepts, skills, processes, metacognition and attitudes.</p>
+<h4></h4>
+<h4><strong>Teaching and Learning</strong></h4>
+<h4>3 Phases of Learning: Readiness, Engagement and Mastery</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA___Framework_on_3_phases_of_learning.png">
+</div>
+<h4><strong>Concrete Pictorial Abstract (C-P-A) Approach</strong></h4>
+<p>Learning experiences in the classroom are designed based on the C-P-A
+approach.</p>
+<p>Concrete is the “doing” stage, using concrete objects such as fraction
+discs, multi-link cubes and base-ten sets to help students understand the
+concepts.</p>
+<p>Pictorial is the “seeing” stage, using representations of the objects
+to model problems.</p>
+<p>Abstract is the “symbolic” stage, where students are able to use symbols
+to demonstrate understanding of problems.</p>
+<p>This approach helps students learn new ideas and build on their existing
+knowledge by introducing abstract concepts in a more familiar and tangible
+way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA___Table_on_CPA.png">
+</div>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<h4>STEAM@MPS</h4>
+<p>STEAM is an interdisciplinary approach to learning that combines Science,
+Technology, Engineering, Arts and Mathematics. A collaborative effort between
+the Science and Mathematics department, STEAM@MPS aims to provide students
+with the opportunity to learn through exploration, sparking invention,
+innovation and joy of learning. The various STEAM activities held throughout
+the year are based on the engineering design process. As students brainstorm
+ideas, test and iterate solutions based on new information and challenges,
+the open-ended environment encourages them to think outside the box, nurturing
+different components of 21CC, such as adaptive and critical thinking in
+the process. STEAM education equips students with the flexibility and inventiveness
+needed to thrive in a constantly evolving world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_1.png">
+</div>
+<p></p>
+<h4>Excellence 2000 (E2K) Mathematics Programme</h4>
+<p>The E2K Mathematics Programme is designed by education specialists to
+meet the advanced learning needs of Primary 4 and 5 high-achieving learners.
+It aims to develop students’ mathematical reasoning skills and deepens
+their conceptual understanding through an inquiry approach. Students will
+have opportunities to work independently or collaborate with their peers
+and engage in mathematical thinking through resources such as games, puzzles,
+and mathematical explorations specially designed for this programme.</p>
+<p>Through the rich learning experiences offered by the programme, students
+will develop the attitudes, habits and dispositions mathematicians possess.
+They will also gain different components of 21CC such as critical thinking,
+invention thinking and effective communication skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
+</div>
+<p></p>
+<h4>Math@Eureka</h4>
+<p>Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally
+alive during recess with a wide range of activities such as forming figures
+using Tangrams, Geoboards and LEGO pieces and shopping within budget at
+our life-sized “Mini Mart”. In addition, Eureka is used during Math lessons
+for students to explore mathematical concepts outside the classroom.</p>
+<p>By immersing students in learning experiences that focuses on play and
+exploration, various components of 21CC such as critical thinking, creativity,
+collaboration and communication are fostered.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_4.png">
+</div>
+<h4></h4>
+<h4>Math Hero</h4>
+<p>Math Hero is an in-house program of the Math Department. It aims to encourage
+and motivate our students to take ownership of their own learning and hone
+components of 21CC such as self-management, responsible decision-making,
+inventive thinking and communication.</p>
+<p>In this program, Primary 1 to 4 students are given a variety of interesting
+activities to choose to complete. Some of the activities required them
+to play a game with their friends and some require the involvement of family
+members which allows meaningful bonding. Upon the completion of each activity,
+star(s) will be awarded to the students. When a student has earned a stipulated
+number of stars, a Math Hero button badge and certificate will be awarded
+to him/her.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_5.png">
+</div>
+<p></p>
+<p></p>

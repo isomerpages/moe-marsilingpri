@@ -5,4 +5,93 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p>MPS Brownies is associated to Girl Guides Singapore. The CCA aims to provide girls with the opportunity for self-training in the development of character, in the realization of responsible citizenship and promotion of service to the community.</p><p>In 2022, MPS Brownies have achieved many awards in HQ and North Division organized competitions. The achievements are as follows:</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>#GIRL4Change Video Contests #1: International Women’s Day</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1st</p></td></tr><tr><td rowspan="1" colspan="1"><p>#GIRL4Change Video Contests #2: Earth Day</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1st</p></td></tr><tr><td rowspan="1" colspan="1"><p>#GIRL4Change Video Contests #4: International Day of the Girl Child</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2nd</p></td></tr><tr><td rowspan="1" colspan="1"><p>North Division Day: Patch Design Competition</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1st</p></td></tr><tr><td rowspan="1" colspan="1"><p>North Division Day: Creative Fusion Dance Competition</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>3rd</p></td></tr><tr><td rowspan="1" colspan="1"><p>Sandwich-making Competition (Pack Holiday Camp)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1st</p></td></tr><tr><td rowspan="1" colspan="1"><p>Nature Ramble Competition (Pack Holiday Camp)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2nd</p></td></tr></tbody></table><p>In the 2015 Assessment, Marsiling Primary School attained the Bronze 1st Pack Puan Noor Aishah Award.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Miss Chang Lee Hui (I/C)</p></td><td rowspan="1" colspan="1"><p>Malay Language Room (Level 3)</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Wen Caizhuang</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Hazlina Binte Yaacob</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Latchmana Murlly</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/brownie100.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/brownie200.png"></div><p></p>
+<h4><strong>About Brownies</strong></h4>
+<p>MPS Brownies is associated to Girl Guides Singapore. The CCA aims to provide
+girls with the opportunity for self-training in the development of character,
+in the realization of responsible citizenship and promotion of service
+to the community.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Miss Chang Lee Hui (I/C)</p>
+<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
+<p>Ms Wen Caizhuang</p>
+<p>Mdm Hazlina Binte Yaacob</p>
+<p>Mdm Latchmana Murlly</p>
+<p></p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Teaching Lab (Level 1)</p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>World Thinking Day Celebrations</h4>
+<p>Our Brownies took part in the Girl Guides World Thinking Day 2024 event
+held at One Tampines Hub. In partnership with Raffles Girls' School, our
+Brownies established an interactive booth aimed at educating visitors on
+stress management techniques. Our booth demonstrated how to create water
+bead stress balls as a means of coping with stress.</p>
+<p>In addition, our Brownies reaffirm their commitment to the Guide Laws
+by renewing their promise in front of the whole school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brownies World Thinking Day (WTD)" src="/images/Brownies___Table_1.png">
+</div>
+<p></p>
+<h4>North Division Day Activities</h4>
+<p>Our Brownies participated in the North Division Day, an annual gathering
+where they learn more about guiding practices with fellow Brownies. Additionally,
+they took part in various activities, exploring themes such as climate
+change, inclusive cities, healthy lifestyles, and mental well-being.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_2.png">
+</div>
+<p></p>
+<h4>North Division Outdoor Challenge</h4>
+<p>The North Division Outdoor Challenge offers Guides the chance to engage
+in competitions, cooperate with Guides and Brownies from different schools,
+and enjoy themselves while learning - all within an outdoor environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_3.png">
+</div>
+<p></p>
+<h4>National Day Observance Ceremony</h4>
+<p>Always present during the National Day Observance Ceremony, our Brownies,
+alongside the Scouts, lead the procession for the flag-raising segment.
+They carry the flag, bringing it to the flagpoles, and raise it while the
+national anthem and school song are sung.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_4.png">
+</div>
+<p></p>

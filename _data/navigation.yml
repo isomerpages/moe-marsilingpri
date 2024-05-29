@@ -2,15 +2,17 @@ logo: /images/LOGO 2.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: The MPS Family
-    collection: the-mps-family
+  - title: Mps Family
+    collection: mps-family
   - title: Curriculum
     collection: curriculum
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
   - title: CCA
     collection: cca
-  - title: Lower Pri Marsiling Experience
-    collection: lower-pri-marsiling-experience
-  - title: For Parents
-    collection: for-parents
+  - title: Parents
+    collection: parents
   - title: Links
-    collection: quick-links
+    collection: links
+  - title: Contact Us
+    collection: contact-us

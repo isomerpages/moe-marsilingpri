@@ -5,4 +5,79 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<p><strong>Tchoukball</strong>&nbsp;is an indoor team sport developed in the 1970s by Hermann Brandt as a warm up activity for the Swiss Handball team. The sport is usually played on an indoor court measuring 27 metres by 16 metres. At each end there is a 'frame' (a device similar to a trampoline&nbsp;off which the ball bounces) which measures one square metre and a semicircular D-shaped forbidden zone measuring three metres in radius. Each team can score on both ends on the field, and comprises twelve players, of which seven may be on the court at any one time. In order to score a point, the ball must be thrown by an attacking player, hit the frame and bounce outside the 'D' without being caught by the defending team.</p><p>Tchoukball training sessions are held regularly by an external coach to prepare our teams for the National Primary Schools Tchoukball Competition held yearly. Students from both girls and boys teams apply their GM messages during their training to persevere and never give up even when training gets tough.</p><p>In 2022, MPS Tchoukball Boys and Girls teams participated in the National Primary Schools Tchoukball Competition junior categories. The students gained valuable experiences by competing with teams from all over Singapore.</p><p><strong>List of Achievements in 2022 – 12th National Primary Schools Tchoukball Competition</strong></p><p>Junior Boys (Bowl Category) ~ 5th</p><p>Junior Boys (Cup Category)&nbsp; ~ 7th</p><p>Junior Girls (Bowl Category)&nbsp; ~ 5th</p><p>Junior Girls (Cup Category)&nbsp;&nbsp; ~&nbsp; 5th</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Miss Tan Cassander(I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Level 3</p></td><td rowspan="1" colspan="1"><p>Thursday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Sam Tan(2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Jamaliah Yusope Lamat</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Lim Duyue Ferlicia</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/tchouk1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/tchouk2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/tchouk3.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/tchouk4.png"></div><p></p>
+<h4><strong>Tchoukball</strong></h4>
+<p>MPS Tchoukball&nbsp;is a non-contact indoor team sport. Its name resembles
+the sound - ‘tchouk’ - that's produced when the ball hits the frame. It
+is fast-paced ball game where players are required to jump, throw and catch
+balls, as well as run around the court.</p>
+<p>Our training sessions are held regularly by an external coach to prepare
+our teams for the annual Inter-School Tchoukball Championships. During
+training, our boys and girls persevere and embrace challenges even when
+training gets tough.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Miss Tan Cassander (I/C)</p>
+<p>Mr Sam Tan (2nd I/C)</p>
+<p>Mdm Jamaliah YL</p>
+<p>Miss Ferlicia Lim</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Day: Thursday</p>
+<p>Time: 3.15pm – 4.45pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>ISH (Level 3)</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><strong>CCA Highlight(s)</strong></h4>
+<h4>1st ActiveSG-TBAS Inter-School Tchoukball Championships 2023</h4>
+<p>In Term 2, the Senior boys and girls participated in the Inter-School
+Tchoukball Championships 2023. They came in 6<sup>th</sup> place and 4<sup>th</sup> place
+respectively.</p>
+<p>In Term 4, the Junior boys and girls participated in the Inter-School
+Tchoukball Championships 2023. The boys took part in the Plate category
+while the girls took part in the Cup category. The Cup team girls clinched
+the 1<sup>st</sup> runner-up.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball___Table.png">
+</div>
+<p></p>
+<h4>Training sessions</h4>
+<p>Tchoukball is a fast-paced ball game where players are required to jump,
+throw and catch balls. Our training sessions are held regularly by an external
+coach where students will gain mastery in their throwing (underhand throw,
+overhand throw and side arm throw), shooting (jump shot and stand shot)
+and catching (two-handed catch and ⁠single-handed catch) techniques.</p>
+<p>Before every competition season, our students attend additional training
+sessions. Theses sessions provide an avenue for our students to further
+practise and hone their throwing, shooting and catching techniques.</p>
+<p></p>
+<p>View the video below, featuring our students during one of their training
+sessions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
+<p></p>
+<p></p>

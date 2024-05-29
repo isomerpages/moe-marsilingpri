@@ -5,4 +5,8 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>MPS Chinese Dance is an appreciation of the aesthetic. Students will learn the basic coordination, rhythmic senses and flexibility. Dancers will develop leadership skills and confidence to guide the juniors and also perform in public. Most importantly, they learn to work together as a team. In the Singapore Youth Festival Arts Presentation 2018, MPS Chinese Dance achieved the Certificate of Accomplishment.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Teachers-in-Charge</p></th><th rowspan="1" colspan="1"><p>Venue</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Li Huaitao (I/C)</p></td><td rowspan="1" colspan="1"><p>ISH Dance Studio (Level 3)</p></td><td rowspan="1" colspan="1"><p>Tuesday, 3.15pm-4.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Goh Soy Moi (2nd I/C)</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Lam Yen Fong Jasmine</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Siew Eng</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese%20Dance/cnd100.jpg"></div><p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+</div>
+<p></p>
