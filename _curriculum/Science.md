@@ -42,4 +42,24 @@ and James Dyson Foundation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Table_on_STEAM_MPS.png">
 </div>
+<h4></h4>
+<h4>The Science SPARKLE</h4>
+<p>The Science SPARKLE lessons facilitate the learning of science for our
+lower block students. Developed with the aim of making science accessible
+and exciting, these lessons include a variety of experiments and activities
+that cover a wide range of scientific concepts in the revised primary science
+syllabus.</p>
+<p>Students are engaged in rich discussions in class enabling them to retain
+learning in a fun way. The Science SPARKLE lessons are more than just experiments;
+They are catalysts for a lifelong love of science. It empowers students
+to explore, question, and discover with mental attitudes such as curiosity,
+creativity, integrity, objectivity, open-mindedness and resilience.</p>
+<p>“I have not failed. I've just found 10,000 ways that won't work.” – Thomas
+A. Edison</p>
+<p>Just like Sir Thomas Edison, the Science SPARKLE lessons encourage our
+students to not give up on the pursuit for solutions and be willing to
+take risks and embrace failure as part of the process.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
