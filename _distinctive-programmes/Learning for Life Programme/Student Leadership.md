@@ -15,7 +15,7 @@ and Growth Mindset Principles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/LLP_Student_Leadership_Framework.png">
 </div>
-<p></p>
+<h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
