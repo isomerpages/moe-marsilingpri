@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our Achievements
           description: Click to view
-          url: https://staging-lite.dnqf9i9g7u9t3.amplifyapp.com/about-us/school-achievements/marsiling-in-the-news/
+          url: https://marsilingpri.moe.edu.sg/about-us/school-achievements/marsiling-in-the-news/
         - title: Follow us on Instagram
           description: Click to view
           url: https://www.instagram.com/marsilingprimaryschool?igsh=OTEwaDJwZjhzMm1p
