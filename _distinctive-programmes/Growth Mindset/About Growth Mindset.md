@@ -12,9 +12,12 @@ with courage, positivity, and a belief in their own growth and potential</p>
 <h4><strong>Mission</strong></h4>
 <p>To cultivate and champion a culture of growth mindset in the school, fostering
 resilience, innovation, and continuous learning</p>
-<p></p>
+<h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Programmes_at_a_Glance.png">
+</div>
+<h4></h4>
 <h4><strong>About Growth Mindset (GM)</strong></h4>
 <h4>Growth Mindset @ MPS</h4>
 <p>Growth Mindset @ MPS or GeM@MPS is a whole-school approach adopted since
