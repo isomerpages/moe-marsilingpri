@@ -36,7 +36,7 @@ Science-Technology-Society-Environment)</p>
 <h4></h4>
 <h4><strong>Science Framework</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
 </div>
 <p>The <em>Practices</em>  <em>of Science </em>consists of three intricately
 related components representing the cognitive, epistemic and social aspects
