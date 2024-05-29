@@ -66,6 +66,31 @@ leadership potential to take on the roles in the next tier.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p></p>
+<p><strong>Tier 3: School Level Leadership</strong>
+</p>
+<p>Students who demonstrate strong leadership qualities are nominated for
+the role of Prefects, CCA Leaders and Environment Champions by the teachers
+in this tier.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Leaders at this tier will undergo additional soft skills training
+to further support them in their leadership duties and build on their leadership
+potential.</p>
+</li>
+<li>
+<p>Student Leaders are given opportunities to lead and serve by being involved
+in the planning and organising of school events such as Teachers’ Day Celebration
+and other school or community outreach activities.</p>
+</li>
+</ul>
+<h4></h4>
+<h4>Student Leaders’ Investiture 2024</h4>
+<p>Student Leaders’ Investiture is a ceremony to install all our student
+leaders into their roles for the year and show the school’s commitment
+to developing student leaders. On 5 February 2024, a total of 63 Prefects
+and 30 CCA Leaders were appointed into their roles. As the school’s Tier
+3 student leaders, they will be serving fellow Marsilians, the school and
+the community. The ceremony serves as a reminder for the leaders to lead
+with care and confidence and the commitment to make a positive impact on
+the school and the community.</p>
 <p></p>
