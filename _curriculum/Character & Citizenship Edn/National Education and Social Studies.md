@@ -22,6 +22,8 @@ contribute in our multi-racial school community.</p>
 experiences which aims to strengthen our students’ citizenship dispositions,
 engage and empower them to be active and concerned citizens in Singapore.
 They are linked to defining moments in Singapore's history.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE___details.png">
+</div>
 <p></p>
 <p></p>
