@@ -39,7 +39,14 @@ towards the nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE___Table_on_NE_Show.png">
 </div>
 <p></p>
-<p></p>
+<h4>#1958 Heritage Gallery &amp; Marsiling Heritage Trail</h4>
+<p>The #1958 Heritage Gallery and The Marsiling Heritage Trail were launched
+on 16 November 2018 by then Second Minister for Education Ms Indranee Rajah.
+In collaboration with the National Heritage Board, some P4 student leaders
+conceptualised and developed the Marsiling Heritage Trail. Marsilians will
+have a chance to go on, to familiarise themselves with the landmarks in
+this neighbourhood and to have a deeper appreciation for the heritage of
+the community in which our school is located.</p>
 <p></p>
 <p></p>
 <p></p>
