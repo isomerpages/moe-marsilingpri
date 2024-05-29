@@ -5,7 +5,17 @@ description: ""
 third_nav_title: Growth Mindset
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
-</div>
+<h4><strong>Vision</strong></h4>
+<p>Resilient, adaptable and agile students and staff who embrace challenges
+with courage, positivity, and a belief in their own growth and potential</p>
+<h4></h4>
+<h4><strong>Mission</strong></h4>
+<p>To cultivate and champion a culture of growth mindset in the school, fostering
+resilience, innovation, and continuous learning</p>
+<p></p>
+<h4><strong>Programmes at a Glance</strong></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
