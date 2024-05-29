@@ -59,7 +59,21 @@ A. Edison</p>
 <p>Just like Sir Thomas Edison, the Science SPARKLE lessons encourage our
 students to not give up on the pursuit for solutions and be willing to
 take risks and embrace failure as part of the process.</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Table_on_The_Science_Sparkle.png">
+</div>
+<h4></h4>
+<h4>Science@FaSCInation</h4>
+<p>Science@FaSCInation, a Science MTV (Making Things Visible) learning space,
+comes alive during recess. Students explore forensic science through investigations.
+The space allows them to see the applications of Science beyond the syllabus
+and use the process skills acquired in class to solve the crime. Students
+get the opportunity to engage in hands-on activities that ignite their
+curiosity and passion for Science as they play the role of a forensic scientist.
+Beyond forensic science, students can also engage in experiments that deepens
+their understanding and allows them to demonstrate ways and thinking of
+doing Science.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Science_Fascination.png">
+</div>
 <p></p>
