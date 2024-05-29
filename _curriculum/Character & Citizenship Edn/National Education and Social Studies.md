@@ -35,6 +35,11 @@ They are linked to defining moments in Singapore's history.</p>
 for the National Day Parade. NE show is an inspiring experience for P5
 students where they can look towards the future with hope and make a commitment
 towards the nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE___Table_on_NE_Show.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
