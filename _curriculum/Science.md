@@ -39,4 +39,7 @@ In addition, students look forward to the many recess activities and assembly
 programs planned during STEAM@MPS week. Students are also engaged through
 the various STEM Playground Challenges hosted by Singapore Science Centre
 and James Dyson Foundation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Table_on_STEAM_MPS.png">
+</div>
 <p></p>
