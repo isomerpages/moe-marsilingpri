@@ -37,10 +37,10 @@ related components representing the cognitive, epistemic and social aspects
 of Science.</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Sc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Programmes_at_a_lance_Table.png">
 </div>
+<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM@MPS</h4>
 <h4>Programme Description</h4>
