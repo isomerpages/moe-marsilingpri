@@ -62,11 +62,8 @@ and the avenues for them to continue their efforts beyond school.</p>
 <p>They are also encouraged to share&nbsp; what they have learnt with family
 members as eco-stewards who&nbsp; spread the green message beyond the school
 community.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship_2___Sustainability_Challenge_Table.png">
+</div>
 <p></p>
 <p></p>
