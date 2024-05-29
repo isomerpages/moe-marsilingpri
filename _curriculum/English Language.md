@@ -97,4 +97,7 @@ their imagination. Through the use of writing process cycles and various
 mini lessons, the students discover the joy and power of penning down their
 thoughts using words. Writing is not only a skill but also a delightful
 adventure of creativity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL___Table_on_Joy_of_Writing.png">
+</div>
 <p></p>
