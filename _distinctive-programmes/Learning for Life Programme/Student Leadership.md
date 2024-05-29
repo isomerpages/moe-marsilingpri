@@ -94,7 +94,7 @@ the community. The ceremony serves as a reminder for the leaders to lead
 with care and confidence and the commitment to make a positive impact on
 the school and the community.</p>
 <h4></h4>
-<h4>Reduce @ North West</h4>
+<h4>Reduce @ North West: A Collaboration with North West CDC</h4>
 <p>The school collaborated with North West CDC to conduct door-to-door visits
 to educate residents on the conservation of energy and water at home and
 encourage their participation in the programme. Our Primary 5 and 6 student
@@ -102,4 +102,7 @@ leaders went through a 45 minute briefing conducted by a staff from North
 West CDC to learn about the importance of climate change, reduction on
 food waste and provide tips on energy and water conservation before the
 outreach.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
