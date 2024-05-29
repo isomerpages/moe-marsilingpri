@@ -17,6 +17,13 @@ apply scientific concepts and skills in making responsible decisions. (Demonstra
 Ways of Thinking and Doing in Science)</p>
 <p>•Appreciate how Science influences people and the environment. (Relating
 Science-Technology-Society-Environment)</p>
+<p></p>
+<h4><strong>Framework</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
+</div>
+<p></p>
+<p></p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
