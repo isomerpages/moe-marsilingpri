@@ -33,5 +33,26 @@ with community partners.</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship___Programmes_at_a_Glance_Table.png">
+</div>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<h4>Significant Environmental Days &amp; Green Citizenship Days</h4>
+<p>Our students engage in a series of activities during these significant
+days to that help them develop knowledge and skills as eco-stewards who
+are able to be active green citizens. Students gain a sense of agency over
+environmental issue and are encouraged to practice green citizenry beyond
+school grounds.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship___GCD.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
