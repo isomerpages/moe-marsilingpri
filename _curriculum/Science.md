@@ -8,22 +8,34 @@ variant: tiptap
 <p>INquiring and INspired Marsilians; INnovators of Tomorrow&nbsp; &nbsp;</p>
 <h4><strong>Mission</strong></h4>
 <p>The Science Department aims to:</p>
-<p>•Build on students’ interest and stimulate their curiosity about themselves
+<ul data-tight="true" class="tight">
+<li>
+<p>Build on students’ interest and stimulate their curiosity about themselves
 and their environment. (Joy of Learning)</p>
-<p>•Acquire basic scientific concepts to help them understand themselves
-and the world around them. (Understanding Nature of Scientific Knowledge)</p>
-<p>•Develop skills, dispositions, and attitudes for scientific inquiry and
+</li>
+<li>
+<p>Acquire basic scientific concepts to help them understand themselves and
+the world around them. (Understanding Nature of Scientific Knowledge)</p>
+</li>
+<li>
+<p>Develop skills, dispositions, and attitudes for scientific inquiry and
 apply scientific concepts and skills in making responsible decisions. (Demonstrating
 Ways of Thinking and Doing in Science)</p>
-<p>•Appreciate how Science influences people and the environment. (Relating
+</li>
+<li>
+<p>Appreciate how Science influences people and the environment. (Relating
 Science-Technology-Society-Environment)</p>
 <p></p>
+</li>
+</ul>
 <h4><strong>Framework</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
 </div>
-<p></p>
-<p></p>
+<p>The <em>Practices</em>  <em>of Science </em>consists of three intricately
+related components representing the cognitive, epistemic and social aspects
+of Science.</p>
+<h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
