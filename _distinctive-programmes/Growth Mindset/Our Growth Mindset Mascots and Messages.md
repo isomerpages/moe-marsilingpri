@@ -26,6 +26,57 @@ to fostering a growth-oriented mindset among our students through their
 daily application and practice of the six growth mindset messages in their
 lives.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Sparkle</h4>
+<p></p>
+<p>She has resilience and grit. She believes that her intelligence can be
+developed by learning a new skill. She realizes that, when learning something
+new, it may seem difficult at first but she never gives up. She believes
+that effort is important and she will keep practising the new skill until
+she becomes good at it.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Ray</h4>
+<h4></h4>
+<p>Ray is like the sunlight that brightens up other people’s day. When he
+is down, or feeling disappointed, he will look at the bright side of things
+and think of helpful ways to overcome the challenges he faced. Like Sparkle,
+he also has resilience and grit. He will learn from his mistakes and keep
+an open mind to new ideas and possibilities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Dr_FeMesis__2024__Akimbo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Dr. FeMesis</h4>
+<p></p>
+<p>He thinks negatively about everything. He has a fixed mindset. He finds
+it difficult to think positively.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Our Growth Mindset (GM) Messages</strong></h4>
 <p>The 6 Growth Mindset messages are</p>
 <ol data-tight="true" class="tight">
@@ -51,5 +102,8 @@ lives.</p>
 <p>These messages are adapted from the book entitled "Mindset: The New Psychology
 of Success.” written by Carol Dweck (2006).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GM_Messages__2_.png">
+</div>
 <p></p>
 <p></p>
