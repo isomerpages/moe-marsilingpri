@@ -52,6 +52,17 @@ school grounds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Green_Citizenship_1___GCD_Table.png">
 </div>
+<h4></h4>
+<h4><strong>Sustainability Challenge</strong></h4>
+<p>Marsilians engage in Sustainability Challenges termly to enable them to
+practice recycling within the school compound. The materials collected
+for recycling include items like food, clothes, books, plastic and e-waste.
+Marsilians learn about the various types of materials that can be recycled
+and the avenues for them to continue their efforts beyond school.</p>
+<p>They are also encouraged to share&nbsp; what they have learnt with family
+members as eco-stewards who&nbsp; spread the green message beyond the school
+community.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
