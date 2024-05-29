@@ -102,6 +102,18 @@ leaders went through a 45 minute briefing conducted by a staff from North
 West CDC to learn about the importance of climate change, reduction on
 food waste and provide tips on energy and water conservation before the
 outreach.</p>
+<h4></h4>
+<h4>Friend of Singa (FOS) Programme</h4>
+<p>Our Primary 4 student leaders led in a kindness project titled ‘Caring
+Connections’ at Marsiling Primary School where they strive to nurture a
+culture of giving and gratitude and building stronger bonds within the
+school community. The project kickstarted with a pre-assembly talk to introduce
+Kindness Week to the school.&nbsp; Activities such as interactive video
+sessions, discussions on kindness, crafting personalized gifts and playing
+board games created by the leaders on Kindness were carried out during
+the Kindness Week. In addition, students also penned messages of appreciation
+that were read out in the canteen and took part in poster colouring and
+design competitions.</p>
 <p></p>
 <p></p>
 <p></p>
