@@ -25,7 +25,9 @@ programmes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_1.png">
 </div>
-<h4>EL STrategies for English Language Learning and Reading (STELLAR)</h4>
+<h4></h4>
+<h4><strong>English Framework</strong></h4>
+<h4>STrategies for English Language Learning and Reading (STELLAR)</h4>
 <p>STELLAR and STELLAR 2.0 aim to strengthen students’ language and reading
 skills as well as promote a positive attitude towards learning through
 exposure to various text types and teaching strategies.&nbsp;The key strategies
