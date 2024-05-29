@@ -63,6 +63,19 @@ for their cognitive and social emotional development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_4___Table_on_Cohort_Learning_Journeys.png">
 </div>
-<p></p>
+<h4></h4>
+<h4>Interdisciplinary Project Work (IPW)</h4>
+<p>To promote the development of 21st century skills and build the culture
+of COL (collaborative learning) and SDL (self-directed learning), the school
+creates opportunities for all students to be involved in interdisciplinary
+Project Work where they work in teams to do research and presentation skills.
+We encourage every students to develop a growth mindset in believing in
+themselves as they persevere in their continuous journey to be effective
+leaders who are confident in communicating their ideas, self-directed in
+their learning and committed to build positive peer relationships through
+respectful conversations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_5___Table_on_IPW.png">
+</div>
 <p></p>
 <p></p>
