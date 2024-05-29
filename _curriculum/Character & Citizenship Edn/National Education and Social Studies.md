@@ -38,7 +38,7 @@ towards the nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE___Table_on_NE_Show.png">
 </div>
-<p></p>
+<h4></h4>
 <h4>#1958 Heritage Gallery &amp; Marsiling Heritage Trail</h4>
 <p>The #1958 Heritage Gallery and The Marsiling Heritage Trail were launched
 on 16 November 2018 by then Second Minister for Education Ms Indranee Rajah.
@@ -47,6 +47,22 @@ conceptualised and developed the Marsiling Heritage Trail. Marsilians will
 have a chance to go on, to familiarise themselves with the landmarks in
 this neighbourhood and to have a deeper appreciation for the heritage of
 the community in which our school is located.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_3___Table_on_Heritage_Gallery.png">
+</div>
+<h4></h4>
+<h4>CCE &amp; Social Studies (SS) Cohort Learning Journeys</h4>
+<p>To deepen their understanding and application of their learning in CCE
+and Social Studies, all students are given the opportunity to go on experiential
+learning journeys to places such as #1958 Heritage Gallery, Botanical Gardens,
+River Safari, Geylang Seria Heritage Gallery, Indian Heritage Centre and
+Asian Civilisations Museum. These platforms also create many opportunities
+for students to learn to work in teams and practice school values as they
+support each other in achieving shared goals in the activities designed
+for their cognitive and social emotional development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_4___Table_on_Cohort_Learning_Journeys.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
