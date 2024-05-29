@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>INquiring and INspired Marsilians; INnovators of Tomorrow&nbsp; &nbsp;</p>
+<h4></h4>
 <h4><strong>Mission</strong></h4>
 <p>The Science Department aims to:</p>
 <ul data-tight="true" class="tight">
@@ -25,21 +26,21 @@ Ways of Thinking and Doing in Science)</p>
 <li>
 <p>Appreciate how Science influences people and the environment. (Relating
 Science-Technology-Society-Environment)</p>
-<p></p>
+<h4></h4>
 </li>
 </ul>
-<h4><strong>Framework</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
-</div>
-<p>The <em>Practices</em>  <em>of Science </em>consists of three intricately
-related components representing the cognitive, epistemic and social aspects
-of Science.</p>
-<h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Programmes_at_a_lance_Table.png">
 </div>
+<h4></h4>
+<h4><strong>Science Framework</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
+</div>
+<p>The <em>Practices</em>  <em>of Science </em>consists of three intricately
+related components representing the cognitive, epistemic and social aspects
+of Science.</p>
 <h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM@MPS</h4>
