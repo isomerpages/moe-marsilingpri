@@ -4,7 +4,8 @@ permalink: /the-mps-family/school-advisory-committee/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Blue_Professional_Team_Organization_Graph.jpg">
 </div>
 <p></p>
