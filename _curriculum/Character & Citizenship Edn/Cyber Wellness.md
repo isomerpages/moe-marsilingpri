@@ -71,7 +71,7 @@ well-being in cyberspace as he will then be able to make careful and well-consid
 decisions.</p>
 <p></p>
 <h4><strong>Key Programmes</strong></h4>
-<h4>CW Awareness Week</h4>
+<h4>Cyber Wellness Awareness Week</h4>
 <p>The Cyber Wellness (CW) Awareness Week was conducted in conjunction with
 the TDD week in Term 1. During the CW Awareness Week, students get to visit
 the CW game booths during recesses to learn more about Cyber Wellness and
@@ -81,7 +81,7 @@ Total Defence pillars.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CW_Table.png">
 </div>
 <p></p>
-<h4>CW Pre-Assembly Talks</h4>
+<h4>Cyber Wellness Pre-Assembly Talks</h4>
 <p>The Cyber Wellness (CW) Pre-Assembly Talks complement the FTGP curriculum
 on CW and are conducted every term for all students. The aim is to equip
 the students with the skills, habits, dispositions and the right attitude
