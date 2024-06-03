@@ -52,6 +52,7 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 <tr></tr>
 </tbody>
 </table>
+<h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Showcasing of talents and skills</h4>
 <p>MPS Malay Dance members not only have the opportunity to showcase their
@@ -67,6 +68,25 @@ artistic development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_1.png">
 </div>
-<p></p>
+<h4></h4>
+<h4>Singapore Youth Festival(SYF)</h4>
+<p>MPS Malay Dance members participating in the Singapore Youth Festival
+Arts Presentation will not only showcase their talents but also learn valuable
+lessons extending beyond dance. Through this experience, students cultivate
+resilience in rigorous preparation and confidence in presenting to a wider
+audience. The experience deepens their appreciation for Malay dance's cultural
+heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_2.png">
+</div>
+<h4></h4>
+<h4>The 5 basic dance steps and props used in Malay dance</h4>
+<p>MPS Malay Dance members will learn the 5 basic traditional Malay dance
+moves – Asli, Inang, Masri, Joget and Zapin. Throughout the years, the
+MPS Malay dance has performed using the different props such as ‘tepak
+sireh’ and ‘tudung saji’.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_3.png">
+</div>
 <p></p>
 <p></p>
