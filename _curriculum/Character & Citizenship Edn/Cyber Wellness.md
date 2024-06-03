@@ -19,8 +19,13 @@ third_nav_title: Character & Citizenship Edn
 </li>
 <li>
 <p>Strengthen the peer support network amongst the students</p>
+<h4></h4>
 </li>
 </ul>
+<h4><strong>Programmes at a Glance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CW_Programmes_at_a_Glance_Table.png">
+</div>
 <h4></h4>
 <h4><strong>About Cyber Wellness (CW)</strong></h4>
 <p>Cyber Wellness (CW) refers to&nbsp;the positive well-being of Internet
@@ -47,11 +52,6 @@ presence</p>
 <p>Be responsible for personal well-being in the cyberspace</p>
 </li>
 </ul>
-<h4></h4>
-<h4><strong>Programmes at a Glance</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CW_Programmes_at_a_Glance_Table.png">
-</div>
 <h4></h4>
 <h4><strong>Cyber Wellness Curriculum Framework</strong></h4>
 <p></p>
