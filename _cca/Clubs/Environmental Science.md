@@ -55,4 +55,29 @@ their knowledge and skills in this domain.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
+<p><strong>World Water Day</strong>
+</p>
+<p>This year students from the Environmental Science program participated
+in World Water Day Symposium at Dunman High School. This year’s annual
+celebration focus was on “Leveraging Water for Peace - Climate Change and
+Water Security”.</p>
+<p>Students participated in many interactive games and through these activities,
+students&nbsp;were able to :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand how climate change affects water security, including changes
+in precipitation patterns, extreme weather events, and sea-level rise.</p>
+</li>
+<li>
+<p>Be aware of the importance of fostering international collaboration and
+cooperation to manage water resources effectively and prevent conflicts
+arising from competition for access to water.</p>
+</li>
+<li>
+<p>Understand Singapore’s water story and learn more about the 4 national
+taps.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
