@@ -53,7 +53,7 @@ presence</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CW_Programmes_at_a_Glance_Table.png">
 </div>
 <h4></h4>
-<h4><strong>Cyber Wellness Framework</strong></h4>
+<h4><strong>Cyber Wellness Curriculum Framework</strong></h4>
 <p>Cyber Wellness in Character and Citizenship Education (CCE) focuses on
 the well-being of our students as they navigate cyberspace. Our curriculum
 aims to equip students with the knowledge and skills to harness the power
