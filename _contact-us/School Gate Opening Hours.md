@@ -27,6 +27,6 @@ encounter Gate 4 before reaching Gate 3.</p>
 <h2></h2>
 <h4><strong>School Gate Opening Hours</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_opening_hours__v2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gate_Operating_Hours.png">
 </div>
 <p></p>
