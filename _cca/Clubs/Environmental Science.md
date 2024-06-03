@@ -81,6 +81,20 @@ taps.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_1.png">
 </div>
 <p></p>
+<h4>Gardening @MPS</h4>
+<p>Gardening is not just about growing plants; it's a fascinating exploration
+of the natural world that can spark curiosity and wonder in students. In
+this activity, students in the Environmental Club will have the opportunity
+to roll up their sleeves and get their hands dirty as they delve into the
+art and science of gardening. Through this hands-on experience, students
+will learn about plant biology, ecology, sustainability, and the interconnectedness
+of living organisms in a fun and engaging way.</p>
+<p>The objective of this gardening activity is to introduce students to the
+basic principles of gardening, foster an appreciation for nature, and inspire
+curiosity about the natural world. By actively participating in planting,
+caring for, and observing plants, students will not only learn about plant
+life cycles and ecosystems but also develop important skills such as teamwork,
+responsibility, and problem-solving.</p>
 <p></p>
 <p></p>
 <p></p>
