@@ -55,8 +55,7 @@ their knowledge and skills in this domain.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
-<p><strong>World Water Day</strong>
-</p>
+<h4>World Water Day</h4>
 <p>This year students from the Environmental Science program participated
 in World Water Day Symposium at Dunman High School. This year’s annual
 celebration focus was on “Leveraging Water for Peace - Climate Change and
@@ -78,6 +77,11 @@ arising from competition for access to water.</p>
 taps.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_1.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
