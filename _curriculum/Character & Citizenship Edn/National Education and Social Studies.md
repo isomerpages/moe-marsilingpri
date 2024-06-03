@@ -17,6 +17,7 @@ contribute in our multi-racial school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE___Programmes_at_a_Glance_Table.png">
 </div>
 <h4></h4>
+<h4><strong>Key Programmes</strong></h4>
 <h4>NE Commemorative Events</h4>
 <p>The National Educational (NE) Commemorative Events create holistic learning
 experiences which aims to strengthen our students’ citizenship dispositions,
