@@ -98,7 +98,25 @@ responsibility, and problem-solving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_2.png">
 </div>
-<p></p>
+<h4></h4>
+<h4>Straw Bridge Challenge</h4>
+<p>The Straw Bridge Challenge is an exciting and engaging STEM activity that
+encourages students to explore the principles of engineering, physics,
+and design through hands-on experimentation. In this challenge, students
+will work in groups to design and build a bridge using only plastic straws
+and tape. Through this creative and collaborative activity, students will
+learn about structural stability, load-bearing capacity, and problem-solving
+while having fun and unleashing their creativity.</p>
+<p>The objective of the Straw Bridge Challenge is to inspire students to
+apply their knowledge of science, technology, engineering, and mathematics
+(STEM) to design and construct a strong and stable bridge using limited
+materials. By working in groups, students will develop critical thinking
+skills, communication skills, and teamwork as they tackle the challenge
+of building a bridge that can support a specific weight load.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_3.png">
+</div>
+<h4></h4>
 <h4>Sustainability Challenges</h4>
 <p>Students from the Environmental Science program are actively engaged in
 the sorting process of donated garments, graciously contributed by their
