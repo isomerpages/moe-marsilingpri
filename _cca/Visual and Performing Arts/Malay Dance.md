@@ -81,7 +81,7 @@ heritage.</p>
 </div>
 <h4></h4>
 <h4>The 5 basic dance steps and props used in Malay dance</h4>
-<p>MPS Malay dance members will learn the 5 basic traditional Malay dance
+<p>MPS Malay Dance members will learn the 5 basic traditional Malay dance
 moves – Asli, Inang, Masri, Joget and Zapin. Throughout the years, the
 MPS Malay dance has performed using the different props such as ‘tepak
 sireh’ and ‘tudung saji’.</p>
