@@ -53,9 +53,7 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<p></p>
-<p>Showcasing of talents and skills</p>
-<p></p>
+<h4>Showcasing of talents and skills</h4>
 <p>MPS Malay Dance members not only have the opportunity to showcase their
 talents and skills during school events such as Annual Awards Day and Hari
 Raya concert but also gain invaluable experience and foster character growth
