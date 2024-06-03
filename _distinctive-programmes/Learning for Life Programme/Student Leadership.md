@@ -96,6 +96,9 @@ and 30 CCA Leaders were appointed into their roles. As the school’s Tier
 the community. The ceremony serves as a reminder for the leaders to lead
 with care and confidence and the commitment to make a positive impact on
 the school and the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_2.png">
+</div>
 <h4></h4>
 <h4>Reduce @ North West: A Collaboration with North West CDC</h4>
 <p>The school collaborated with North West CDC to conduct door-to-door visits
@@ -105,6 +108,9 @@ leaders went through a 45 minute briefing conducted by a staff from North
 West CDC to learn about the importance of climate change, reduction on
 food waste and provide tips on energy and water conservation before the
 outreach.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_3.png">
+</div>
 <h4></h4>
 <h4>Friend of Singa (FOS) Programme</h4>
 <p>Our Primary 4 student leaders led in a kindness project titled ‘Caring
@@ -117,6 +123,11 @@ board games created by the leaders on Kindness were carried out during
 the Kindness Week. In addition, students also penned messages of appreciation
 that were read out in the canteen and took part in poster colouring and
 design competitions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_4.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
