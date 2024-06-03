@@ -52,6 +52,7 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 <tr></tr>
 </tbody>
 </table>
+<h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Showcasing of talents and skills</h4>
 <p>MPS Malay Dance members not only have the opportunity to showcase their
@@ -79,6 +80,13 @@ heritage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_2.png">
 </div>
 <h4></h4>
-<p></p>
+<h4>The 5 basic dance steps and props used in Malay dance</h4>
+<p>MPS Malay dance members will learn the 5 basic traditional Malay dance
+moves – Asli, Inang, Masri, Joget and Zapin. Throughout the years, the
+MPS Malay dance has performed using the different props such as ‘tepak
+sireh’ and ‘tudung saji’.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_3.png">
+</div>
 <p></p>
 <p></p>
