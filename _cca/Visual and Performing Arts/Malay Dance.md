@@ -64,3 +64,9 @@ performances, such as the National Day Dinner organized by Marsiling Community
 Club, provides them with exposure to diverse audiences and further hones
 their performance abilities, contributing to their overall personal and
 artistic development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_1.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
