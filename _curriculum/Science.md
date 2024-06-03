@@ -34,7 +34,7 @@ Science-Technology-Society-Environment)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Programmes_at_a_lance_Table.png">
 </div>
 <h4></h4>
-<h4><strong>Science Framework</strong></h4>
+<h4><strong>Science Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
 </div>
