@@ -35,17 +35,17 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Ang Yew Leong (I/C)</p>
-<p>Mdm Siti Fatimah (2nd I/C)</p>
-<p>Ms Maneatonufus</p>
-<p>Mr Thiliban S/O Subramaniam</p>
+<p>Mdm Khadijah(I/C)</p>
+<p>Mdm Rosminah (2nd I/C)</p>
+<p>Mdm Julianna</p>
+<p>Mdm Norsriwani</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Thursday</p>
+<p>Day: Tuesday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Computer Lab 1 and 2</p>
+<p>PAL Room</p>
 <p></p>
 </td>
 </tr>
@@ -64,10 +64,3 @@ performances, such as the National Day Dinner organized by Marsiling Community
 Club, provides them with exposure to diverse audiences and further hones
 their performance abilities, contributing to their overall personal and
 artistic development.</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
-<p></p>
-<p>Teacher (I/C): Mdm Khadijah</p>
-<p>Teacher (2nd I/C): Mdm Rosminah</p>
-<p>Teacher 3: Mdm Julianna</p>
-<p>Teacher 4: Mdm Norsriwani</p>
