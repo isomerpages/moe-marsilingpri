@@ -95,7 +95,23 @@ curiosity about the natural world. By actively participating in planting,
 caring for, and observing plants, students will not only learn about plant
 life cycles and ecosystems but also develop important skills such as teamwork,
 responsibility, and problem-solving.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_2.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<h4>Sustainability Challenges</h4>
+<p>Students from the Environmental Science program are actively engaged in
+the sorting process of donated garments, graciously contributed by their
+peers at MPS as part of our Sustainability Challenge 2, the Clothes Donation
+Drive. Under the guidance of senior students, they meticulously assess
+the suitability of each item for donation, meticulously fold and pack them
+into bags, poised for dispatch to CLOOP. This endeavor not only underscores
+our commitment to sustainability by promoting the reuse of clothing but
+also facilitates intergenerational collaboration and mentorship within
+our community. The subsequent dispatch of these items to CLOOP ensures
+their responsible recycling or reuse, thereby furthering the principles
+of a circular economy.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science.png">
+</div>
 <p></p>
