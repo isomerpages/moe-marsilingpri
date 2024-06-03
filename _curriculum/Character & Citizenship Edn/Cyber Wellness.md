@@ -81,7 +81,13 @@ Total Defence pillars.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CW_Table.png">
 </div>
 <p></p>
-<p></p>
+<h4>CW Pre-Assembly Talks</h4>
+<p>The Cyber Wellness (CW) Pre-Assembly Talks complement the FTGP curriculum
+on CW and are conducted every term for all students. The aim is to equip
+the students with the skills, habits, dispositions and the right attitude
+towards cyber wellness. The themes covered by these talks include Cyber
+Use, Cyber Identity, Cyber Relationships, Cyber Citizenships and Cyber
+Ethics.</p>
 <p></p>
 <p></p>
 <p></p>
