@@ -69,7 +69,7 @@ The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible
 Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s
 well-being in cyberspace as he will then be able to make careful and well-considered
 decisions.</p>
-<p></p>
+<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Cyber Wellness Awareness Week</h4>
 <p>The Cyber Wellness (CW) Awareness Week was conducted in conjunction with
