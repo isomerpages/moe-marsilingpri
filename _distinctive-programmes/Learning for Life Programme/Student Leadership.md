@@ -83,6 +83,9 @@ in the planning and organising of school events such as Teachers’ Day Celebrat
 and other school or community outreach activities.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_1.png">
+</div>
 <h4></h4>
 <h4>Student Leaders’ Investiture 2024</h4>
 <p>Student Leaders’ Investiture is a ceremony to install all our student
@@ -109,7 +112,7 @@ Connections’ at Marsiling Primary School where they strive to nurture a
 culture of giving and gratitude and building stronger bonds within the
 school community. The project kickstarted with a pre-assembly talk to introduce
 Kindness Week to the school.&nbsp; Activities such as interactive video
-sessions, discussions on kindness, crafting personalized gifts and playing
+sessions, discussions on kindness, crafting personalised gifts and playing
 board games created by the leaders on Kindness were carried out during
 the Kindness Week. In addition, students also penned messages of appreciation
 that were read out in the canteen and took part in poster colouring and
