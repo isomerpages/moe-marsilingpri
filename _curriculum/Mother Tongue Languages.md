@@ -28,7 +28,7 @@ in everyday life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/MTL_1.png">
 </div>
-<h4><strong>Primary Mother Tongue Language Curriculum Framework</strong></h4>
+<h4><strong>Mother Tongue Language Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MTL/MTL_2.png">
 </div>
