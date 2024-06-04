@@ -34,6 +34,29 @@ that effort is important and she will keep practising the new skill until
 she becomes good at it.</p>
 <p></p>
 <h4>Ray</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ray_combo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ray is like the sunlight that brightens up other people’s day. When he
+is down, or feeling disappointed, he will look at the bright side of things
+and think of helpful ways to overcome the challenges he faced. Like Sparkle,
+he also has resilience and grit. He will learn from his mistakes and keep
+an open mind to new ideas and possibilities.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Ray is like the sunlight that brightens up other people’s day. When he
 is down, or feeling disappointed, he will look at the bright side of things
 and think of helpful ways to overcome the challenges he faced. Like Sparkle,
