@@ -52,18 +52,7 @@ training gets tough.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
-<h4>1st ActiveSG-TBAS Inter-School Tchoukball Championships 2023</h4>
-<p>In Term 2, the Senior boys and girls participated in the Inter-School
-Tchoukball Championships 2023. They came in 6<sup>th</sup> place and 4<sup>th</sup> place
-respectively.</p>
-<p>In Term 4, the Junior boys and girls participated in the Inter-School
-Tchoukball Championships 2023. The boys took part in the Plate category
-while the girls took part in the Cup category. The Cup team girls clinched
-the 1<sup>st</sup> runner-up.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball___Table.png">
-</div>
-<p></p>
+<h4></h4>
 <h4>Training sessions</h4>
 <p>Tchoukball is a fast-paced ball game where players are required to jump,
 throw and catch balls. Our training sessions are held regularly by an external
