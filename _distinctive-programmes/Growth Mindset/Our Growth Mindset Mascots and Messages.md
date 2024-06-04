@@ -59,7 +59,6 @@ she becomes good at it.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ray_combo.png">
 </div>
@@ -76,8 +75,26 @@ an open mind to new ideas and possibilities.</p>
 </table>
 <p></p>
 <h4>Dr. FeMesis</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Dr_FeMesis.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>He thinks negatively about everything. He has a fixed mindset. He finds
 it difficult to think positively.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4></h4>
 <h4><strong>Our Growth Mindset (GM) Messages</strong></h4>
 <p>The 6 Growth Mindset messages are</p>
