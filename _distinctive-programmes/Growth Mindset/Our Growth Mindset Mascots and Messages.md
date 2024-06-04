@@ -36,7 +36,7 @@ lives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sparkle_Combo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sparkle_Combo_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ she becomes good at it.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ray_combo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ray_combo_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ an open mind to new ideas and possibilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Dr_FeMesis.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_FeMesis_combo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
