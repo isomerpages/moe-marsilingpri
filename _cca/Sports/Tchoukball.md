@@ -69,9 +69,10 @@ team clinched the 4<sup>th</sup> place in 2024.</p>
 <p>During the competition, the Tchoukball National Development Squad Coaches
 scouted for potential Tchoukball National Team players. two boys and one
 girl were invited to participate in the National Team selection trial.</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_Table_2.png">
+</div>
+<h4></h4>
 <h4>Training sessions</h4>
 <p>Tchoukball is a fast-paced ball game where players are required to jump,
 throw and catch balls. Our training sessions are held regularly by an external
