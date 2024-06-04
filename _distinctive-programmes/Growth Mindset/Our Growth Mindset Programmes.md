@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Growth Mindset
 variant: tiptap
 ---
+<h4><strong>Our Growth Mindset (GM) Programmes</strong></h4>
 <h4>Sparkle and Ray Award</h4>
 <p>The Sparkle and Ray Award was conceptualized in 2021 to recognize students
 who demonstrate the school values and practice the GM messages consistently.
