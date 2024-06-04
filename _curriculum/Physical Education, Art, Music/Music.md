@@ -88,10 +88,10 @@ to express their musical creativity. Students get the opportunity to experiment
 with rhythms and make informed decisions in their creative work that reflect
 their understanding of musical concepts and elements acquired from Primary
 1 to 4.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music/Picture19.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Music_Table.png">
 </div>
+<h4></h4>
 <h4>Curriculum Enrichment Programme:&nbsp;</h4>
 <h4>P1 Movement through Music and P2 Singing (Voice Exploration)</h4>
 <p>Get ready for an immersive dance and vocal adventure. In Primary 1, students
