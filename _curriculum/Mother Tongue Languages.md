@@ -67,9 +67,6 @@ games, Learning Journey to Bukit Chandu</p>
 Thirukkural), Cultural experience-knowing traditional herbs and spices,
 Traditional Games, Kolam Art , Learning Journey to Indian Heritage Centre)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/MTL_3.png">
-</div>
 <p>View the video below to see our students in action during Mother Tongue
 Language Fortnight.</p>
 <div class="iframe-wrapper">
