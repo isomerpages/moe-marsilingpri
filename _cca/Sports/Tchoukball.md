@@ -52,6 +52,26 @@ training gets tough.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
+<h4>1st ActiveSG-TBAS Inter-School Tchoukball Championships (Junior Division) 2023</h4>
+<p>Every year, the Junior players participate in the Inter-School Tchoukball
+Championships that is organised by the Tchoukball Association of Singapore.
+During the competition, teams from schools compete against one another.</p>
+<p>In 2023, the boys took part in the Plate category while the girls took
+part in the Cup category. The Cup team girls clinched the 1<sup>st</sup> runner-up.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_Table_1.png">
+</div>
+<p></p>
+<h4>2nd ActiveSG-TBAS Inter-School Tchoukball Championships (Senior Division) 2024</h4>
+<p>Our senior players participate in the Inter-School Tchoukball Championships
+orangised by the National Tchoukball association every year. The girls’
+team clinched the 4<sup>th</sup> place in 2024.</p>
+<p>During the competition, the Tchoukball National Development Squad Coaches
+scouted for potential Tchoukball National Team players. two boys and one
+girl were invited to participate in the National Team selection trial.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_Table_2.png">
+</div>
 <h4></h4>
 <h4>Training sessions</h4>
 <p>Tchoukball is a fast-paced ball game where players are required to jump,
