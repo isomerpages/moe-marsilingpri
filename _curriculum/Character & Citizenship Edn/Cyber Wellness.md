@@ -78,9 +78,9 @@ the CW game booths during recesses to learn more about Cyber Wellness and
 Cyber Security. This is in line with the Digital Defence, one of the six
 Total Defence pillars.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CW_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CW_Table_1.png">
 </div>
-<h4></h4>
+<p></p>
 <h4>Cyber Wellness Pre-Assembly Talks</h4>
 <p>The Cyber Wellness (CW) Pre-Assembly Talks complement the FTGP curriculum
 on CW and are conducted every term for all students. The aim is to equip
@@ -88,7 +88,9 @@ the students with the skills, habits, dispositions and the right attitude
 towards cyber wellness. The themes covered by these talks include Cyber
 Use, Cyber Identity, Cyber Relationships, Cyber Citizenships and Cyber
 Ethics.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CW_Table_2.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
