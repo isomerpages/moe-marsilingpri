@@ -29,6 +29,9 @@ toilets, each Primary 4 class designed an activity to promote good toilet
 habits. Some of the activities include a pre-assembly sharing to raise
 awareness, skits to promote good toilet habits, toilet pledges and jingles.</p>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/VIA_1.png">
+</div>
 <h4>Marsiling Cleans Up</h4>
 <p>As part of the Values-In-Action Programme for Primary 6 students, the
 school organizes a litter picking activity to provide our students with
@@ -37,6 +40,9 @@ to appreciate the hard work of our cleaners. The activity begins from Marsiling
 Primary School and ends at Woodlands Waterfront park with the classes taking
 on different designated routes.</p>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/VIA_2.png">
+</div>
 <h4>Project Recyclables</h4>
 <p>Project Recyclables is an annual project which our graduating classes
 embark as their final act as a Green Citizen of Marsiling Primary School.
@@ -45,6 +51,9 @@ effective waste management impacts the environment, recycle the recyclables
 collected from the school community and be inspired and inspire others
 to make waste reduction a habit.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP/VIA_3.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
