@@ -85,8 +85,7 @@ practise and hone their throwing, shooting and catching techniques.</p>
 <p></p>
 <p>View the video below, featuring our students during one of their training
 sessions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a1WnBBc4p10?si=ysCmATDGcw8xLgDP"></iframe>
 </div>
-<p></p>
 <p></p>
