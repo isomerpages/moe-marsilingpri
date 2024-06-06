@@ -14,10 +14,9 @@ These students serve as good role models to others and are able to positively
 influence their peers in doing the right.</p>
 <p>View the video below, featuring the winners of the Sparkle and Ray in
 year 2021 when it was first started.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FcxazyKvu-8?si=l_KccoBJD9DSH5o_"></iframe>
 </div>
-<p></p>
 <h4>Story Challenge Competition</h4>
 <p><strong>Objective</strong>
 </p>
