@@ -3,7 +3,7 @@ title: Infocomm Technology (Media Production)
 permalink: /cca/clubs/infocomm-technology/
 description: ""
 third_nav_title: Clubs
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>About Infocomm Technology (Media Production)</strong></h4>
 <p>In MPS Infocomm Technology (Media Production), students are given the
@@ -62,10 +62,9 @@ and logical thinking while fostering teamwork through collaboration.</p>
 <p></p>
 <p>View the video below, featuring our students experimenting with the drones
 and figuring out how to steer them in their desired directions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
-</div>
-<p></p>
+<p></p><div class="isomer-image-wrapper"><a href="https://youtube.com/shorts/6zI_KbjR6LA?feature=share">
+<img style="width: 25%" height="auto" width="25%" alt="" src="/images/CCA/Snapshot_2024_06_14_12_38_11.jpg"></a>
+</div><p></p>
 <h4>P3 Scratch Programming</h4>
 <p>Our P3 students starts off their first CCA programme with learning about
 block-based coding using Scratch 3.0. The students learn the basic functions
