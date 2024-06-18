@@ -60,6 +60,6 @@ offered to join the Art &amp; Craft CCA when they were in Primary 3. They
 will also be invited to join the Drawing MasterClass in Semester 2 to further
 expose them in the Art form.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Table___Talent_Identification_Programmes.png">
 </div>
 <p></p>
