@@ -5,8 +5,54 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
+<p>MPS Chinese Dance is a dynamic and inclusive CCA dedicated to the art
+of dance. Students will learn basic coordination skills, dance techniques
+and improve their flexibility. Dancers will develop leadership skills and
+confidence as they guide their juniors and perform in public. Most importantly,
+they foster both personal growth and a sense of camaraderie.</p>
+<p>Besides that, the CCA aims to provide an opportunity for students to pursue
+Performing Arts in secondary school through Direct School Admission (DSA).
+Over the years, there have been at least 4 successful applicants who continued
+to develop their talents and passion in schools such as ST Margaret’s Secondary
+School, Woodlands Riverside Secondary School and Woodlands Ring Secondary
+School.</p>
+<h4>Teachers-in-charge</h4>
+<p>Mdm Li Huaitao (I/C)</p>
+<p>Mdm Goh Soy Moi (2nd I/C)</p>
+<p>Miss Lam Yen Fong Jasmine</p>
+<p>Mdm Ong Siew Eng</p>
+<p></p>
+<h4><strong>Training Schedule and Venue</strong></h4>
+<p>Day: Tuesday, 3.15pm-4.45pm</p>
+<p>Time: 3.15p.m. – 4.15p.m.</p>
+<p>Venue: ISH Dance Studio (Level 3)</p>
+<p></p>
+<h4><strong>CCA Highlights</strong></h4>
+<h4>Singapore Youth Festival Arts Presentation 2024</h4>
+<p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
+held at NUS UCC on April 4, 2024. The dancers display resilience, teamwork
+and excellence during their rehearsals and subsequent finale. The Chinese
+Dance was awarded a Certificate of Accomplishment.</p>
+<p>Congratulations to all our participants in Chinese Dance!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_under_construction.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_1.jpg">
+</div>
+<p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
+held at NUS UCC on April 4, 2024. The dancers display resilience, teamwork
+and excellence during their rehearsals and subsequent finale. The Chinese
+Dance was awarded a Certificate of Accomplishment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_2.jpg">
+</div>
+<p>Throughout the year, the MPS Chinese Dance has performed using the different
+props such as silk fans and umbrellas.</p>
+<p>The MPS Chinese Dance has recruited new members by reaching out to the
+students during the CCA Roadshow. It aims to expose students to Chinese
+culture, gaining deeper understanding and appreciating the Chinese culture.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_3.jpg">
 </div>
 <p></p>
