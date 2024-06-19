@@ -81,9 +81,8 @@ an open mind to new ideas and possibilities.</p>
 </ol>
 <p>These messages are adapted from the book entitled "Mindset: The New Psychology
 of Success.” written by Carol Dweck (2006).</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Effort_is_important.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/compiled_GM_Messages.png">
 </div>
 <p></p>
 <p></p>
