@@ -14,101 +14,100 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Name</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Grace C. Concepcion</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Grace C. Concepcion</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Jayavlli D/O Shanmugam Alias Nithya</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Vice Chairman</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Pauline Chua Poh Li</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Vice Chairman</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Nur Adillah Binte Mohamad</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Treasurer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nur Adillah Binte Mohamad</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Nadia Binte Hassan</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nadia Binte Hassan</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Sara Yoh</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Muhammad Nur Bin Abdol Ajis</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Siti Aminah Binti Noh</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Khairul Anuar Bin Md Ibrahim</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Hendera Zulkarnaen Bin Mohd Hakim</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Zhang Yang</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>EXCO Member</p>
-</td>
 </tr>
-<tr></tr>
 </tbody>
 </table>
 <h4></h4>
