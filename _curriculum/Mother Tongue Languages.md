@@ -85,7 +85,7 @@ as well as experienced the traditions associated with the different ethnic
 groups in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/MTL_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Festival_MT.png">
 </div>
 <h4>Mother Tongue Reading Programme</h4>
 <p></p>
