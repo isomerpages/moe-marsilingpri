@@ -86,3 +86,4 @@ of Success.” written by Carol Dweck (2006).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Effort_is_important.jpg">
 </div>
 <p></p>
+<p></p>
