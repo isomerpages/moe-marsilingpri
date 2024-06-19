@@ -16,7 +16,7 @@ Over the years, there have been at least 4 successful applicants who continued
 to develop their talents and passion in schools such as ST Margaret’s Secondary
 School, Woodlands Riverside Secondary School and Woodlands Ring Secondary
 School.</p>
-<h4>Teachers-in-charge</h4>
+<h4><strong>Teachers-in-charge</strong></h4>
 <p>Mdm Li Huaitao (I/C)</p>
 <p>Mdm Goh Soy Moi (2nd I/C)</p>
 <p>Miss Lam Yen Fong Jasmine</p>
