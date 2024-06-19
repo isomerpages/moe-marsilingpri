@@ -16,17 +16,70 @@ Over the years, there have been at least 4 successful applicants who continued
 to develop their talents and passion in schools such as ST Margaret’s Secondary
 School, Woodlands Riverside Secondary School and Woodlands Ring Secondary
 School.</p>
-<h4><strong>Teachers-in-charge</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Li Huaitao (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day: Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Studio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Goh Soy Moi (2nd I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time: 3.15p.m. – 4.15p.m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(ISH, Level 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Lam Yen Fong Jasmine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ong Siew Eng</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<h4><strong>Training Schedule and Venue</strong></h4>
-<p>Day: Tuesday, 3.15pm-4.45pm</p>
-<p>Time: 3.15p.m. – 4.15p.m.</p>
-<p>Venue: ISH Dance Studio (Level 3)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Singapore Youth Festival Arts Presentation 2024</h4>
 <p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
