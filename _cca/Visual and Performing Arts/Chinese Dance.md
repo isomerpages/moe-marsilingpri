@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
+<h4><strong>About Chinese Dance</strong></h4>
 <p>MPS Chinese Dance is a dynamic and inclusive CCA dedicated to the art
 of dance. Students will learn basic coordination skills, dance techniques
 and improve their flexibility. Dancers will develop leadership skills and
