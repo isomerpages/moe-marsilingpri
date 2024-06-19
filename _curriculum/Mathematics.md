@@ -54,10 +54,10 @@ to demonstrate understanding of problems.</p>
 <p>This approach helps students learn new ideas and build on their existing
 knowledge by introducing abstract concepts in a more familiar and tangible
 way.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA___Table_on_CPA.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_1.jpg">
+</div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM@MPS</h4>
 <p>STEAM is an interdisciplinary approach to learning that combines Science,
@@ -71,10 +71,10 @@ the open-ended environment encourages them to think outside the box, nurturing
 different components of 21CC, such as adaptive and critical thinking in
 the process. STEAM education equips students with the flexibility and inventiveness
 needed to thrive in a constantly evolving world.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_2.jpg">
+</div>
 <h4>Excellence 2000 (E2K) Mathematics Programme</h4>
 <p>The E2K Mathematics Programme is designed by education specialists to
 meet the advanced learning needs of Primary 4 and 5 high-achieving learners.
@@ -87,10 +87,10 @@ and mathematical explorations specially designed for this programme.</p>
 will develop the attitudes, habits and dispositions mathematicians possess.
 They will also gain different components of 21CC such as critical thinking,
 invention thinking and effective communication skills.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_3.jpg">
+</div>
 <h4>Math@Eureka</h4>
 <p>Eureka, a Mathematics MTV (Making Things Visible) learning space, is exceptionally
 alive during recess with a wide range of activities such as forming figures
@@ -101,9 +101,8 @@ for students to explore mathematical concepts outside the classroom.</p>
 exploration, various components of 21CC such as critical thinking, creativity,
 collaboration and communication are fostered.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_4.jpg">
 </div>
-<h4></h4>
 <h4>Math Hero</h4>
 <p>Math Hero is an in-house program of the Math Department. It aims to encourage
 and motivate our students to take ownership of their own learning and hone
@@ -116,8 +115,8 @@ members which allows meaningful bonding. Upon the completion of each activity,
 star(s) will be awarded to the students. When a student has earned a stipulated
 number of stars, a Math Hero button badge and certificate will be awarded
 to him/her.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MA_Table_5.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_5.jpg">
+</div>
 <p></p>
