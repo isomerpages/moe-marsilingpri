@@ -117,6 +117,6 @@ number of stars, a Math Hero button badge and certificate will be awarded
 to him/her.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_6.jpg">
 </div>
 <p></p>
