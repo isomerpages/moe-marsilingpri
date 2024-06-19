@@ -83,7 +83,6 @@ an open mind to new ideas and possibilities.</p>
 of Success.” written by Carol Dweck (2006).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GM_Messages__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Effort_is_important.jpg">
 </div>
-<p></p>
 <p></p>
