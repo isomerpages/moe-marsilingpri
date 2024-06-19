@@ -37,7 +37,9 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday
-<br>Time: 3.15pm – 4.15pm</p>
+<br>
+</p>
+<p>Time: 3.15pm – 4.15pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Hall (Level 2)</p>
