@@ -63,7 +63,7 @@ and logical thinking while fostering teamwork through collaboration.</p>
 <p>View the video below, featuring our students experimenting with the drones
 and figuring out how to steer them in their desired directions.</p>
 <p></p><div class="isomer-image-wrapper"><a href="https://youtube.com/shorts/6zI_KbjR6LA?feature=share">
-<img style="width: 25%" height="auto" width="25%" alt="" src="/images/CCA/Snapshot_2024_06_14_12_38_11.jpg"></a>
+<img style="width: 75%" height="auto" width="75%" alt="" src="/images/CCA/ICT___Click_to_watch_video_.png"></a>
 </div><p></p>
 <h4>P3 Scratch Programming</h4>
 <p>Our P3 students starts off their first CCA programme with learning about
