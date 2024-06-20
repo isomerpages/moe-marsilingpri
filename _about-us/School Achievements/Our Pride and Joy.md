@@ -421,3 +421,160 @@ in their CCA, leadership and academics.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Departmental Achievements</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;National Primary School Chinese Language Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages&nbsp; (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 5th Text Recital Competition for Primary and Secondary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24th International Chinese Language Competition for Primary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hadiah Sulam Kalam by NTU-NIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cepat Tepat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACJC Mythos Junior Orators</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20 Performers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Mathematical Olympiad (RMO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category: 6 Distinction, 3 Merit
+<br>Open Cateogry: 1 Distinction, 1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
