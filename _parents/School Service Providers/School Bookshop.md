@@ -18,7 +18,7 @@ variant: tiptap
 <p>Parents are allowed to purchase at school bookshop between 2.00pm to 3.30pm.</p>
 <p><strong>Contact</strong>
 <br>Tel: To be confirmed
-<br>Fax: To be connfirmed</p>
+<br>Fax: To be confirmed</p>
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
 <br><a href="/files/Booklist_For_Year_2024___Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist 2024</a>
