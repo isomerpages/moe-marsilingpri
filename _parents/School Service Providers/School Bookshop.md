@@ -3,13 +3,13 @@ title: School Bookshop
 permalink: /for-parents/school-service-providers/school-bookshop/
 description: ""
 third_nav_title: School Service Providers
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Address </strong>
-<br><strong>Casco Educational Supply Pte Ltd (Headquarter)</strong>
-<br>53 Ubi Avenue 1
-<br>#05-54, Paya Ubi Industrial Park
-<br>Singapore 408934</p>
+<br><strong>Overseas Associates Pte Ltd</strong>
+<br>24 Lim Teck Boo Rd
+<br>#03-01
+<br>Singapore 537003</p>
 <p><strong>Location within School</strong>
 <br>Level 1, along the corridor towards the school canteen</p>
 <p><strong>Operating Hours</strong>
@@ -17,8 +17,8 @@ variant: markdown
 <br>8.30 am&nbsp; to 3.30 pm</p>
 <p>Parents are allowed to purchase at school bookshop between 2.00pm to 3.30pm.</p>
 <p><strong>Contact</strong>
-<br>Tel: 6547 4203 / 6547 4204
-<br>Fax: 6547 4305</p>
+<br>Tel: To be confirmed
+<br>Fax: To be confirmed</p>
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
 <br><a href="/files/Booklist_For_Year_2024___Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist 2024</a>
