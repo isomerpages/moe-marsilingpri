@@ -7,9 +7,10 @@ variant: tiptap
 ---
 <p><strong>Address </strong>
 <br><strong>Overseas Associates Pte Ltd</strong>
-<br>53 Ubi Avenue 1
-<br>#05-54, Paya Ubi Industrial Park
-<br>Singapore 408934</p>
+<br>24 Lim Teck Boo Rd
+<br>#03-01
+<br>Singapore 537003</p>
+<p></p>
 <p><strong>Location within School</strong>
 <br>Level 1, along the corridor towards the school canteen</p>
 <p><strong>Operating Hours</strong>
