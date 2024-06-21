@@ -3,10 +3,10 @@ title: School Bookshop
 permalink: /for-parents/school-service-providers/school-bookshop/
 description: ""
 third_nav_title: School Service Providers
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Address </strong>
-<br><strong>Casco Educational Supply Pte Ltd (Headquarter)</strong>
+<br><strong>Overseas Associates Pte Ltd</strong>
 <br>53 Ubi Avenue 1
 <br>#05-54, Paya Ubi Industrial Park
 <br>Singapore 408934</p>
