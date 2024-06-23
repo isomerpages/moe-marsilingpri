@@ -6,12 +6,86 @@ description: ""
 third_nav_title: School Achievements
 ---
 <h4>2020 MOE Innergy Awards</h4>
-<p><strong>Award level: Silver </strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Level </strong>
 </p>
-<p><strong>Project title: Growth Mindset @MPS [GeM@MPS]</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Project Title</strong>
 </p>
-<p>
-<br>In 2017, as part of our school envisioning, we realised that we needed
+</td>
+<td rowspan="1" colspan="1">
+<p>Growth Mindset @MPS [GeM@MPS]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>Participating Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo&nbsp;Xinru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yong&nbsp;Sze&nbsp;Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Lay Ching, Anglea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Hong Wei, Nick</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Swee Sheng Danny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shazana Binte Mohamed Shahari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Soy Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr K K Mohanan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mr&nbsp;Rolan&nbsp;Tambunan B Amir Assan</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+<p>In 2017, as part of our school envisioning, we realised that we needed
 to strengthen our students’ resilience in their perceptions of themselves
 and their own abilities. We curated the 6 Growth Mindset (GM) messages
 and created our GM Mascots, Sparkle and Ray. It was a school wide attempt
