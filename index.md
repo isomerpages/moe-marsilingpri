@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage_banner_gif.gif
+      background: /images/Homepage/Homepage_banner_gif___compressed.gif
       key_highlights:
         - title: Our Achievements
           description: Click to view
