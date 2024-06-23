@@ -190,6 +190,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Neo Wenjie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nicholas_neo_wenjie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2Joy</p>
 </td>
 <td rowspan="1" colspan="1">
