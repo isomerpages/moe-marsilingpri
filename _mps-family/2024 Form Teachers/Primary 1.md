@@ -72,10 +72,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janaki Amma S Pillay (Mrs Pran)</p>
+<p>Mrs Latchmana Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>janaki_amma_prankumar_a@schools.gov.sg</p>
+<p>latchmana_murlly@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
