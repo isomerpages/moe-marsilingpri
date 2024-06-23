@@ -15,7 +15,7 @@ third_nav_title: School Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award Level </strong>
+<p><strong>Award Level</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
