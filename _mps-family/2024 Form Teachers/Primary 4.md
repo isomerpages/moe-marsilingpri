@@ -105,10 +105,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Shiao Woon</p>
+<p>Mr Muhammad Faizal Bin Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_shiao_woon@schools.gov.sg</p>
+<p>muhammad_faizal_mokhtar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +127,10 @@ variant: tiptap
 <p>4Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fazida Bte Mohd Alim Khan</p>
+<p>Miss Nur Nazurah Binte Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fazida_mohd_alim_khan@schools.gov.sg</p>
+<p>nur_nazurah_abdul_rahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +138,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wen Caizhuang</p>
+<p>Mr Tan Yong Sng, Jason</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wen_caizhuang@schools.gov.sg</p>
+<p>tan_yong_sng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeanette Wong Yanting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jeanette_wong_yanting@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

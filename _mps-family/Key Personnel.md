@@ -261,7 +261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being (Cov. AYH/Middle Primary)</p>
+<p>AYH/Middle Primary</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

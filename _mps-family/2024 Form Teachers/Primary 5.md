@@ -61,17 +61,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rozanah Binte Abdol Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rozanah_abdol_aziz@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Andrina Azarias Phang</p>
 </td>
 <td rowspan="1" colspan="1">
