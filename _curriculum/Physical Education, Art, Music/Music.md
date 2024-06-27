@@ -58,7 +58,7 @@ showcasing their talent to the entire school!</p>
 <p>View the video below, featuring the captivating and exceptional performances
 that stole the spotlight at “from BUSK till dawn”!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6JYzgg5JQA?si=KZZUKo-zd3Jx5y__"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6JYzgg5JQA?si=ppBYi9U-gcgrPYIT"></iframe>
 </div>
 <h4>Music Masterclass</h4>
 <p>Marsilians embark on a musical journey filled with growth, discovery,
