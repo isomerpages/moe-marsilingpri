@@ -82,7 +82,7 @@ School.</p>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<h4>Singapore Youth Festival Arts Presentation 2024</h4>
+<h4>Singapore Youth Festival Arts (SYF) Presentation 2024</h4>
 <p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
 held at NUS UCC on April 4, 2024. The dancers display resilience, teamwork
 and excellence during their rehearsals and subsequent finale. The Chinese
