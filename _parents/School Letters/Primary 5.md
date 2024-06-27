@@ -55,5 +55,28 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
-<p><a href="/files/YH Letters/MPS_2024_T2___119e___P5_YH_Letter___COE.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 T2 YH Letter 2024</a>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/YH Letters/MPS_2024_T3___244e___P5_YH_Letter___COE_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 T3 YH Letter 2024</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
