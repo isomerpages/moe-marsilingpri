@@ -2,13 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/.keep
-      - Visual and Performing Arts/Art and Craft.md
-      - Visual and Performing Arts/Chinese Dance.md
-      - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Malay Dance.md
-      - Visual and Performing Arts/Percussion Ensemble.md
-      - Visual and Performing Arts/Speech and Drama.md
       - Clubs/.keep
       - Clubs/Environmental Science.md
       - Clubs/Infocomm Technology (Media Production).md
@@ -18,6 +11,13 @@ collections:
       - Sports/Taekwondo.md
       - Sports/Tchoukball.md
       - Sports/Track and Field.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
-      - Uniformed Groups/.keep
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Art and Craft.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Percussion Ensemble.md
+      - Visual and Performing Arts/Speech and Drama.md

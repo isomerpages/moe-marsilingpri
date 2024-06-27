@@ -6,6 +6,6 @@ variant: tiptap
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e7oNDvTJdRA?si=15BLa7kxLYj27I3a"></iframe>
+<iframe height="455" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e7oNDvTJdRA?si=iy60o1gjM-D9ad3t"></iframe>
 </div>
 <p></p>
