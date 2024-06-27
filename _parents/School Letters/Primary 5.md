@@ -50,7 +50,8 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p><a href="/files/YH Letters/MPS_2024_T2___119e___P5_YH_Letter___COE.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 T2 YH Letter 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
