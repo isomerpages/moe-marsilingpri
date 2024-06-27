@@ -69,13 +69,12 @@ artistic development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_1.png">
 </div>
 <h4></h4>
-<h4>Singapore Youth Festival(SYF)</h4>
-<p>MPS Malay Dance members participating in the Singapore Youth Festival
-Arts Presentation will not only showcase their talents but also learn valuable
-lessons extending beyond dance. Through this experience, students cultivate
-resilience in rigorous preparation and confidence in presenting to a wider
-audience. The experience deepens their appreciation for Malay dance's cultural
-heritage.</p>
+<h4>Singapore Youth Festival (SYF)</h4>
+<p>MPS Malay Dance members participating in the SYF Arts Presentation will
+not only showcase their talents but also learn valuable lessons extending
+beyond dance. Through this experience, students cultivate resilience in
+rigorous preparation and confidence in presenting to a wider audience.
+The experience deepens their appreciation for Malay dance's cultural heritage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_2.png">
 </div>
