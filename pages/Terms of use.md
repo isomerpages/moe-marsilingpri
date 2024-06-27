@@ -4,12 +4,15 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
+<ol data-tight="true" class="tight">
+<li>
 <p>Thank you for visiting marsilingpri.moe.edu.sg. By accessing and using
 this Website, you shall be deemed to have accepted to be legally bound
 by these Terms of Use. If you do not agree to these Terms of Use, please
 do not use this Website.</p>
-<p><strong>General</strong>
-</p>
+</li>
+</ol>
+<h4><strong>General</strong></h4>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>These Terms of Use may be changed from time to time. Changes will be posted
@@ -18,8 +21,7 @@ posted will constitute your agreement to the modified Terms of Use and
 all of the changes.</p>
 </li>
 </ol>
-<p><strong>Proprietary Rights</strong>
-</p>
+<h4><strong>Proprietary Rights</strong></h4>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>This website is maintained by Marsiling Primary School. It is owned by
@@ -34,16 +36,14 @@ forms of proprietary rights. All rights, title and interest in the Contents
 are owned by, licensed to or controlled by Marsiling Primary School.</p>
 </li>
 </ol>
-<p><strong>Privacy Policy</strong>
-</p>
+<h4><strong>Privacy Policy</strong></h4>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Click here to review this website&nbsp;<a href="https://marsilingpri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
 </p>
 </li>
 </ol>
-<p><strong>Restrictions on use of Materials</strong>
-</p>
+<h4><strong>Restrictions on use of Materials</strong></h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>Except as otherwise provided, the Contents of this Web Site shall not
@@ -65,8 +65,7 @@ are protected by copyright and may not be reproduced or appropriated in
 any manner without written permission of Marsiling Primary School.</p>
 </li>
 </ol>
-<p><strong>Right of Access</strong>
-</p>
+<h4><strong>Right of Access</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Marsiling Primary School reserves all rights to deny or restrict access
@@ -75,8 +74,7 @@ external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
 </li>
 </ol>
-<p><strong>Disclaimer of Warranties and Liability</strong>
-</p>
+<h4><strong>Disclaimer of Warranties and Liability</strong></h4>
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p>The Contents of this Web Site are provided on an "as is" basis without
@@ -102,8 +100,7 @@ Site, including but not limited to any damage or loss suffered as a result
 of reliance on the Contents contained in or available from the Web Site.</p>
 </li>
 </ol>
-<p><strong>Links from This Web Site to Other Web Sites</strong>
-</p>
+<h4><strong>Links from This Web Site to Other Web Sites</strong></h4>
 <ol start="11" data-tight="true" class="tight">
 <li>
 <p>This Web Site contains hyperlinks to web sites which are not maintained
@@ -119,8 +116,7 @@ with any trade or service marks, logos, insignia or other devices used
 or appearing on web sites to which this Web Site is linked.</p>
 </li>
 </ol>
-<p><strong>Links to This Web Site from Other Web Sites</strong>
-</p>
+<h4><strong>Links to This Web Site from Other Web Sites</strong></h4>
 <ol start="13" data-tight="true" class="tight">
 <li>
 <p>Except as set forth below, caching and links to, and the framing of this
@@ -160,8 +156,7 @@ on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
 </li>
 </ol>
-<p><strong>Governing Law</strong>
-</p>
+<h4><strong>Governing Law</strong></h4>
 <ol start="19" data-tight="true" class="tight">
 <li>
 <p>These Terms of Use shall be governed and construed in accordance with
