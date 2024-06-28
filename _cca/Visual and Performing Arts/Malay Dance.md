@@ -54,6 +54,16 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
+<h4>Singapore Youth Festival (SYF)</h4>
+<p>MPS Malay Dance members participating in the SYF Arts Presentation will
+not only showcase their talents but also learn valuable lessons extending
+beyond dance. Through this experience, students cultivate resilience in
+rigorous preparation and confidence in presenting to a wider audience.
+The experience deepens their appreciation for Malay dance's cultural heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_2.png">
+</div>
+<p></p>
 <h4>Showcasing of talents and skills</h4>
 <p>MPS Malay Dance members not only have the opportunity to showcase their
 talents and skills during school events such as Annual Awards Day and Hari
@@ -67,16 +77,6 @@ their performance abilities, contributing to their overall personal and
 artistic development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_1.png">
-</div>
-<h4></h4>
-<h4>Singapore Youth Festival (SYF)</h4>
-<p>MPS Malay Dance members participating in the SYF Arts Presentation will
-not only showcase their talents but also learn valuable lessons extending
-beyond dance. Through this experience, students cultivate resilience in
-rigorous preparation and confidence in presenting to a wider audience.
-The experience deepens their appreciation for Malay dance's cultural heritage.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Table_2.png">
 </div>
 <h4></h4>
 <h4>The 5 basic dance steps and props used in Malay dance</h4>

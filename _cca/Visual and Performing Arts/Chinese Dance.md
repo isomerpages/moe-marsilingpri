@@ -82,16 +82,17 @@ School.</p>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
-<h4>Singapore Youth Festival Arts Presentation 2024</h4>
-<p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
-held at NUS UCC on April 4, 2024. The dancers display resilience, teamwork
-and excellence during their rehearsals and subsequent finale. The Chinese
-Dance was awarded a Certificate of Accomplishment.</p>
+<h4>Singapore Youth Festival (SYF)</h4>
+<p>MPS Chinese Dance participated in the SYF Arts Presentation held at NUS
+UCC on April 4, 2024. The dancers display resilience, teamwork and excellence
+during their rehearsals and subsequent finale. The Chinese Dance was awarded
+a Certificate of Accomplishment.</p>
 <p>Congratulations to all our participants in Chinese Dance!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_1.jpg">
 </div>
+<h4></h4>
+<h4>Showcasing of talents and skills</h4>
 <p>MPS Chinese Dance participated in the Singapore Youth Festival Arts Presentation
 held at NUS UCC on April 4, 2024. The dancers display resilience, teamwork
 and excellence during their rehearsals and subsequent finale. The Chinese
@@ -100,6 +101,8 @@ Dance was awarded a Certificate of Accomplishment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Chinese_Dance_2.jpg">
 </div>
+<h4></h4>
+<h4>Props used in Chinese dance</h4>
 <p>Throughout the year, the MPS Chinese Dance has performed using the different
 props such as silk fans and umbrellas.</p>
 <p>The MPS Chinese Dance has recruited new members by reaching out to the
