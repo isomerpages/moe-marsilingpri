@@ -57,7 +57,9 @@ during these sessions might even earn a spot at the Teachers' Day Concert,
 showcasing their talent to the entire school!</p>
 <p>View the video below, featuring the captivating and exceptional performances
 that stole the spotlight at “from BUSK till dawn”!</p>
-
+<p></p><div class="isomer-image-wrapper"><a href="https://youtu.be/O6JYzgg5JQA?si=EaGZaWq7PUg7IdML">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Music/Music___Click_to_watch_video.png"></a>
+</div><p></p>
 <h4>Music Masterclass</h4>
 <p>Marsilians embark on a musical journey filled with growth, discovery,
 and endless possibilities from 'In Curriculum Music Enrichment Programme’
