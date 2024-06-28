@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL___Programmes_at_a_Glance.png">
 </div>
+<h4></h4>
 <h4><strong>About Programme for Active Learning (PAL)</strong></h4>
 <h4>What is PAL?</h4>
 <p>Programme for Active Learning (PAL) is an integral part of the curriculum
