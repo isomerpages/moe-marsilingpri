@@ -14,9 +14,8 @@ activities that aim to improve the well-being of a community</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_VIA___Programmes_at_a_Glance__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_VIA___Programmes_at_a_Glance__3_.png">
 </div>
-<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STAR Project</h4>
 <p>As advocates for clean toilets, our P4 students are tasked to spread the
