@@ -14,10 +14,10 @@ variant: tiptap
 programmes</p>
 </li>
 <li>
-<p>instill the love of reading through different strategies</p>
+<p>Instill the love of reading through different strategies</p>
 </li>
 <li>
-<p>develop our students to be confident and articulate speakers</p>
+<p>Develop our students to be confident and articulate speakers</p>
 </li>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
