@@ -14,7 +14,7 @@ of our student leaders through three levels of leadership dimensions of
 Lead Self, Lead Peers and Lead School and the Community. Student Leadership
 at Marsiling Primary School is anchored on its school values of Respect,
 Responsibility, Resilience, Integrity, Care and Excellence, SEL competencies
-and Growth Mindset Principles.</p>
+and Growth Mindset principles.</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
