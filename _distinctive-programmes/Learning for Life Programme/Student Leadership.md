@@ -17,9 +17,8 @@ Responsibility, Resilience, Integrity, Care and Excellence, SEL competencies
 and Growth Mindset Principles.</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_Leadership____Programmes_at_a_Glance_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_5.png">
 </div>
 <h4></h4>
 <h4><strong>Key Programmes</strong></h4>
