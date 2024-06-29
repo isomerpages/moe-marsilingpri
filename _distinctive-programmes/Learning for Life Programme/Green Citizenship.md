@@ -14,7 +14,7 @@ Green Citizenship@MPS aims to develop students to be active green citizens
 through a differentiated Environment Education curriculum that is integrated
 with VIA.</p>
 <p></p>
-<p>The program aims to:</p>
+<p>The programme aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enable all students to possess a global outlook and operate within a multi-national
