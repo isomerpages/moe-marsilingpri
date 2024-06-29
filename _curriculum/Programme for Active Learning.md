@@ -13,9 +13,9 @@ variant: tiptap
 <h4>What is PAL?</h4>
 <p>Programme for Active Learning (PAL) is an integral part of the curriculum
 for Primary 1 and 2 students. It offers learning experiences that are active,
-hands-on and meaningful. In Marsiling Primary School, all P1 and P2 students
-undergo PAL modules during school hours and the modules are spread over
-the two years.</p>
+hands-on and meaningful. In Marsiling Primary School, all Primary 1 and
+2 students undergo PAL modules during school hours and the modules are
+spread over the two years.</p>
 <h4>Objectives of PAL</h4>
 <p>PAL contributes to the development of soft skills in Marsilians such as
 the ability to communicate clearly and cooperate with others which are
