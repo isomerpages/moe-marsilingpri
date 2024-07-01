@@ -610,7 +610,7 @@ in their CCA, leadership and academics.</p>
 <p>S2 Boys 80m</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Medal, 3rd position</p>
+<p>4 Bronze Medals, 3rd position</p>
 </td>
 </tr>
 <tr>
