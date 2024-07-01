@@ -216,9 +216,8 @@ lessons, and/or supplementary sexuality education programmes by MOE-approved
 external providers.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
 Education lessons&nbsp;need to complete an opt-out form. This form will
-be distributed to parents at the start of the year and is also downloadable&nbsp;
-<a href="https://www.marsilingpri.moe.edu.sg/files/MPS_2024_SEd_letter_to_parents__Opt_out_form_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u> 
-</a>. The completed opt-out form is to be submitted by&nbsp;<strong>05/02/2024.</strong>
+be distributed to parents at the start of the year and is also downloadable
+<a href="https://www.marsilingpri.moe.edu.sg/files/MPS_2024_SEd_letter_to_parents__Opt_out_form_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed opt-out form is to be submitted by&nbsp;<strong>05/02/2024.</strong>
 </p>
 <p>10.&nbsp;&nbsp;Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a> or
 62696193 for discussion or to seek clarification about the school’s sexuality
