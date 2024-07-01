@@ -456,7 +456,7 @@ in their CCA, leadership and academics.</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;National Primary School Chinese Language Text Recital Competition</p>
+<p>National Primary School Chinese Language Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
