@@ -41,7 +41,7 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 </td>
 <td rowspan="2" colspan="1">
 <p>Music Room 2</p>
-<p>Indoor Sports Hall, Level 3</p>
+<p>(Indoor Sports Hall, Level 3)</p>
 </td>
 </tr>
 <tr></tr>
