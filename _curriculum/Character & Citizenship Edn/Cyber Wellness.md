@@ -24,9 +24,9 @@ third_nav_title: Character & Citizenship Edn
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CW_Programmes_at_a_Glance_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CW_Programmes_at_a_Glance_Table.png">
 </div>
-<h4></h4>
+<p></p>
 <h4><strong>About Cyber Wellness (CW)</strong></h4>
 <p>Cyber Wellness (CW) refers to&nbsp;the positive well-being of Internet
 users. It involves an understanding of online behaviour and awareness of
