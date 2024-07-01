@@ -42,7 +42,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Masnurie Bte Mohd Ramli</p>
+<p>Ms Masnurie Binte Mohd Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>masnurie_mohamed_ramli@schools.gov.sg</p>
