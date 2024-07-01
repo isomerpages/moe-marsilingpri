@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h4><strong>About Choir</strong></h4>
 <p>MPS Choir aims to equip members with good singing techniques. Students
-learn to have strong breath support, to pitch accurately for harmonization
-and more. They also pick up musicianship and stage presentation skills.
-Students are exposed to a range of repertoire and have various opportunities
-for performances in and out of school.</p>
+learn to have strong breath support and pitch accurately for harmonization.
+They also pick up musicianship and stage presentation skills. Students
+are exposed to a range of repertoire and have various opportunities for
+performances in and out of school.</p>
 <p>Additionally, the CCA aims to provide a pathway for students to pursue
 Performing Arts in secondary school through Direct School Admission (DSA).
 Throughout the years, successful applicants have been able to sustain their
