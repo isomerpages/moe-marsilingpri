@@ -13,9 +13,9 @@ are exposed to a range of repertoire and have various opportunities for
 performances in and out of school.</p>
 <p>Additionally, the CCA aims to provide a pathway for students to pursue
 Performing Arts in secondary school through Direct School Admission (DSA).
-Throughout the years, successful applicants have been able to sustain their
-passion for singing in Chung Cheng High School and Swiss Cottage Secondary
-School.</p>
+Over the years, successful applicants have been able to sustain their passion
+for singing in schools such as Chung Cheng High School and Swiss Cottage
+Secondary School.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
