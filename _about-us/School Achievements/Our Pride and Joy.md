@@ -411,21 +411,6 @@ in their CCA, leadership and academics.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track and Field National School Games (NSG): Standing Long Jump</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Girls: Bronze Medal, 8th position</p>
-<p>Senior Boys: Silver, 2nd position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>J2 Girls Standing Long Jump</p>
 </td>
 <td rowspan="1" colspan="1">
