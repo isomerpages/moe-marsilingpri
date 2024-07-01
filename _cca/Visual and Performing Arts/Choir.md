@@ -67,7 +67,7 @@ Secondary School.</p>
 Singapore's largest non-competitive choral festival. The festival aims
 to create meaningful choral music-making experiences for all its participants
 and performers. Other than performing, our students also interacted with
-other primary school Choirs at the Choral Exchange. It was a memorable
+other primary school choirs at the Choral Exchange. It was a memorable
 music-making experience for the Choir.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir__Table_on_Voices_of_Singapore_Festival.png">
