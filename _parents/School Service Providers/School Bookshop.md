@@ -15,7 +15,7 @@ variant: tiptap
 <p><strong>Operating Hours</strong>
 <br>Monday - Friday (School Term)
 <br>8.30 am&nbsp; to 3.30 pm</p>
-<p>Parents are allowed to purchase at school bookshop between 2.00pm to 3.30pm.</p>
+<p>Parents are allowed to purchase at school bookshop from 2.00pm to 3.30pm.</p>
 <p><strong>Contact</strong>
 <br>Tel: To be confirmed
 <br>Fax: To be confirmed</p>
