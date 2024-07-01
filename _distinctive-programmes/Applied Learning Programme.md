@@ -61,7 +61,7 @@ stretch their potential. Selected students will get opportunities to participate
 in programmes such as Trinity College London Speech and Drama Programme
 and film making masterclass as well as competitions to hone their talent
 and skills. Selected students who have displayed talents will take part
-in competitions such as Wits &amp; Words 2024 Inter-school Debate Championships,
+in competitions such as 2024 Wits &amp; Words Inter-school Debate Championships,
 Mythos Junior Orators and National English Writing Competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
