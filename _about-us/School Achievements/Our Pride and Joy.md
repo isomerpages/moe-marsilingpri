@@ -596,7 +596,7 @@ in their CCA, leadership and academics.</p>
 <p>S2 Boys Long Implement Throw (400g)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8th position, Bronze Medal</p>
+<p>Bronze Medal, 8th position</p>
 </td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@ in their CCA, leadership and academics.</p>
 <p>S2 Boys Shot Putt (3kg)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd position, Bronze Medal</p>
+<p>Bronze Medal, 3rd position</p>
 </td>
 </tr>
 </tbody>
