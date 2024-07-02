@@ -66,9 +66,9 @@ accomplishment and joy. The experience reinforced the importance of teamwork,
 as they realised how crucial each member’s contribution was to the overall
 success of the performance.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Percussion_Ensemble___Table_on_AAD_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Percussion Ensemble/Percussion_Ensemble___Table.png">
 </div>
-<h4></h4>
+<p></p>
 <h4>Performance on Marsiling Carnival Day</h4>
 <p>The performance on Marsiling Carnival Day at the Marsiling Community Club
 was a significant milestone for our Percussion Ensemble. It allowed our

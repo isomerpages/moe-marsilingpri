@@ -52,7 +52,7 @@ description: ""
 <p></p>
 <p><strong>Nearest MRT Station</strong>
 </p>
-<p>Marsiling MRT (North-South Line)</p>
+<p>Marsiling MRT Station (North-South Line)</p>
 <p></p>
 <p><strong>Traffic Matters</strong>
 </p>

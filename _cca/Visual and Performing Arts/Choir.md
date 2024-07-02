@@ -7,15 +7,15 @@ variant: tiptap
 ---
 <h4><strong>About Choir</strong></h4>
 <p>MPS Choir aims to equip members with good singing techniques. Students
-learn to have strong breath support, to pitch accurately for harmonization
-and more. They also pick up musicianship and stage presentation skills.
-Students are exposed to a range of repertoire and have various opportunities
-for performances in and out of school.</p>
+learn to have strong breath support and pitch accurately for harmonization.
+They also pick up musicianship and stage presentation skills. Students
+are exposed to a range of repertoire and have various opportunities for
+performances in and out of school.</p>
 <p>Additionally, the CCA aims to provide a pathway for students to pursue
 Performing Arts in secondary school through Direct School Admission (DSA).
-Throughout the years, successful applicants have been able to sustain their
-passion for singing in Chung Cheng High School and Swiss Cottage Secondary
-School.</p>
+Over the years, successful applicants have been able to sustain their passion
+for singing in schools such as Chung Cheng High School and Swiss Cottage
+Secondary School.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,7 +67,7 @@ School.</p>
 Singapore's largest non-competitive choral festival. The festival aims
 to create meaningful choral music-making experiences for all its participants
 and performers. Other than performing, our students also interacted with
-other primary school Choirs at the Choral Exchange. It was a memorable
+other primary school choirs at the Choral Exchange. It was a memorable
 music-making experience for the Choir.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir__Table_on_Voices_of_Singapore_Festival.png">

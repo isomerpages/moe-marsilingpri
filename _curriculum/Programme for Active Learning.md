@@ -5,17 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL___Programmes_at_a_Glance.png">
 </div>
+<p></p>
 <h4><strong>About Programme for Active Learning (PAL)</strong></h4>
 <h4>What is PAL?</h4>
 <p>Programme for Active Learning (PAL) is an integral part of the curriculum
-for Primary 1 and 2 pupils. It offers learning experiences that are active,
-hands-on and meaningful. In Marsiling Primary School, all P1 and P2 students
-undergo PAL modules during school hours and the modules are spread over
-the two years.</p>
+for Primary 1 and 2 students. It offers learning experiences that are active,
+hands-on and meaningful. In Marsiling Primary School, all Primary 1 and
+2 students undergo PAL modules during school hours and the modules are
+spread over the two years.</p>
 <h4>Objectives of PAL</h4>
 <p>PAL contributes to the development of soft skills in Marsilians such as
 the ability to communicate clearly and cooperate with others which are

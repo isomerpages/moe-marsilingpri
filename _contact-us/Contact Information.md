@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Address</strong></h4>
-<p>Woodlands Centre Rd, Singapore 738927</p>
+<p>Woodlands Centre Road, Singapore 738927</p>
 <h4><strong>Operating Hours</strong></h4>
 <p><strong>During School Term</strong>
 <br>Mondays to Fridays 7.00 am to 5.00 pm</p>

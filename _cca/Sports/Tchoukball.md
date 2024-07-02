@@ -57,7 +57,8 @@ training gets tough.</p>
 Championships that is organised by the Tchoukball Association of Singapore.
 During the competition, teams from schools compete against one another.</p>
 <p>In 2023, the boys took part in the Plate category while the girls took
-part in the Cup category. The Cup team girls clinched the 1<sup>st</sup> runner-up.</p>
+part in the Cup category. The girls clinched the 1st runner-up in the Cup
+category.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_Table_1.png">
 </div>

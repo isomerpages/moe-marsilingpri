@@ -86,7 +86,7 @@ and mathematical explorations specially designed for this programme.</p>
 <p>Through the rich learning experiences offered by the programme, students
 will develop the attitudes, habits and dispositions mathematicians possess.
 They will also gain different components of 21CC such as critical thinking,
-invention thinking and effective communication skills.</p>
+inventive thinking and effective communication skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/MA_3.jpg">

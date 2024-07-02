@@ -9,7 +9,7 @@ third_nav_title: Character & Citizenship Edn
 <p>Nurturing Responsible Digital Learners of Tomorrow</p>
 <p></p>
 <h4><strong>Mission</strong></h4>
-<p>In line with the Cyberwellness Framework, we strive to;</p>
+<p>In line with the Cyber Wellness Framework, we strive to;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop our students to be responsible digital learners</p>
@@ -26,7 +26,7 @@ third_nav_title: Character & Citizenship Edn
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CW_Programmes_at_a_Glance_Table.png">
 </div>
-<h4></h4>
+<p></p>
 <h4><strong>About Cyber Wellness (CW)</strong></h4>
 <p>Cyber Wellness (CW) refers to&nbsp;the positive well-being of Internet
 users. It involves an understanding of online behaviour and awareness of

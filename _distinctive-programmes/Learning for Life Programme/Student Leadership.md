@@ -14,12 +14,11 @@ of our student leaders through three levels of leadership dimensions of
 Lead Self, Lead Peers and Lead School and the Community. Student Leadership
 at Marsiling Primary School is anchored on its school values of Respect,
 Responsibility, Resilience, Integrity, Care and Excellence, SEL competencies
-and Growth Mindset Principles.</p>
+and Growth Mindset principles.</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_Leadership____Programmes_at_a_Glance_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_5.png">
 </div>
 <h4></h4>
 <h4><strong>Key Programmes</strong></h4>
@@ -103,26 +102,24 @@ the school and the community.</p>
 <h4>Reduce @ North West: A Collaboration with North West CDC</h4>
 <p>The school collaborated with North West CDC to conduct door-to-door visits
 to educate residents on the conservation of energy and water at home and
-encourage their participation in the programme. Our Primary 5 and 6 student
-leaders went through a 45 minute briefing conducted by a staff from North
-West CDC to learn about the importance of climate change, reduction on
-food waste and provide tips on energy and water conservation before the
-outreach.</p>
+encourage their participation in the programme. Our P5 and P6 student leaders
+went through a 45 minute briefing conducted by a staff from North West
+CDC to learn about the importance of climate change, reduction on food
+waste and provide tips on energy and water conservation before the outreach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_3.png">
 </div>
 <h4></h4>
 <h4>Friend of Singa (FOS) Programme</h4>
-<p>Our Primary 4 student leaders led in a kindness project titled ‘Caring
-Connections’ at Marsiling Primary School where they strive to nurture a
-culture of giving and gratitude and building stronger bonds within the
-school community. The project kickstarted with a pre-assembly talk to introduce
-Kindness Week to the school.&nbsp; Activities such as interactive video
-sessions, discussions on kindness, crafting personalised gifts and playing
-board games created by the leaders on Kindness were carried out during
-the Kindness Week. In addition, students also penned messages of appreciation
-that were read out in the canteen and took part in poster colouring and
-design competitions.</p>
+<p>Our P4 student leaders led in a kindness project titled ‘Caring Connections’
+at Marsiling Primary School where they strive to nurture a culture of giving
+and gratitude and building stronger bonds within the school community.
+The project kickstarted with a pre-assembly talk to introduce Kindness
+Week to the school.&nbsp; Activities such as interactive video sessions,
+discussions on kindness, crafting personalised gifts and playing board
+games created by the leaders on Kindness were carried out during the Kindness
+Week. In addition, students also penned messages of appreciation that were
+read out in the canteen and took part in poster colouring and design competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP_Student_LEadership_Table_4.png">
 </div>

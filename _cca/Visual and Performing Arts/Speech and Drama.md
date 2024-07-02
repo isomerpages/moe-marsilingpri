@@ -41,7 +41,7 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 </td>
 <td rowspan="2" colspan="1">
 <p>Music Room 2</p>
-<p>ISH (Level 3)</p>
+<p>(Indoor Sports Hall, Level 3)</p>
 </td>
 </tr>
 <tr></tr>
@@ -50,14 +50,12 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <p></p>
 <h4><strong>CCA Highlights</strong></h4>
 <h4>Speak Good English Movement</h4>
-<p>With the purpose of educating Marsilians on speaking good English, MPS
-Speech and Drama Club started on a storyboarding journey with members making
-use of a story plot to discuss the camera angles to film from, the props
-needed and the dialogues of the characters for the respective scenes in
-the story. They also drew up sketches of how the scenes would look like
-in their storyboard templates. After the storyboards were completed, some
-members took up the roles of filming the scenes, editing and adding in
-subtitles for the skit.</p>
+<p>To educate Marsilians on speaking good English, the MPS Speech and Drama
+Club began a storyboarding journey. Members used a story plot to plan camera
+angles, select props, and script dialogues for each scene. They also drew
+up sketches of how the scenes would look like in their storyboard templates.
+After the storyboards were completed, some members took up the roles of
+filming the scenes, editing and adding in subtitles for the skit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech_and_Drama___Table_on_Speak_Good_English.png">
 </div>
