@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Virtual Tour.md
       - Principal's Message.md
       - School History.md
       - School Crest.md
@@ -14,3 +13,4 @@ collections:
       - School Achievements/Marsiling in the News.md
       - School Achievements/Our Pride and Joy.md
       - School Achievements/School Awards.md
+      - School Virtual Tour.md
