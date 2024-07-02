@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal msg/Beige_White_Modern_Photo_Collage_Instagram_Post__1_.jpg">
+</div>
 <p>Warmest greetings and a Happy 2024!</p>
 <p>I hope this message finds you well and filled with anticipation for the
 upcoming school year. The start of a new school year is always a time of
