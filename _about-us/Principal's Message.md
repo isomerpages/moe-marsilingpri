@@ -20,6 +20,9 @@ where students can thrive academically, socially, and emotionally.</p>
 <p></p>
 <p><strong><em>School Vision, Mission and Values</em></strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YS-JxX5s3xU?si=apLwVHk0OXm24-aW"></iframe>
+</div>
 <p>At MPS, our vision is centered on cultivating <strong>Learners and Leaders of Tomorrow</strong>.
 We envision a dynamic educational environment that not only imparts knowledge
 but also fosters the development of critical skills and qualities essential
@@ -47,12 +50,18 @@ confident in articulating their views, confident to act with moral courage
 and help others. Our commitment is to provide an education that not only
 imparts knowledge but also shapes character, empowering students to be
 future-ready, adaptable, and confident leaders.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Km56xNHShTA?si=2U2P2hv4gl13K7Hu"></iframe>
+</div>
 <p>Embedded in our daily practices are the school values that define who
 we are as a school community. Our school values of <strong>R3.I.C.E (Respect, Responsibility, Resilience, Integrity, Care and Excellence) </strong>serve
 as the pillars of our educational philosophy as they guide our interactions,
 decision-making processes, and the overall ethos of MPS. Character and
 values education has always been an integral part of our students’ learning
 in MPS.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0qVLWwIQzhM?si=3emrjJYE2qPLMC0X"></iframe>
+</div>
 <p>To complement our school’s vision, mission and values, I introduced the
 Marsilian ‘ABCs’ to our students since 2022 with the aim to encourage them
 to:</p>
@@ -65,6 +74,9 @@ give their best each time</p>
 <p></p>
 <p><strong><em>ALP &amp; LLP @ MPS</em></strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oMoN3TJKC78?si=HSQ2z5TL9wmtW2o2"></iframe>
+</div>
 <p>Through our school programmes and activities, we will continue to provide
 our students with meaningful experiences, a positive learning environment
 to learn, grow and thrive; and opportunities to explore their interests
@@ -82,6 +94,9 @@ leadership development and leveraging the VIA platforms within the Green
 Citizenship (GC)@MPS curriculum. Through these platforms, we aim to instill
 in every Marsilian our school values and nurture responsible active citizenship
 through service leadership.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tH0j3o9uY7U?si=qRj254ASE_mFnXN2"></iframe>
+</div>
 <p>As we navigate the school year ahead, communication will be key. Please
 stay connected with our school community through our website, official
 Facebook and Instagram page, newsletters, and other communication channels.
