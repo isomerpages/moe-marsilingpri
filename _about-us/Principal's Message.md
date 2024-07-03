@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal msg/Beige_White_Modern_Photo_Collage_Instagram_Post__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal msg/Principal_Msg_2024_v2.jpg">
 </div>
 <p>Warmest greetings and a Happy 2024!</p>
 <p>I hope this message finds you well and filled with anticipation for the
