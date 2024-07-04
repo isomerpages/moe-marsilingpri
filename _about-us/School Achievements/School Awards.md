@@ -136,7 +136,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Ms Yong Sze Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Elishe Lim Shi Chi</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Lee Chun Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mr Mohd Ali Mirza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wang Yuhang</p>
 </td>
 </tr>
 <tr>
@@ -160,18 +160,22 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Rosamma Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Jiaxin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Ms Lee Hsueh Chien Dawn</p>
 </td>
-<td rowspan="2" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
+<p>Mr Tsen Hon Leong</p>
 </td>
 </tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Shiao Woon</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -180,7 +184,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Li Huaitao</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +195,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mr Richard Ong Kay Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shi Yibin</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +206,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Rashidah Bte Yaacob</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Fan Fang</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +217,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Fazida Bte Mohd Alim Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chin Thian Soong</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +228,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Miss Suhailah Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Guan Pheng</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +239,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p>Mdm Lim Poh Eng Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Kai Ling</p>
 </td>
 </tr>
 <tr>
