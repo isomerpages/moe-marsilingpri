@@ -18,11 +18,8 @@ third_nav_title: School Achievements
 <p><strong>Award Level</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -30,11 +27,8 @@ third_nav_title: School Achievements
 <p><strong>Project Title</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Growth Mindset @MPS [GeM@MPS]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -120,11 +114,8 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p><strong>Award Level</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -132,11 +123,8 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p><strong>Project Title</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>To Write. To Inspire.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
