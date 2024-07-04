@@ -106,7 +106,7 @@ in their CCA, leadership and academics.</p>
 <p>Aydin Adel Bin Shamsul Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6Responsibility</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ in their CCA, leadership and academics.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mark Zhe Wei Ethan</p>
+<p>Mak Zhe Wei Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
