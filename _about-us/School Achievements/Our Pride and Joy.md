@@ -59,7 +59,7 @@ and contribute back to society.</p>
 <p>Aydin Adel Bin Shamsul Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Respect</p>
+<p>6Responsibility</p>
 </td>
 </tr>
 <tr>
