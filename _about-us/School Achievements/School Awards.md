@@ -18,11 +18,8 @@ third_nav_title: School Achievements
 <p><strong>Award Level</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Silver</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -30,11 +27,8 @@ third_nav_title: School Achievements
 <p><strong>Project Title</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Growth Mindset @MPS [GeM@MPS]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -106,4 +100,296 @@ GM is made visible around the school through classroom charts, school banners
 the work that we do in our capacities as educators in nurturing and moulding
 the future generation. We have seen positive changes in our students and
 will continue to grow their GM and strengthen their self-efficacy.</p>
+<p></p>
+<h4>2022 MOE Innergy Awards</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Project Title</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>To Write. To Inspire.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>Participating Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>English Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Sze Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elishe Lim Shi Chi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norsriwani Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Latchmana Murlly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Chun Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Soy Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jamaliah Yusope Lamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Janaki Amma Prankumar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Ali Mirza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Yuhang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julianna Bte Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teresha Fernandaz Selvamany</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosamma Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Jiaxin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosminah Bte Ab Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Hsueh Chien Dawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tsen Hon Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Fatimah Bt Muhammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanti d/o Govindasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Shiao Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohana Bte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Ong Kay Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Huaitao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazlina Bte Yaacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rashidah Bte Yaacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shi Yibin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fazida Bte Mohd Alim Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fan Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur 'Aliah Binte Gasali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Suhailah Binte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Thian Soong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Poh Eng Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Guan Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahidah Binte Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Firzanah Binte Kamsani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nursyarmin Binte Suwandi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss How Li Miin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>I</p>
 <p></p>
