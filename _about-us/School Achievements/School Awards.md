@@ -102,8 +102,10 @@ the future generation. We have seen positive changes in our students and
 will continue to grow their GM and strengthen their self-efficacy.</p>
 <p></p>
 <h4>2022 MOE Innergy Awards</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -114,7 +116,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p><strong>Award Level</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p>Silver</p>
 </td>
 </tr>
@@ -123,7 +125,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p><strong>Project Title</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p>To Write. To Inspire.</p>
 </td>
 </tr>
@@ -138,6 +140,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Elishe Lim Shi Chi</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norsriwani Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Latchmana Murlly</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -145,6 +153,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Soy Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jamaliah Yusope Lamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Janaki Amma Prankumar</p>
 </td>
 </tr>
 <tr>
@@ -154,6 +168,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Wang Yuhang</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Julianna Bte Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teresha Fernandaz Selvamany</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -161,6 +181,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Jiaxin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosminah Bte Ab Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -170,10 +196,22 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Tsen Hon Leong</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Fatimah Bt Muhammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohana Bte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -186,6 +224,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Huaitao</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazlina Bte Yaacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,6 +240,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shi Yibin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -208,6 +258,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Fan Fang</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur 'Aliah Binte Gasali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -218,6 +274,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Thian Soong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -230,6 +292,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Guan Pheng</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -241,6 +309,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Kai Ling</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -248,6 +322,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zahidah Binte Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -263,6 +343,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -274,6 +360,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -281,6 +373,12 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss How Li Miin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
