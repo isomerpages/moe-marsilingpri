@@ -13,7 +13,7 @@ They are nominated by their Form Teachers for this award every semester.
 These students serve as good role models to others and are able to positively
 influence their peers in doing the right.</p>
 <p>View the video below, featuring the winners of the Sparkle and Ray in
-year 2021 when it was first started.</p>
+year 2023 when it was first started.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FcxazyKvu-8?si=l_KccoBJD9DSH5o_"></iframe>
 </div>
