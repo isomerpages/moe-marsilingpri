@@ -130,10 +130,28 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>Participating Staff</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>English Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tamil Language</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Yong Sze Leng</p>
 </td>
