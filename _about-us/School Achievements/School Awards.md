@@ -189,7 +189,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,7 +200,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Richard Ong Kay Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
