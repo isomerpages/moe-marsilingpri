@@ -139,7 +139,7 @@ in their CCA, leadership and academics.</p>
 <p>Yap Jun Yang Justin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ in their CCA, leadership and academics.</p>
 <p>Mak Zhe Wei Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6Respect</p>
 </td>
 </tr>
 </tbody>
