@@ -421,7 +421,7 @@ the consistent teaching of writing. We developed structures and processes
 (i.e.&nbsp; Visible Thinking routines such as “FEAST” and “Burger”) to
 teach thinking, to scaffold thinking and to build content, into the Writing
 Curriculum.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Our school was conferred the Innergy Award – Silver in 2022. This affirmed
 the work that we do in our capacities as educators in nurturing a love
 for the languages and a love for writing. We have seen improvements in
