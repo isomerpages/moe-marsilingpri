@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
-<h4>2020 MOE Innergy Awards</h4>
+<h4>2020 MOE Innergy Award</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -101,7 +101,7 @@ the work that we do in our capacities as educators in nurturing and moulding
 the future generation. We have seen positive changes in our students and
 will continue to grow their GM and strengthen their self-efficacy.</p>
 <p></p>
-<h4>2022 MOE Innergy Awards</h4>
+<h4>2022 MOE Innergy Award</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -391,5 +391,4 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </tbody>
 </table>
 <p></p>
-<p>I</p>
 <p></p>
