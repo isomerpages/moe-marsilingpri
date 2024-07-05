@@ -31,21 +31,21 @@ providing them with practical leadership experience.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Tsen Hon Leong (I/C)</p>
 <p>Mdm Nur ‘Aliah Binte Gasali (2nd I/C)</p>
 <p>Mr Wang Yuhang</p>
-<p>Miss Michelle Tan Siyun</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>CCA Room 1 (Indoor Sports Hall, Level 1)</p>
 <p></p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <h4></h4>
