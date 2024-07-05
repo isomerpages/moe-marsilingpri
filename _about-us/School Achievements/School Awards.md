@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
-<h4>2020 MOE Innergy Award</h4>
+<h4><strong>2020 MOE Innergy Award</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -101,7 +101,7 @@ the work that we do in our capacities as educators in nurturing and moulding
 the future generation. We have seen positive changes in our students and
 will continue to grow their GM and strengthen their self-efficacy.</p>
 <p></p>
-<h4>2022 MOE Innergy Award</h4>
+<h4><strong>2022 MOE Innergy Award</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -390,28 +390,5 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>“To Write. To Inspire.” is a milestone joint project of our English Department
-(ELD) and the Mother Tongue Languages Department (MTLD). It stemmed from
-an urgent need to address student learning gaps in writing skills and to
-level up staff capacity in teaching writing.</p>
-<p>The ELD and MTLD leveraged strengths in curriculum design to re-design
-the writing curriculum and process for both students and staff. The departments’
-curriculum re-design journey also culminated in a professional collaboration
-where both departments collaborated to print the literary works of our
-students and developed a portal to showcase the work of our bilingual talents.
-Some positive outcomes included improved student outcomes at the national
-level, and the closing of PSLE performance gaps in writing.</p>
-<p>Taking cognisance of the external and internal scans, both the ELD and
-MTLD took time to do a thorough review of their respective Curriculum Cub.</p>
-<p>Both departments went deep into the curriculum customisation within their
-departments to lead their teachers in this review and resource development.
-At the IP Heads level, both formal and informal conversations had already
-started to see areas where there could be opportunities for collaborations
-and support for each other, in the conceptualisation and development stage.
-The curriculum re-design journey also culminated in professional collaboration
-where both departments collaborated to print the literary works of our
-students and developed a portal to showcase the work of our bilingual talents.</p>
-<p></p>
 <p></p>
 <p></p>
