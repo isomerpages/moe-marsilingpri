@@ -33,8 +33,6 @@ to the community.</p>
 <td rowspan="7" colspan="1">
 <p>Miss Chang Lee Hui (I/C)</p>
 <p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
-<p>Ms Wen Caizhuang</p>
-<p>Mdm Hazlina Binte Yaacob</p>
 <p>Mdm Latchmana Murlly</p>
 <p></p>
 </td>

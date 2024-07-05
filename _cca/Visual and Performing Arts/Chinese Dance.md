@@ -36,49 +36,24 @@ School.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mdm Li Huaitao (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Day: Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Goh Soy Moi (2nd I/C)</p>
+<p>Miss Lam Yen Fong Jasmine</p>
+<p>Mdm Ong Siew Eng</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
+<p>Day: Tuesday</p>
 <p>Time: 3.15p.m. – 4.15p.m</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
+<p>Dance Studio</p>
 <p>(ISH, Level 3)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lam Yen Fong Jasmine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Siew Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <h4><strong>CCA Highlights</strong></h4>
