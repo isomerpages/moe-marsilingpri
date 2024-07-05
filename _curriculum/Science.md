@@ -44,7 +44,6 @@ of Science.</p>
 <h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM@MPS</h4>
-<h4>Programme Description</h4>
 <p>STEAM is an interdisciplinary approach to learning that combines Science,
 Technology, Engineering, Arts and Mathematics. A collaborative effort between
 the Science and Mathematics department, STEAM@MPS aims to provide students
