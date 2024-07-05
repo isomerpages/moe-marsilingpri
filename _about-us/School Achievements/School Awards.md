@@ -390,5 +390,41 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>“To Write. To Inspire.” is a milestone joint project of our English Department
+(ELD) and the Mother Tongue Languages Department (MTLD). It seeks to address
+student learning gaps in writing skills and to level up staff capacity
+in teaching writing. The ELD and MTLD leveraged strengths in curriculum
+design to re-design the writing curriculum and process for both students
+and staff. The departments’ curriculum re-design journey also culminated
+in a professional collaboration where both departments collaborated to
+print the literary works of our students and developed a portal to showcase
+the work of our bilingual talents.</p>
+<h4>ELD: Joy of Writing (JoW)</h4>
+<p>Our team of teachers conceptualised the structure of the writing curriculum
+by aligning the curriculum and content to the English Language syllabus
+and took into consideration the Attitude, Skills and Knowledge (ASK) required
+of writers. With the learners at heart, we identified issues that students
+faced such as writers’ block, fear of writing and lack of prior knowledge
+when given a theme. As learners were generally unmotivated when it came
+to writing, we introduced strategies such as Quickwrites and Visible Thinking
+Routines as key tools in a writing classroom. With the writing process
+cycle and 6 traits of writing in mind, we created writing packages targeted
+at improving the level’s writing. Each writing package consisted of interesting,
+age-appropriate mini writing lessons and resources, which leveraged ICT
+tools such as instructional videos, SLS interactive thinking tools and
+Google Docs.</p>
+<h4>MTLD: Making Writing Visible (MWV)</h4>
+<p>Our team of teachers developed a structure to support the teaching of
+writing skills, building MTV thinking routines into the Writing Curriculum.
+The MTL created a refreshed Writing Curriculum and packages to support
+the consistent teaching of writing. We developed structures and processes
+(i.e.&nbsp; Visible Thinking routines such as “FEAST” and “Burger”) to
+teach thinking, to scaffold thinking and to build content, into the Writing
+Curriculum.</p>
+<p>&nbsp;</p>
+<p>Our school was conferred the Innergy Award – Silver in 2022. This affirmed
+the work that we do in our capacities as educators in nurturing a love
+for the languages and a love for writing. We have seen improvements in
+our students’ ability to write and we are proud to see their literary works
+featured in our school publication, “To Write. To Inspire.”</p>
 <p></p>
