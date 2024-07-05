@@ -390,6 +390,7 @@ will continue to grow their GM and strengthen their self-efficacy.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>“To Write. To Inspire.” is a milestone joint project of our English Department
 (ELD) and the Mother Tongue Languages Department (MTLD). It seeks to address
 student learning gaps in writing skills and to level up staff capacity
@@ -421,7 +422,6 @@ the consistent teaching of writing. We developed structures and processes
 (i.e.&nbsp; Visible Thinking routines such as “FEAST” and “Burger”) to
 teach thinking, to scaffold thinking and to build content, into the Writing
 Curriculum.</p>
-<p></p>
 <p>Our school was conferred the Innergy Award – Silver in 2022. This affirmed
 the work that we do in our capacities as educators in nurturing a love
 for the languages and a love for writing. We have seen improvements in
