@@ -64,7 +64,7 @@ third_nav_title: School Service Providers
 <p>7 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Refer to Application Procedure below.</p>
 </td>
 </tr>
 </tbody>
