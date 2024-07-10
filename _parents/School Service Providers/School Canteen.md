@@ -38,7 +38,12 @@ third_nav_title: School Service Providers
 <p></p>
 <p><strong>School Canteen Advertisement</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,13 +58,13 @@ third_nav_title: School Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Noodles (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Refer to Application Procedure below.</p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +171,7 @@ Singapore Food Agency (SFA).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Commence operation of the stall wef 13 February 2024.</p>
+<p>Commence operation of the stall wef 12 August 2024.</p>
 </li>
 <li>
 <p>Operate the stall based on the menu (approved by school), from Monday
