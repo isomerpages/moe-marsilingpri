@@ -6,19 +6,19 @@ third_nav_title: School Service Providers
 variant: tiptap
 ---
 <p><strong>Address </strong>
-<br><strong>Overseas Associates Pte Ltd</strong>
+<br><strong>Overseas Associates Pte Ltd (HQ)</strong>
 <br>24 Lim Teck Boo Rd
-<br>#03-01
+<br>#03-01 Nanyang Centre
 <br>Singapore 537003</p>
 <p><strong>Location within School</strong>
 <br>Level 1, along the corridor towards the school canteen</p>
 <p><strong>Operating Hours</strong>
 <br>Monday - Friday (School Term)
-<br>8.30 am&nbsp; to 3.30 pm</p>
-<p>Parents are allowed to purchase at school bookshop from 2.00pm to 3.30pm.</p>
+<br>8.00 am&nbsp; to 3.00 pm</p>
+<p>Parents are allowed to purchase at school bookshop from 2.00pm to 3.00pm.</p>
 <p><strong>Contact</strong>
-<br>Tel: To be confirmed
-<br>Fax: To be confirmed</p>
+<br>Tel: 63826789 (Ext 113)
+<br>Email: msps@oapl.sg</p>
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
 <br><a href="/files/Booklist_For_Year_2024___Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist 2024</a>
