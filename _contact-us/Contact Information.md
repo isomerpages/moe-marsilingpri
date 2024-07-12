@@ -16,4 +16,4 @@ description: ""
 <h4><strong>Contact</strong></h4>
 <p>Tel: 6269 6193
 <br>Fax: 6269 9050
-<br>Email: marsiling.ps@moe.edu.sg</p>
+<br>Email: marsiling_ps@moe.edu.sg</p>
