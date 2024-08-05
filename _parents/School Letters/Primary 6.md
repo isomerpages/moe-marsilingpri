@@ -69,13 +69,14 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/YH Letters/MPS_2024_T3___244f___P6_YH_Letter___COE_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 T3 YH Letter</a>
+<p><a href="/files/2024 Assessment/MPS2024T3_298___P6_Assessment_2024__Term_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 T3 School Based Assessment 2024</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/YH Letters/MPS_2024_T3___244f___P6_YH_Letter___COE_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 T3 YH Letter</a>
+</p>
 </td>
 </tr>
 </tbody>
