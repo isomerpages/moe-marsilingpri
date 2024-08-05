@@ -21,11 +21,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Aug 2023</p>
+<p>5 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4_SBB_Briefing_for_Parents_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 SBB Briefing Slides for Parents</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
