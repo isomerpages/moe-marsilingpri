@@ -20,12 +20,12 @@ resilience, innovation, and continuous learning</p>
 <h4></h4>
 <h4><strong>About Growth Mindset (GM)</strong></h4>
 <h4>Growth Mindset @ MPS</h4>
-<p>Growth Mindset @ MPS or GeM@MPS is a whole-school approach adopted since
-2017 to raise our students’ attainment and motivation. It aims to foster
-a culture of care and excellence in the school and nurture students’ inner
-drive to succeed, through deliberate efforts to build a growth mindset
-(GM), an affirmative teacher-student relationships (TSR) and peer support
-and relationships (PSR).</p>
+<p>Growth Mindset @ MPS is a whole-school approach adopted since 2017 to
+raise our students’ attainment and motivation. It aims to foster a culture
+of care and excellence in the school and nurture students’ inner drive
+to succeed, through deliberate efforts to build a growth mindset (GM),
+an affirmative teacher-student relationships (TSR) and peer support and
+relationships (PSR).</p>
 <p></p>
 <h4>What is Growth Mindset?</h4>
 <p>World-renowned Stanford University psychologist and one of the world’s
