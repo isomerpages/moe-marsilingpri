@@ -96,7 +96,7 @@ caring for, and observing plants, students will not only learn about plant
 life cycles and ecosystems but also develop important skills such as teamwork,
 responsibility, and problem-solving.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Science_Table_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Sci_Table_Updated_13_Sep.jpg">
 </div>
 <h4></h4>
 <h4>Straw Bridge Challenge</h4>
