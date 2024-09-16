@@ -65,6 +65,13 @@ variant: tiptap
 <br>• I take the initiative to help my peers.
 <br>• I take the initiative to plan and carry out activities to promote community
 service or environmental awareness.</p>
+<p></p>
+<p>View the video below, featuring our students interviewing Mr Joe Tham
+on the value of care.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tvxk4nB1veU?si=nV3TK8VDh8C04jU_"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -78,4 +85,5 @@ service or environmental awareness.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
