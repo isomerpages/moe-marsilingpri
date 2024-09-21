@@ -72,7 +72,7 @@ variant: tiptap
 <p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Tan Jian Chye, Sam</p>
+<p>Mr Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jian_chye_sam@schools.gov.sg</p>
