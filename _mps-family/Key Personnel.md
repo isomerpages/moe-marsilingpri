@@ -93,7 +93,7 @@ variant: tiptap
 <p>HOD/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Ching, Anglea</p>
+<p>Ms Goh Lay Ching, Angela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_lay_ching_angela@schools.gov.sg</p>
