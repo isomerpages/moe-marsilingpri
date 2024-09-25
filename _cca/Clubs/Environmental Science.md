@@ -61,7 +61,7 @@ in World Water Day Symposium at Dunman High School. This year’s annual
 celebration focus was on “Leveraging Water for Peace - Climate Change and
 Water Security”.</p>
 <p>Students participated in many interactive games and through these activities,
-students&nbsp;were able to :</p>
+students&nbsp;were able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Understand how climate change affects water security, including changes
