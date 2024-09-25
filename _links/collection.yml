@@ -2,5 +2,5 @@ collections:
   links:
     output: true
     order:
-      - For Student.md
+      - For Students.md
       - For Staff.md
