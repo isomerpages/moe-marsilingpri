@@ -1,6 +1,6 @@
 ---
-title: For Student
-permalink: /useful-links/for-student/
+title: For Students
+permalink: /useful-links/for-students/
 description: ""
 variant: tiptap
 ---

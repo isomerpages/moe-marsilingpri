@@ -67,7 +67,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jian Chye Sam</p>
+<p>Mr Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jian_chye_sam@schools.gov.sg</p>
