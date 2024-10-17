@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.30am - 5.30pm
+        time: 7.00am - 5.00pm
         description: During School Term. Closed on Public Holiday
       - days: Mon - Fri
         time: 8.00am - 5.00pm
