@@ -19,5 +19,5 @@ via SMS.</p>
 </div>
 <p></p>
 <p><strong>Resources</strong>
-<br>Click <a href="https://form.gov.sg/615bbeb3d106760012df2606" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<br>Click <a href="https://form.gov.sg/6719d902e7307d56ca58652e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the registration form</p>
