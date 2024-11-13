@@ -33,10 +33,10 @@ sections:
         - title: President’s Award for Teachers (PAT) 2025
           date: 11 November 2024
           announcement: "PAT honours teachers for their role in moulding the future of our
-            nation. They demonstrate a deep passion for teaching, and inspire
-            both their students and peers through their words and deeds. If this
-            sounds like a teacher you know, nominate him/her for PAT
-            2025.  Deadline: 10 January 2025."
+            nation. They demonstrate a deep passion for teaching and inspire
+            both students and peers through their words and deeds. If this
+            sounds like a teacher you know, nominate them for PAT
+            2025.   Deadline: 10 January 2025."
           link_text: Click here to submit your nominations.
           link_url: https://go.gov.sg/pat2025
 ---
