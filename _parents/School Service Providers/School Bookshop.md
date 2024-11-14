@@ -22,18 +22,18 @@ variant: markdown
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
 <br><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_5_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_6_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2025</a>
-</p>
-<p><a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_5_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_6_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2025</a>
+<br>
+<a href="/files/2025 Booklist/Booklist_2025_MSP_Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2025</a>
 </p>
