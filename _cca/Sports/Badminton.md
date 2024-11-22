@@ -63,6 +63,6 @@ of varying skill levels to come together and engage in the sport in a relaxed
 atmosphere. Friendly matches are an excellent way our players stay active,
 hone their skills, and socialise with peers who share a passion for badminton.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modular_Sports___Weekly_Fun_filled_Matches.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modular_Sports___3.png">
 </div>
 <p></p>
