@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs/.keep
-      - Clubs/Environmental Science.md
       - Clubs/Infocomm Technology (Media Production).md
       - Sports/.keep
       - Sports/Modular Sports.md
