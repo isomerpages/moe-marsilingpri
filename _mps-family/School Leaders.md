@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Leaders.png">
-</div>
 <p><strong>School Leaders</strong>
 </p>
 <table style="minWidth: 75px">
@@ -55,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Felicia Foo</p>
+<p>Mr Christopher Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Administration)</p>
