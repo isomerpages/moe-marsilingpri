@@ -406,21 +406,21 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiu Fung, Candy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_hiu_fung@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Chui Lin, Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>winnie_ng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Farhanah Binte Noordin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>farhanah_noordin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
