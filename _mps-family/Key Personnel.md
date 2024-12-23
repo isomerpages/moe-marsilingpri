@@ -228,6 +228,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH/Information &amp; Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Thiliban Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thiliban_subramaniam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
