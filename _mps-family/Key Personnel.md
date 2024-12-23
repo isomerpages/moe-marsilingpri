@@ -57,6 +57,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Fui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/Mathematics (Cov. HOD/Maths)</p>
+<p>LH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Sng, Jason</p>
@@ -195,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Chinese Language (Cov. HOD/MTL)</p>
+<p>SH/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Elishe Lim Shi Chi</p>
@@ -206,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Malay Language</p>
+<p>SH/Malay Language (Cov. HOD/MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsriwani Bakar</p>
@@ -228,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Siew Eng</p>
@@ -239,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>SH/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Michelle Tan Siyun</p>
@@ -253,10 +264,10 @@ variant: tiptap
 <p>AYH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ferlicia_lim@schools.gov.sg</p>
+<p>sng_su_hoon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -265,10 +276,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sng Su Hoon, Shirley</p>
+<p>Miss Lim Duyue Ferlicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sng_su_hoon@schools.gov.sg</p>
+<p>ferlicia_lim@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
