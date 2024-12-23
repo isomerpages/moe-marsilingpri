@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal msg/Principal_Msg_2024_v2.jpg">
 </div>
-<p>Warmest greetings and a Happy 2024!</p>
+<p>Warmest greetings and a Happy 2025!</p>
 <p>I hope this message finds you well and filled with anticipation for the
 upcoming school year. The start of a new school year is always a time of
 renewed energy and fresh possibilities. It is a time to embrace new challenges,
@@ -102,11 +102,11 @@ stay connected with our school community through our website, official
 Facebook and Instagram page, newsletters, and other communication channels.
 We encourage you to actively participate in school events, parent-teacher
 conferences, and other opportunities to engage with the learning process.</p>
-<p>I am excited about the possibilities that the 2024 school year holds,
+<p>I am excited about the possibilities that the 2025 school year holds,
 and I look forward to witnessing the growth and achievements of each and
 every student. Let us work together to make this a memorable and successful
 school year.</p>
-<p>Wishing all of you a fantastic start to the 2024 school year!</p>
+<p>Wishing all of you a fantastic start to the 2025 school year!</p>
 <p></p>
 <p>Warmest regards,</p>
 <p>Mrs Heather Thio</p>
