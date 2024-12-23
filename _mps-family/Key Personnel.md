@@ -63,7 +63,7 @@ variant: tiptap
 <p>Mdm Lee Fui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_fui_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
