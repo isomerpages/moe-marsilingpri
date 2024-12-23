@@ -31,17 +31,6 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yew Hwa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yew_hwa@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Masnurie Binte Mohd Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Thulasi Rani d/o Tanarajoo</p>
