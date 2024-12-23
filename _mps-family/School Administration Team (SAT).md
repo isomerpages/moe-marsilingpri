@@ -26,15 +26,15 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hiu Fung, Candy</p>
+<p>Ms Ng Chui Lin, Winnie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Manager (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Chui Lin, Winnie</p>
+<p>Mdm Farhanah Binte Noordin</p>
 </td>
 </tr>
 <tr>
@@ -51,14 +51,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Hui Ern, Grace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Farhanah Binte Noordin</p>
 </td>
 </tr>
 <tr>
