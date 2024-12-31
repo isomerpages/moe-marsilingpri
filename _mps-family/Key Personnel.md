@@ -275,10 +275,10 @@ variant: tiptap
 <p>AYH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sng Su Hoon, Shirley</p>
+<p>Miss Lim Duyue Ferlicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sng_su_hoon@schools.gov.sg</p>
+<p>ferlicia_lim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,10 +287,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ferlicia_lim@schools.gov.sg</p>
+<p>sng_su_hoon@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
