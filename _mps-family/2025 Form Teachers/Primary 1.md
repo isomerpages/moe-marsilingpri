@@ -28,10 +28,10 @@ variant: tiptap
 <p>1Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Thian Soong</p>
+<p>Mdm Li Huaitao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_thian_soong@schools.gov.sg</p>
+<p>li_huaitao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
