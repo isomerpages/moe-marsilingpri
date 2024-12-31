@@ -50,10 +50,10 @@ variant: tiptap
 <p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Lee Hui, Clara</p>
+<p>Miss Nur Firzanah Binte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chang_lee_hui@schools.gov.sg</p>
+<p>nur_firzanah_kamsani@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +61,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Bt Muhammad</p>
+<p>Mr Wong Ah Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_fatimah_bt_muhammad@schools.gov.sg</p>
+<p>wong_ah_seng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
