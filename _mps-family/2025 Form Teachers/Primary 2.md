@@ -127,10 +127,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Huaitao</p>
+<p>Mr Su Haojing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>li_huaitao@schools.gov.sg</p>
+<p>su_haojing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
