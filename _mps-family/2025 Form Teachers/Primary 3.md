@@ -119,7 +119,7 @@ variant: tiptap
 <p>Mr Bernard Wong Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_weng_keong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
