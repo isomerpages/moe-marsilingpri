@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mdm Wan Hanim Bte Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wan_hanim_atan_a@schools.gov.sg</p>
+<p>Wan_Hanim_Atan_A@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -50,10 +50,10 @@ variant: tiptap
 <p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur 'Aliah Binte Gasali</p>
+<p>Mr Mohd Ali Mirza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nuraliah_gasali@schools.gov.sg</p>
+<p>mohd_ali_mirza@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
