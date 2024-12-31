@@ -116,10 +116,10 @@ variant: tiptap
 <p>2Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Ali Mirza</p>
+<p>Ms Shammane D/O Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohd_ali_mirza@schools.gov.sg</p>
+<p>shammane_arumugam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
