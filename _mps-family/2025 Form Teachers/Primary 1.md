@@ -105,10 +105,10 @@ variant: tiptap
 <p>1Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shammane D/O Arumugam</p>
+<p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shammane_arumugam@schools.gov.sg</p>
+<p>shanti_govindasamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Su Haojing</p>
+<p>Mdm Rohana Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_haojing@schools.gov.sg</p>
+<p>rohana_ahmad@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
