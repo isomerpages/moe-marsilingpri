@@ -44,8 +44,7 @@ through the CCA.</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ISH</p>
-<p>(Level 3)</p>
+<p>School Hall</p>
 <p></p>
 </td>
 </tr>
