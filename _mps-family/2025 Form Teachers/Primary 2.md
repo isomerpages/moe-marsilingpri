@@ -50,7 +50,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Khim</p>
+<p>Ms Lim Poh Khim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>@schools.gov.sg</p>
