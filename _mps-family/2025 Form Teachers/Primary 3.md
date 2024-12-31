@@ -171,10 +171,21 @@ variant: tiptap
 <p>3Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Hazlina Bte Yaacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hazlina_yaacob@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Wen Caizhuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wen_caizhuang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -185,18 +196,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>wen_caizhuang@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
