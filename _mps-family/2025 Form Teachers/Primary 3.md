@@ -105,7 +105,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shawn</p>
+<p>Mr Teo Yuanzhong, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -116,7 +116,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bernard</p>
+<p>Mr Bernard Wong Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
