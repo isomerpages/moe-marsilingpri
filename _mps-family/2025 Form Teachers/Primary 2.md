@@ -39,21 +39,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teresha Fernandaz Selvamany</p>
+<p>Mr Muhammad Faizal Bin Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teresha_fernandaz_selvamany@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sng Su Hoon, Shirley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sng_su_hoon@schools.gov.sg</p>
+<p>muhammad_faizal_mokhtar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +50,43 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Ah Seng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ah_seng@schools.gov.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur 'Aliah Binte Gasali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nuraliah_gasali@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Hong Wei, Nick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_hong_wei@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Akhmar Binte Elias</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_akhmar_elias@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
