@@ -152,7 +152,7 @@ variant: tiptap
 <p>Mr Tham Hou Cheong Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p>tham_hou_cheong_aloysius@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
