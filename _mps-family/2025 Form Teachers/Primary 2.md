@@ -171,10 +171,10 @@ variant: tiptap
 <p>2Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Cassander</p>
+<p>Mdm Prema Latha D/O Thangavelu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_cassander@schools.gov.sg</p>
+<p>prema_latha_thangavelu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
