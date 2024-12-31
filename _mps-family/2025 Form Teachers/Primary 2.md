@@ -28,10 +28,10 @@ variant: tiptap
 <p>2Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Kim Hock, Francis</p>
+<p>Mr Chin Thian Soong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_kim_hock@schools.gov.sg</p>
+<p>chin_thian_soong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
