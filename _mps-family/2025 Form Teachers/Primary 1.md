@@ -146,17 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Herianti Abu Shah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>herianti_abu_shah@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
