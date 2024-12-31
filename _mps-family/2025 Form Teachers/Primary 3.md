@@ -108,7 +108,7 @@ variant: tiptap
 <p>Mr Teo Yuanzhong, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_yuanzhong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
