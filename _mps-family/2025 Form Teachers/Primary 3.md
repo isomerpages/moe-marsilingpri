@@ -72,10 +72,10 @@ variant: tiptap
 <p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jian Chye, Sam</p>
+<p>Mr Nicholas Neo Wenjie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_jian_chye_sam@schools.gov.sg</p>
+<p>nicholas_neo_wenjie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Ainalbadri Bt Syed Abdul Rahman</p>
+<p>Mdm Rosminah Bte Ab Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_ainalbadri@schools.gov.sg</p>
+<p>rosminah_ab_rahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
