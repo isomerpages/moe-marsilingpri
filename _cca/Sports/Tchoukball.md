@@ -34,10 +34,10 @@ training gets tough.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Miss Tan Cassander (I/C)</p>
-<p>Mr Sam Tan (2nd I/C)</p>
-<p>Mdm Jamaliah YL</p>
-<p>Miss Ferlicia Lim</p>
+<p>Mr Tan Jian Chye, Sam (I/C)</p>
+<p>Miss Tan Cassander (2nd I/C)</p>
+<p>Mdm Jamaliah Yusope Lamat</p>
+<p>Mr Thiliban S/O Subramaniam</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
