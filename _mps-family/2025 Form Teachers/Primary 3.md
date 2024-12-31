@@ -105,10 +105,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nathanael Teo Yi Jie</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nathanael_teo_yi_jie@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Ainalbadri Bt Syed Abdul Rahman</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_ainalbadri@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
