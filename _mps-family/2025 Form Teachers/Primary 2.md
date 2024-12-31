@@ -182,10 +182,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julianna Bte Adam</p>
+<p>Mr Nathanael Teo Yi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>julianna_adam@schools.gov.sg</p>
+<p>nathanael_teo_yi_jie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
