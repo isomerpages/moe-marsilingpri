@@ -138,21 +138,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shazana Binte Mohamed Shahari</p>
+<p>Mdm See Poh Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shazana_mohamed_shahari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rolan Tambunan B Amir Assan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
+<p>see_poh_bee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
