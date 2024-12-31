@@ -28,10 +28,10 @@ variant: tiptap
 <p>3Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Bi Ying, Alivia</p>
+<p>Mrs Ow Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_bi_ying@schools.gov.sg</p>
+<p>ow_weng_keong_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -39,10 +39,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fan Fang</p>
+<p>Mdm Li Juanjuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fan_fang@schools.gov.sg</p>
+<p>li_juanjuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
