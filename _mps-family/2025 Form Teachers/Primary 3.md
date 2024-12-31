@@ -91,24 +91,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Mei Zu, Peggy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_mei_zu_peggy@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nursyarmin Binte Suwandi</p>
+<p>Ms Toh Jessie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nursyarmin_suwandi@schools.gov.sg</p>
+<p>jessie_toh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
