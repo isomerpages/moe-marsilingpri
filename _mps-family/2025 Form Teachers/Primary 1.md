@@ -39,10 +39,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mohana d/o Thangavalu</p>
+<p>Mdm Wan Hanim Bte Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohana_parthiben@schools.gov.sg</p>
+<p>wan_hanim_atan_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
