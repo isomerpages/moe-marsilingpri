@@ -149,7 +149,7 @@ variant: tiptap
 <p>3Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aloysious</p>
+<p>Mr Tham Hou Cheong Aloysius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>@schools.gov.sg</p>
