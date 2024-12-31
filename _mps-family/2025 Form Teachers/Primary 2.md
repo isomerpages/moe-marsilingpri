@@ -94,10 +94,10 @@ variant: tiptap
 <p>2Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shanti d/o Govindasamy</p>
+<p>Ms Lee Hsueh Chien Dawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shanti_govindasamy@schools.gov.sg</p>
+<p>lee_hsueh_chien_dawn@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
