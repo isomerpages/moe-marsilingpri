@@ -69,24 +69,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Latchmana Murlly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>latchmana_murlly@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Hsueh Chien Dawn</p>
+<p>Miss Suhailah Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_hsueh_chien dawn@schools.gov.sg</p>
+<p>suhailah_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +83,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
+<p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_khadijah_abdul_aziz@schools.gov.sg</p>
+<p>ng_sock_hoon_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
