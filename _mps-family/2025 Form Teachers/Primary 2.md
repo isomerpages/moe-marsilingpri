@@ -105,10 +105,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm See Poh Bee</p>
+<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see_poh_bee@schools.gov.sg</p>
+<p>nur_khadijah_abdul_aziz@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
