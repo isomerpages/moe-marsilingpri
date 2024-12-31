@@ -38,7 +38,6 @@ and various competitions held at different time of the year.</p>
 <p>Mr Ang Yew Leong (I/C)</p>
 <p>Mdm Siti Fatimah (2nd I/C)</p>
 <p>Ms Maneatonufus</p>
-<p>Mr Thiliban S/O Subramaniam</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
