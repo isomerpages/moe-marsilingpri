@@ -138,21 +138,10 @@ variant: tiptap
 <p>2Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Guan Pheng</p>
+<p>Mdm Shi Yibin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_guan_pheng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Ban Hwee, Jasper</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ban_hwee_jasper@schools.gov.sg</p>
+<p>shi_yibin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -160,10 +149,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Hanim Bte Atan</p>
+<p>Mdm Herianti Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wan_Hanim_Atan_A@schools.gov.sg</p>
+<p>herianti_abu_shah@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sathiya Bamah D/O Ayappan (Mrs Raj)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
