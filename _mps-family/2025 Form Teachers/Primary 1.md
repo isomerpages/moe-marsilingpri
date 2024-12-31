@@ -127,10 +127,10 @@ variant: tiptap
 <p>1Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Yibin</p>
+<p>Mr Tay Kim Hock, Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shi_yibin@schools.gov.sg</p>
+<p>tay_kim_hock@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
