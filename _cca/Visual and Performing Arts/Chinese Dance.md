@@ -37,10 +37,10 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Mdm Li Huaitao (I/C)</p>
-<p>Mdm Goh Soy Moi (2nd I/C)</p>
-<p>Miss Lam Yen Fong Jasmine</p>
+<p>Miss Lam Yen Fong Jasmine (I/C)</p>
+<p>Mdm Li Huaitao (2nd I/C)</p>
 <p>Mdm Ong Siew Eng</p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Day: Tuesday</p>
