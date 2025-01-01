@@ -32,9 +32,10 @@ providing them with practical leadership experience.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Tsen Hon Leong (I/C)</p>
-<p>Mdm Nur ‘Aliah Binte Gasali (2nd I/C)</p>
-<p>Mr Wang Yuhang</p>
+<p>Mdm Nur ‘Aliah Binte Gasali (I/C)</p>
+<p>Mr Wang Yuhang (2nd I/C)</p>
+<p>Mdm Hazlina Bte Yaacob</p>
+<p>Mr Tan Yong Sng, Jason</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
