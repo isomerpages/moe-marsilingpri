@@ -33,7 +33,7 @@ to the community.</p>
 <td rowspan="7" colspan="1">
 <p>Ms Teresha Fernandaz Selvamany (I/C)</p>
 <p>Mdm Latchmana Murlly (2nd I/C)</p>
-<p></p>
+<p>Miss Wen Caizhuang</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Day: Thursday</p>
