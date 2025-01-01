@@ -34,6 +34,7 @@ to the community.</p>
 <p>Ms Teresha Fernandaz Selvamany (I/C)</p>
 <p>Mdm Latchmana Murlly (2nd I/C)</p>
 <p>Miss Wen Caizhuang</p>
+<p>Miss Michelle Tan Siyun</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Day: Thursday</p>
