@@ -37,7 +37,7 @@ through the CCA.</p>
 <td rowspan="2" colspan="1">
 <p>Mr Nathanael Teo Yi Jie (I/C)</p>
 <p>Mdm Lim Shy Ni&nbsp; (2nd I/C)</p>
-<p>Ms Sujatha</p>
+<p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
