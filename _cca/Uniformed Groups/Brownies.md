@@ -31,9 +31,8 @@ to the community.</p>
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Miss Chang Lee Hui (I/C)</p>
-<p>Ms Teresha Fernandaz Selvamany (2nd I/C)</p>
-<p>Mdm Latchmana Murlly</p>
+<p>Ms Teresha Fernandaz Selvamany (I/C)</p>
+<p>Mdm Latchmana Murlly (2nd I/C)</p>
 <p></p>
 </td>
 <td rowspan="7" colspan="1">
