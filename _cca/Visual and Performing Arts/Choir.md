@@ -40,7 +40,6 @@ Secondary School.</p>
 <p>Mdm Shi Yibin (2nd I/C)</p>
 <p>Mdm Rohana Ahmad</p>
 <p>Mdm Ng Sock Hoon</p>
-<p></p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Day: Thursday</p>
