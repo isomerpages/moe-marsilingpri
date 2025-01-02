@@ -64,7 +64,7 @@ variant: tiptap
 <p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p>sujatha_narayana_pillai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
