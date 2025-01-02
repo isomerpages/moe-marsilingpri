@@ -34,6 +34,7 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <p>Ms Alivia Tang (I/C)</p>
 <p>Mrs Ow Weng Keong (2nd I/C)</p>
 <p>Mr Nicholas Neo Wenjie</p>
+<p>Shammane</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
