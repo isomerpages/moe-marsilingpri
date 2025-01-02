@@ -33,7 +33,7 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <td rowspan="2" colspan="1">
 <p>Ms Alivia Tang (I/C)</p>
 <p>Ms Shammane D/O Arumugam (2nd I/C)</p>
-<p></p>
+<p>Mdm Lee Guan Pheng</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Thursday</p>
