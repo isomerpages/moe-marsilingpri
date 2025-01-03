@@ -105,21 +105,10 @@ variant: tiptap
 <p>5Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Ibrahim Bin Zainee</p>
+<p>Ms Esther Teng Yuan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_ibrahim_zainee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Natasha Bte Maidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>natasha_maidin@schools.gov.sg</p>
+<p>teng_yuan_yi_esther@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Han Lee Kwang Nee Ang Kim Chai</p>
+<p>Mdm Ong Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_kim_chai@schools.gov.sg</p>
+<p>ong_kai_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +127,10 @@ variant: tiptap
 <p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss How Li Miin</p>
+<p>Miss Lam Yen Fong Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>how_li_miin@schools.gov.sg</p>
+<p>lam_yen_fong_jasmine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +138,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chou Ching Shan</p>
+<p>Mr Mohammad Nursaffwan Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chou_ching_shan@schools.gov.sg</p>
