@@ -149,10 +149,10 @@ variant: tiptap
 <p>5Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yew Leong</p>
+<p>Ms Mohana D/O Thangavalu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_yew_leong@schools.gov.sg</p>
+<p>mohana_parthiben@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -160,10 +160,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsriwani Bakar</p>
+<p>Ms Yeo Xinru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norsriwani_bakar@schools.gov.sg</p>
+<p>yeo_xinru@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rolan Tambunan B Amir Assan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
