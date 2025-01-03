@@ -53,7 +53,7 @@ variant: tiptap
 <p>Ms Lim Poh Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>@schools.gov.sg</p>
+<p>lim_poh_khim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
