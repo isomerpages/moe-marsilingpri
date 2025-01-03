@@ -32,8 +32,8 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mr Wong Ah Seng (I/C)</p>
-<p>Mdm Fazida Mohd Alim Khan (2nd I/C)</p>
-<p>Mr Muhammad Faizal Mokhtar</p>
+<p>Ms Esther Teng Yuan Yi (2nd I/C)</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday
@@ -42,7 +42,7 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <p>Time: 3.15pm – 4.15pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>School Hall (Level 2)</p>
+<p>ISH (Level 3)</p>
 </td>
 </tr>
 <tr></tr>

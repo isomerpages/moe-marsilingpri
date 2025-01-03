@@ -35,18 +35,16 @@ through the CCA.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mdm Lim Shy Ni&nbsp; (I/C)</p>
-<p>Ms Chen Xiaoyin (2nd I/C)</p>
-<p>Mr Nathanael Teo Yi Jie</p>
-<p>Mdm Jeanette Wong</p>
+<p>Mr Nathanael Teo Yi Jie (I/C)</p>
+<p>Mdm Lim Shy Ni&nbsp; (2nd I/C)</p>
+<p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
 <p>Time: 3.15pm – 4.45pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ISH</p>
-<p>(Level 3)</p>
+<p>School Hall</p>
 <p></p>
 </td>
 </tr>

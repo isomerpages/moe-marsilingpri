@@ -1,8 +1,8 @@
 ---
-title: Primary 3
-permalink: /the-mps-family/Form-Teacher-List/primary-3/
+title: Primary 4
+permalink: /the-mps-family/Form-Teacher-List/primary-4/
 description: ""
-third_nav_title: 2024 Form Teachers
+third_nav_title: 2025 Form Teachers
 variant: tiptap
 ---
 <table style="minWidth: 75px">
@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Respect</p>
+<p>4Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Bi Ying, Alivia</p>
+<p>Ms Tang Bi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_bi_ying@schools.gov.sg</p>
@@ -39,18 +39,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fan Fang</p>
+<p>Miss Teresha Fernandaz Selvamany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fan_fang@schools.gov.sg</p>
+<p>teresha_fernandaz_selvamany@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Responsibility</p>
+<p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Lee Hui, Clara</p>
+<p>Miss Chang Lee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_lee_hui@schools.gov.sg</p>
@@ -61,15 +61,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Bt Muhammad</p>
+<p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_fatimah_bt_muhammad@schools.gov.sg</p>
+<p>sujatha_narayana_pillai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Resilience</p>
+<p>4Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jian Chye, Sam</p>
@@ -83,26 +83,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Ainalbadri Bt Syed Abdul Rahman</p>
+<p>Mdm Ong Siew Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_ainalbadri@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Mei Zu, Peggy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_mei_zu_peggy@schools.gov.sg</p>
+<p>ong_siew_eng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Integrity</p>
+<p>4Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nursyarmin Binte Suwandi</p>
@@ -116,10 +105,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nathanael Teo Yi Jie</p>
+<p>Mr Ang Yew Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nathanael_teo_yi_jie@schools.gov.sg</p>
+<p>ang_yew_leong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Nazurah Binte Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_nazurah_abdul_rahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -127,65 +127,32 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Ainalbadri Bt Syed Abdul Rahman</p>
+<p>Miss Andrina Azarias Phang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_ainalbadri@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Kai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_kai_ling@schools.gov.sg</p>
+<p>nursyarifah_phang_kamarudin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shazana Binte Mohamed Shahari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shazana_mohamed_shahari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rolan Tambunan B Amir Assan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Chun Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_chun_hua@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>4Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Maneatonufus Binte Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maneatonufus_yusoff@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Chun Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_chun_hua@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
