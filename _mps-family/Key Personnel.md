@@ -90,17 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Information &amp; Communications Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Ban Hwee Jasper</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ban_hwee_jasper@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
