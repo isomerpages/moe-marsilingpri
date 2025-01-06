@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elishe Lim SH/Chinese Language</p>
+<p>Ms Elishe Lim (SH/Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>elishe_lim_shi_chi@schools.gov.sg</p>
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Juanjuan</p>
+<p>Mdm Li Juanjuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>li_juanjuan@schools.gov.sg</p>
