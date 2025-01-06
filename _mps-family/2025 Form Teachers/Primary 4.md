@@ -50,7 +50,7 @@ variant: tiptap
 <p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chang Lee Hui</p>
+<p>Miss Chang Lee Hui, Clara</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chang_lee_hui@schools.gov.sg</p>
