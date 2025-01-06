@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elishe Lim SH/Chinese Language (Cov. HOD/MT)</p>
+<p>Ms Elishe Lim SH/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>elishe_lim_shi_chi@schools.gov.sg</p>
