@@ -51,18 +51,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jian Chye, Sam</p>
+<p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_jian_chye_sam@schools.gov.sg</p>
+<p>sujatha_narayana_pillai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Ah Seng</p>
+<p>Mr Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ah_seng@schools.gov.sg</p>
+<p>tan_jian_chye_sam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -79,6 +79,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_hou_cheong_aloysius@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Ah Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_ah_seng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
