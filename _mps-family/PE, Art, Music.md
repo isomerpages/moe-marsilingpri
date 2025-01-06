@@ -70,8 +70,7 @@ description: ""
 <p>Mr Teo Yuanzhong, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>teo_yuanzhong@schools.gov.sg</p>
+<p>teo_yuanzhong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
