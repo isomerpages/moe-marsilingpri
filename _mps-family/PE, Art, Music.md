@@ -35,22 +35,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Ban Hwee Jasper (HOD/ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ban_hwee_jasper@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Wai Hao Leonard</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_wai_hao_leonard@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohammad Nursaffwan Othman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,10 +51,34 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sujatha Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sujatha_narayana_pillai@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_jian_chye_sam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Yuanzhong, Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_yuanzhong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Hou Cheong Aloysius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_hou_cheong_aloysius@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -118,6 +126,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>see_poh_bee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Nazurah Binte Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_nazurah_abdul_rahim@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
