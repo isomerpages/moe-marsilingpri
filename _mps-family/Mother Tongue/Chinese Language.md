@@ -93,14 +93,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tsen Hon Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tsen_hon_leong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wang Yuhang</p>
 </td>
 <td rowspan="1" colspan="1">
