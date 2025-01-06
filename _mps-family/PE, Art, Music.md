@@ -35,22 +35,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Ban Hwee Jasper (HOD/ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ban_hwee_jasper@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Wai Hao Leonard</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_wai_hao_leonard@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohammad Nursaffwan Othman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,6 +63,22 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_ah_seng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Hou Cheong Aloysius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_hou_cheong_aloysius@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
