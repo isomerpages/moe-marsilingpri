@@ -108,7 +108,7 @@ variant: tiptap
 <p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shanti_govindasamy@schools.gov.sg</p>
+<p>shanti_govindasamy_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
