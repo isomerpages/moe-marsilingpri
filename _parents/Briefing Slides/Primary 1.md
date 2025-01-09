@@ -21,34 +21,34 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/2024firstdayofschoolp1" rel="noopener noreferrer nofollow" target="_blank">2024 First Day of School Slides</a>
+<p><a href="https://for.edu.sg/2025firstdayofschoolp1" rel="noopener nofollow" target="_blank">2025 First Day of School Slides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024 P1 First day of school/2024_Cyber_Wellness_Talk_for_P1_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Cyber Wellness Slides</a>
+<p><a href="https://for.edu.sg/2025firstdaycwbriefingp1" rel="noopener nofollow" target="_blank">2025 P1 Cyber Wellness Slides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_EdTech__MPS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 EdTech Slides</a>
+<p><a href="https://for.edu.sg/2025firstdayedtechp1" rel="noopener nofollow" target="_blank">2025 P1 EdTech Slides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_Day_1_Briefing__EL__.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 English Slides</a>
@@ -57,7 +57,7 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_Math_Briefing_Slides__Hall_Segment_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Maths Slides</a>
@@ -66,7 +66,7 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_Orientation_MT_Briefing_Slides__Hall_Segment____For_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Mother Tongue Slides</a>
@@ -75,7 +75,7 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_PE_Curriculum_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 PE Slides</a>
@@ -84,7 +84,7 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_Slides_for_Art.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Art Slides</a>
@@ -93,7 +93,7 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2024</p>
+<p>2 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024 P1 First day of school/2024_P1_Music_Curriculum_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Music Slides</a>
