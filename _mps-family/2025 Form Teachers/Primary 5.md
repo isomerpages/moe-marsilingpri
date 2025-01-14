@@ -141,7 +141,7 @@ variant: tiptap
 <p>Mr Mohammad Nursaffwan Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chou_ching_shan@schools.gov.sg</p>
+<p>mohammad_nursaffwan_othman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
