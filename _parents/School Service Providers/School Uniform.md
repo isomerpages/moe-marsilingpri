@@ -18,10 +18,10 @@ variant: markdown
 <p><strong>Operating Hours</strong>
 <br>Monday - Saturday (Shanghai School Uniforms office)<br>
 10.00 am&nbsp; to 1.00 pm and 2.00 pm to 6.00 pm<br>
-<em>Closed on: Sunday, Public Holiday and 19 to 25 Dec 2024.</em><br>
+<em>Closed on: Sunday and Public Holiday.</em><br>
 <br>Monday - Friday (School Bookshop)<br>
 2.00 pm to 3.00 pm<br>
-<em>Uniform can be purchased at the bookshop from 3 Feb 2025 onwards.</em>
+<em>Uniform can be purchased at the bookshop from 10 Feb 2025 onwards.</em>
 
 </p><p><strong>Contact</strong>
 <br>Tel: 67478037
