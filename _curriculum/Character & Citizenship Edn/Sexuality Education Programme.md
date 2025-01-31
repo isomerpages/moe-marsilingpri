@@ -6,16 +6,16 @@ description: ""
 third_nav_title: Character & Citizenship Edn
 ---
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
-<p>1.&nbsp; &nbsp; &nbsp; &nbsp;Sexuality Education (SEd) in schools is about
-enabling students to understand the physiological, social and emotional
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
+aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support
@@ -59,16 +59,16 @@ Education (CCE)</p>
 <p></p>
 <p><strong>Sexuality Education</strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The upper primary years
-mark the onset of puberty.&nbsp;&nbsp;With better nutrition and improved
-health care, children are reaching puberty at a younger age and have to
-grapple with physical, emotional and psychological changes in themselves.
-The implication is that our children are becoming biologically ready for
-sexual activity sooner without necessarily having the corresponding cognitive
-or emotional maturity to modulate their behaviours. Furthermore, our young
-are also exposed to a wide range of influences that could endanger health
-and undermine the integrity of the family. Our students require guidance
-so that they can respond with discernment to the sexual messages in the
-media and other sources.</p>
+mark the onset of puberty. With better nutrition and improved health care,
+children are reaching puberty at a younger age and have to grapple with
+physical, emotional and psychological changes in themselves. The implication
+is that our children are becoming biologically ready for sexual activity
+sooner without necessarily having the corresponding cognitive or emotional
+maturity to modulate their behaviours. Furthermore, our young are also
+exposed to a wide range of influences that could endanger health and undermine
+the integrity of the family. Our students require close guidance so that
+they can respond with discernment to the sexual messages in the media and
+other sources.</p>
 <p>7.&nbsp; &nbsp; &nbsp; &nbsp; Sexuality Education (SEd) lessons are taught
 as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students
 will learn healthy ways to manage the physiological, social and emotional
@@ -77,9 +77,9 @@ relationships with others, including those with members of the opposite
 sex. Students are also guided to make wise, informed and responsible decisions
 to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024</strong>
+<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025</strong>
 </p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h5><strong>PRIMARY 5</strong></h5>
 <p><u>CCE(FTGP) THEME: GROWING YEARS</u>
 </p>
@@ -109,10 +109,10 @@ to keep themselves safe from sexuality-related risks.</p>
 <p>This lesson focuses on helping students identify the emotions and stress
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one's identify need not be negatively
-affected, even when one's body is experiencing changes due to puberty.
-This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -127,12 +127,13 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>'Stop-Think-Do'.</strong> This
-lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -143,12 +144,12 @@ so that the students will feel more comfortable during the discussions.</p>
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.This lesson is conducted
-separately for boys and girls in different classrooms, so that the students
-will feel more comfortable during the discussions.</p>
+and how to seek help for themselves and their friends.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -179,7 +180,7 @@ will feel more comfortable during the discussions.</p>
 <p>Are We More than Friends? (Lesson 1, 60min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn to distinguish between the characteristic
+<p>In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
@@ -188,7 +189,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -211,14 +212,14 @@ and learn to behave maturely towards each other.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;Parents may opt their children out of the Sexuality Education
-lessons, and/or supplementary sexuality education programmes by MOE-approved
-external providers.&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>8.&nbsp;&nbsp;Parents may opt their children out of Sexuality Education
+lessons, and/or supplementary Sexuality Education programmes by MOE-approved
+external providers.</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
-Education lessons&nbsp;need to complete an opt-out form. This form will
-be distributed to parents at the start of the year and is also downloadable
-<a href="https://www.marsilingpri.moe.edu.sg/files/MPS_2024_SEd_letter_to_parents__Opt_out_form_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed opt-out form is to be submitted by&nbsp;<strong>05/02/2024.</strong>
-</p>
+Education lessons need to complete an opt-out form. This form will be communicated
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://for.edu.sg/mps-2025-moesexualityeducation-parent-opt-out-form" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.
+Kindly submit the completed opt-out form to your child’s / ward’s Form
+Teacher by <strong>25/03/2025 (T2W1)</strong>.</p>
 <p>10.&nbsp;&nbsp;Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a> or
 62696193 for discussion or to seek clarification about the school’s sexuality
 education programme.</p>
