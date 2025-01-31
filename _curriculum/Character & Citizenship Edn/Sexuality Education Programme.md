@@ -79,7 +79,7 @@ to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 <p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025</strong>
 </p>
-<h4><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h5><strong>PRIMARY 5</strong></h5>
 <p><u>CCE(FTGP) THEME: GROWING YEARS</u>
 </p>
@@ -109,10 +109,10 @@ to keep themselves safe from sexuality-related risks.</p>
 <p>This lesson focuses on helping students identify the emotions and stress
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one's identify need not be negatively
-affected, even when one's body is experiencing changes due to puberty.
-This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
