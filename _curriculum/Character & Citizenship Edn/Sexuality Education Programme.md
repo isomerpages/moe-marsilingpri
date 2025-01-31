@@ -180,7 +180,7 @@ and how to seek help for themselves and their friends.</p>
 <p>Are We More than Friends? (Lesson 1, 60min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn to distinguish between the characteristic
+<p>In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
