@@ -77,9 +77,9 @@ relationships with others, including those with members of the opposite
 sex. Students are also guided to make wise, informed and responsible decisions
 to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024</strong>
+<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025</strong>
 </p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE 2021</strong></h4>
 <h5><strong>PRIMARY 5</strong></h5>
 <p><u>CCE(FTGP) THEME: GROWING YEARS</u>
 </p>
