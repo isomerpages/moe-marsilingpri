@@ -17,7 +17,7 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Assessment Letters/MPS_2025_T1_049_P6_Assessment_2025__Term_1_.pdf" rel="noopener nofollow" target="_blank">P6 T1 School Based Assessment 2024</a>
+<p><a href="/files/2025 Assessment Letters/MPS_2025_T1_049_P6_Assessment_2025__Term_1_.pdf" rel="noopener nofollow" target="_blank">P6 T1 School Based Assessment 2025</a>
 </p>
 </td>
 </tr>
