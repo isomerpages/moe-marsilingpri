@@ -29,5 +29,4 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
