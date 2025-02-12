@@ -23,7 +23,7 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 YH Letters/MPS_2025_T1___02b__P2_YH_Letter_and_COE.pdf" rel="noopener nofollow" target="_blank">2024 P1 T1 YH Letter 2025</a>
+<p><a href="/files/2025 YH Letters/MPS_2025_T1___02b__P2_YH_Letter_and_COE.pdf" rel="noopener nofollow" target="_blank">P2 T1 YH Letter 2025</a>
 </p>
 </td>
 </tr>
