@@ -51,11 +51,8 @@ an open mind to new ideas and possibilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_FeMesis_combo.png">
 </div>
-<p>Ray is like the sunlight that brightens up other people’s day. When he
-is down, or feeling disappointed, he will look at the bright side of things
-and think of helpful ways to overcome the challenges he faced. Like Sparkle,
-he also has resilience and grit. He will learn from his mistakes and keep
-an open mind to new ideas and possibilities.</p>
+<p>Dr. FeMesis thinks negatively about everything. He has a fixed mindset.
+He finds it difficult to think positively.</p>
 <h4></h4>
 <h4><strong>Our Growth Mindset (GM) Messages</strong></h4>
 <p>The 6 Growth Mindset messages are</p>
