@@ -112,17 +112,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shazana Binte Mohamed Shahari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shazana_mohamed_shahari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH/Upper Primary</p>
 <p></p>
 </td>
