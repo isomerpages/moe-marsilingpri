@@ -31,28 +31,6 @@ and contribute back to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kugan Kumar S/O Satehs Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Harmony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +49,28 @@ and contribute back to society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kugan Kumar S/O Satehs Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Care</p>
 </td>
 </tr>
 </tbody>
