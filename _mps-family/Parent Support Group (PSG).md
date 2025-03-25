@@ -57,14 +57,6 @@ variant: tiptap
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Nur Bin Abdol Ajis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ng Cher Yar</p>
 </td>
 </tr>
