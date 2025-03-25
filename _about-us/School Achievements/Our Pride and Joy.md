@@ -100,13 +100,24 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aydin Adel Bin Shamsul Nahar</p>
+<p>Yap Jun Yang Justin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Responsibility</p>
+<p>6Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mak Zhe Wei Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
@@ -133,24 +144,13 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yap Jun Yang Justin</p>
+<p>Aydin Adel Bin Shamsul Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mak Zhe Wei Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Respect</p>
+<p>6Responsibility</p>
 </td>
 </tr>
 </tbody>
