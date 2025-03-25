@@ -189,62 +189,6 @@ in their CCA, leadership and academics.</p>
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Day: Let Your Voices Be Heard!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Innovative Outdoor Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Campfire Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Outdoor Photography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,6 +238,62 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Let Your Voices Be Heard!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Innovative Outdoor Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Campfire Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Outdoor Photography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
 </td>
 </tr>
 <tr>
