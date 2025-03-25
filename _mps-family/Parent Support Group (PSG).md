@@ -25,7 +25,7 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace C. Concepcion</p>
+<p>Jayavalli shanmugam alias Nithya</p>
 </td>
 </tr>
 <tr>
@@ -33,28 +33,52 @@ variant: tiptap
 <p>Vice Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayavlli D/O Shanmugam Alias Nithya</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pauline Chua Poh Li</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Adillah Binte Mohamad</p>
+<p>Muhammad Nur Bin Abdol Ajis</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noraisah Binte Muhammad Amiruddin&nbsp;Sundararaj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hendera Zulkarnaen Bin Mohamed Hakim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Nur Bin Abdol Ajis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Cher Yar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khairul Anuar Bin Md Ibrahim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nadia Binte Hassan</p>
@@ -73,7 +97,7 @@ variant: tiptap
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Nur Bin Abdol Ajis</p>
+<p>Prasanna Devi Muthukannan</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +105,7 @@ variant: tiptap
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Aminah Binti Noh</p>
+<p>Yong Peck Gock</p>
 </td>
 </tr>
 <tr>
@@ -89,15 +113,7 @@ variant: tiptap
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khairul Anuar Bin Md Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hendera Zulkarnaen Bin Mohd Hakim</p>
+<p>⁠Siti Aminah</p>
 </td>
 </tr>
 <tr>
