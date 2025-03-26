@@ -695,10 +695,10 @@ in their CCA, leadership and academics.</p>
 <p>Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Primary School Chinese Language Text Recital Competition</p>
+<p>24th International Chinese Language Competition for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
@@ -723,10 +723,10 @@ in their CCA, leadership and academics.</p>
 <p>Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24th International Chinese Language Competition for Primary Schools</p>
+<p>National Primary School Chinese Language Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
