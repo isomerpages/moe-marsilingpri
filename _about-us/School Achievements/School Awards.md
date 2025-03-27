@@ -48,7 +48,7 @@ third_nav_title: School Achievements
 <p>Ms Yong&nbsp;Sze&nbsp;Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Ching, Anglea</p>
+<p>Ms Goh Lay Ching, Angela</p>
 </td>
 </tr>
 <tr>
