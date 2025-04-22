@@ -29,4 +29,29 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 YH Letters/MPS_2025_T2___086b__P2_YH_Letter_and_COE.pdf" rel="noopener nofollow" target="_blank">P2 T2 YH Letter 2025</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
