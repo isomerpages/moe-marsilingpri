@@ -31,28 +31,6 @@ and contribute back to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kugan Kumar S/O Satehs Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Harmony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +49,28 @@ and contribute back to society.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kugan Kumar S/O Satehs Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoon Nurdhia Darwisyah Binte Hoon Zulkifli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Care</p>
 </td>
 </tr>
 </tbody>
@@ -100,13 +100,24 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aydin Adel Bin Shamsul Nahar</p>
+<p>Yap Jun Yang Justin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Responsibility</p>
+<p>6Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mak Zhe Wei Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
@@ -133,24 +144,13 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yap Jun Yang Justin</p>
+<p>Aydin Adel Bin Shamsul Nahar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mak Zhe Wei Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6Respect</p>
+<p>6Responsibility</p>
 </td>
 </tr>
 </tbody>
@@ -182,62 +182,6 @@ in their CCA, leadership and academics.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Award</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Day: Let Your Voices Be Heard!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Innovative Outdoor Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Campfire Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge: Outdoor Photography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Merit</p>
 </td>
 </tr>
 <tr>
@@ -294,6 +238,62 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Day: Let Your Voices Be Heard!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Innovative Outdoor Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Campfire Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Outdoor Challenge: Outdoor Photography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
 </td>
 </tr>
 <tr>
@@ -695,10 +695,10 @@ in their CCA, leadership and academics.</p>
 <p>Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Primary School Chinese Language Text Recital Competition</p>
+<p>24th International Chinese Language Competition for Primary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
@@ -723,10 +723,10 @@ in their CCA, leadership and academics.</p>
 <p>Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24th International Chinese Language Competition for Primary Schools</p>
+<p>National Primary School Chinese Language Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>

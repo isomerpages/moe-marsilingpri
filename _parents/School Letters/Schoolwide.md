@@ -25,4 +25,24 @@ third_nav_title: School Letters
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 P's Letters/MPS_2025_T2_092_P_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">T2 Letter to Parents by Principal</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
