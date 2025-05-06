@@ -21,11 +21,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Aug 2024</p>
+<p>25 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4_SBB_Briefing_to_Parents_2024_For_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 Bri</a>
-<a href="/files/P4_SBB_Briefing_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/P4_SBB_Briefing_to_Parents_2024_For_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">efing Slides to Parents</a>
+<p><a href="/files/P4_SBB_Briefing_to_Parents_2025.pdf" rel="noopener nofollow" target="_blank">P4 SBB Briefing to Parents 2025</a>
 </p>
 </td>
 </tr>
