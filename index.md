@@ -52,9 +52,9 @@ sections:
       title: MPS 2025 Open House is here!
       subtitle: 4 July 2025
       id: infopic
-      description: Welcoming all parents to explore Marsiling Primary School's
-        environment and learn about the school's programs, facilities, and
-        culture for your child!
+      description: On 4 July 2025, we welcome all parents to Marsiling Primary School.
+        Come and learn more about our programmes, facilities and learning
+        experience!
       button: Button Text
       image: /images/2025_Open_House___MPS_Final.png
       alt: Image alt text
