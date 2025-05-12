@@ -48,4 +48,14 @@ sections:
             them for the award today!
           link_text: Click here to submit your nominations.
           link_url: https://go.gov.sg/oyea2025
+  - infopic:
+      title: MPS 2025 Open House is here!
+      subtitle: 4 July 2025
+      id: infopic
+      description: On 4 July 2025, we welcome all parents to Marsiling Primary School.
+        Come and learn more about our programmes, facilities and learning
+        experience!
+      button: Button Text
+      image: /images/2025_Open_House___MPS_Final.png
+      alt: Image alt text
 ---
