@@ -31,9 +31,8 @@ Science-Technology-Society-Environment)</p>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___Programmes_at_a_Glance_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
 </div>
-<p></p>
 <h4><strong>Science Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
