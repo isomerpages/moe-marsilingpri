@@ -15,10 +15,10 @@ through various platforms and engagement in physical and outdoor activities.</p>
 a physically active and healthy lifestyle.</p>
 <h4></h4>
 <h4><strong>Programmes at a Glance</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE Programmes at a Glance" src="/images/Programmes_at_a_glance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
 </div>
-<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Outdoor Adventure Learning (OAL) Cohort Camp</h4>
 <p>The Primary 5 Outdoor Adventure Learning Cohort Camp is a fun and exciting
