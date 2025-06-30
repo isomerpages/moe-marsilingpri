@@ -70,17 +70,6 @@ variant: tiptap
 <p>tan_poh_lin_caroline@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (Teaching and Learning)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Amir Abidin Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amir_abidin@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
