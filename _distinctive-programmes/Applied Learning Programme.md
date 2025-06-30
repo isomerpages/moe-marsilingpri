@@ -36,21 +36,20 @@ and motivation in reading.</p>
 critically on the importance of values in guiding us. The programme builds
 students’ competency and confidence in reading fluency and speaking in
 front of an audience.</p>
-<p><strong>Primary 3 Storytelling</strong>
+<p><strong>Primary 3 Public Speaking</strong>
 </p>
-<p>Students develop the ability to employ appropriate physical and vocal
-resources to engage the audience through storytelling. The programme encourages
-students to express themselves creatively to convey purpose, context and
-culture of stories to their audience.</p>
+<p>Students develop confidence in presenting information clearly and accurately.
+Aligned with the STELLAR curriculum, students learn to organise key ideas,
+use appropriate language features, and speak with clarity when delivering
+short information texts to an audience.</p>
 <p><strong>Primary 4 Film making</strong>
 </p>
 <p>Students learn to create their own stories through storyboarding and film
 making. Students acquire visual literacy and understand how an interesting
 plot and script, visual images and sound can help them to communicate ideas
 across with greater impact. &nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_2.jpg">
 </div>
 <h4>STAR Development Programme (Tier 2)</h4>
 <p><strong>STAR Development Programme</strong>&nbsp;is our talent development
@@ -59,9 +58,9 @@ show interest and passion in the area of oracy and/ or speech and drama.
 Through this programme, students will be provided with opportunities to
 stretch their potential. Selected students will get opportunities to participate
 in programmes such as Trinity College London Speech and Drama Programme
-and film making masterclass as well as competitions to hone their talent
+and filmmaking masterclass as well as competitions to hone their talent
 and skills. Selected students who have displayed talents will take part
-in competitions such as 2024 Wits &amp; Words Inter-school Debate Championships,
+in competitions such as Wits &amp; Words Inter-school Debate Championships,
 Mythos Junior Orators and National English Writing Competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
