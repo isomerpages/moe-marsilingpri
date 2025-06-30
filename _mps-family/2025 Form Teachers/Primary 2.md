@@ -47,17 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Poh Khim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_poh_khim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
