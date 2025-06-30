@@ -112,6 +112,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>YH/Middle
+<br>Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Duyue Ferlicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ferlicia_lim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YH/Upper Primary</p>
 <p></p>
 </td>
@@ -246,29 +258,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>michelle_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH/Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ferlicia_lim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH/Middle Primary</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sng Su Hoon, Shirley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sng_su_hoon@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

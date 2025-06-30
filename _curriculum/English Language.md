@@ -25,16 +25,17 @@ programmes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_1.png">
 </div>
+<h4></h4>
 <h4><strong>English Language Curriculum Framework</strong></h4>
-<h4>STrategies for English Language Learning and Reading (STELLAR)</h4>
-<p>STELLAR and STELLAR 2.0 aim to strengthen students’ language and reading
-skills as well as promote a positive attitude towards learning through
-exposure to various text types and teaching strategies.&nbsp;The key strategies
-used in the lower primary classrooms are the Shared Book Approach (SBA),
-Modified Language Experience Approach (MLEA) and Learning Centres (LC).
-As for upper primary levels, the key strategies used in the classrooms
-are Supported Reading (SR), Process Writing, Peer Conferencing, Know-Want
-to know-Learnt (KWL) and Retelling.</p>
+<h4>EL STrategies for English Language Learning and Reading (STELLAR 2.0)</h4>
+<p>STELLAR 2.0 aims to strengthen students’ language and reading skills as
+well as promote a positive attitude towards learning through exposure to
+various text types and teaching strategies.&nbsp;The key strategies used
+in the lower primary classrooms are the Shared Book Approach (SBA), Modified
+Language Experience Approach (MLEA) and Learning Centres (LC). As for upper
+primary levels, the key strategies used in the classrooms are Supported
+Reading (SR), Process Writing, Peer Conferencing, Know-Want to know-Learnt
+(KWL) and Retelling.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_2.png">
@@ -54,10 +55,7 @@ uninterrupted reading time. We also provide a wide variety of reading resources
 such e-books on an online reading platform, P1 and P2 graded readers series
 as well as P3 to P6 Extensive Starter Kits in the class library. To expose
 them to non-fiction texts and the world around them, the P3 to P6 students
-also read news articles on Little Red Dot. All students will reflect on
-the books that they have read through book reviews and reading extension
-activities as they complete the Reading Ranger Booklets (P1 and P2) and
-Reading Leader Booklets (P3 to P6) to earn a reading token.</p>
+also read news articles on Little Red Dot.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_4.png">

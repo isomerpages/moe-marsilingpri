@@ -46,3 +46,24 @@ third_nav_title: School Letters
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 P's Letters/T3_Letter_to_Parents_by_Principal.pdf" rel="noopener nofollow" target="_blank">T3 Letter to Parents by Principal</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
