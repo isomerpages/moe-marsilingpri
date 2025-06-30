@@ -61,10 +61,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Ah Seng</p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ah_seng@schools.gov.sg</p>
+<p>goh_soy_moi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
