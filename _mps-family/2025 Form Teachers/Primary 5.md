@@ -72,6 +72,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Michelle Tan Siyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>michelle_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
 </td>
 <td rowspan="1" colspan="1">
