@@ -5,16 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
-<p>Technology-transformed learning, to prepare students for a technology-transformed
-future</p>
+<p>Empowering Marsilians for a Technologically-Transformed Future</p>
 <h4><strong>Mission</strong></h4>
-<p>Empowering students to become digitally-enabled, future-ready innovators.</p>
-<p>Fostering a community of technologically-adept, collaborative learning
-designers.</p>
+<p>The ICT Department aims:</p>
+<p>•To equip Marsilians with future-ready technological skills and digital
+competencies</p>
+<p>•To develop responsible digital citizens with strong moral and social
+anchors</p>
+<p>•To create a community of digital confident learners and leaders</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Picture6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_1.jpg">
+</div>
+<h4><strong>ICT Framework</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Framework.jpg">
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Digital Literacy @ MPS</h4>
