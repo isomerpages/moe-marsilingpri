@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm June Wong Jing Hui</p>
@@ -68,17 +68,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_poh_lin_caroline@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (Teaching and Learning)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Amir Abidin Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amir_abidin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

@@ -207,7 +207,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Malay Language (Cov. HOD/MTL)</p>
+<p>SH/Malay Language</p>
+<p>(Cov. HOD/MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsriwani Bakar</p>
@@ -258,6 +259,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>michelle_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH/Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sng Su Hoon, Shirley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sng_su_hoon@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -381,7 +393,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Manager (AM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Chui Lin, Winnie</p>

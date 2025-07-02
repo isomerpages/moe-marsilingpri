@@ -61,10 +61,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Ah Seng</p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ah_seng@schools.gov.sg</p>
+<p>goh_soy_moi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Wong Weng Keong</p>
+<p>Ms Rajasveri d/o Renganathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bernard_wong_weng_keong_a@schools.gov.sg</p>
+<p>rajasveri_renganathan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +127,10 @@ variant: tiptap
 <p>3Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Ibrahim Bin Zainee</p>
+<p>Ms Chen Xiaoyin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_ibrahim_zainee@schools.gov.sg</p>
+<p>chen_xiaoyin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -142,6 +142,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>see_poh_bee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sharon_ho@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
