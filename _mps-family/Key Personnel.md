@@ -229,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
+<p>SH/PE &amp; CCA (Cov.HOD/PE&amp;CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Su Haojing</p>
@@ -370,7 +370,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p><strong>Administration Managers</strong>
+<p><strong>Administration Managers (AM)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
