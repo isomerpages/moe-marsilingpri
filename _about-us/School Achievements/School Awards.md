@@ -5,6 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
+<h4><strong>Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024</strong></h4>
+<p>Marsiling Primary School received the Lee Hsien Loong Award for Innovation
+in Uplifting Students (LHL AIUS) 2024. The prestigious national accolade
+recognises our school's strong culture of care, excellence, and inclusivity,
+especially in supporting students with greater needs.</p>
+<p>Only a few schools are awarded each year, following a rigorous selection
+and validation process.</p>
+<p>To be among them is both a proud milestone and a meaningful affirmation
+of our mission. We are proud to contribute to building a more equitable
+future and will continue striving to uplift every Marsilian. This achievement
+would not have been possible without our caring and committed staff and
+supportive community.</p>
 <h4><strong>2020 MOE Innergy Award</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
