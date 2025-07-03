@@ -24,9 +24,8 @@ in everyday life.</p>
 </li>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/MTL_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Programmes_at_a_glance__3_Jul_25_.png">
 </div>
 <h4><strong>Mother Tongue Language Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
