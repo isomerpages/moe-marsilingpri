@@ -31,13 +31,23 @@ sections:
           link_text: Click on the link  to watch the video.
           link_url: https://www.zbschools.sg/stories-29563
   - infopic:
+      title: Lee Hsien Loong Award for Innovation in Uplifting Students
+      subtitle: 3 July 2025
+      id: infopic
+      description: We are honoured to share that Marsiling Primary School has received
+        the Lee Hsien Loong Award for Innovation in Uplifting Students (LHL
+        AIUS) 2024.
+      button: Click for more details.
+      image: /images/LHL_V2.png
+      alt: Image alt text
+      url: https://www.marsilingpri.moe.edu.sg/school-awards/
+  - infopic:
       title: MPS 2025 Open House is here!
-      subtitle: 4 July 2025
+      subtitle: 27 June 2025
       id: infopic
       description: On 4 July 2025, we welcome parents and their Kindergarten 2 (K2)
         children to our school. Get ready for a session full of fun, exploration
         and hands-on learning!
-      button: Button Text
       image: /images/2025_Open_House___MPS_Final.png
       alt: Image alt text
 ---
