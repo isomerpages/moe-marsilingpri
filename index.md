@@ -37,9 +37,10 @@ sections:
       description: We are honoured to share that Marsiling Primary School has received
         the Lee Hsien Loong Award for Innovation in Uplifting Students (LHL
         AIUS) 2024.
-      button: Button Text
+      button: Click on the link for more details.
       image: /images/LHL_V1.png
       alt: Image alt text
+      url: https://www.marsilingpri.moe.edu.sg/school-awards/
   - infopic:
       title: MPS 2025 Open House is here!
       subtitle: 4 July 2025
