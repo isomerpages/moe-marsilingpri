@@ -112,8 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Middle
-<br>Primary</p>
+<p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lim Duyue Ferlicia</p>
@@ -207,8 +206,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Malay Language</p>
-<p>(Cov. HOD/MTL)</p>
+<p>SH/Malay Language
+<br>(Cov. HOD/MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsriwani Bakar</p>
@@ -230,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/PE &amp; CCA (Cov. HOD/PE&amp;CCA)</p>
+<p>SH/PE &amp; CCA (Cov.HOD/PE&amp;CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Su Haojing</p>
@@ -371,7 +370,7 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p><strong>Administration Managers</strong>
+<p><strong>Administration Managers (AM)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
