@@ -31,6 +31,16 @@ sections:
           link_text: Click on the link  to watch the video.
           link_url: https://www.zbschools.sg/stories-29563
   - infopic:
+      title: LHL AIUS 2024
+      subtitle: 3 July 2025
+      id: infopic
+      description: We are honoured to share that Marsiling Primary School has received
+        the Lee Hsien Loong Award for Innovation in Uplifting Students (LHL
+        AIUS) 2024.
+      button: Button Text
+      image: /images/LHL_V1.png
+      alt: Image alt text
+  - infopic:
       title: MPS 2025 Open House is here!
       subtitle: 4 July 2025
       id: infopic
