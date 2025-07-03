@@ -10,7 +10,8 @@ third_nav_title: School Achievements
 Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024.
 This prestigious national accolade recognises our strong culture of care,
 excellence, and inclusivity, especially in supporting students with greater
-needs. Only a few schools are awarded each year, following a rigorous selection
+needs.</p>
+<p>Only a few schools are awarded each year, following a rigorous selection
 and validation process. To be among them is both a proud milestone and
 a meaningful affirmation of our mission. We are proud to contribute to
 building a more equitable future and will continue striving to uplift every
