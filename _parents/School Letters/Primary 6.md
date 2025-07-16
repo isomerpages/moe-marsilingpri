@@ -55,4 +55,30 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 Assessment Letters/MPS2025T2_128_P6_Assessment_2025__Term_2_.pdf" rel="noopener nofollow" target="_blank">P6 T3 School Based Assessment 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 YH Letters/MPS_2025_T2___086f___P6_YH_Letter___COE.pdf" rel="noopener nofollow" target="_blank">P6 T3 YH Letter 2025</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
