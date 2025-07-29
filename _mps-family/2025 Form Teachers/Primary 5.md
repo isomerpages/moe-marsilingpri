@@ -105,10 +105,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sahana Hemanthbabu</p>
+<p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sahana_Hemanthbabu@schools.gov.sg</p>
+<p>siti_nur_aisyah_johari@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,10 +116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Aisyah Bte Md Johari G</p>
+<p>Miss Sahana Hemanthbabu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nur_aisyah_johari@schools.gov.sg</p>
+<p>Sahana_Hemanthbabu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,10 +171,10 @@ variant: tiptap
 <p>5Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mohana D/O Thangavalu</p>
+<p>Mrs Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohana_parthiben@schools.gov.sg</p>
+<p>latchmana_murlly@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
