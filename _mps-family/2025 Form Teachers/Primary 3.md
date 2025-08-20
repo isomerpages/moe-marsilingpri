@@ -116,7 +116,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rajasveri d/o Renganathan</p>
+<p>Ms Rajasveri D/O Renganathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rajasveri_renganathan@schools.gov.sg</p>
