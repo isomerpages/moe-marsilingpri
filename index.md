@@ -41,13 +41,4 @@ sections:
       image: /images/LHL_V2.png
       alt: Image alt text
       url: https://www.marsilingpri.moe.edu.sg/school-awards/
-  - infopic:
-      title: MPS 2025 Open House is here!
-      subtitle: 27 June 2025
-      id: infopic
-      description: On 4 July 2025, we welcome parents and their Kindergarten 2 (K2)
-        children to our school. Get ready for a session full of fun, exploration
-        and hands-on learning!
-      image: /images/2025_Open_House___MPS_Final.png
-      alt: Image alt text
 ---
