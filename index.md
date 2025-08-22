@@ -22,14 +22,6 @@ sections:
   - announcements:
       title: Highlights
       id: announcements
-      announcement_items:
-        - title: What does being responsible mean?
-          date: 13 May 2024
-          announcement: 《大头条进校园》series has arrived at Marsiling Primary School! Three P5
-            students shared their views on current news topics and how they
-            demonstrate a sense of responsibility in their daily lives.
-          link_text: Click on the link  to watch the video.
-          link_url: https://www.zbschools.sg/stories-29563
   - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
       subtitle: 3 July 2025
