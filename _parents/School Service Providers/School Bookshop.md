@@ -17,7 +17,7 @@ variant: markdown
 <br>8.00 am&nbsp; to 3.00 pm</p>
 <p>Parents are allowed to purchase at school bookshop from 2.00pm to 3.00pm.</p>
 <p><strong>Contact</strong>
-<br>Tel: 63826789 (Ext 113)
+<br>Tel: 63826789 (Ext 202)
 <br>Email: msps@oapl.sg</p>
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
