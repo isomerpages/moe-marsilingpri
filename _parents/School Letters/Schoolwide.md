@@ -67,3 +67,24 @@ third_nav_title: School Letters
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/MPS_2025_T4_414_Welcome_Back_to_School__Term_4_.pdf" rel="noopener nofollow" target="_blank">T4 Letter to Parents by Principal</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
