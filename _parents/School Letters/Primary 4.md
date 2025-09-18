@@ -81,4 +81,29 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Term 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/2025 YH Letters/MPS_2025_T4___413d___P4_YH_Letter_COE.pdf" rel="noopener nofollow" target="_blank">P4 T4 YH Letter 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
