@@ -116,10 +116,10 @@ variant: tiptap
 <p>3Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Xiaoyin</p>
+<p>Mr Mohammad Ibrahim Bin Zainee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_xiaoyin@schools.gov.sg</p>
+<p>mohammad_ibrahim_zainee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
