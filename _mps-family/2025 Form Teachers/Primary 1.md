@@ -58,17 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Guan Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_guan_pheng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
