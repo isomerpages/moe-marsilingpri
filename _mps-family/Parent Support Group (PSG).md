@@ -49,14 +49,6 @@ variant: tiptap
 <p>EXCO Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hendera Zulkarnaen Bin Mohamed Hakim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ng Cher Yar</p>
 </td>
 </tr>
@@ -66,14 +58,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Khairul Anuar Bin Md Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nadia Binte Hassan</p>
 </td>
 </tr>
 <tr>
@@ -106,14 +90,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>⁠Siti Aminah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhang Yang</p>
 </td>
 </tr>
 </tbody>
