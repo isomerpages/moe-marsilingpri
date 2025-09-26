@@ -31,6 +31,17 @@ and contribute back to society.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mak Zhe Wei Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
