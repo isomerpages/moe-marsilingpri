@@ -43,8 +43,8 @@ School.</p>
 <p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 3.15p.m. – 4.15p.m</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Dance Studio</p>
