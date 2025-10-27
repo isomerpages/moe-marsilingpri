@@ -40,8 +40,8 @@ and various competitions held at different time of the year.</p>
 <p>Ms Maneatonufus</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Computer Lab 1 and 2</p>
