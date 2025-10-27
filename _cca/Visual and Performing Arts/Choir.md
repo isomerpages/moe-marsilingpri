@@ -42,8 +42,8 @@ Secondary School.</p>
 <p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Music Room 1</p>
