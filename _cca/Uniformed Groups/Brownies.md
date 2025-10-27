@@ -37,8 +37,8 @@ to the community.</p>
 <p>Miss Michelle Tan Siyun</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Teaching Lab (Level 1)</p>
