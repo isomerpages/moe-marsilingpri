@@ -37,8 +37,8 @@ future and become sportsmen of integrity.</p>
 <p>Mdm Lee Chun Hua</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Field</p>
