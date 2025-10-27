@@ -40,8 +40,8 @@ through the CCA.</p>
 <p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Hall</p>

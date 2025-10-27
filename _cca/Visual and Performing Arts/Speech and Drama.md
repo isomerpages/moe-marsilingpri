@@ -36,8 +36,8 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <p>Mdm Lee Guan Pheng</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Music Room 2</p>

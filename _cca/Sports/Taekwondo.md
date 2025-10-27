@@ -36,10 +36,8 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday
-<br>
-</p>
-<p>Time: 3.15pm – 4.15pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>ISH (Level 3)</p>

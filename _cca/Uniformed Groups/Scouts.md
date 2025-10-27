@@ -38,8 +38,8 @@ providing them with practical leadership experience.</p>
 <p>Mr Tan Yong Sng, Jason</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>CCA Room 1 (Indoor Sports Hall, Level 1)</p>
