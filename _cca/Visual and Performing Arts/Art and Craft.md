@@ -37,8 +37,8 @@ confidently and appreciate others’ artworks as well.</p>
 <p>Miss Nur Nazurah Binte Abdul Rahim</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day:</p>
+<p>Time:</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Art Room 2</p>
