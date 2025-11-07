@@ -11,7 +11,7 @@ variant: tiptap
 <p>If you are unable to contact Mr. Yeo via call, please send him a message
 via SMS.</p>
 <p>HP: 96327095</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">aikshen1@singnet.com.sg</a>
+<p>Email: <a href="mailto:marsiling@aikshenbus.com.sg" rel="noopener noreferrer nofollow" target="_blank">marsiling@aikshenbus.com.sg</a>
 </p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
 <div class="isomer-image-wrapper">
@@ -19,5 +19,5 @@ via SMS.</p>
 </div>
 <p></p>
 <p><strong>Resources</strong>
-<br>Click <a href="https://form.gov.sg/6719d902e7307d56ca58652e" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<br>Click <a href="/files/Marsiling_Pri_Sch_Bus_Registration_Form___2026__edited_2_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download the registration form</p>
