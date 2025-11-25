@@ -5,6 +5,10 @@ description: ""
 third_nav_title: School Service Providers
 variant: markdown
 ---
+<p><strong>Uniform Information to Parents - 2026</strong>
+	[Uniform info 2026](/files/Uniform_Info_to_Parents_2026___MPS.pdf)
+</p>
+
 <p><strong>Address</strong>
 <br><strong>Shanghai School Uniforms</strong>
 <br>63, Ubi Avenue 1 #04-09 63@Ubi (formerly Boustead House)
@@ -21,7 +25,7 @@ variant: markdown
 <em>Closed on: Sunday and Public Holiday.</em><br>
 <br>Monday - Friday (School Bookshop)<br>
 2.00 pm to 3.00 pm<br>
-<em>Uniform can be purchased at the bookshop from 10 Feb 2025 onwards.</em>
+<em>Uniform can be purchased at the bookshop from 10 Feb 2026 onwards.</em>
 
 </p><p><strong>Contact</strong>
 <br>Tel: 67478037
