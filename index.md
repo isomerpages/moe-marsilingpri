@@ -30,7 +30,7 @@ sections:
         the Lee Hsien Loong Award for Innovation in Uplifting Students (LHL
         AIUS) 2024.
       button: Click for more details.
-      image: /images/LHL_V2.png
+      image: /images/LHL_Homepage.png
       alt: Image alt text
       url: https://www.marsilingpri.moe.edu.sg/school-awards/
 ---
