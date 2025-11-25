@@ -21,7 +21,7 @@ variant: markdown
 <br>Email: msps@oapl.sg</p>
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
-<br><a href="/files/2026 Booklist/Booklist 2026 P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2025</a>
+<br><a href="/files/2026 Booklist/Booklist 2026 P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2026</a>
 <br>
 <a href="/files/2026 Booklist/Booklist 2026 P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2026</a>
 <br>
