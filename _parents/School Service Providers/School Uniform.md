@@ -8,6 +8,7 @@ variant: markdown
 <p><strong>Uniform Information to Parents - 2026</strong>
 	[Uniform info 2026](/files/Uniform_Info_to_Parents_2026___MPS.pdf)
 </p>
+
 <p><strong>Address</strong>
 <br><strong>Shanghai School Uniforms</strong>
 <br>63, Ubi Avenue 1 #04-09 63@Ubi (formerly Boustead House)
