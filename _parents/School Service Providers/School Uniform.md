@@ -25,7 +25,7 @@ variant: markdown
 <em>Closed on: Sunday and Public Holiday.</em><br>
 <br>Monday - Friday (School Bookshop)<br>
 2.00 pm to 3.00 pm<br>
-<em>Uniform can be purchased at the bookshop from 10 Feb 2025 onwards.</em>
+<em>Uniform can be purchased at the bookshop from 10 Feb 2026 onwards.</em>
 
 </p><p><strong>Contact</strong>
 <br>Tel: 67478037
