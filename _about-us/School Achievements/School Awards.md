@@ -6,6 +6,14 @@ description: ""
 third_nav_title: School Achievements
 ---
 <h4><strong>Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LHL.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trophy.jpg">
+</div>
 <p>We are honoured to share that Marsiling Primary School has received the
 Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024.
 This prestigious national accolade recognises our strong culture of care,
