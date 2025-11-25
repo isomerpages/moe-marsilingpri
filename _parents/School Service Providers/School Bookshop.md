@@ -27,13 +27,13 @@ variant: markdown
 <br>
 <a href="/files/2026 Booklist/Booklist 2026 P3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2026</a>
 <br>
-<a href="/files/2026 BooklistBooklist 2026 P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
+<a href="/files/2026 Booklist/Booklist 2026 P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
 <br>
 <a href="/files/2026 Booklist/Booklist 2026 P5 FN.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation Booklist 2026</a>
 <br>
 <a href="/files/2026 Booklist/Booklist 2026 P5 STD.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2026</a>
 <br>
-<a href="/files/2026 BooklistBooklist 2026 P6 FN.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2026</a>
+<a href="/files/2026 Booklist/Booklist 2026 P6 FN.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2026</a>
 <br>
 <a href="/files/2026 Booklist/Booklist 2026 P6 STD.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
 </p>
