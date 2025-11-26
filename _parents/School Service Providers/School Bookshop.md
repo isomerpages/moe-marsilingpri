@@ -3,7 +3,7 @@ title: School Bookshop
 permalink: /for-parents/school-service-providers/school-bookshop/
 description: ""
 third_nav_title: School Service Providers
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Address </strong>
 <br><strong>Overseas Associates Pte Ltd (HQ)</strong>
@@ -22,18 +22,11 @@ variant: markdown
 <p><strong>Resources</strong>
 <br>School booklists for the various levels can be found below.
 <br><a href="/files/2026 Booklist/Booklist_2026_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P5_FN.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P5_STD.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P6_FN.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2026</a>
-<br>
-<a href="/files/2026 Booklist/Booklist_2026_P6_STD.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2026 </a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P5_FN.pdf" rel="noopener nofollow" target="_blank">Primary 5 Foundation Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P5_STD.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P6_FN.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist 2026</a>
+<br><a href="/files/2026 Booklist/Booklist_2026_P6_STD.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
 </p>
