@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Service Providers
 variant: tiptap
 ---
-<p><a href="/files/Uniform_Info_to_Parents_2026___MPS.pdf" rel="noopener nofollow" target="_blank">Uniform Information to Parents -  2026 </a>
+<p><a href="/files/Uniform_Info_to_Parents_2026___MPS.pdf" rel="noopener nofollow" target="_blank">Uniform Information to Parents - 2026</a>
 </p>
 <p><strong>Address</strong>
 <br><strong>Shanghai School Uniforms</strong>
