@@ -27,4 +27,5 @@ variant: tiptap
 </p>
 <p><strong>Contact</strong>
 <br>Tel: 67478037
-<br>Website: http://www.shanghai-uniforms.com</p>
+<br>Website: <a href="http://www.shanghai-uniforms.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.shanghai-uniforms.sg</a>
+</p>

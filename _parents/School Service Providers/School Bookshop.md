@@ -31,4 +31,9 @@ variant: tiptap
 <br><a href="/files/2026 Booklist/Booklist_2026_P6_STD.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist 2026</a>
 </p>
 <p></p>
+<p><strong>MPS Embroidered Nametag (5pcs /pack)</strong>
+</p>
+<p><a href="https://oapl.sg/product/MSP/mps-name-tag" rel="noopener noreferrer nofollow" target="_blank">https://oapl.sg/product/MSP/mps-name-tag</a>
+</p>
+<p></p>
 <p></p>
