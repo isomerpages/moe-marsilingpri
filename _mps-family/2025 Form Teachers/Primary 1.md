@@ -88,7 +88,7 @@ variant: tiptap
 <p>Mdm Nurul Akhmar Binte Elias</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_akhmar_elias@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_akhmar_elias@schools.gov.sg</a> 
+<p><a href="mailto:nurul_akhmar_elias@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_akhmar_elias@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Mdm Rosamma Thomas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rosamma_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosamma_thomas@schools.gov.sg</a> 
+<p><a href="mailto:rosamma_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosamma_thomas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>Mdm Fan Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fan_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_fang@schools.gov.sg</a> 
+<p><a href="mailto:fan_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fan_fang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,7 +136,7 @@ variant: tiptap
 <p>Mdm Herianti Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:herianti_abu_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">herianti_abu_shah@schools.gov.sg</a> 
+<p><a href="mailto:herianti_abu_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">herianti_abu_shah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
