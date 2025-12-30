@@ -101,10 +101,12 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Atiqah Abdul samad</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_atiqah_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_abdul_samad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,25 +123,33 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Ibrahim Bin Zainee</p>
+<p>Mdm Nur 'Aliah Binte Gasali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_ibrahim_zainee@schools.gov.sg</p>
+<p><a href="mailto:nuraliah_gasali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraliah_gasali@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr K K Mohanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm See Poh Bee</p>
+<p><a href="mailto:k_k_mohanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">k_k_mohanan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Andrina Azarias Phang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see_poh_bee@schools.gov.sg</p>
+<p><a href="mailto:nursyarifah_phang_kamarudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursyarifah_phang_kamarudin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
