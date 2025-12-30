@@ -103,7 +103,7 @@ variant: tiptap
 <p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanti_govindasamy_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_govindasamy_a@schools.gov.sg</a> 
+<p><a href="mailto:shanti_govindasamy_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_govindasamy_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>Mdm Rohana Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohana_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohana_ahmad@schools.gov.sg</a> 
+<p><a href="mailto:rohana_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohana_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Mr Tay Kim Hock, Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_kim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kim_hock@schools.gov.sg</a> 
+<p><a href="mailto:tay_kim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kim_hock@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>Mr Teo Yuanzhong, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_yuanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yuanzhong@schools.gov.sg</a> 
+<p><a href="mailto:teo_yuanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yuanzhong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ variant: tiptap
 <p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_su_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_su_hoon@schools.gov.sg</a> 
+<p><a href="mailto:sng_su_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_su_hoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
