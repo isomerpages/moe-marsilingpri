@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_soy_moi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_soy_moi@schools.gov.sg</a> 
+<p><a href="mailto:goh_soy_moi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_soy_moi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Mrs Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a> 
+<p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a>
 </p>
 </td>
 </tr>
