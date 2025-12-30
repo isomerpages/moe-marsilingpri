@@ -28,10 +28,11 @@ variant: tiptap
 <p>1Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Huaitao</p>
+<p>Ms Shammane D/O Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>li_huaitao@schools.gov.sg</p>
+<p><a href="mailto:shammane_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shammane_arumugam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,10 +40,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Hanim Bte Atan</p>
+<p>Ms Elishe Lim Shi Chi (SH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wan_Hanim_Atan_A@schools.gov.sg</p>
+<p><a href="mailto:elishe_lim_shi_chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elishe_lim_shi_chi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,10 +52,11 @@ variant: tiptap
 <p>1Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Ali Mirza</p>
+<p>Miss Teresha Fernandaz Selvamany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohd_ali_mirza@schools.gov.sg</p>
+<p><a href="mailto:teresha_fernandaz_selvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresha_fernandaz_selvamany@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
