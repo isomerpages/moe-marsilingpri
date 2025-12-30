@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mdm Nur 'Aliah Binte Gasali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuraliah_gasali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraliah_gasali@schools.gov.sg</a> 
+<p><a href="mailto:nuraliah_gasali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraliah_gasali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -157,32 +157,11 @@ variant: tiptap
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tham Hou Cheong Aloysius</p>
+<p>Mdm See Poh Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tham_hou_cheong_aloysius@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Bt Muhammad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_fatimah_bt_muhammad@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Harmony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hazlina Bte Yaacob</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hazlina_yaacob@schools.gov.sg</p>
+<p><a href="mailto:see_poh_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_poh_bee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -190,21 +169,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wen Caizhuang</p>
+<p>Mdm Norsriwani Bte Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wen_caizhuang@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ferlicia_lim@schools.gov.s</p>
+<p><a href="mailto:norsriwani_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norsriwani_bakar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
