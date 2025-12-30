@@ -25,35 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Respect</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ow Weng Keong</p>
+<p>Mr Tan Jian Chye, Sam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ow_weng_keong_a@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Juanjuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_juanjuan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nur Firzanah Binte Kamsani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nur_firzanah_kamsani@schools.gov.sg</p>
+<p><a href="mailto:tan_jian_chye_sam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_chye_sam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,21 +40,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Soy Moi</p>
+<p>Mdm Lim Shy Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_soy_moi@schools.gov.sg</p>
+<p><a href="mailto:lim_shy_ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shy_ni@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Resilience</p>
+<p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Neo Wenjie</p>
+<p>Ms Sujatha Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nicholas_neo_wenjie@schools.gov.sg</p>
+<p><a href="mailto:sujatha_narayana_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sujatha_narayana_pillai@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,15 +64,41 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosminah Bte Ab Rahim</p>
+<p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rosminah_ab_rahim@schools.gov.sg</p>
+<p><a href="mailto:siti_nur_aisyah_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_aisyah_johari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Integrity</p>
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Thian Soong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_thian_soong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_thian_soong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Eng</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_siew_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_eng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Jessie</p>
@@ -113,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Care</p>
+<p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Ibrahim Bin Zainee</p>
@@ -135,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Excellence</p>
+<p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tham Hou Cheong Aloysius</p>
@@ -157,7 +164,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3Harmony</p>
+<p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hazlina Bte Yaacob</p>
