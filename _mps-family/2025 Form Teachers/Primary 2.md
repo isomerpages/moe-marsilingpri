@@ -25,35 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Thian Soong</p>
+<p>Mdm Goh Soy Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_thian_soong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Faizal Bin Mokhtar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_faizal_mokhtar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur 'Aliah Binte Gasali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nuraliah_gasali@schools.gov.sg</p>
+<p><a href="mailto:goh_soy_moi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_soy_moi@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +40,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Hong Wei, Nick</p>
+<p>Mdm Prema Latha D/O Thangavelu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_hong_wei@schools.gov.sg</p>
+<p><a href="mailto:prema_latha_thangavelu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prema_latha_thangavelu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Ali Mirza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_ali_mirza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_ali_mirza@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,21 +64,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Akhmar Binte Elias</p>
+<p>Mrs Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_akhmar_elias@schools.gov.sg</p>
+<p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Hsueh Chien Dawn</p>
+<p>Miss Suhailah Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_hsueh_chien_dawn@schools.gov.sg</p>
+<p><a href="mailto:suhailah_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhailah_ibrahim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shammane D/O Arumugam</p>
@@ -124,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2Care</p>
+<p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shi Yibin</p>
@@ -157,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2Excellence</p>
+<p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Prema Latha D/O Thangavelu</p>
