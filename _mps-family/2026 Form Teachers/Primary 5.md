@@ -24,8 +24,8 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5Respect</p>
+<td rowspan="2" colspan="1">
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss How Li Miin</p>
@@ -36,9 +36,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Fui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,8 +43,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5Responsibility</p>
+<td rowspan="2" colspan="1">
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Jun Rui</p>
@@ -58,9 +55,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,8 +62,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5Resilience</p>
+<td rowspan="3" colspan="1">
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Julianna Bte Adam</p>
@@ -80,9 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,9 +82,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Sahana Hemanthbabu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,8 +89,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5Integrity</p>
+<td rowspan="2" colspan="1">
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Teng Yuan Yi</p>
@@ -113,9 +101,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +108,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,9 +120,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Mohammad Nursaffwan Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,8 +127,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5Excellence</p>
+<td rowspan="3" colspan="1">
+<p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Murlly</p>
@@ -157,9 +139,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Yeo Xinru</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,13 +147,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Rolan Tambunan B Amir Assan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rolan_tambunan_amir_assan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>5 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Cassander</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_cassander@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cassander@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Teng Yuan Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_yuan_yi_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_yuan_yi_esther@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
