@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Li Juanjuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_juanjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_juanjuan@schools.gov.sg</a> 
+<p><a href="mailto:li_juanjuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_juanjuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mrs Ow Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ow_weng_keong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_weng_keong_a@schools.gov.sg</a> 
+<p><a href="mailto:ow_weng_keong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_weng_keong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Miss Nur Firzanah Binte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_firzanah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_firzanah_kamsani@schools.gov.sg</a> 
+<p><a href="mailto:nur_firzanah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_firzanah_kamsani@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Mr Nicholas Neo Wenjie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_neo_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_neo_wenjie@schools.gov.sg </a>
+<p><a href="mailto:nicholas_neo_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_neo_wenjie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
