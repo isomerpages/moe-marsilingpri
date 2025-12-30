@@ -101,10 +101,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Jessie</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessie_toh@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -112,10 +112,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Yuanzhong, Shawn</p>
+<p>Mr Thiliban S/O Subramaniam</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_yuanzhong@schools.gov.sg</p>
+<p><a href="mailto:thiliban_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiliban_subramaniam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +194,7 @@ variant: tiptap
 <p>Miss Lim Duyue Ferlicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ferlicia_lim@schools.gov.sg</p>
+<p>ferlicia_lim@schools.gov.s</p>
 </td>
 </tr>
 </tbody>
