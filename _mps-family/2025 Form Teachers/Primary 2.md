@@ -88,10 +88,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Khadijah Bte Abdul Aziz</p>
+<p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_khadijah_abdul_aziz@schools.gov.sg</p>
+<p><a href="mailto:ng_sock_hoon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sock_hoon_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +100,11 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shammane D/O Arumugam</p>
+<p>Mdm Shanti d/o Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shammane_arumugam@schools.gov.sg</p>
+<p><a href="mailto:shanti_govindasamy_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_govindasamy_a@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +112,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Su Haojing</p>
+<p>Mdm Rohana Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>su_haojing@schools.gov.sg</p>
+<p><a href="mailto:rohana_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohana_ahmad@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -121,21 +124,11 @@ variant: tiptap
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Yibin</p>
+<p>Mr Tay Kim Hock, Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shi_yibin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Herianti Abu Shah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>herianti_abu_shah@schools.gov.sg</p>
+<p><a href="mailto:tay_kim_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kim_hock@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -143,10 +136,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sathiya Bamah D/O Ayappan (Mrs Raj)</p>
+<p>Mdm Ang Shiao Woon</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sathiya_bamah_ayappan_mrs@schools.gov.sg</p>
+<p><a href="mailto:ang_shiao_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_shiao_woon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +149,11 @@ variant: tiptap
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Prema Latha D/O Thangavelu</p>
+<p>Mr Teo Yuanzhong, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>prema_latha_thangavelu@schools.gov.sg</p>
+<p><a href="mailto:teo_yuanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yuanzhong@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +161,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nathanael Teo Yi Jie</p>
+<p>Mdm Sng Su Hoon, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nathanael_teo_yi_jie@schools.gov.sg</p>
+<p><a href="mailto:sng_su_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_su_hoon@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
