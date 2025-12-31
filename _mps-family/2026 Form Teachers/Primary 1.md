@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,9 +36,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Elishe Lim Shi Chi (SH/CL)</p>
 </td>
@@ -69,7 +66,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,9 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurul Akhmar Binte Elias</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +87,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,9 +100,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Hazlina Bte Yaacob</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +108,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,9 +121,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Herianti Abu Shah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +129,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,9 +141,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wan Hanim Bte Atan</p>
 </td>
