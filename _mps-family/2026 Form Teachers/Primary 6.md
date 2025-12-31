@@ -106,7 +106,7 @@ variant: tiptap
 <p>Ms Natasha Bte Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_maidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_maidin@schools.gov.sg</a> 
+<p><a href="mailto:natasha_maidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_maidin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
