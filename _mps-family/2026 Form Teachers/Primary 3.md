@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,9 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Shy Ni</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,9 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +66,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,9 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Siew Eng</p>
 <p></p>
 </td>
@@ -97,7 +88,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,9 +101,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Thiliban S/O Subramaniam</p>
 <p></p>
@@ -153,7 +141,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,9 +153,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsriwani Bte Bakar</p>
 </td>
