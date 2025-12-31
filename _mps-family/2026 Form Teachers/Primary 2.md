@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,9 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Prema Latha D/O Thangavelu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,9 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +66,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,9 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,7 +87,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,9 +100,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Rohana Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +108,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,9 +121,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
 <p></p>
 </td>
@@ -145,7 +130,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,9 +142,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sng Su Hoon, Shirley</p>
 </td>
