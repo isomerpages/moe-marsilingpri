@@ -67,9 +67,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>HOD/Science</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Swee Sheng Danny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_swee_sheng_danny@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Natasha Bte Maidin</p>
 </td>
@@ -97,6 +105,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_lay_ching_angela@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aw Li Ping Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aw_li_ping_ivy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
