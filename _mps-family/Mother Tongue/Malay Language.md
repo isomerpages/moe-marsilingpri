@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsriwani Bakar (Cov. HOD/MT)</p>
+<p>Mdm Norsriwani Bakar (HOD/MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norsriwani_bakar@schools.gov.sg</p>
