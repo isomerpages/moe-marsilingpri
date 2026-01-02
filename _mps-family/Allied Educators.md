@@ -28,17 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Masnurie Binte Mohd Ramli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>masnurie_mohamed_ramli@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">

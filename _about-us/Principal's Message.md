@@ -8,15 +8,27 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal msg/Principal_Msg_2024_v2.jpg">
 </div>
-<p>Warmest greetings and a Happy 2025!</p>
-<p>I hope this message finds you well and filled with anticipation for the
-upcoming school year. The start of a new school year is always a time of
-renewed energy and fresh possibilities. It is a time to embrace new challenges,
-forge new friendships, and pursue holistic learning experiences.</p>
-<p>This year, we will continue to build on the foundation of culture of care
-and excellence that defines Marsiling Primary School. Our dedicated staff
-are committed to providing a nurturing and engaging learning environment
-where students can thrive academically, socially, and emotionally.</p>
+<p>Warmest greetings and A Very Happy 2026!</p>
+<p>We look forward to the start of another exciting school year. A new year
+always brings fresh beginnings, renewed energy, and wonderful opportunities
+for our students to learn, grow, and shine. It is a time to embrace new
+challenges, build meaningful friendships, and enjoy enriching learning
+experiences together.</p>
+<p>In 2025, Marsiling Primary School was awarded the Lee Hsien Loong Award
+for Innovations in Uplifting Students (LHL AIUS). It is a national-level
+pinnacle award, a testament to the strong culture of care and established
+student development programmes and processes. This could not have been
+achieved without the ‘hard and heart work’ of our staff and the strong
+partnership with parents and the community. We will continue to strengthen
+the culture of care and excellence that defines who we are. We will also
+chart the next lap of journey to break new grounds and explore new horizons.
+Our dedicated staff remain deeply committed to creating a warm, supportive,
+and engaging learning environment where every child can thrive academically,
+socially, and emotionally.</p>
+<p>We look forward to a fulfilling and joyful year ahead, working in partnership
+with our students and parents. To have a greater understanding of our school’s
+vision, mission and values; and signature programmes, I warmly invite you
+to read on and view the video interviews below.</p>
 <p></p>
 <p><strong><em>School Vision, Mission and Values</em></strong>
 </p>
@@ -102,11 +114,11 @@ stay connected with our school community through our website, official
 Facebook and Instagram page, newsletters, and other communication channels.
 We encourage you to actively participate in school events, parent-teacher
 conferences, and other opportunities to engage with the learning process.</p>
-<p>I am excited about the possibilities that the 2025 school year holds,
+<p>I am excited about the possibilities that the 2026 school year holds,
 and I look forward to witnessing the growth and achievements of each and
 every student. Let us work together to make this a memorable and successful
 school year.</p>
-<p>Wishing all of you a fantastic start to the 2025 school year!</p>
+<p>Wishing all of you a fantastic start to the 2026 school year!</p>
 <p></p>
 <p>Warmest regards,</p>
 <p>Mrs Heather Thio</p>

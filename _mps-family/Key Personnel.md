@@ -46,17 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yong Sze Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yong_sze_leng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,6 +68,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norsriwani Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norsriwani_bakar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,13 +90,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>HOD/EducationalSupport</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Lay Ching, Angela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_lay_ching_angela@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Information &amp; CommunicationsTechnology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aw Li Ping Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aw_li_ping_ivy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/English Language</p>
+<p>LH/English Language (Cov. HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Hua</p>
@@ -206,19 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Malay Language
-<br>(Cov. HOD/MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norsriwani Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norsriwani_bakar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH/Information &amp; Communications Technology</p>
+<p>SH/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thiliban Subramaniam</p>
@@ -251,7 +250,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/CCE
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Michelle Tan Siyun</p>
