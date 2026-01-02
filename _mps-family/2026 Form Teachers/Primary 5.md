@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Li Ping Ivy</p>
+<p>Ms Aw Li Ping Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aw_li_ping_ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aw_li_ping_ivy@schools.gov.sg</a>
