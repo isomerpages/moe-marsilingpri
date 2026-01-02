@@ -46,17 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yong Sze Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yong_sze_leng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,6 +76,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norsriwani Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norsriwani_bakar@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Character &amp; Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>HOD/EducationalSupport</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Lay Ching, Angela</p>
@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aw Li Ping Ivy</p>
@@ -181,7 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/English Language</p>
+<p>LH/English Language (Cov. HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Hua</p>
@@ -221,18 +221,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>elishe_lim_shi_chi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH/Malay Language
-<br>(Cov. HOD/MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norsriwani Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norsriwani_bakar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
