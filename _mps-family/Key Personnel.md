@@ -56,17 +56,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>HOD/Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Swee Sheng Danny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_swee_sheng_danny@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Natasha Bte Maidin</p>
 </td>
@@ -109,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Information &amp; Communications Technology</p>
+<p>HOD/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aw Li Ping Ivy</p>
@@ -225,7 +217,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Information &amp; Communications Technology</p>
+<p>SH/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thiliban Subramaniam</p>
