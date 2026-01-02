@@ -250,7 +250,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/CCE
+<br>(Cov. HOD/SM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Michelle Tan Siyun</p>
