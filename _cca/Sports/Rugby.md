@@ -37,13 +37,13 @@ Secondary.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mr Mohammad Nursaffwan Othman (I/C)</p>
-<p>Mr Chung Jun Rui (2nd I/C)</p>
-<p>Mr Tham Hou Cheong Aloysius</p>
-<p>Mr Amir Abidin Zulkifli</p>
+<p>Mr Tham Hou Cheong Aloysius (2nd I/C)</p>
+<p>Mr Chung Jun Rui</p>
+<p>Miss Sujatha Pillai</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Thursday</p>
-<p>Time: 3.15pm – 4.45pm</p>
+<p>Day: Tuesday</p>
+<p>Time: 8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Field</p>
