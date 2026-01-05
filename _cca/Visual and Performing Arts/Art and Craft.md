@@ -33,15 +33,16 @@ confidently and appreciate others’ artworks as well.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mdm See Poh Bee (I/C)</p>
-<p>Mr Airwan Bin Nain Sardi (2nd I/C)</p>
-<p>Miss Nur Nazurah Binte Abdul Rahim</p>
+<p>Miss Nur Nazurah Binte Abdul Rahim (2nd I/C)</p>
+<p>Mr Airwan Bin Nain Sardi</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Art Room 2</p>
+<p>Art Room
+<br>1 &amp; 2</p>
 </td>
 </tr>
 <tr></tr>
