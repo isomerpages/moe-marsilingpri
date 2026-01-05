@@ -43,7 +43,8 @@ School.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Day: Tuesday</p>
-<p>Time: 8.30am - 10am</p>
+<p>Time:
+<br>8.30am - 10am</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Dance Studio</p>
