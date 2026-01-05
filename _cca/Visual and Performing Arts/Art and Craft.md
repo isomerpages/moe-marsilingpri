@@ -38,7 +38,8 @@ confidently and appreciate others’ artworks as well.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
-<p>Time: 9am - 10.30am</p>
+<p>Time:
+<br>9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Art Room
