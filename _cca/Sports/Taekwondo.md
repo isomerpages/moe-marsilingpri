@@ -32,15 +32,15 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mr Wong Ah Seng (I/C)</p>
-<p>Ms Esther Teng Yuan Yi (2nd I/C)</p>
-<p>Mdm Sng Su Hoon, Shirley</p>
+<p>Mr Nicholas Neo Wenjie (2nd I/C)</p>
+<p>Miss Nur Firzanah Binte Kamsani</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ISH (Level 3)</p>
+<p>School Hall (Front)</p>
 </td>
 </tr>
 <tr></tr>
