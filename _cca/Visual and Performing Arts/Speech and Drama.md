@@ -32,12 +32,13 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <tr>
 <td rowspan="2" colspan="1">
 <p>Ms Alivia Tang (I/C)</p>
-<p>Ms Shammane D/O Arumugam (2nd I/C)</p>
-<p>Mdm Lee Guan Pheng</p>
+<p>Mr Muhammad Faizal Bin Mokhtar</p>
+<p>Ms Elishe Lim</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time:
+<br>9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Music Room 2</p>
