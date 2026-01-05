@@ -42,13 +42,14 @@ School.</p>
 <p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Day: Tuesday</p>
+<p>Day:
+<br>Tuesday</p>
 <p>Time:
 <br>8.30am - 10am</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Dance Studio</p>
-<p>(ISH, Level 3)</p>
+<p>Dance Studio
+<br>(ISH, Level 3)</p>
 </td>
 </tr>
 <tr></tr>
