@@ -35,13 +35,13 @@ and various competitions held at different time of the year.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Ang Yew Leong (I/C)</p>
-<p>Mdm Siti Fatimah (2nd I/C)</p>
-<p>Ms Maneatonufus</p>
+<p>Mdm Siti Fatimah (I/C)</p>
+<p>Mr Mohammad Ibrahim Bin Zainee (2nd I/C)</p>
+<p>Mr Thiliban Subramaniam</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Computer Lab 1 and 2</p>
