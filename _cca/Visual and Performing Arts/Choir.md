@@ -64,6 +64,14 @@ Secondary School.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
+<h4>Evolution Dance Competition</h4>
+<p>The MPS Choir clinched 1st place in the Musical Theatre Group Category
+at the Evolution Dance Competition with “Dancing Through Life.” Preparing
+for this performance required discipline, teamwork and perseverance as
+the students worked hard to refine their singing, dancing and expressions.
+Though the process was challenging, they supported one another and grew
+stronger as a team. It was a rewarding experience for the Choir.</p>
+<p></p>
 <h4>Voices of Singapore Festival</h4>
 <p>The MPS Choir participated in the annual Voices of Singapore Festival,
 Singapore's largest non-competitive choral festival. The festival aims
