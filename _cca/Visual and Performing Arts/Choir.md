@@ -42,7 +42,8 @@ Secondary School.</p>
 <p>Miss Natasha Bte Maidin</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day: Tuesday</p>
+<p>Day:
+<br>Tuesday</p>
 <p>Time:
 <br>9am - 10.30am</p>
 <p></p>
