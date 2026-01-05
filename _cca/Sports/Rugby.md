@@ -47,6 +47,7 @@ Secondary.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Field</p>
+<p>CCA Room 2 Fitness &amp; Conditioning Room (Wet Weather)</p>
 </td>
 </tr>
 <tr></tr>
