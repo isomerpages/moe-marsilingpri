@@ -31,14 +31,14 @@ future and become sportsmen of integrity.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Chin Thian Soong (I/C)</p>
-<p>Mr Teo Yuanzhong, Shawn (2nd I/C)</p>
+<p>Mr Teo Yuanzhong, Shawn (I/C)</p>
+<p>Mr Chin Thian Soong (2nd I/C)</p>
 <p>Mdm Ong Kai Ling</p>
-<p>Mdm Lee Chun Hua</p>
+<p>Miss Miss Nursyarmin Binte Suwandi</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Field</p>
