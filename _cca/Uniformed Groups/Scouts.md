@@ -33,13 +33,12 @@ providing them with practical leadership experience.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mdm Nur ‘Aliah Binte Gasali (I/C)</p>
-<p>Mr Wang Yuhang (2nd I/C)</p>
-<p>Mdm Hazlina Bte Yaacob</p>
+<p>Miss Chang Lee Hui, Clara (2nd I/C)</p>
 <p>Mr Tan Yong Sng, Jason</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>CCA Room 1 (Indoor Sports Hall, Level 1)</p>
