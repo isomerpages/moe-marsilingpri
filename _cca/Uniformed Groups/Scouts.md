@@ -38,7 +38,8 @@ providing them with practical leadership experience.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
-<p>Time: 9am - 10.30am</p>
+<p>Time:
+<br>9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>CCA Room 1 (Indoor Sports Hall, Level 1)</p>
