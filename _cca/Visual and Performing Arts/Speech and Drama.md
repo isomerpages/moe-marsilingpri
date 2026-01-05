@@ -41,8 +41,8 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <br>9am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Music Room 2</p>
-<p>(Indoor Sports Hall, Level 3)</p>
+<p>Music Room 2
+<br>(Indoor Sports Hall, Level 3)</p>
 </td>
 </tr>
 <tr></tr>
