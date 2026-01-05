@@ -37,7 +37,8 @@ Secondary.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mr Mohammad Nursaffwan Othman (I/C)</p>
-<p>Mr Tham Hou Cheong Aloysius (2nd I/C)</p>
+<p>Mr Tham Hou Cheong Aloysius
+<br>(2nd I/C)</p>
 <p>Mr Chung Jun Rui</p>
 <p>Miss Sujatha Pillai</p>
 </td>
