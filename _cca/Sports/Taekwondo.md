@@ -36,8 +36,10 @@ fitness. It equips them with both physical prowess and valuable life skills.</p>
 <p>Miss Nur Firzanah Binte Kamsani</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 8.30am - 10am</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Hall (Front)</p>
