@@ -36,18 +36,20 @@ Secondary School.</p>
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Ms Toh Jessie (I/C)</p>
+<p>Miss Lam Yen Fong Jasmine (I/C)</p>
 <p>Mdm Shi Yibin (2nd I/C)</p>
 <p>Mdm Rohana Ahmad</p>
-<p>Mdm Ng Sock Hoon</p>
+<p>Miss Natasha Bte Maidin</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time:
+<br>9am - 10.30am</p>
+<p></p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Music Room 1</p>
-<p>(ISH, Level 3)</p>
+<p>Music Room 1
+<br>(ISH, Level 3)</p>
 <p></p>
 </td>
 </tr>
