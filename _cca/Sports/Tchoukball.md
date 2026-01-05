@@ -44,7 +44,7 @@ training gets tough.</p>
 <p>Time: 8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ISH (Level 3)</p>
+<p>School Hall (Back)</p>
 </td>
 </tr>
 <tr></tr>
