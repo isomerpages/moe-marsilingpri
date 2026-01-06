@@ -44,11 +44,14 @@ Secondary.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
-<p>Time: 8.30am - 10am</p>
+<p>Time: 8.30am - 10.00am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Field</p>
-<p>CCA Room 2 Fitness &amp; Conditioning Room (Wet Weather)</p>
+<p>CCA Room 2
+<br>
+</p>
+<p>(Wet Weather) Fitness &amp; Conditioning Room</p>
 </td>
 </tr>
 <tr></tr>

@@ -38,11 +38,13 @@ future and become sportsmen of integrity.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
-<p>Time: 8.30am - 10am</p>
+<p>Time: 8.30am - 10.00am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Field</p>
-<p>ISH, Level 1 (Wet Weather)</p>
+<p></p>
+<p>(Wet Weather)
+<br>Indoor Sports Hall, Level 1</p>
 </td>
 </tr>
 <tr></tr>
