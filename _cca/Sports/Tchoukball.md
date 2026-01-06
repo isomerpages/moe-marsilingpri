@@ -40,8 +40,10 @@ training gets tough.</p>
 <p>Mdm Rashidah Bte Yaacob</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day: Tuesday</p>
-<p>Time: 8.30am - 10am</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>8.30am - 10.00am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>School Hall (Back)</p>
