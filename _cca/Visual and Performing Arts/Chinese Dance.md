@@ -37,18 +37,19 @@ School.</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Miss Lam Yen Fong Jasmine (I/C)</p>
-<p>Mdm Li Huaitao (2nd I/C)</p>
-<p>Mdm Ong Siew Eng</p>
-<p>Mdm Goh Soy Moi</p>
+<p>Mdm Li Huaitao (I/C)</p>
+<p>Miss How Li Miin (2nd I/C)</p>
+<p>Mdm Ng Sock Hoon</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>8.30am - 10am</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Dance Studio</p>
-<p>(ISH, Level 3)</p>
+<p>Dance Studio
+<br>(ISH, Level 3)</p>
 </td>
 </tr>
 <tr></tr>

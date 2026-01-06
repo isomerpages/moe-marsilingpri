@@ -36,16 +36,20 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mdm Nur Khadijah Bte Abdul Aziz (I/C)</p>
-<p>Mdm Rosminah Bte Ab Rahim (2nd I/C)</p>
+<p>Mdm Rosminah Bte Ab Rahim
+<br>(2nd I/C)</p>
 <p>Mdm Julianna Bte Adam</p>
 <p>Ms Siti Nur Aisyah Bte Md Johari G</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>PAL Room</p>
+<p>PAL Room
+<br>1 &amp; 2</p>
 <p></p>
 </td>
 </tr>

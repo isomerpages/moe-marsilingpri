@@ -37,14 +37,17 @@ through the CCA.</p>
 <td rowspan="2" colspan="1">
 <p>Mr Nathanael Teo Yi Jie (I/C)</p>
 <p>Mdm Lim Shy Ni&nbsp; (2nd I/C)</p>
-<p>Ms Sujatha Pillai</p>
+<p>Mdm Ong Siew Eng</p>
+<p>Miss Michelle Tan Siyun</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>School Hall</p>
+<p>ISH Level 3</p>
 <p></p>
 </td>
 </tr>

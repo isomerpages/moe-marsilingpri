@@ -31,14 +31,15 @@ to the community.</p>
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Ms Teresha Fernandaz Selvamany (I/C)</p>
-<p>Mdm Latchmana Murlly (2nd I/C)</p>
-<p>Miss Wen Caizhuang</p>
-<p>Miss Michelle Tan Siyun</p>
+<p>Ms Teresha Fernandaz</p>
+<p>Miss Wen Caizhuang (2nd I/C)</p>
+<p>Mdm Hazlina Bte Yaacob</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>9am - 10.30am</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Teaching Lab (Level 1)</p>

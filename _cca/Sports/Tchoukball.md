@@ -37,14 +37,14 @@ training gets tough.</p>
 <p>Mr Tan Jian Chye, Sam (I/C)</p>
 <p>Miss Tan Cassander (2nd I/C)</p>
 <p>Mdm Jamaliah Yusope Lamat</p>
-<p>Mr Thiliban S/O Subramaniam</p>
+<p>Mdm Rashidah Bte Yaacob</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day: Tuesday</p>
+<p>Time: 8.30am - 10am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>ISH (Level 3)</p>
+<p>School Hall (Back)</p>
 </td>
 </tr>
 <tr></tr>

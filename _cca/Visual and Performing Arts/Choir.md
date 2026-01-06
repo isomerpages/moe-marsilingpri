@@ -36,18 +36,21 @@ Secondary School.</p>
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Ms Toh Jessie (I/C)</p>
+<p>Miss Lam Yen Fong Jasmine (I/C)</p>
 <p>Mdm Shi Yibin (2nd I/C)</p>
 <p>Mdm Rohana Ahmad</p>
-<p>Mdm Ng Sock Hoon</p>
+<p>Miss Natasha Bte Maidin</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Day:</p>
-<p>Time:</p>
+<p>Day:
+<br>Tuesday</p>
+<p>Time:
+<br>9am - 10.30am</p>
+<p></p>
 </td>
 <td rowspan="7" colspan="1">
-<p>Music Room 1</p>
-<p>(ISH, Level 3)</p>
+<p>Music Room 1
+<br>(ISH, Level 3)</p>
 <p></p>
 </td>
 </tr>
@@ -61,6 +64,14 @@ Secondary School.</p>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlights</strong></h4>
+<h4>Evolution Dance Competition</h4>
+<p>The MPS Choir clinched 1st place in the Musical Theatre Group Category
+at the Evolution Dance Competition with “Dancing Through Life.” Preparing
+for this performance required discipline, teamwork and perseverance as
+the students worked hard to refine their singing, dancing and expressions.
+Though the process was challenging, they supported one another and grew
+stronger as a team. It was a rewarding experience for the Choir.</p>
+<p></p>
 <h4>Voices of Singapore Festival</h4>
 <p>The MPS Choir participated in the annual Voices of Singapore Festival,
 Singapore's largest non-competitive choral festival. The festival aims
