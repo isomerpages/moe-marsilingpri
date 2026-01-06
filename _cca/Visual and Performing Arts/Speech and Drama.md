@@ -38,7 +38,7 @@ and demonstrate values of teamwork, perseverance, self-discipline and confidence
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
 <p>Time:
-<br>9am - 10.30am</p>
+<br>9.00am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Music Room 2

@@ -45,7 +45,7 @@ School, Woodlands Ring Secondary School and Marsiling Secondary School.</p>
 <p>Day:
 <br>Tuesday</p>
 <p>Time:
-<br>8.30am - 10am</p>
+<br>8.30am - 10.00am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>PAL Room
