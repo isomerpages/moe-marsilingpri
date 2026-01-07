@@ -66,6 +66,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Whee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ang_Ong_Whee_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Ong_Whee_B@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>2 Resilience</p>
 </td>
