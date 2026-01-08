@@ -34,7 +34,7 @@ future and become sportsmen of integrity.</p>
 <p>Mr Teo Yuanzhong, Shawn (I/C)</p>
 <p>Mr Chin Thian Soong (2nd I/C)</p>
 <p>Mdm Ong Kai Ling</p>
-<p>Miss Miss Nursyarmin Binte Suwandi</p>
+<p>Ms Nursyarmin Binte Suwandi</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
