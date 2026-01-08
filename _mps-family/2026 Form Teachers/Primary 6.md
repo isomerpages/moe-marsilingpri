@@ -145,7 +145,7 @@ variant: tiptap
 <p>6 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nursyarmin Binte Suwandi</p>
+<p>Ms Nursyarmin Binte Suwandi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nursyarmin_suwandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursyarmin_suwandi@schools.gov.sg</a>
