@@ -37,6 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ang Ong Whee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ong_whee_B@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
 </td>
 <td rowspan="1" colspan="1">
