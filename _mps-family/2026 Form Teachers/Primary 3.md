@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Respect</p>
+<p>3Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jian Chye, Sam</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Responsibility</p>
+<p>3Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sujatha Pillai</p>
@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Resilience</p>
+<p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Thian Soong</p>
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Integrity</p>
+<p>3Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Atiqah Abdul samad</p>
@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>3 Care</p>
+<p>3Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur 'Aliah Binte Gasali</p>
@@ -142,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3 Excellence</p>
+<p>3Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm See Poh Bee</p>
