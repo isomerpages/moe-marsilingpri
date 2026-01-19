@@ -126,7 +126,7 @@ variant: tiptap
 <p>YH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
+<p>Ms Lim Duyue Ferlicia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ferlicia_lim@schools.gov.sg</p>
