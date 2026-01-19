@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Respect</p>
+<p>5Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Khadijah Bte Abdul Aziz</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Responsibility</p>
+<p>5Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Sng, Jason</p>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Resilience</p>
+<p>5Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rashidah Bte Yaacob</p>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Integrity</p>
+<p>5Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Bi Ying</p>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Excellence</p>
+<p>5Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nathanael Teo Yi Jie</p>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Harmony</p>
+<p>5Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Cassander</p>
