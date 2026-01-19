@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elishe Lim Shi Chi (SH/CL)</p>
+<p>Ms Elishe Lim Shi Chi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:elishe_lim_shi_chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elishe_lim_shi_chi@schools.gov.sg</a>
