@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Murlly</p>
+<p>Mrs Latchmana Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a>
