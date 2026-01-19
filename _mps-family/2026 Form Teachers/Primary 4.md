@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Duyue Ferlicia</p>
+<p>Ms Ferlicia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ferlicia_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ferlicia_lim@schools.gov.sg</a>
