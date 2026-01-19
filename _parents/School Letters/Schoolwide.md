@@ -21,11 +21,19 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal's letter</p>
+<p>02 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 P's Letter/MPS_2026_T1_Welcome_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Welcome Letter to Parents</a>
+<p><a href="/files/2026 P's Letter/MPS_2026_T1_Welcome_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Welcome LMPS 2026 T1 Welcome Letter to Parents by Principaletter to Parents</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
