@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: School Letters
 ---
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -14,15 +15,17 @@ third_nav_title: School Letters
 <th rowspan="1" colspan="1">
 <p>Term 1</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>08 Jan 2026</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 YH letter/MPS_2026_T1___002b___P2_YH_Letter___COE.pdf" rel="noopener nofollow" target="_blank">MPS 2026 T1 P2 YH Letter and COE</a>
+</p>
 </td>
 </tr>
 </tbody>
