@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4 Respect</p>
+<p>4Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Juanjuan</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>4 Responsibility</p>
+<p>4Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Firzanah Binte Kamsani</p>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>4 Resilience</p>
+<p>4Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nicholas Neo Wenjie</p>
@@ -107,7 +107,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>4 Integrity</p>
+<p>4Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Faizal Bin Mokhtar</p>
@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4 Care</p>
+<p>4Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Ibrahim Bin Zainee</p>
@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>4 Harmony</p>
+<p>4Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nur Nazurah Binte Rahim</p>
