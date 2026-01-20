@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elishe Lim (SH/Chinese Language)</p>
+<p>Ms Elishe Lim (SH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>elishe_lim_shi_chi@schools.gov.sg</p>
@@ -37,10 +37,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ang Ong Whee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ong_whee_B@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_shiao_woon@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Thian Soong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chin_thian_soong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -69,38 +85,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Kai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_kai_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Shi Yibin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shi_yibin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Thian Soong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chin_thian_soong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Yuhang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_yuhang@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Li Juanjuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,6 +97,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lin_lidan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_kai_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shi Yibin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shi_yibin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

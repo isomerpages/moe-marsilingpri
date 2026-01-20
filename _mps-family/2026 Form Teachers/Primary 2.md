@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Respect</p>
+<p>2Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Soy Moi</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Responsibility</p>
+<p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Ali Mirza</p>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Murlly</p>
+<p>Mrs Latchmana Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Resilience</p>
+<p>2Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Suhailah Binte Ibrahim</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Integrity</p>
+<p>2Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shanti d/o Govindasamy</p>
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Care</p>
+<p>2Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Kim Hock, Francis</p>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2 Excellence</p>
+<p>2Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Yuanzhong, Shawn</p>
