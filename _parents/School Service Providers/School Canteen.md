@@ -58,10 +58,10 @@ third_nav_title: School Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noodles (Halal)</p>
+<p>Halal Western Food stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 August 2024</p>
+<p>06 Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Refer to Application Procedure below.</p>
