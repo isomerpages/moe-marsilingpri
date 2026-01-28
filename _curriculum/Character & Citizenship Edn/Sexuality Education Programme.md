@@ -221,4 +221,4 @@ Education lessons need to complete an opt-out form. This form will be communicat
 The completed opt-out form is to be submitted by<strong> 27/02/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a> or
 62696193 for discussion or to seek clarification about the school’s sexuality
-education programmeogramme.</p>
+education programme.</p>
