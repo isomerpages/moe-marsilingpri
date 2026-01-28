@@ -24,7 +24,16 @@ third_nav_title: School Letters
 <p>08 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 YH letter/MPS_2026_T1_002c_P3_YH_Letter___COE.pdf" rel="noopener nofollow" target="_blank">MPS 2026 T1 P3 YH Letter and COE</a>
+<p><a href="/files/2026 YH letter/MPS_2026_T1_002c_P3_YH_Letter___COE.pdf" rel="noopener nofollow" target="_blank">P3 T1 YH Letter and COE 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 Assessment letters/MPS_2026_T1_036_P3_Assessment_2026__Term_1_.pdf" rel="noopener nofollow" target="_blank">P3 T1 School Based Assessment 2026</a>
 </p>
 </td>
 </tr>
