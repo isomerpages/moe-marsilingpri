@@ -133,7 +133,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -189,7 +189,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -217,9 +217,8 @@ lessons, and/or supplementary Sexuality Education programmes by MOE-approved
 external providers.</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
 Education lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://for.edu.sg/mps-2025-moesexualityeducation-parent-opt-out-form" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.
-Kindly submit the completed opt-out form to your child’s / ward’s Form
-Teacher by <strong>25/03/2025 (T2W1)</strong>.</p>
+&nbsp;to parents at the start of the year and is also available <a href="https://form.gov.sg/696506907c5110191b430dbd" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by<strong> 27/02/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a> or
 62696193 for discussion or to seek clarification about the school’s sexuality
-education programme.</p>
+education programmeogramme.</p>
