@@ -40,16 +40,16 @@ responsible decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
+<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of&nbsp;Marsiling Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Marsiling Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
 Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
+Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
 topics on sexuality include:</p>
@@ -77,9 +77,9 @@ relationships with others, including those with members of the opposite
 sex. Students are also guided to make wise, informed and responsible decisions
 to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025</strong>
+<p><strong>At Marsiling Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026</strong>
 </p>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h5><strong>PRIMARY 5</strong></h5>
 <p><u>CCE(FTGP) THEME: GROWING YEARS</u>
 </p>
@@ -115,7 +115,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -189,7 +189,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -217,9 +217,8 @@ lessons, and/or supplementary Sexuality Education programmes by MOE-approved
 external providers.</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
 Education lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://for.edu.sg/mps-2025-moesexualityeducation-parent-opt-out-form" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.
-Kindly submit the completed opt-out form to your child’s / ward’s Form
-Teacher by <strong>25/03/2025 (T2W1)</strong>.</p>
+&nbsp;to parents at the start of the year and is also available <a href="https://form.gov.sg/696506907c5110191b430dbd" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by<strong> 27/02/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;Parents can contact the school at <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">marsiling_ps@moe.edu.sg</a> or
 62696193 for discussion or to seek clarification about the school’s sexuality
 education programme.</p>
