@@ -59,6 +59,17 @@ variant: tiptap
 <p>tan_poh_lin_caroline@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flexi-Adjunct School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Anusha Balasingham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>anusha_balasingham@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
