@@ -104,7 +104,7 @@ variant: tiptap
 <p>HOD/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aw Li Ping Ivy</p>
+<p>Ms Aw Li Ping, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aw_li_ping_ivy@schools.gov.sg</p>
