@@ -50,7 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Sng, Jason</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yong_sng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_sng@schools.gov.sg</a>
@@ -60,7 +59,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nadirah Binte Pasuni</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadirah_pasuni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadirah_pasuni@schools.gov.sg</a>
@@ -82,7 +80,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Suriani Binte Ishak</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suriani_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_ishak@schools.gov.sg</a>
@@ -112,11 +109,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>5 Care</p>
+<p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chang Lee Hui, Clara</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_lee_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_lee_hui@schools.gov.sg</a>
