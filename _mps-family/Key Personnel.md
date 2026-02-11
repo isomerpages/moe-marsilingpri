@@ -221,7 +221,7 @@ variant: tiptap
 <p>SH/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thiliban Subramaniam</p>
+<p>Mr Thiliban S/O Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>thiliban_subramaniam@schools.gov.sg</p>
