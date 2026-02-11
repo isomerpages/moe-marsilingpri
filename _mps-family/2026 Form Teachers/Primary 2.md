@@ -134,7 +134,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Shiao Woon</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_shiao_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_shiao_woon@schools.gov.sg</a>
