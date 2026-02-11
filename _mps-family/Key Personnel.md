@@ -173,7 +173,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/English Language (Cov. HOD/EL)</p>
+<p>LH/English Language</p>
+<p>(Cov. HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Hua</p>
