@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4 Excellence</p>
+<p>4Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fatimah Bt Muhammad</p>
