@@ -50,7 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Jun Rui</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chung_jun_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_jun_rui@schools.gov.sg</a>
@@ -60,7 +59,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Julianna Bte Adam</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:julianna_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julianna_adam@schools.gov.sg</a>

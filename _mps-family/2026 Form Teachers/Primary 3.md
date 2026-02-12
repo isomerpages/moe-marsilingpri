@@ -80,7 +80,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Siew Eng</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_eng@schools.gov.sg</a>
@@ -92,8 +91,7 @@ variant: tiptap
 <p>3Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Atiqah Abdul samad</p>
-<p></p>
+<p>Mdm Nur Atiqah Abdul Samad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_atiqah_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atiqah_abdul_samad@schools.gov.sg</a>
@@ -111,7 +109,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,15 +117,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuraliah_gasali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuraliah_gasali@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr K K Mohanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:k_k_mohanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">k_k_mohanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

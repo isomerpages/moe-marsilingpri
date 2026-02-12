@@ -104,7 +104,7 @@ variant: tiptap
 <p>HOD/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aw Li Ping Ivy</p>
+<p>Ms Aw Li Ping, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aw_li_ping_ivy@schools.gov.sg</p>
@@ -173,7 +173,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/English Language (Cov. HOD/EL)</p>
+<p>LH/English Language</p>
+<p>(Cov. HOD/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Hua</p>
@@ -220,7 +221,7 @@ variant: tiptap
 <p>SH/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thiliban Subramaniam</p>
+<p>Mr Thiliban S/O Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>thiliban_subramaniam@schools.gov.sg</p>
