@@ -41,6 +41,7 @@ sections:
       button: Click for more details.
       url: https://marsilingpri.moe.edu.sg/most-inspiring-tamil-teachers-award-2026/
       alt: Image alt text
+      image: /images/tamil.jpg
   - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
       subtitle: 3 July 2025
