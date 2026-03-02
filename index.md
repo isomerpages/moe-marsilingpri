@@ -27,7 +27,8 @@ sections:
       subtitle: 2 March 2026
       id: infopic
       description: "AGAB 2026 recognises outstanding Malay Language teachers in
-        mainstream schools.  Deadline: 13 March 2026"
+        mainstream schools. Nomination form in the link below. Deadline: 13
+        March 2026"
       button: For more information, click here
       url: https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026
       image: /images/Arif_Budiman_Malay_Language_Teachers_Award_2026.jpg
