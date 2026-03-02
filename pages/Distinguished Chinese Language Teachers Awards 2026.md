@@ -4,6 +4,10 @@ permalink: /distinguished-chinese-language-teachers-awards-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese.jpg">
+</div>
 <p>Organised by Lianhe Zaobao and ZBSchools, the awards aim to give due recognition
 to deserving Chinese language teachers who have demonstrated exemplary
 efforts towards the teaching of Chinese language and culture over the past
