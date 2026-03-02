@@ -53,6 +53,16 @@ sections:
       image: /images/EL.jpg
       alt: Image alt text
   - infopic:
+      title: Distinguished Chinese Language Teachers Awards 2026
+      subtitle: 2 March 2026
+      id: infopic
+      description: Distinguished Chinese Language Teachers Awards 2026 recognises
+        exemplary Chinese teachers. Deadline is on 30 April 2026.
+      button: Click for more details.
+      url: https://marsilingpri.moe.edu.sg/distinguished-chinese-language-teachers-awards-2026/
+      image: /images/Chinese.jpg
+      alt: Image alt text
+  - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
       subtitle: 3 July 2025
       id: infopic
