@@ -28,9 +28,18 @@ sections:
       id: infopic
       description: AGAB 2026 recognises outstanding Malay Language teachers in
         mainstream schools. Deadline is on 13 March 2026.
-      button: For more information, click here
+      button: Click for more details.
       url: https://marsilingpri.moe.edu.sg/arif-budiman-malay-language-teachers-award-2026/
       image: /images/Arif_Budiman_Malay_Language_Teachers_Award_2026.jpg
+      alt: Image alt text
+  - infopic:
+      title: Most Inspiring Tamil Teachers’ Award 2026
+      subtitle: 2 March 2026
+      id: infopic
+      description: Most Inspiring Tamil Teachers' Award 2026 recognises stellar Tamil
+        teachers in MOE schools. Deadline is on 13 March 2026.
+      button: Click for more details.
+      url: https://marsilingpri.moe.edu.sg/most-inspiring-tamil-teachers-award-2026/
       alt: Image alt text
   - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
