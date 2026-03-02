@@ -4,6 +4,11 @@ permalink: /most-inspiring-tamil-teachers-award-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil.jpg">
+</div>
+<p></p>
 <p>The Most Inspiring Tamil Teachers’ Award 2026 is jointly organised by
 Tamil Murasu, Singapore Tamil Teachers’ Union and the Tamil Language Learning
 and Promotion Committee. This award serves to recognise the stellar performance
