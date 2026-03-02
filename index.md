@@ -23,6 +23,16 @@ sections:
       title: Highlights
       id: announcements
   - infopic:
+      title: Arif Budiman Malay Language Teachers Award 2026
+      subtitle: 2 March 2026
+      id: infopic
+      description: "AGAB 2026 recognises outstanding Malay Language teachers in
+        mainstream schools.  Deadline: 13 March 2026"
+      button: For more information, click here
+      url: https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026
+      image: /images/Arif_Budiman_Malay_Language_Teachers_Award_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
       subtitle: 3 July 2025
       id: infopic
