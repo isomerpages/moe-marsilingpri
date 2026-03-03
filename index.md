@@ -29,7 +29,7 @@ sections:
       description: "Inspiring Teacher of English Award 2026 now open. Two categories:
         Teaching & Leadership. Deadline is on 23 March 2026, 6pm."
       button: Click for more details.
-      url: https://marsilingpri.moe.edu.sg/inspiring-teacher-of-english-award-2026/
+      url: https://www.marsilingpri.moe.edu.sg/inspiring-teacher-of-english-award-2026/
       image: /images/EL.jpg
       alt: Image alt text
   - infopic:
