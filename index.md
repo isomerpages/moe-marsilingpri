@@ -23,6 +23,46 @@ sections:
       title: Highlights
       id: announcements
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      subtitle: 3 March 2026
+      id: infopic
+      description: "Inspiring Teacher of English Award 2026 now open. Two categories:
+        Teaching & Leadership. Deadline is on 23 March 2026, 6pm."
+      button: Click for more details.
+      url: https://www.marsilingpri.moe.edu.sg/inspiring-teacher-of-english-award-2026/
+      image: /images/EL.jpg
+      alt: Image alt text
+  - infopic:
+      title: Arif Budiman Malay Language Teachers Award 2026
+      subtitle: 3 March 2026
+      id: infopic
+      description: AGAB 2026 recognises outstanding Malay Language teachers in
+        mainstream schools. Deadline is on 13 March 2026.
+      button: Click for more details.
+      url: https://www.marsilingpri.moe.edu.sg/arif-budiman-malay-language-teachers-award-2026/
+      image: /images/Arif_Budiman_Malay_Language_Teachers_Award_2026.jpg
+      alt: Image alt text
+  - infopic:
+      title: Most Inspiring Tamil Teachers’ Award 2026
+      subtitle: 3 March 2026
+      id: infopic
+      description: Most Inspiring Tamil Teachers' Award 2026 recognises stellar Tamil
+        teachers in MOE schools. Deadline is on 13 March 2026.
+      button: Click for more details.
+      url: https://www.marsilingpri.moe.edu.sg/most-inspiring-tamil-teachers-award-2026/
+      alt: Image alt text
+      image: /images/tamil.jpg
+  - infopic:
+      title: Distinguished Chinese Language Teachers Awards 2026
+      subtitle: 3 March 2026
+      id: infopic
+      description: Distinguished Chinese Language Teachers Awards 2026 recognises
+        exemplary Chinese teachers. Deadline is on 30 April 2026.
+      button: Click for more details.
+      url: https://www.marsilingpri.moe.edu.sg/distinguished-chinese-language-teachers-awards-2026/
+      image: /images/Chinese.jpg
+      alt: Image alt text
+  - infopic:
       title: Lee Hsien Loong Award for Innovation in Uplifting Students
       subtitle: 3 July 2025
       id: infopic
