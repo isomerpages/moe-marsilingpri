@@ -24,7 +24,7 @@ sections:
       id: announcements
   - infopic:
       title: Inspiring Teacher of English Award 2026
-      subtitle: 2 March 2026
+      subtitle: 3 March 2026
       id: infopic
       description: "Inspiring Teacher of English Award 2026 now open. Two categories:
         Teaching & Leadership. Deadline is on 23 March 2026, 6pm."
@@ -34,7 +34,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Arif Budiman Malay Language Teachers Award 2026
-      subtitle: 2 March 2026
+      subtitle: 3 March 2026
       id: infopic
       description: AGAB 2026 recognises outstanding Malay Language teachers in
         mainstream schools. Deadline is on 13 March 2026.
@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Most Inspiring Tamil Teachers’ Award 2026
-      subtitle: 2 March 2026
+      subtitle: 3 March 2026
       id: infopic
       description: Most Inspiring Tamil Teachers' Award 2026 recognises stellar Tamil
         teachers in MOE schools. Deadline is on 13 March 2026.
@@ -54,7 +54,7 @@ sections:
       image: /images/tamil.jpg
   - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
-      subtitle: 2 March 2026
+      subtitle: 3 March 2026
       id: infopic
       description: Distinguished Chinese Language Teachers Awards 2026 recognises
         exemplary Chinese teachers. Deadline is on 30 April 2026.
