@@ -39,7 +39,7 @@ sections:
       description: AGAB 2026 recognises outstanding Malay Language teachers in
         mainstream schools. Deadline is on 13 March 2026.
       button: Click for more details.
-      url: https://marsilingpri.moe.edu.sg/arif-budiman-malay-language-teachers-award-2026/
+      url: https://www.marsilingpri.moe.edu.sg/arif-budiman-malay-language-teachers-award-2026/
       image: /images/Arif_Budiman_Malay_Language_Teachers_Award_2026.jpg
       alt: Image alt text
   - infopic:
@@ -49,7 +49,7 @@ sections:
       description: Most Inspiring Tamil Teachers' Award 2026 recognises stellar Tamil
         teachers in MOE schools. Deadline is on 13 March 2026.
       button: Click for more details.
-      url: https://marsilingpri.moe.edu.sg/most-inspiring-tamil-teachers-award-2026/
+      url: https://www.marsilingpri.moe.edu.sg/most-inspiring-tamil-teachers-award-2026/
       alt: Image alt text
       image: /images/tamil.jpg
   - infopic:
@@ -59,7 +59,7 @@ sections:
       description: Distinguished Chinese Language Teachers Awards 2026 recognises
         exemplary Chinese teachers. Deadline is on 30 April 2026.
       button: Click for more details.
-      url: https://marsilingpri.moe.edu.sg/distinguished-chinese-language-teachers-awards-2026/
+      url: https://www.marsilingpri.moe.edu.sg/distinguished-chinese-language-teachers-awards-2026/
       image: /images/Chinese.jpg
       alt: Image alt text
   - infopic:
