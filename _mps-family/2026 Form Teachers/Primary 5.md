@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mdm Nadirah Binte Pasuni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadirah_pasuni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadirah_pasuni@schools.gov.sg</a>
+<p><a href="mailto:nadirah_pasuni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadirah_pasuni_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
