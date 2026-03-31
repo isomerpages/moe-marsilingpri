@@ -60,10 +60,11 @@ variant: tiptap
 <p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Bte Maidin</p>
+<p>Mr Sim Swee Sheng Danny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>natasha_maidin@schools.gov.sg</p>
+<p><a href="mailto:sim_swee_sheng_danny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_maidin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -353,6 +354,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_shy_ni@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Natasha Bte Maidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>natasha_maidin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
