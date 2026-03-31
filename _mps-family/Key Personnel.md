@@ -63,8 +63,7 @@ variant: tiptap
 <p>Mr Sim Swee Sheng Danny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_swee_sheng_danny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_maidin@schools.gov.sg</a>
-</p>
+<p>sim_swee_sheng_danny@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -131,18 +130,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ferlicia_lim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YH/Upper Primary</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Swee Sheng Danny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_swee_sheng_danny@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
