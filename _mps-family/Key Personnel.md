@@ -358,6 +358,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Natasha Bte Maidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>natasha_maidin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST/Art</p>
 <p></p>
 <p></p>
