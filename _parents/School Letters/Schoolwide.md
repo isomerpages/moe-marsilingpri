@@ -24,7 +24,7 @@ third_nav_title: School Letters
 <p>02 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 P's Letter/MPS_2026_T1_Welcome_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">MPS 2026 T1 Welcome Letter to Parents by Principal</a>
+<p><a href="/files/2026 P's Letter/MPS_2026_T1_Welcome_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter from Principal</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ third_nav_title: School Letters
 <p>23 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/MPS_2026_T2_111_P_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">MPS 2026 T2 Welcome Letter to Parents by Principal</a>
+<p><a href="/files/MPS_2026_T2_111_P_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter from Principal</a>
 </p>
 </td>
 </tr>
