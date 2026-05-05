@@ -19,5 +19,6 @@ via SMS.</p>
 </div>
 <p></p>
 <p><strong>Resources</strong>
-<br>Click <a href="/files/Marsiling_Pri_Sch_Bus_Registration_Form___2026__edited_2_.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<br>Click <a href="https://form.gov.sg/69eb1265ff32fbc33bfb24d6" rel="noopener nofollow" target="_blank">here </a>to
 download the registration form</p>
+<p></p>
