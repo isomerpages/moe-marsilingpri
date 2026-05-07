@@ -20,8 +20,7 @@ via SMS.</p>
 <p></p>
 <p><strong>Resources</strong>
 </p>
-<p>Click <a href="https://form.gov.sg/69eb1265ff32fbc33bfb24d6" rel="noopener nofollow" target="_blank">here </a>to
-access the application form
+<p><a href="https://go.gov.sg/mps-daily-school-bus-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mps-daily-school-bus-application</a>
 <br>
 </p>
 <p></p>
