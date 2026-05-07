@@ -18,7 +18,7 @@ via SMS.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_29_160413.png">
 </div>
 <p></p>
-<p><strong>School Application Form: </strong><a href="https://go.gov.sg/mps-daily-school-bus-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mps-daily-school-bus-application</a>
+<p><strong>School Bus Application Form: </strong><a href="https://go.gov.sg/mps-daily-school-bus-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mps-daily-school-bus-application</a>
 </p>
 <p>
 <br>
