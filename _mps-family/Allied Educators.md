@@ -50,6 +50,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Sin Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_sin_yan@schools.gov.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
