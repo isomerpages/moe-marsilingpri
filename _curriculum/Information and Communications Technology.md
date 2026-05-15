@@ -1,5 +1,5 @@
 ---
-title: Information Communication Technology
+title: Information and Communications Technology
 permalink: /curriculum/information-communication-technology/
 description: ""
 variant: tiptap
