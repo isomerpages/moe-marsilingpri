@@ -70,7 +70,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Whee</p>
+<p>Mr Ang Ong Whee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ang_Ong_Whee_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Ong_Whee_B@schools.gov.sg</a>
