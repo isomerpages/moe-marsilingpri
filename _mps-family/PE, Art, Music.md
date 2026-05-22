@@ -89,6 +89,14 @@ description: ""
 <p>wong_ah_seng@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rolan Tambunan B Amir Assan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4></h4>
