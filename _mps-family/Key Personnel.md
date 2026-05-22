@@ -267,8 +267,7 @@ variant: tiptap
 <p>Mr Mohammad Nursaffwan Bin Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_nursaffwan_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_nursaffwan_othman@schools.gov.sg</a>
-</p>
+<p>mohammad_nur_saffwan_othman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -328,8 +327,7 @@ variant: tiptap
 <p>Mdm Ong Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_ling@schools.gov.sg</a>
-</p>
+<p>ong_kai_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
