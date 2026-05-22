@@ -112,6 +112,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/ Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Michelle Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>michelle_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,19 +250,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Michelle Tan Siyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>michelle_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>AYH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,6 +257,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH/Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Nursaffwan Bin Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammad_nursaffwan_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_nursaffwan_othman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -308,6 +318,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_soy_moi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST/Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kai_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
