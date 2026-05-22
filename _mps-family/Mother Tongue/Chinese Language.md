@@ -37,6 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ong Kai Ling (ST/CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_kai_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ang Ong Whee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,14 +77,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Guan Pheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_guan_pheng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Li Huaitao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,14 +97,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lin_lidan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Kai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_kai_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

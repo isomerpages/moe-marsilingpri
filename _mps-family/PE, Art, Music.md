@@ -35,7 +35,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Nursaffwan Othman</p>
+<p>Mr Mohammad Nursaffwan Othman(AYH/Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_nursaffwan_othman@schools.gov.sg</p>
@@ -87,6 +87,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_ah_seng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rolan Tambunan B Amir Assan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rolan_tambunan_amir_assan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
