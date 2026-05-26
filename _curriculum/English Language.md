@@ -23,9 +23,8 @@ programmes</p>
 <h4><strong>Programmes at a Glance</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/EL_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Program_at_a_glance.jpg">
 </div>
-<h4></h4>
 <h4><strong>English Language Curriculum Framework</strong></h4>
 <h4>EL STrategies for English Language Learning and Reading (STELLAR 2.0)</h4>
 <p>STELLAR 2.0 aims to strengthen students’ language and reading skills as
