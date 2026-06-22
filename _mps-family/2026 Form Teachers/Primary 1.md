@@ -66,6 +66,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Wei Ting Daphne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_wei_ting_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ting_daphne@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>1Resilience</p>
 </td>
