@@ -101,6 +101,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/SM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Michelle Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>michelle_tan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YH/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,17 +235,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_siew_eng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD/SM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Michelle Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>michelle_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
