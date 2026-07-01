@@ -90,17 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/EducationalSupport</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Lay Ching, Angela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_lay_ching_angela@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Information &amp; CommunicationsTechnology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,6 +97,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>aw_li_ping_ivy@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/SM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Michelle Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>michelle_tan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -239,17 +239,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Michelle Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>michelle_tan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>AYH/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,6 +246,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_su_hoon@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YH/Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Nursaffwan Bin Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohammad_Nursaffwan_Othman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
