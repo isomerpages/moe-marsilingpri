@@ -58,4 +58,37 @@ third_nav_title: School Letters
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 YH letter/MPS_2026_T3___251a___P1_YH_Letter_COE.pdf" rel="noopener nofollow" target="_blank">P1 T3 YH Letter and COE 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
