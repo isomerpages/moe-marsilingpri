@@ -94,7 +94,7 @@ third_nav_title: School Letters
 <p>01 Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 YH letter/MPS_2026_T3_251d___P4_YH_Letter__COE.pdf" rel="noopener nofollow" target="_blank">P4 T3 School Based Assessment 2026</a>
+<p><a href="/files/2026 YH letter/MPS_2026_T3_251d___P4_YH_Letter__COE.pdf" rel="noopener nofollow" target="_blank">P4 T3 YH Letter and COE 2026</a>
 </p>
 </td>
 </tr>
