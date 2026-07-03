@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/SM</p>
+<p>HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Michelle Tan</p>
