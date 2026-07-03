@@ -310,6 +310,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST/Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_kai_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
