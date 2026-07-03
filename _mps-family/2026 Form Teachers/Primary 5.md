@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,10 +37,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Chun Hua</p>
+<p>Richard Ong Kay Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chun_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_hua@schools.gov.sg</a>
+<p><a href="mailto:Richard_Ong_Kay_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Richard_Ong_Kay_Pang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rolan Tambunan Bin Amir Assan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rolan_Tambunan_Amir_Assan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rolan_Tambunan_Amir_Assan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
