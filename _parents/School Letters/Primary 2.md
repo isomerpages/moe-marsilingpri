@@ -93,7 +93,7 @@ third_nav_title: School Letters
 <p>01 Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 YH letter/MPS_2026_T3___251c___P3_YH_Letter_COE.pdf" rel="noopener nofollow" target="_blank">P2 T3 School Based Assessment 2026</a>
+<p><a href="https://cms.isomer.gov.sg/files/2026%20YH%20letter/MPS_2026_T2___112b__P2_YH_Letter_and_COE.pdf" rel="noopener nofollow" target="_blank"><u>P2 T2 YH Letter and COE 2026</u></a>
 </p>
 </td>
 </tr>
