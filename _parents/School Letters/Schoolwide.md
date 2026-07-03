@@ -76,7 +76,8 @@ third_nav_title: School Letters
 <p>29 Jun 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 P's Letter/MPS_2026_T3_244_Welcome_Back_to_School__Term_3___FINAL_.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter from Principal</a>
+</p>
 </td>
 </tr>
 <tr>
