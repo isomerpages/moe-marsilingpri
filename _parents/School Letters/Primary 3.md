@@ -37,6 +37,23 @@ third_nav_title: School Letters
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 Mar 2026</p>
@@ -52,6 +69,32 @@ third_nav_title: School Letters
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026 Assessment letters/MPS2026T2_132_P3_Assessment_2026__Term_2_.pdf" rel="noopener nofollow" target="_blank">P3 T2 School Based Assessment 2026</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 YH letter/MPS_2026_T3___251c___P3_YH_Letter_COE.pdf" rel="noopener nofollow" target="_blank">P3 T3 YH Letter and COE 2026</a>
 </p>
 </td>
 </tr>
