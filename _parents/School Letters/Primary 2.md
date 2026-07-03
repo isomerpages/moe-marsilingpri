@@ -37,6 +37,22 @@ third_nav_title: School Letters
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 Mar 2026</p>
@@ -57,4 +73,31 @@ third_nav_title: School Letters
 </tr>
 </tbody>
 </table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/2026%20YH%20letter/MPS_2026_T2___112b__P2_YH_Letter_and_COE.pdf" rel="noopener nofollow" target="_blank"><u>P2 T3 YH Letter and COE 2026</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

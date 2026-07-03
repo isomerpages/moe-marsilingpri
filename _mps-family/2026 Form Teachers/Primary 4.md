@@ -110,10 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rolan Tambunan B Amir Assan</p>
+<p>SATHIYA BAMAH D/O AYAPPAN MRS. RAJENDRAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rolan_tambunan_amir_assan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rolan_tambunan_amir_assan@schools.gov.sg</a>
+<p><a href="mailto:Sathiya_Bamah_Ayappan_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sathiya_Bamah_Ayappan_Mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

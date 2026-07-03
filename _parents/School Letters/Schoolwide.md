@@ -57,4 +57,37 @@ third_nav_title: School Letters
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jun 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 P's Letter/MPS_2026_T3_244_Welcome_Back_to_School__Term_3___FINAL_.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter from Principal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
