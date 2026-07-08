@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thiliban S/O Subramaniam</p>
+<p>Mr Thiliban s/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>thiliban_subramaniam@schools.gov.sg</p>
