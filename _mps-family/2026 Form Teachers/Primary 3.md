@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thiliban S/O Subramaniam</p>
+<p>Mr Thiliban s/o Subramaniam</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
