@@ -152,7 +152,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nathanael Teo Yi Jie</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nathanael_teo_yi_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nathanael_teo_yi_jie@schools.gov.sg</a>
