@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,13 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ang Ong Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ang_Ong_Whee_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Ong_Whee_B@schools.gov.sg</a>
+<p><a href="mailto:Ang_Ong_Whee_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ong_whee_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
