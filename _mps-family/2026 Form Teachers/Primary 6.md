@@ -82,7 +82,7 @@ variant: tiptap
 <p>Ms Michelle Tan Siyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Michelle_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_Tan@schools.gov.sg</a>
+<p><a href="mailto:Michelle_Tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_Tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
