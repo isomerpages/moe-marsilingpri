@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Prema Latha D/O Thangavelu</p>
+<p>Mdm Prema Latha d/o Thangavelu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:prema_latha_thangavelu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prema_latha_thangavelu@schools.gov.sg</a>
