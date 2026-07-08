@@ -71,7 +71,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Airwan B Nain Sardi</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:airwan_b_nain_sardi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">airwan_b_nain_sardi@schools.gov.sg</a>

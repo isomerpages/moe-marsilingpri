@@ -101,7 +101,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Rosminah Bte Ab Rahim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rosminah_ab_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosminah_ab_rahim@schools.gov.sg</a>
@@ -110,10 +109,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SATHIYA BAMAH D/O AYAPPAN MRS. RAJENDRAN</p>
+<p>Sathiya Bamah d/o Ayappan Mrs Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sathiya_Bamah_Ayappan_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sathiya_Bamah_Ayappan_Mrs@schools.gov.sg</a>
+<p><a href="mailto:Sathiya_Bamah_Ayappan_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathiya_Bamah_Ayappan_Mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

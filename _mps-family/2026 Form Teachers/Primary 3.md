@@ -100,8 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thiliban S/O Subramaniam</p>
-<p></p>
+<p>Mr Thiliban s/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thiliban_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiliban_subramaniam@schools.gov.sg</a>
