@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mr Richard Ong Kay Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Richard_Ong_Kay_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Richard_Ong_Kay_Pang@schools.gov.sg</a>
+<p><a href="mailto:Richard_Ong_Kay_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">richard_Ong_Kay_Pang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mr Rolan Tambunan Bin Amir Assan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rolan_Tambunan_Amir_Assan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rolan_Tambunan_Amir_Assan@schools.gov.sg</a>
+<p><a href="mailto:Rolan_Tambunan_Amir_Assan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rolan_Tambunan_Amir_Assan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
