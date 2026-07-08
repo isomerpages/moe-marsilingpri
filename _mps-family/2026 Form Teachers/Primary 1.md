@@ -28,7 +28,7 @@ variant: tiptap
 <p>1Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shammane D/O Arumugam</p>
+<p>Ms Shammane d/o Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shammane_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shammane_arumugam@schools.gov.sg</a>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>Mdm Wan Hanim Bte Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wan_Hanim_Atan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wan_Hanim_Atan_A@schools.gov.sg</a>
+<p><a href="mailto:Wan_Hanim_Atan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_hanim_atan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
