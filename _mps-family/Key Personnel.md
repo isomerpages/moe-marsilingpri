@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Mother Tongue Language</p>
+<p>HOD/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsriwani Bakar</p>

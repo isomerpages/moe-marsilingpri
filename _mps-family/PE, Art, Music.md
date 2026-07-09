@@ -35,7 +35,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Nursaffwan Othman AYH/Upper Primary</p>
+<p>Mr Mohammad Nursaffwan Othman AYH/UP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_nursaffwan_othman@schools.gov.sg</p>

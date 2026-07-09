@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Kai Ling</p>
+<p>Mdm Ong Kai Ling (ST/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_kai_ling@schools.gov.sg</p>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mr Ang Ong Whee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_ong_whee_B@schools.gov.sg</p>
+<p>ang_ong_whee_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
