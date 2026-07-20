@@ -100,10 +100,11 @@ third_nav_title: School Letters
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/MPS2026T3_272___P6_Assessment_2026__Term_3_.pdf" rel="noopener nofollow" target="_blank">P6 T3 School Based Assessment 2026</a>
+</p>
 </td>
 </tr>
 </tbody>
