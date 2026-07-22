@@ -64,8 +64,18 @@ leadership. Students apply their learning through friendly matches, gaining
 valuable match experience, building confidence, and strengthening teamwork
 as they prepare progressively for competitive play while fostering a lifelong
 love for badminton.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
 </div>
+<h4>Badminton National School Games (Senior &amp; Junior Division)</h4>
+<p>Participating in the National School Games gave our students valuable
+opportunities to compete against stronger players from other schools. They
+showed resilience, teamwork, and sportsmanship by supporting one another
+and embracing constructive feedback. The experience inspired them to train
+harder, reflect on their performance, and strive for continuous improvement
+both on and off the court.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton2.jpg">
+</div>
+<p></p>
 <p></p>
