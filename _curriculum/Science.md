@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>INquiring and INspired Marsilians; INnovators of Tomorrow&nbsp; &nbsp;</p>
-<h4></h4>
 <h4><strong>Mission</strong></h4>
 <p>The Science Department aims to:</p>
 <ul data-tight="true" class="tight">
@@ -26,12 +25,11 @@ Ways of Thinking and Doing in Science)</p>
 <li>
 <p>Appreciate how Science influences people and the environment. (Relating
 Science-Technology-Society-Environment)</p>
-<h4></h4>
 </li>
 </ul>
 <h4><strong>Programmes at a Glance</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_program_at_a_glance_2.jpg">
 </div>
 <h4><strong>Science Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
@@ -40,7 +38,6 @@ Science-Technology-Society-Environment)</p>
 <p>The <em>Practices</em>  <em>of Science </em>consists of three intricately
 related components representing the cognitive, epistemic and social aspects
 of Science.</p>
-<h4></h4>
 <h4><strong>Key Programmes</strong></h4>
 <h4>STEAM@MPS</h4>
 <p>STEAM is an interdisciplinary approach to learning that combines Science,

@@ -111,6 +111,28 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aple Wong Sui Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jin Wei Alvyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,6 +219,104 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Rugby Senior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Festival: 'Friendship Tower' competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day Celebration:Telepathy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd and 3rd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (PNAA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,6 +369,90 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby National School Games (NSG): Senior Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 2, Group 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Standing Long Jump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver Medal, 3 Bronze Medals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Long Implement Throw (400g)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, 8th position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys 80m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze Medals, 3rd position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Shot Putt (3kg)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, 3rd position</p>
 </td>
 </tr>
 <tr>
@@ -309,16 +513,16 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -351,16 +555,16 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rugby</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby National School Games (NSG): Senior Team</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd in League 2, Group 1</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -615,62 +819,6 @@ in their CCA, leadership and academics.</p>
 <p>2nd position</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Standing Long Jump</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver Medal, 3 Bronze Medals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Long Implement Throw (400g)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, 8th position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys 80m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Bronze Medals, 3rd position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Shot Putt (3kg)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, 3rd position</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -703,44 +851,16 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Languages (Chinese Language)</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24th International Chinese Language Competition for Primary Schools</p>
+<p>NewsMakerAwards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages&nbsp; (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The 5th Text Recital Competition for Primary and Secondary Schools</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Primary School Chinese Language Text Recital Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -748,41 +868,27 @@ in their CCA, leadership and academics.</p>
 <p>Mother Tongue Languages (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hadiah Sulam Kalam by NTU-NIE</p>
+<p>Lensa Si Cilik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cepat Tepat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p>Bronze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue Languages (Tamil Language)</p>
+<p>Mother Tongue Languages (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oratorical Competition</p>
+<p>North Zone Schools Chinese Speech Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>The Most Promising</p>
 </td>
 </tr>
 <tr>
@@ -790,13 +896,27 @@ in their CCA, leadership and academics.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACJC Mythos Junior Orators</p>
+<p>Vactors Reading Stars Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 20 Performers</p>
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juara Si Cilik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
 </td>
 </tr>
 <tr>
@@ -826,6 +946,104 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24th International Chinese Language Competition for Primary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages&nbsp; (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 5th Text Recital Competition for Primary and Secondary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hadiah Sulam Kalam by NTU-NIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cepat Tepat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACJC Mythos Junior Orators</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20 Performers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Primary School Chinese Language Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
 </td>
 </tr>
 </tbody>

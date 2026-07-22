@@ -54,16 +54,28 @@ through the CCA.</p>
 <tr></tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Weekly fun-filled matches</h4>
-<p>MPS Badminton conducts friendly badminton matches during its CCA sessions.
-These matches typically prioritise enjoyment, camaraderie, and skill development
-over intense competition and winning. They provide an opportunity for players
-of varying skill levels to come together and engage in the sport in a relaxed
-atmosphere. Friendly matches are an excellent way our players stay active,
-hone their skills, and socialise with peers who share a passion for badminton.</p>
+<p>MPS Badminton combines structured physical training with character development
+to nurture well-rounded student-athletes. Training sessions include footwork
+drills, technical stroke practice, tactical gameplay, physical conditioning,
+and team-bonding activities that develop sportsmanship, resilience, and
+leadership. Students apply their learning through friendly matches, gaining
+valuable match experience, building confidence, and strengthening teamwork
+as they prepare progressively for competitive play while fostering a lifelong
+love for badminton.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modular_Sports___3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
 </div>
+<h4>Badminton National School Games (Senior &amp; Junior Division)</h4>
+<p>Participating in the National School Games gave our students valuable
+opportunities to compete against stronger players from other schools. They
+showed resilience, teamwork, and sportsmanship by supporting one another
+and embracing constructive feedback. The experience inspired them to train
+harder, reflect on their performance, and strive for continuous improvement
+both on and off the court.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton2.jpg">
+</div>
+<p></p>
 <p></p>
