@@ -219,6 +219,104 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Rugby Senior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Festival: 'Friendship Tower' competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day Celebration:Telepathy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd and 3rd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (PNAA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,6 +369,90 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby National School Games (NSG): Senior Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 2, Group 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Standing Long Jump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver Medal, 3 Bronze Medals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Long Implement Throw (400g)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, 8th position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys 80m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Bronze Medals, 3rd position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 Boys Shot Putt (3kg)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal, 3rd position</p>
 </td>
 </tr>
 <tr>
@@ -331,16 +513,16 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -373,16 +555,16 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rugby</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rugby National School Games (NSG): Senior Team</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd in League 2, Group 1</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -635,62 +817,6 @@ in their CCA, leadership and academics.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Standing Long Jump</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Silver Medal, 3 Bronze Medals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Long Implement Throw (400g)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, 8th position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys 80m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Bronze Medals, 3rd position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 Boys Shot Putt (3kg)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Medal, 3rd position</p>
 </td>
 </tr>
 </tbody>
