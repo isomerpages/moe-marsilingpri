@@ -114,7 +114,7 @@ in their CCA, leadership and academics.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>APLE WONG SUI XUAN</p>
+<p>Aple Wong Sui Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Respect</p>
@@ -125,7 +125,7 @@ in their CCA, leadership and academics.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JIN WEI ALVYN</p>
+<p>Tan Jin Wei Alvyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Respect</p>
