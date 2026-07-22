@@ -33,6 +33,10 @@ Science-Technology-Society-Environment)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/science_program_at_a_glance.jpg">
+</div>
 <h4><strong>Science Curriculum Framework</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science_Framework.png">
