@@ -30,53 +30,45 @@ to the community.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Teresha Fernandaz</p>
 <p>Miss Wen Caizhuang (2nd I/C)</p>
 <p>Mdm Hazlina Bte Yaacob</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Day:
 <br>Tuesday</p>
 <p>Time:
 <br>9.00am - 10.30am</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Teaching Lab (Level 1)</p>
 <p></p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 </tbody>
 </table>
 <h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>World Thinking Day Celebrations</h4>
-<p>Our Brownies took part in the Girl Guides World Thinking Day 2024 event
-held at One Tampines Hub. In partnership with Raffles Girls' School, our
-Brownies established an interactive booth aimed at educating visitors on
-stress management techniques. Our booth demonstrated how to create water
-bead stress balls as a means of coping with stress.</p>
-<p>In addition, our Brownies reaffirm their commitment to the Guide Laws
-by renewing their promise in front of the whole school.</p>
+<p>Our Brownies participated in the Girl Guides World Thinking Day 2026 event,
+held at Singapore Expo, Apex Hall 1. Centred on the theme “Our Friendship”,
+the event served as a meaningful reminder of the importance of kindness,
+teamwork and mutual support. Through their participation, our Brownies
+reflected on the value of building strong and meaningful friendships, while
+continuing to uphold and share the Brownie spirit within the school community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brownies World Thinking Day (WTD)" src="/images/Brownies___Table_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies.jpg">
 </div>
-<p></p>
 <h4>North Division Day Activities</h4>
 <p>Our Brownies participated in the North Division Day, an annual gathering
 where they learn more about guiding practices with fellow Brownies. Additionally,
-they took part in various activities, exploring themes such as climate
-change, inclusive cities, healthy lifestyles, and mental well-being.</p>
+they will have the chance to acquire valuable skills and knowledge through
+interactive workshops and activities such as creating attractive mosaic
+coasters, friendship tower and many more.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brownies_2.jpg">
 </div>
-<p></p>
 <h4>North Division Outdoor Challenge</h4>
 <p>The North Division Outdoor Challenge offers Guides the chance to engage
 in competitions, cooperate with Guides and Brownies from different schools,
@@ -84,7 +76,6 @@ and enjoy themselves while learning - all within an outdoor environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies___Table_3.png">
 </div>
-<p></p>
 <h4>National Day Observance Ceremony</h4>
 <p>Always present during the National Day Observance Ceremony, our Brownies,
 alongside the Scouts, lead the procession for the flag-raising segment.
