@@ -65,5 +65,3 @@ leadership. Students apply their learning through friendly matches, gaining
 valuable match experience, building confidence, and strengthening teamwork
 as they prepare progressively for competitive play while fostering a lifelong
 love for badminton.</p>
-<p></p>
-<p>dccdcdscc</p>
