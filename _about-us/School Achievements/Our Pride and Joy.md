@@ -879,6 +879,20 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone Schools Chinese Speech Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Most Promising</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
