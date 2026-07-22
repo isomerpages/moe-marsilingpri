@@ -69,7 +69,7 @@ Traditional Games, Kolam Art , Learning Journey to Indian Heritage Centre)</p>
 <p>View the video below to see our students in action during Mother Tongue
 Language Fortnight.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U1k_aPHzIGk?si=elT_mrv9DVQGLW-A"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U1k_aPHzIGk?si=elT_mrv9DVQGLW-A"></iframe>
 </div>
 <h4>Festival Celebrations</h4>
 <p>Through the festival celebrations, students are further exposed to Chinese,
@@ -77,14 +77,13 @@ Malay and Tamil Language and culture. The different festival celebrations
 will create awareness and deeper appreciation of culture and traditions
 of the different ethnic groups in Singapore.</p>
 <p>During festival celebration, students will complete handicraft activity
-during MT lesson. There are also recess activity held at the To-Gather
-corner. These hands-on activities, recess activities as well as the festival
-concert&nbsp; will allow students to soak in the celebration atmosphere
-as well as experienced the traditions associated with the different ethnic
-groups in Singapore.</p>
+during MT lesson. There are also recess activity held at the Kaleidoscope.
+These hands-on activities, recess activities as well as the festival concert&nbsp;
+will allow students to soak in the celebration atmosphere as well as experienced
+the traditions associated with the different ethnic groups in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL/Festival_MT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_Festival.jpg">
 </div>
 <h4>Mother Tongue Reading Programme</h4>
 <p></p>
