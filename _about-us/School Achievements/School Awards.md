@@ -5,6 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: School Achievements
 ---
+<h4><strong>Vanda Miss Joaquim Sustained Achievement Award 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vanda_miss_joaquim.jpg">
+</div>
+<p>Our sustained efforts in environmental stewardship have earned us the
+Vanda Miss Joaquim Sustained Achievement Award.&nbsp; Through school-wide
+recycling drives, student-led advocacy, and hands-on green practices, our
+students gained deeper environmental ownership, strengthened class cohesion,
+and made a tangible, positive impact on our school community.</p>
 <h4><strong>Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
