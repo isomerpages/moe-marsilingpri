@@ -54,7 +54,6 @@ through the CCA.</p>
 <tr></tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><strong>CCA Highlight(s)</strong></h4>
 <h4>Weekly fun-filled matches</h4>
 <p>MPS Badminton combines structured physical training with character development
@@ -65,3 +64,8 @@ leadership. Students apply their learning through friendly matches, gaining
 valuable match experience, building confidence, and strengthening teamwork
 as they prepare progressively for competitive play while fostering a lifelong
 love for badminton.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.jpg">
+</div>
+<p></p>
