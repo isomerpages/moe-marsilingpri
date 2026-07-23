@@ -14,6 +14,15 @@ Vanda Miss Joaquim Sustained Achievement Award.&nbsp; Through school-wide
 recycling drives, student-led advocacy, and hands-on green practices, our
 students gained deeper environmental ownership, strengthened class cohesion,
 and made a tangible, positive impact on our school community.</p>
+<h4><strong>Outstanding School Partner Award (Gold) for 2024 and 2025</strong></h4>
+<p>Marsiling Primary School is honoured to receive the Gold Award for the
+North West Outstanding School Partner Award, presented by the North West
+Community Development Council (CDC), for two consecutive years, 2024 and
+2025. This recognition celebrates the school's outstanding efforts, strong
+commitment, and significant contributions towards serving and uplifting
+the North West community. The award reflects the dedication of our students,
+staff, and school community in actively participating in meaningful community
+initiatives and fostering a spirit of care, service, and active citizenship.</p>
 <h4><strong>Lee Hsien Loong Award for Innovation in Uplifting Students (LHL AIUS) 2024</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -34,7 +43,6 @@ a meaningful affirmation of our mission. We are proud to contribute to
 building a more equitable future and will continue striving to uplift every
 Marsilian. This achievement would not have been possible without our caring
 and committed staff and supportive community.</p>
-<p></p>
 <h4><strong>2022 MOE Innergy Award</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -361,7 +369,6 @@ the work that we do in our capacities as educators in nurturing a love
 for the languages and a love for writing. We have seen improvements in
 our students’ ability to write and we are proud to see their literary works
 featured in our school publication, “To Write. To Inspire.”</p>
-<p></p>
 <h4><strong>2020 MOE Innergy Award</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
