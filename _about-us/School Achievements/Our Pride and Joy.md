@@ -111,7 +111,7 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aple Wong Sui Xuan</p>
@@ -122,7 +122,7 @@ in their CCA, leadership and academics.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2026</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Jin Wei Alvyn</p>
