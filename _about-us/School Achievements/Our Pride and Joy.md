@@ -117,7 +117,7 @@ in their CCA, leadership and academics.</p>
 <p>Aple Wong Sui Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Respect</p>
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ in their CCA, leadership and academics.</p>
 <p>Tan Jin Wei Alvyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Respect</p>
+<p>6Respect</p>
 </td>
 </tr>
 <tr>
@@ -857,7 +857,7 @@ in their CCA, leadership and academics.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NewsMakerAwards</p>
+<p>NewsMaker Awards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
