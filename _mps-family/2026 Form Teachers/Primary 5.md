@@ -117,7 +117,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5Care</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,15 +134,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aw_li_ping_ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aw_li_ping_ivy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Su Haojing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:su_haojing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_haojing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -172,10 +163,10 @@ variant: tiptap
 <p>5Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Cassander</p>
+<p>Su Haojing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cassander@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cassander@schools.gov.sg</a>
+<p><a href="mailto:su_haojing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_haojing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
