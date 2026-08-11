@@ -66,7 +66,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Miss Zhou Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhou_qi_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_qi_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>3Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,8 +117,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>3Care</p>
+<td rowspan="1" colspan="1">
+<p>Mdm A N Suvetha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:a_n_suvetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_n_suvetha@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur 'Aliah Binte Gasali</p>
@@ -125,6 +143,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nursyarifah_phang_kamarudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursyarifah_phang_kamarudin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Jasmine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jasmine_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lim_a@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -147,17 +174,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norsriwani_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norsriwani_bakar@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
