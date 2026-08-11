@@ -24,7 +24,7 @@ variant: tiptap
 <p>Ms Teresha Fernandaz Selvamany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresha_fernandaz_selvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresha_fernandaz_selvamany@schools.gov.sg</a> 
+<p><a href="mailto:teresha_fernandaz_selvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresha_fernandaz_selvamany@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Mr Thiliban s/o Subramaniam (SH/ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thiliban_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiliban_subramaniam@schools.gov.sg</a> 
+<p><a href="mailto:thiliban_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiliban_subramaniam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mrs Latchmana Murlly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a> 
+<p><a href="mailto:latchmana_murlly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latchmana_murlly@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mdm A N Suvetha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:a_n_suvetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_n_suvetha@schools.gov.sg</a> 
+<p><a href="mailto:a_n_suvetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_n_suvetha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
