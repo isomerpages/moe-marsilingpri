@@ -100,7 +100,7 @@ variant: tiptap
 <p>Miss Teng Bao Wen Stella</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_bao_wen_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_bao_wen_stella@schools.gov.sg</a> 
+<p><a href="mailto:teng_bao_wen_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_bao_wen_stella@schools.gov.sg</a>
 </p>
 </td>
 </tr>
