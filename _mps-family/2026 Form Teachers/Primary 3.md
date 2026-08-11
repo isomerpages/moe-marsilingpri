@@ -121,7 +121,7 @@ variant: tiptap
 <p>Mdm A N Suvetha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:a_n_suvetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_n_suvetha@schools.gov.sg</a> 
+<p><a href="mailto:a_n_suvetha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_n_suvetha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Miss Jasmine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lim_a@schools.gov.sg</a> 
+<p><a href="mailto:jasmine_lim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_lim_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
