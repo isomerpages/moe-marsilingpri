@@ -38,6 +38,7 @@ training gets tough.</p>
 <p>Miss Tan Cassander (2nd I/C)</p>
 <p>Mdm Jamaliah Yusope Lamat</p>
 <p>Mdm Rashidah Bte Yaacob</p>
+<p>Miss Teng Bao Wen Stella</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day:
@@ -89,6 +90,6 @@ practise and hone their throwing, shooting and catching techniques.</p>
 <p>View the video below, featuring our students during one of their training
 sessions.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a1WnBBc4p10?si=ysCmATDGcw8xLgDP"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a1WnBBc4p10?si=ysCmATDGcw8xLgDP"></iframe>
 </div>
 <p></p>

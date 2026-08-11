@@ -40,6 +40,7 @@ School.</p>
 <p>Mdm Li Huaitao (I/C)</p>
 <p>Miss How Li Miin (2nd I/C)</p>
 <p>Mdm Ng Sock Hoon</p>
+<p>Miss Chan Kai Li Danie</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Day:
