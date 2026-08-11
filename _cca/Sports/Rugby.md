@@ -41,6 +41,7 @@ Secondary.</p>
 <br>(2nd I/C)</p>
 <p>Mr Chung Jun Rui</p>
 <p>Miss Sujatha Pillai</p>
+<p>Miss Zhou Qi</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day: Tuesday</p>
