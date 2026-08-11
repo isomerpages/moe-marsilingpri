@@ -75,7 +75,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,6 +92,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suriani_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_ishak@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Teng Bao Wen Stella</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_bao_wen_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_bao_wen_stella@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
