@@ -39,6 +39,7 @@ through the CCA.</p>
 <p>Mdm Lim Shy Ni&nbsp; (2nd I/C)</p>
 <p>Mdm Ong Siew Eng</p>
 <p>Miss Michelle Tan Siyun</p>
+<p>Miss Jasmine Lim</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Day:
