@@ -172,7 +172,8 @@ description: ""
 <p>Ms Yeo Xinru (School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_xinru@schools.gov.sg</p>
+<p><a href="mailto:yeo_xinru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xinru@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +181,8 @@ description: ""
 <p>Miss Lam Yen Fong Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lam_yen_fong_jasmine@schools.gov.sg</p>
+<p><a href="mailto:lam_yen_fong_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yen_fong_jasmine@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +190,17 @@ description: ""
 <p>Miss Wen Caizhuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wen_caizhuang@schools.gov.sg</p>
+<p><a href="mailto:wen_caizhuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wen_caizhuang@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chan Kai Li Danie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_kai_li_danie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kai_li_danie@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>

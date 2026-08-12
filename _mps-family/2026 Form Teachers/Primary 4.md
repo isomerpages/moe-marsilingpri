@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,13 +46,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Chan Kai Li Danie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Lidan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_lidan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_lidan@schools.gov.sg</a>
+<p><a href="mailto:lin_lidan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_kai_li_danie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
